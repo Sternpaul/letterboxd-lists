@@ -1,0 +1,31 @@
+name: Update Radarr Lists
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch and filter lists
+        run: |
+          mkdir -p public
+          curl -s "https://letterboxd-list-radarr.onrender.com/official/list/top-100-french-films/" | jq '.[0:50]' > public/french-top50.json
+          curl -s "https://letterboxd-list-radarr.onrender.com/official/list/top-100-anime-films/" | jq '.[0:50]' > public/anime-top50.json
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
