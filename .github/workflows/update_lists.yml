@@ -12,11 +12,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Fetch and filter lists
         run: |
-          mkdir -p public
-          curl -s "https://letterboxd-list-radarr.onrender.com/official/list/top-100-french-films/" | jq '.[0:50]' > public/french-top50.json
-          curl -s "https://letterboxd-list-radarr.onrender.com/official/list/top-100-anime-films/" | jq '.[0:50]' > public/anime-top50.json
+          cd src/scraper
+          npm install
+          mkdir -p ../../public
+          node fetch_list.mjs official/list/top-100-french-films/ ../../public/french-films.json
+          node fetch_list.mjs official/list/top-100-anime-films/ ../../public/anime-films.json
+          node fetch_list.mjs gubarenko/list/the-bfi-100-british-films/ ../../public/bfi-british-films.json
+          node fetch_list.mjs official/list/top-100-best-picture-nominees-with-the-most/ ../../public/best-picture-nominees.json
+          node fetch_list.mjs official/list/top-250-films-with-the-most-fans/ ../../public/most-fans.json
+          node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/top-500.json
+          node fetch_list.mjs sternpaul/watchlist/ ../../public/watchlist.json
+          node fetch_list.mjs official/list/top-100-german-films/ ../../public/german-films.json
 
       - name: Commit and push changes
         run: |
