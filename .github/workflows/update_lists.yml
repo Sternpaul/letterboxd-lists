@@ -30,13 +30,14 @@ jobs:
           node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/letterboxds-top-500-films.json
           node fetch_list.mjs sternpaul/watchlist/ ../../public/sternpaul-watchlist.json
           node fetch_list.mjs official/list/top-100-german-films/ ../../public/top-100-german-films.json
-          cp ../../src/index.html ../../public/index.html
+          cp ../../src/index.html ../../index.html
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -f public/*.json
+          git add -f index.html
           git commit -m "Update movie lists" || exit 0
           git pull --rebase
           git push
@@ -44,7 +45,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: .
   deploy:
     needs: build
     runs-on: ubuntu-latest
