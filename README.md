@@ -29,5 +29,17 @@ The following lists are currently tracked and updated automatically:
 
 To use these lists in Radarr:
 1. Go to **Settings > Lists**.
-2. Add a new **Custom List**.
-3. Under **List URL**, point it to the raw JSON file hosted on this repo's GitHub Pages or the raw GitHub file link (e.g., `https://<your-username>.github.io/letterboxd-lists/french-films.json`).
+2. Add a new **Custom List** (set to "Radarr" / "Custom" depending on version).
+3. Under **List URL**, point it to the required list using one of the following formats:
+
+**Option A: Raw GitHub File (Recommended)**
+```text
+https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-best-picture-nominees-with-the-most.json
+```
+
+**Option B: GitHub Pages Deployment**
+```text
+https://Sternpaul.github.io/letterboxd-lists/top-100-best-picture-nominees-with-the-most.json
+```
+
+*(Just swap out the filename at the end of the URL for the specific list you want to use from the 'Available Lists' section above)*.
