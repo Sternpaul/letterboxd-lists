@@ -144,14 +144,25 @@ async function main() {
     
     const validMovies = movies.filter(m => m !== null);
     
-    const radarrData = validMovies.map(movie => ({
-        id: movie.tmdb ? parseInt(movie.tmdb, 10) : null,
-        imdb_id: movie.imdb,
-        title: movie.name,
-        release_year: movie.published, // sometimes empty
-        clean_title: movie.slug,
-        adult: false
-    }));
+    const radarrData = validMovies.map(movie => {
+        const payload = {
+            title: movie.name,
+            release_year: movie.published, // sometimes empty
+            clean_title: movie.slug,
+            adult: false
+        };
+        
+        // Radarr's C# backend strictly expects an integer (Int32) for the ID field.
+        // If TMDB is missing, passing explicit `null` throws a JSON format InvalidCastException.
+        // We set 0 as a fallback integer so Radarr can smoothly fallback to IMDb matching.
+        payload.id = movie.tmdb ? parseInt(movie.tmdb, 10) : 0;
+        
+        if (movie.imdb) {
+            payload.imdb_id = movie.imdb;
+        }
+        
+        return payload;
+    });
     
     const outDir = path.dirname(outputFile);
     if (!fs.existsSync(outDir)) {
