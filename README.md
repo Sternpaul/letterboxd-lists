@@ -6,11 +6,13 @@ This repository automatically scrapes various Letterboxd lists and converts them
 
 Instead of relying on external services, this repository contains a lightweight Node.js scraper located in `src/scraper/`. 
 
-A GitHub Actions workflow (`.github/workflows/update_lists.yml`) runs **every Sunday at midnight** (or manually on-demand). It:
+A GitHub Actions workflow (`.github/workflows/update_lists.yml`) runs **every day at Midnight UTC** (or manually on-demand). It:
 1. Crawls the target Letterboxd lists.
 2. Extracts metadata (Including TMDb and IMDb IDs).
 3. Formats the data as expected by Radarr.
-4. Saves the results into the `public/` folder natively on this repo and publishes them to GitHub Pages.
+4. Checks for differences (movies added/removed).
+5. Dispatches an overview summary to Discord via Webhooks.
+6. Saves the results into the `public/` folder natively on this repo and publishes them to GitHub Pages.
 
 ## Available Lists 📋
 
@@ -50,4 +52,18 @@ https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/p
 https://Sternpaul.github.io/letterboxd-lists/public/top-100-best-picture-nominees-with-the-most.json
 ```
 
-*(Just swap out the filename at the end of the URL for the specific list you want to use from the 'Available Lists' section above)*.
+**(Just swap out the filename at the end of the URL for the specific list you want to use from the 'Available Lists' section above)*.
+
+## Discord Notifications 🔔
+
+This repository includes native, rich Discord Webhook notifications. It will push a beautiful summary panel to your server every night.
+
+- If **movies were added or removed**, you will get a green/red breakdown showing the exact differences and exact movie titles that were changed.
+- If **nothing changed**, you will get a green success embed printing out the total synced movie counts to prove the execution ran smoothly.
+- If the **Action fails completely** (e.g. Letterboxd servers are down), you will get a red error alert with a direct URL linking to the GitHub Action logs.
+
+**To enable this:**
+1. Navigate to **Settings > Secrets and variables > Actions** in your GitHub repository.
+2. Click **New repository secret**.
+3. Name the secret exactly `DISCORD_WEBHOOK_URL`.
+4. Paste your Discord channel Webhook URL into the secret body.

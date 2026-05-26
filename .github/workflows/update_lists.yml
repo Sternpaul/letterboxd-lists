@@ -30,7 +30,17 @@ jobs:
           node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/letterboxds-top-500-films.json
           node fetch_list.mjs sternpaul/watchlist/ ../../public/sternpaul-watchlist.json
           node fetch_list.mjs official/list/top-100-german-films/ ../../public/top-100-german-films.json
+          node notify_discord.mjs
           cp ../../src/index.html ../../index.html
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Notify Discord on failure
+        if: failure()
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username":"Letterboxd Radarr Tracker", "avatar_url":"https://a.ltrbxd.com/logos/letterboxd-mac-icon.png", "embeds": [{"title":"❌ Daily List Update Failed", "description":"An error occurred during the Letterboxd scraping process (e.g. Letterboxd is down, or the script failed).\n\nPlease check the [GitHub Actions Logs](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) for more details.", "color":16711680}]}' \
+          ${{ secrets.DISCORD_WEBHOOK_URL }}
 
       - name: Commit and push changes
         run: |

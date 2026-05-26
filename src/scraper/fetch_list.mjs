@@ -169,6 +169,31 @@ async function main() {
         fs.mkdirSync(outDir, { recursive: true });
     }
     
+    // --- DIFF LOGIC FOR DISCORD NOTIFICATION ---
+    let existingData = [];
+    if (fs.existsSync(outputFile)) {
+        try { existingData = JSON.parse(fs.readFileSync(outputFile, 'utf8')); } catch (e) {}
+    }
+    
+    const existingMap = new Map(existingData.map(m => [m.clean_title, m]));
+    const newMap = new Map(radarrData.map(m => [m.clean_title, m]));
+    
+    const added = radarrData.filter(m => !existingMap.has(m.clean_title));
+    const removed = existingData.filter(m => !newMap.has(m.clean_title));
+    
+    const summaryPath = path.join(process.cwd(), 'summary.json');
+    let summary = {};
+    if (fs.existsSync(summaryPath)) {
+        try { summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8')); } catch (e) {}
+    }
+    summary[cleanListSlug || listSlug] = {
+        added: added.map(m => m.title),
+        removed: removed.map(m => m.title),
+        total: radarrData.length
+    };
+    fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2));
+    // ---------------------------------------------
+    
     fs.writeFileSync(outputFile, JSON.stringify(radarrData, null, 2));
     console.log(`Successfully wrote ${radarrData.length} entries to ${outputFile}`);
 }
