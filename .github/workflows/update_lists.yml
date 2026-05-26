@@ -30,6 +30,7 @@ jobs:
           node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/letterboxds-top-500-films.json
           node fetch_list.mjs sternpaul/watchlist/ ../../public/sternpaul-watchlist.json
           node fetch_list.mjs official/list/top-100-german-films/ ../../public/top-100-german-films.json
+          cp ../../src/index.html ../../public/index.html
 
       - name: Commit and push changes
         run: |

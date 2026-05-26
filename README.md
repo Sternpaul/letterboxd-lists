@@ -17,13 +17,21 @@ A GitHub Actions workflow (`.github/workflows/update_lists.yml`) runs **every Su
 The following lists are currently tracked and updated automatically:
 
 - **Top 100 French Films** (`top-100-french-films-top50.json` - limited to 50 items)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-french-films-top50.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/top-100-french-films-top50.json)
 - **Top 100 Anime Films** (`top-100-anime-films-top50.json` - limited to 50 items)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-anime-films-top50.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/top-100-anime-films-top50.json)
 - **The BFI 100 British Films** (`the-bfi-100-british-films.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/the-bfi-100-british-films.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/the-bfi-100-british-films.json)
 - **Top 100 Best Picture Nominees With The Most Fans** (`top-100-best-picture-nominees-with-the-most.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-best-picture-nominees-with-the-most.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/top-100-best-picture-nominees-with-the-most.json)
 - **Top 250 Films with the Most Fans** (`top-250-films-with-the-most-fans.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-250-films-with-the-most-fans.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/top-250-films-with-the-most-fans.json)
 - **Letterboxd's Top 500 Films** (`letterboxds-top-500-films.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/letterboxds-top-500-films.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/letterboxds-top-500-films.json)
 - **Top 100 German Films** (`top-100-german-films.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-german-films.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/top-100-german-films.json)
 - **Sternpaul Watchlist** (`sternpaul-watchlist.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/sternpaul-watchlist.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/sternpaul-watchlist.json)
 
 ## Using with Radarr 🎬
 
