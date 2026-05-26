@@ -16,14 +16,14 @@ A GitHub Actions workflow (`.github/workflows/update_lists.yml`) runs **every Su
 
 The following lists are currently tracked and updated automatically:
 
-- Top 100 French Films
-- Top 100 Anime Films
-- The BFI 100 British Films
-- Top 100 Best Picture Nominees
-- Top 250 Films with the Most Fans
-- Letterboxd's Top 500 Films
-- Top 100 German Films
-- Personal Watchlist
+- **Top 100 French Films** (`top-100-french-films-top50.json` - limited to 50 items)
+- **Top 100 Anime Films** (`top-100-anime-films-top50.json` - limited to 50 items)
+- **The BFI 100 British Films** (`the-bfi-100-british-films.json`)
+- **Top 100 Best Picture Nominees With The Most Fans** (`top-100-best-picture-nominees-with-the-most.json`)
+- **Top 250 Films with the Most Fans** (`top-250-films-with-the-most-fans.json`)
+- **Letterboxd's Top 500 Films** (`letterboxds-top-500-films.json`)
+- **Top 100 German Films** (`top-100-german-films.json`)
+- **Sternpaul Watchlist** (`sternpaul-watchlist.json`)
 
 ## Using with Radarr 🎬
 

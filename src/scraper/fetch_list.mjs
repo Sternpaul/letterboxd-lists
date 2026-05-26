@@ -11,9 +11,10 @@ const NEXT_PAGE_REGEX = /\/page\/(\d+)/;
 
 const listSlug = process.argv[2];
 const outputFile = process.argv[3];
+const limitArg = parseInt(process.argv[4], 10);
 
 if (!listSlug || !outputFile) {
-    console.error('Usage: node fetch_list.mjs <listSlug> <outputFile>');
+    console.error('Usage: node fetch_list.mjs <listSlug> <outputFile> [limit]');
     process.exit(1);
 }
 
@@ -115,7 +116,18 @@ async function main() {
     while (next) {
         const result = await fetchListPaginated(next);
         slugs.push(...result.posters);
+        
+        // If we hit or exceed our limit, we can stop paginating early
+        if (!isNaN(limitArg) && limitArg > 0 && slugs.length >= limitArg) {
+            break;
+        }
+        
         next = result.nextPage;
+    }
+    
+    // Trim the list down to exactly the limit before fetching heavy details
+    if (!isNaN(limitArg) && limitArg > 0) {
+        slugs.splice(limitArg);
     }
     
     console.log(`Found ${slugs.length} movies. Fetching details...`);
