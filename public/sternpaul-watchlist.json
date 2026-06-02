@@ -33,8 +33,8 @@
   },
   {
     "title": "Primetime",
-    "release_year": "2026",
-    "clean_title": "/film/primetime-2026/",
+    "release_year": "",
+    "clean_title": "/film/primetime-1/",
     "adult": false,
     "id": 1375441,
     "imdb_id": "tt34206385"
@@ -870,14 +870,6 @@
     "adult": false,
     "id": 1245421,
     "imdb_id": "tt30766772"
-  },
-  {
-    "title": "Iron Lung",
-    "release_year": "2026",
-    "clean_title": "/film/iron-lung/",
-    "adult": false,
-    "id": 1116201,
-    "imdb_id": "tt27564844"
   },
   {
     "title": "Naked Gun 33⅓: The Final Insult",
