@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bad Apples",
+    "release_year": "2025",
+    "clean_title": "/film/bad-apples-2025/",
+    "adult": false,
+    "id": 1198654,
+    "imdb_id": "tt29714073"
+  },
+  {
+    "title": "The Invite",
+    "release_year": "2026",
+    "clean_title": "/film/the-invite-2026/",
+    "adult": false,
+    "id": 950028,
+    "imdb_id": "tt14173636"
+  },
+  {
     "title": "Yellow Submarine",
     "release_year": "1968",
     "clean_title": "/film/yellow-submarine/",
@@ -4102,14 +4118,6 @@
     "adult": false,
     "id": 101299,
     "imdb_id": "tt1951264"
-  },
-  {
-    "title": "Asteroid City",
-    "release_year": "2023",
-    "clean_title": "/film/asteroid-city/",
-    "adult": false,
-    "id": 747188,
-    "imdb_id": "tt14230388"
   },
   {
     "title": "Lost in Translation",
