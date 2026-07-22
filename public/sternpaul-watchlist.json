@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Dog Stars",
+    "release_year": "2026",
+    "clean_title": "/film/the-dog-stars/",
+    "adult": false,
+    "id": 1384216,
+    "imdb_id": "tt21285562"
+  },
+  {
     "title": "The Uprising",
     "release_year": "2026",
     "clean_title": "/film/the-uprising-2026/",
@@ -1254,14 +1262,6 @@
     "adult": false,
     "id": 10655,
     "imdb_id": "tt0107007"
-  },
-  {
-    "title": "The Odyssey",
-    "release_year": "2026",
-    "clean_title": "/film/the-odyssey-2026/",
-    "adult": false,
-    "id": 1368337,
-    "imdb_id": "tt33764258"
   },
   {
     "title": "A Christmas Tale",
