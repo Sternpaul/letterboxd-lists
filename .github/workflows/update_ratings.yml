@@ -1,0 +1,43 @@
+name: Update User Ratings
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Weekly on Sundays at midnight
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch user ratings
+        run: |
+          cd src/scraper
+          npm install
+          mkdir -p ../../public
+          node fetch_user_ratings.mjs sternpaul ../../public/ratings.json 2
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Notify Discord on failure
+        if: failure()
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username":"Letterboxd Radarr Tracker", "avatar_url":"https://a.ltrbxd.com/logos/letterboxd-mac-icon.png", "embeds": [{"title":"❌ Weekly Ratings Update Failed", "description":"An error occurred during the Letterboxd scraping process.\n\nPlease check the [GitHub Actions Logs](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) for more details.", "color":16711680}]}' \
+          ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f public/ratings.json
+          git commit -m "Update weekly user ratings" || exit 0
+          git pull --rebase
+          git push
