@@ -63,7 +63,7 @@ async function fetchListPaginated(page) {
         return { posters, nextPage };
     } catch (err) {
         console.error(`Error fetching list page ${page}:`, err.message);
-        return { posters: [], nextPage: null };
+        throw err;
     }
 }
 

@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio';
 import pLimit from 'p-limit';
 import fs from 'fs';
 import path from 'path';
-import { getMovieDetail, LETTERBOXD_ORIGIN, NEXT_PAGE_REGEX } from './utils.mjs';
+import { getMovieDetail } from './utils.mjs';
 
 const username = process.argv[2];
 const outputFile = process.argv[3];
@@ -16,78 +16,73 @@ if (!username || !outputFile) {
 
 const limit = pLimit(concurrency);
 
-async function fetchRatingsPage(page) {
-    const url = `${LETTERBOXD_ORIGIN}${username}/films/page/${page}/`;
-    console.log(`Fetching page: ${url}`);
+async function main() {
+    console.log(`Starting to fetch RSS feed for: ${username}`);
     
-    const headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
-    };
+    // Load existing data
+    let existingData = [];
+    if (fs.existsSync(outputFile)) {
+        try {
+            const raw = fs.readFileSync(outputFile, 'utf-8');
+            existingData = JSON.parse(raw);
+        } catch (e) {
+            console.error('Error reading existing JSON, starting fresh.', e.message);
+        }
+    }
+    
+    const existingMap = new Map();
+    existingData.forEach(item => {
+        const slug = item.clean_title.replace(/^\/film\//, '').replace(/\/$/, '');
+        existingMap.set(slug, item);
+    });
 
+    const url = `https://letterboxd.com/${username}/rss/`;
+    let rssData;
     try {
-        const { data } = await axios.get(url, { headers });
-        const $ = cheerio.load(data);
-        const ratings = [];
-
-        $('.griditem').each((_, el) => {
-            const targetLink = $(el).find('.react-component').attr('data-target-link') || $(el).find('[data-target-link]').attr('data-target-link');
-            const ratingString = $(el).find('.poster-viewingdata .rating').text().trim();
-            
-            if (targetLink && ratingString) {
-                const match = targetLink.match(/\/film\/([^\/]+)\//);
-                if (match && match[1]) {
-                    const slug = match[1];
-                    let numericRating = 0;
-                    for (const char of ratingString) {
-                        if (char === '★') numericRating += 1;
-                        else if (char === '½') numericRating += 0.5;
-                    }
-                    if (numericRating > 0) {
-                        ratings.push({ slug, rating: numericRating });
-                    }
-                }
+        const response = await axios.get(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
             }
         });
+        rssData = response.data;
+    } catch (err) {
+        console.error('Failed to fetch RSS feed:', err.message);
+        process.exit(1);
+    }
 
-        const nextLink = $('.paginate-nextprev .next').attr('href');
-        let nextPage = null;
-        if (nextLink) {
-            const match = nextLink.match(NEXT_PAGE_REGEX);
+    const $ = cheerio.load(rssData, { xmlMode: true });
+    const itemsToProcess = [];
+
+    $('item').each((_, el) => {
+        const ratingStr = $(el).find('letterboxd\\:memberRating').text();
+        const link = $(el).find('link').text();
+        
+        if (ratingStr && link) {
+            const match = link.match(/\/film\/([^\/]+)\//);
             if (match && match[1]) {
-                nextPage = parseInt(match[1], 10);
+                const slug = match[1];
+                const rating = parseFloat(ratingStr);
+                
+                const existing = existingMap.get(slug);
+                if (!existing) {
+                    itemsToProcess.push({ slug, rating, isNew: true });
+                } else if (existing.rating !== rating) {
+                    // Update rating in place
+                    existing.rating = rating;
+                    console.log(`Updated rating for ${slug}: ${rating}`);
+                }
             }
         }
-        
-        return { ratings, nextPage };
-    } catch (err) {
-        if (err.response && err.response.status === 404) {
-            return { ratings: [], nextPage: null };
-        }
-        console.error(`Error fetching page ${page}:`, err.message);
-        return { ratings: [], nextPage: null };
-    }
-}
+    });
 
-async function main() {
-    console.log(`Starting to fetch ratings for: ${username}`);
-    const allRatings = [];
-    let next = 1;
-    
-    while (next) {
-        const result = await fetchRatingsPage(next);
-        allRatings.push(...result.ratings);
-        next = result.nextPage;
-        await new Promise(r => setTimeout(r, 500));
-    }
-    
-    console.log(`Found ${allRatings.length} ratings. Fetching details...`);
-    
+    console.log(`Found ${itemsToProcess.length} new movies to fetch details for.`);
+
     const movies = await Promise.all(
-        allRatings.map(item => limit(async () => {
+        itemsToProcess.map(item => limit(async () => {
             const detail = await getMovieDetail(`film/${item.slug}/`);
             await new Promise(r => setTimeout(r, 200)); // Rate limit pause
             if (detail) {
-                return { ...detail, sternpaul_rating: item.rating };
+                return { ...detail, rating: item.rating };
             }
             return null;
         }))
@@ -95,22 +90,22 @@ async function main() {
 
     const validMovies = movies.filter(m => m !== null);
     
-    const finalData = validMovies.map(movie => {
-        const payload = {
-            title: movie.name,
-            clean_title: movie.slug.startsWith('/') ? movie.slug : `/${movie.slug}`,
-            rating: movie.sternpaul_rating
-        };
-        
-        // Match radarr fallback style closely
+    validMovies.forEach(movie => {
         let tmdbId = movie.tmdb ? parseInt(movie.tmdb, 10) : null;
         if (!tmdbId || isNaN(tmdbId)) tmdbId = 0;
         
-        payload.id = tmdbId;
-        payload.imdb_id = movie.imdb || "";
-        
-        return payload;
+        const payload = {
+            title: movie.name,
+            clean_title: movie.slug.startsWith('/') ? movie.slug : `/${movie.slug}`,
+            rating: movie.rating,
+            id: tmdbId,
+            imdb_id: movie.imdb || ""
+        };
+        existingMap.set(movie.slug.replace(/^film\//, '').replace(/\/$/, ''), payload);
     });
+
+    // Rebuild final array
+    const finalData = Array.from(existingMap.values());
     
     const outDir = path.dirname(outputFile);
     if (!fs.existsSync(outDir)) {
@@ -118,7 +113,7 @@ async function main() {
     }
     
     fs.writeFileSync(outputFile, JSON.stringify(finalData, null, 2));
-    console.log(`Successfully wrote ${finalData.length} records to ${outputFile}`);
+    console.log(`Successfully wrote ${finalData.length} total records to ${outputFile}`);
 }
 
 main().catch(err => {
