@@ -1,5 +1,13 @@
 [
   {
+    "title": "Citizen Vigilante",
+    "release_year": "2026",
+    "clean_title": "/film/citizen-vigilante/",
+    "adult": false,
+    "id": 1413976,
+    "imdb_id": "tt35309713"
+  },
+  {
     "title": "Family Romance, LLC",
     "release_year": "2019",
     "clean_title": "/film/family-romance-llc/",
@@ -16,9 +24,9 @@
     "imdb_id": "tt35670577"
   },
   {
-    "title": "Ebenezer: A Christmas Carol",
+    "title": "Ebenezer",
     "release_year": "2026",
-    "clean_title": "/film/ebenezer-a-christmas-carol/",
+    "clean_title": "/film/ebenezer-2026/",
     "adult": false,
     "id": 1567605,
     "imdb_id": "tt38773219"
@@ -1214,14 +1222,6 @@
     "adult": false,
     "id": 1119449,
     "imdb_id": "tt1341338"
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "release_year": "2026",
-    "clean_title": "/film/the-death-of-robin-hood/",
-    "adult": false,
-    "id": 1284465,
-    "imdb_id": "tt32273171"
   },
   {
     "title": "The Turin Horse",
