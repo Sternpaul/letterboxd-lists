@@ -1,5 +1,309 @@
 [
   {
+    "title": "The King",
+    "release_year": "2019",
+    "clean_title": "/film/the-king-2019/",
+    "adult": false,
+    "id": 504949,
+    "imdb_id": "tt7984766"
+  },
+  {
+    "title": "Warfare",
+    "release_year": "2025",
+    "clean_title": "/film/warfare/",
+    "adult": false,
+    "id": 1241436,
+    "imdb_id": "tt31434639"
+  },
+  {
+    "title": "Tropic Thunder",
+    "release_year": "2008",
+    "clean_title": "/film/tropic-thunder/",
+    "adult": false,
+    "id": 7446,
+    "imdb_id": "tt0942385"
+  },
+  {
+    "title": "The Boy in the Striped Pyjamas",
+    "release_year": "2008",
+    "clean_title": "/film/the-boy-in-the-striped-pyjamas/",
+    "adult": false,
+    "id": 14574,
+    "imdb_id": "tt0914798"
+  },
+  {
+    "title": "Civil War",
+    "release_year": "2024",
+    "clean_title": "/film/civil-war-2024/",
+    "adult": false,
+    "id": 929590,
+    "imdb_id": "tt17279496"
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "release_year": "1946",
+    "clean_title": "/film/the-best-years-of-our-lives/",
+    "adult": false,
+    "id": 887,
+    "imdb_id": "tt0036868"
+  },
+  {
+    "title": "The Great Dictator",
+    "release_year": "1940",
+    "clean_title": "/film/the-great-dictator/",
+    "adult": false,
+    "id": 914,
+    "imdb_id": "tt0032553"
+  },
+  {
+    "title": "To Be or Not to Be",
+    "release_year": "1942",
+    "clean_title": "/film/to-be-or-not-to-be/",
+    "adult": false,
+    "id": 198,
+    "imdb_id": "tt0035446"
+  },
+  {
+    "title": "Army of Shadows",
+    "release_year": "1969",
+    "clean_title": "/film/army-of-shadows/",
+    "adult": false,
+    "id": 15383,
+    "imdb_id": "tt0064040"
+  },
+  {
+    "title": "The Pianist",
+    "release_year": "2002",
+    "clean_title": "/film/the-pianist/",
+    "adult": false,
+    "id": 423,
+    "imdb_id": "tt0253474"
+  },
+  {
+    "title": "The Battle of Algiers",
+    "release_year": "1966",
+    "clean_title": "/film/the-battle-of-algiers/",
+    "adult": false,
+    "id": 17295,
+    "imdb_id": "tt0058946"
+  },
+  {
+    "title": "Band of Brothers",
+    "release_year": "2001",
+    "clean_title": "/film/band-of-brothers/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0185906"
+  },
+  {
+    "title": "The Cotton Club",
+    "release_year": "1984",
+    "clean_title": "/film/the-cotton-club/",
+    "adult": false,
+    "id": 2148,
+    "imdb_id": "tt0087089"
+  },
+  {
+    "title": "Valley Girl",
+    "release_year": "1983",
+    "clean_title": "/film/valley-girl/",
+    "adult": false,
+    "id": 19053,
+    "imdb_id": "tt0086525"
+  },
+  {
+    "title": "One from the Heart",
+    "release_year": "1982",
+    "clean_title": "/film/one-from-the-heart/",
+    "adult": false,
+    "id": 41291,
+    "imdb_id": "tt0084445"
+  },
+  {
+    "title": "Falling Down",
+    "release_year": "1993",
+    "clean_title": "/film/falling-down/",
+    "adult": false,
+    "id": 37094,
+    "imdb_id": "tt0106856"
+  },
+  {
+    "title": "The Three Musketeers",
+    "release_year": "1993",
+    "clean_title": "/film/the-three-musketeers-1993/",
+    "adult": false,
+    "id": 10057,
+    "imdb_id": "tt0108333"
+  },
+  {
+    "title": "Platoon",
+    "release_year": "1986",
+    "clean_title": "/film/platoon/",
+    "adult": false,
+    "id": 792,
+    "imdb_id": "tt0091763"
+  },
+  {
+    "title": "The American President",
+    "release_year": "1995",
+    "clean_title": "/film/the-american-president/",
+    "adult": false,
+    "id": 9087,
+    "imdb_id": "tt0112346"
+  },
+  {
+    "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+    "release_year": "1991",
+    "clean_title": "/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+    "adult": false,
+    "id": 4539,
+    "imdb_id": "tt0102015"
+  },
+  {
+    "title": "The Dead Zone",
+    "release_year": "1983",
+    "clean_title": "/film/the-dead-zone/",
+    "adult": false,
+    "id": 11336,
+    "imdb_id": "tt0085407"
+  },
+  {
+    "title": "Badlands",
+    "release_year": "1973",
+    "clean_title": "/film/badlands/",
+    "adult": false,
+    "id": 3133,
+    "imdb_id": "tt0069762"
+  },
+  {
+    "title": "Air Force One",
+    "release_year": "1997",
+    "clean_title": "/film/air-force-one/",
+    "adult": false,
+    "id": 9772,
+    "imdb_id": "tt0118571"
+  },
+  {
+    "title": "Witness",
+    "release_year": "1985",
+    "clean_title": "/film/witness/",
+    "adult": false,
+    "id": 9281,
+    "imdb_id": "tt0090329"
+  },
+  {
+    "title": "Ender's Game",
+    "release_year": "2013",
+    "clean_title": "/film/enders-game/",
+    "adult": false,
+    "id": 80274,
+    "imdb_id": "tt1731141"
+  },
+  {
+    "title": "The Fugitive",
+    "release_year": "1993",
+    "clean_title": "/film/the-fugitive-1993/",
+    "adult": false,
+    "id": 5503,
+    "imdb_id": "tt0106977"
+  },
+  {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "release_year": "2008",
+    "clean_title": "/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/",
+    "adult": false,
+    "id": 217,
+    "imdb_id": "tt0367882"
+  },
+  {
+    "title": "Indiana Jones and the Dial of Destiny",
+    "release_year": "2023",
+    "clean_title": "/film/indiana-jones-and-the-dial-of-destiny/",
+    "adult": false,
+    "id": 335977,
+    "imdb_id": "tt1462764"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "release_year": "1984",
+    "clean_title": "/film/indiana-jones-and-the-temple-of-doom/",
+    "adult": false,
+    "id": 87,
+    "imdb_id": "tt0087469"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "release_year": "1989",
+    "clean_title": "/film/indiana-jones-and-the-last-crusade/",
+    "adult": false,
+    "id": 89,
+    "imdb_id": "tt0097576"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "release_year": "1981",
+    "clean_title": "/film/raiders-of-the-lost-ark/",
+    "adult": false,
+    "id": 85,
+    "imdb_id": "tt0082971"
+  },
+  {
+    "title": "Megalopolis",
+    "release_year": "2024",
+    "clean_title": "/film/megalopolis-2024/",
+    "adult": false,
+    "id": 592831,
+    "imdb_id": "tt10128846"
+  },
+  {
+    "title": "Bram Stoker's Dracula",
+    "release_year": "1992",
+    "clean_title": "/film/bram-stokers-dracula/",
+    "adult": false,
+    "id": 6114,
+    "imdb_id": "tt0103874"
+  },
+  {
+    "title": "On the Waterfront",
+    "release_year": "1954",
+    "clean_title": "/film/on-the-waterfront/",
+    "adult": false,
+    "id": 654,
+    "imdb_id": "tt0047296"
+  },
+  {
+    "title": "A Streetcar Named Desire",
+    "release_year": "1951",
+    "clean_title": "/film/a-streetcar-named-desire/",
+    "adult": false,
+    "id": 702,
+    "imdb_id": "tt0044081"
+  },
+  {
+    "title": "Superman",
+    "release_year": "1978",
+    "clean_title": "/film/superman/",
+    "adult": false,
+    "id": 1924,
+    "imdb_id": "tt0078346"
+  },
+  {
+    "title": "The Thomas Crown Affair",
+    "release_year": "1999",
+    "clean_title": "/film/the-thomas-crown-affair-1999/",
+    "adult": false,
+    "id": 913,
+    "imdb_id": "tt0155267"
+  },
+  {
+    "title": "The Thomas Crown Affair",
+    "release_year": "2027",
+    "clean_title": "/film/the-thomas-crown-affair-2027/",
+    "adult": false,
+    "id": 615121,
+    "imdb_id": "tt5500064"
+  },
+  {
     "title": "Citizen Vigilante",
     "release_year": "2026",
     "clean_title": "/film/citizen-vigilante/",
@@ -3990,14 +4294,6 @@
     "adult": false,
     "id": 399174,
     "imdb_id": "tt5104604"
-  },
-  {
-    "title": "Apocalypse Now",
-    "release_year": "1979",
-    "clean_title": "/film/apocalypse-now/",
-    "adult": false,
-    "id": 28,
-    "imdb_id": "tt0078788"
   },
   {
     "title": "Toy Story 3",
