@@ -2102,5 +2102,21 @@
     "trueUrl": "https://letterboxd.com/sadhomersimpson/list/criterion/",
     "trueSlug": "sadhomersimpson/list/criterion/",
     "jsonName": "criterion.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "Letterboxd's 1,000 Most Watched Films",
+    "shortUrl": "https://letterboxd.com/ur_mom_lol/list/letterboxds-1000-most-watched-films/",
+    "trueUrl": "https://letterboxd.com/ur_mom_lol/list/letterboxds-1000-most-watched-films/",
+    "trueSlug": "ur_mom_lol/list/letterboxds-1000-most-watched-films/",
+    "jsonName": "letterboxds-1000-most-watched-films.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "Movies everyone should watch at least once during their lifetime",
+    "shortUrl": "https://letterboxd.com/fcbarcelona/list/movies-everyone-should-watch-at-least-once/",
+    "trueUrl": "https://letterboxd.com/fcbarcelona/list/movies-everyone-should-watch-at-least-once/",
+    "trueSlug": "fcbarcelona/list/movies-everyone-should-watch-at-least-once/",
+    "jsonName": "movies-everyone-should-watch-at-least-once.json"
   }
 ]
