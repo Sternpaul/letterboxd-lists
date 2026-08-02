@@ -32,49 +32,49 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | [Top 250 Films of the 1970s](https://boxd.it/TazAO) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1970s.json) | 250 | 2026-08-02 |
 | [Top 250 Films of the 2010s](https://boxd.it/TacD6) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-2010s.json) | 250 | 2026-08-02 |
 | [Top 250 Films of the 1980s](https://boxd.it/TauLC) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1980s.json) | 250 | 2026-08-02 |
-| [Top 250 Films of the 2020s](https://boxd.it/Ta8Xw) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 1990s](https://boxd.it/TamsW) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 2000s](https://boxd.it/TahIA) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 1950s](https://boxd.it/TtmzG) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 1960s](https://boxd.it/TaKx2) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 1940s](https://boxd.it/UmsyE) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 1930s](https://boxd.it/UnfCU) | Not Scraped ❌ |  | - | - |
-| [Top 50 Films of the 1910s](https://boxd.it/UAArk) | Not Scraped ❌ |  | - | - |
+| [Top 250 Films of the 2020s](https://boxd.it/Ta8Xw) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-2020s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 1990s](https://boxd.it/TamsW) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1990s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 2000s](https://boxd.it/TahIA) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-2000s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 1950s](https://boxd.it/TtmzG) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1950s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 1960s](https://boxd.it/TaKx2) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1960s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 1940s](https://boxd.it/UmsyE) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1940s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 1930s](https://boxd.it/UnfCU) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1930s.json) | 250 | 2026-08-02 |
+| [Top 50 Films of the 1910s](https://boxd.it/UAArk) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-films-of-the-1910s.json) | 50 | 2026-08-02 |
 | **By Genre & Style** | | | | |
-| [Top 250 Mystery Films](https://boxd.it/QS5l6) | Not Scraped ❌ |  | - | - |
-| [Top 250 Horror Films](https://boxd.it/2VQVG) | Not Scraped ❌ |  | - | - |
-| [Top 250 Action Films](https://boxd.it/hKj3Y) | Not Scraped ❌ |  | - | - |
-| [Top 100 Live-Action Fantasy Films](https://boxd.it/UsPbU) | Not Scraped ❌ |  | - | - |
+| [Top 250 Mystery Films](https://boxd.it/QS5l6) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-mystery-films.json) | 250 | 2026-08-02 |
+| [Top 250 Horror Films](https://boxd.it/2VQVG) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-horror-films.json) | 250 | 2026-08-02 |
+| [Top 250 Action Films](https://boxd.it/hKj3Y) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-action-films.json) | 250 | 2026-08-02 |
+| [Top 100 Live-Action Fantasy Films](https://boxd.it/UsPbU) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-live-action-fantasy-films.json) | 100 | 2026-08-02 |
 | **By Decade** | | | | |
-| [Top 100 Films of the 1920s](https://boxd.it/Us6fi) | Not Scraped ❌ |  | - | - |
+| [Top 100 Films of the 1920s](https://boxd.it/Us6fi) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-films-of-the-1920s.json) | 100 | 2026-08-02 |
 | **By Genre & Style** | | | | |
-| [Top 100 Film Noir Films](https://boxd.it/8QQCo) | Not Scraped ❌ |  | - | - |
-| [Top 250 Musical Films](https://boxd.it/tzWoC) | Not Scraped ❌ |  | - | - |
-| [Top 250 Biographical Films](https://boxd.it/T7gXy) | Not Scraped ❌ |  | - | - |
-| [Top 250 Crime Films](https://boxd.it/4agYe) | Not Scraped ❌ |  | - | - |
-| [Top 250 Romantic Comedy Films](https://boxd.it/vyxbk) | Not Scraped ❌ |  | - | - |
-| [Top 50 Heroic Bloodshed Films](https://boxd.it/VsSXw) | Not Scraped ❌ |  | - | - |
-| [Top 100 Samurai Films](https://boxd.it/VoDM6) | Not Scraped ❌ |  | - | - |
+| [Top 100 Film Noir Films](https://boxd.it/8QQCo) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-film-noir-films.json) | 100 | 2026-08-02 |
+| [Top 250 Musical Films](https://boxd.it/tzWoC) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-musical-films.json) | 250 | 2026-08-02 |
+| [Top 250 Biographical Films](https://boxd.it/T7gXy) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-biographical-films.json) | 250 | 2026-08-02 |
+| [Top 250 Crime Films](https://boxd.it/4agYe) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-crime-films.json) | 250 | 2026-08-02 |
+| [Top 250 Romantic Comedy Films](https://boxd.it/vyxbk) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-romantic-comedy-films.json) | 250 | 2026-08-02 |
+| [Top 50 Heroic Bloodshed Films](https://boxd.it/VsSXw) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-heroic-bloodshed-films.json) | 50 | 2026-08-02 |
+| [Top 100 Samurai Films](https://boxd.it/VoDM6) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-samurai-films.json) | 100 | 2026-08-02 |
 | [Top 100 Anime Films](https://boxd.it/nSkXI) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-anime-films-top50.json) | 50 | 2026-08-02 |
-| [Top 250 War Films](https://boxd.it/B7H0G) | Not Scraped ❌ |  | - | - |
-| [Top 100 Sports Films](https://boxd.it/UsNsu) | Not Scraped ❌ |  | - | - |
-| [Top 250 Science Fiction Films](https://boxd.it/fSeHs) | Not Scraped ❌ |  | - | - |
-| [Top 100 Wuxia Films](https://boxd.it/UZdv4) | Not Scraped ❌ |  | - | - |
-| [Top 100 Western Films](https://boxd.it/48fds) | Not Scraped ❌ |  | - | - |
-| [Top 100 Spy Films](https://boxd.it/V0gEK) | Not Scraped ❌ |  | - | - |
+| [Top 250 War Films](https://boxd.it/B7H0G) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-war-films.json) | 250 | 2026-08-02 |
+| [Top 100 Sports Films](https://boxd.it/UsNsu) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-sports-films.json) | 100 | 2026-08-02 |
+| [Top 250 Science Fiction Films](https://boxd.it/fSeHs) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-science-fiction-films.json) | 250 | 2026-08-02 |
+| [Top 100 Wuxia Films](https://boxd.it/UZdv4) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-wuxia-films.json) | 100 | 2026-08-02 |
+| [Top 100 Western Films](https://boxd.it/48fds) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-western-films.json) | 100 | 2026-08-02 |
+| [Top 100 Spy Films](https://boxd.it/V0gEK) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-spy-films.json) | 100 | 2026-08-02 |
 | **By Country & Region** | | | | |
-| [Top 100 Danish Films](https://boxd.it/VHuVG) | Not Scraped ❌ |  | - | - |
-| [Top 100 British Films](https://boxd.it/Usyos) | Not Scraped ❌ |  | - | - |
-| [Top 50 Austrian Films](https://boxd.it/nr74m) | Not Scraped ❌ |  | - | - |
-| [Top 50 Chilean Films](https://boxd.it/225O4) | Not Scraped ❌ |  | - | - |
-| [Top 100 Canadian Films](https://boxd.it/T3rfu) | Not Scraped ❌ |  | - | - |
-| [Top 100 Argentinian Films](https://boxd.it/SQNNC) | Not Scraped ❌ |  | - | - |
-| [Top 100 Czech Films](https://boxd.it/T1KcU) | Not Scraped ❌ |  | - | - |
-| [Top 250 Brazilian Films](https://boxd.it/SSxHi) | Not Scraped ❌ |  | - | - |
-| [Top 100 Australian Films](https://boxd.it/UoXQe) | Not Scraped ❌ |  | - | - |
-| [Top 50 Chilean Documentary Films](https://boxd.it/SZvrG) | Not Scraped ❌ |  | - | - |
+| [Top 100 Danish Films](https://boxd.it/VHuVG) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-danish-films.json) | 100 | 2026-08-02 |
+| [Top 100 British Films](https://boxd.it/Usyos) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-british-films.json) | 100 | 2026-08-02 |
+| [Top 50 Austrian Films](https://boxd.it/nr74m) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-austrian-films.json) | 50 | 2026-08-02 |
+| [Top 50 Chilean Films](https://boxd.it/225O4) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-chilean-films.json) | 50 | 2026-08-02 |
+| [Top 100 Canadian Films](https://boxd.it/T3rfu) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-canadian-films.json) | 100 | 2026-08-02 |
+| [Top 100 Argentinian Films](https://boxd.it/SQNNC) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-argentinian-films.json) | 100 | 2026-08-02 |
+| [Top 100 Czech Films](https://boxd.it/T1KcU) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-czech-films.json) | 100 | 2026-08-02 |
+| [Top 250 Brazilian Films](https://boxd.it/SSxHi) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-brazilian-films.json) | 250 | 2026-08-02 |
+| [Top 100 Australian Films](https://boxd.it/UoXQe) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-australian-films.json) | 100 | 2026-08-02 |
+| [Top 50 Chilean Documentary Films](https://boxd.it/SZvrG) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-chilean-documentary-films.json) | 50 | 2026-08-02 |
 | [Top 100 German Films](https://boxd.it/dF94m) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-german-films.json) | 100 | 2026-08-02 |
-| [Top 100 Hungarian Films](https://boxd.it/V8bdA) | Not Scraped ❌ |  | - | - |
+| [Top 100 Hungarian Films](https://boxd.it/V8bdA) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-hungarian-films.json) | 100 | 2026-08-02 |
 | [Top 250 Global South Films](https://boxd.it/PCQEo) | Not Scraped ❌ |  | - | - |
 | [Top 100 Filipino Films](https://boxd.it/SNA8K) | Not Scraped ❌ |  | - | - |
 | [Top 50 Georgian Films](https://boxd.it/T89lO) | Not Scraped ❌ |  | - | - |
@@ -290,3 +290,12 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | **Other Hardcoded Lists** | | | | |
 | [The Bfi 100 British Films](https://letterboxd.com/gubarenko/list/the-bfi-100-british-films/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/the-bfi-100-british-films.json) | 100 | 2026-05-26 |
 | [Watchlist](https://letterboxd.com/sternpaul/watchlist/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/sternpaul-watchlist.json) | 585 | 2026-08-02 |
+| **Famous Community Lists** | | | | |
+| [1001 Movies You Must See Before You Die](https://letterboxd.com/peterstanley/list/1001-movies-you-must-see-before-you-die/) | Not Scraped ❌ |  | - | - |
+| [IMDb Top 250](https://letterboxd.com/dave/list/imdb-top-250/) | Not Scraped ❌ |  | - | - |
+| [Sight & Sound's Greatest Films of All Time (2022)](https://letterboxd.com/sightsoundmag/list/sight-and-sounds-greatest-films-of-all-time/) | Not Scraped ❌ |  | - | - |
+| [They Shoot Pictures, Don't They? (TSPDT) - 1,000 Greatest Films](https://letterboxd.com/thisisdrew/list/they-shoot-pictures-dont-they-1000-greatest-1/) | Not Scraped ❌ |  | - | - |
+| [Edgar Wright's 1,000 Favorite Movies](https://letterboxd.com/crew/list/edgar-wrights-1000-favorite-movies/) | Not Scraped ❌ |  | - | - |
+| [Reddit's r/movies Top 250](https://letterboxd.com/les_vampires/list/reddit-r-movies-top-250-2019-edition/) | Not Scraped ❌ |  | - | - |
+| [AFI's 100 Years... 100 Movies](https://letterboxd.com/moseschan/list/afi-100-years-100-movies/) | Not Scraped ❌ |  | - | - |
+| [The Criterion Collection](https://letterboxd.com/sadhomersimpson/list/criterion/) | Not Scraped ❌ |  | - | - |

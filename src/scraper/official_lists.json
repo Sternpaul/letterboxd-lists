@@ -2038,5 +2038,69 @@
     "trueUrl": "https://letterboxd.com/sternpaul/watchlist/",
     "trueSlug": "sternpaul/watchlist/",
     "jsonName": "sternpaul-watchlist.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "1001 Movies You Must See Before You Die",
+    "shortUrl": "https://letterboxd.com/peterstanley/list/1001-movies-you-must-see-before-you-die/",
+    "trueUrl": "https://letterboxd.com/peterstanley/list/1001-movies-you-must-see-before-you-die/",
+    "trueSlug": "peterstanley/list/1001-movies-you-must-see-before-you-die/",
+    "jsonName": "1001-movies-you-must-see-before-you-die.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "IMDb Top 250",
+    "shortUrl": "https://letterboxd.com/dave/list/imdb-top-250/",
+    "trueUrl": "https://letterboxd.com/dave/list/imdb-top-250/",
+    "trueSlug": "dave/list/imdb-top-250/",
+    "jsonName": "imdb-top-250.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "Sight & Sound's Greatest Films of All Time (2022)",
+    "shortUrl": "https://letterboxd.com/sightsoundmag/list/sight-and-sounds-greatest-films-of-all-time/",
+    "trueUrl": "https://letterboxd.com/sightsoundmag/list/sight-and-sounds-greatest-films-of-all-time/",
+    "trueSlug": "sightsoundmag/list/sight-and-sounds-greatest-films-of-all-time/",
+    "jsonName": "sight-and-sounds-greatest-films-of-all-time.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "They Shoot Pictures, Don't They? (TSPDT) - 1,000 Greatest Films",
+    "shortUrl": "https://letterboxd.com/thisisdrew/list/they-shoot-pictures-dont-they-1000-greatest-1/",
+    "trueUrl": "https://letterboxd.com/thisisdrew/list/they-shoot-pictures-dont-they-1000-greatest-1/",
+    "trueSlug": "thisisdrew/list/they-shoot-pictures-dont-they-1000-greatest-1/",
+    "jsonName": "they-shoot-pictures-dont-they-1000-greatest-1.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "Edgar Wright's 1,000 Favorite Movies",
+    "shortUrl": "https://letterboxd.com/crew/list/edgar-wrights-1000-favorite-movies/",
+    "trueUrl": "https://letterboxd.com/crew/list/edgar-wrights-1000-favorite-movies/",
+    "trueSlug": "crew/list/edgar-wrights-1000-favorite-movies/",
+    "jsonName": "edgar-wrights-1000-favorite-movies.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "Reddit's r/movies Top 250",
+    "shortUrl": "https://letterboxd.com/les_vampires/list/reddit-r-movies-top-250-2019-edition/",
+    "trueUrl": "https://letterboxd.com/les_vampires/list/reddit-r-movies-top-250-2019-edition/",
+    "trueSlug": "les_vampires/list/reddit-r-movies-top-250-2019-edition/",
+    "jsonName": "reddit-r-movies-top-250-2019-edition.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "AFI's 100 Years... 100 Movies",
+    "shortUrl": "https://letterboxd.com/moseschan/list/afi-100-years-100-movies/",
+    "trueUrl": "https://letterboxd.com/moseschan/list/afi-100-years-100-movies/",
+    "trueSlug": "moseschan/list/afi-100-years-100-movies/",
+    "jsonName": "afi-100-years-100-movies.json"
+  },
+  {
+    "category": "Famous Community Lists",
+    "name": "The Criterion Collection",
+    "shortUrl": "https://letterboxd.com/sadhomersimpson/list/criterion/",
+    "trueUrl": "https://letterboxd.com/sadhomersimpson/list/criterion/",
+    "trueSlug": "sadhomersimpson/list/criterion/",
+    "jsonName": "criterion.json"
   }
 ]
