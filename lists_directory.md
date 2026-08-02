@@ -149,12 +149,12 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | **Miscellaneous** | | | | |
 | [Top 50 Films on Letterboxd Video Store](https://boxd.it/V06Qw) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-films-on-letterboxd-video-store.json) | 50 | 2026-08-02 |
 | [Top 100 Films on the Most Watchlists](https://boxd.it/VmTWC) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-films-on-the-most-watchlists.json) | 100 | 2026-08-02 |
-| [The Best Best Picture Lineups in Academy History](https://boxd.it/4BwHi) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films Above 150 Minutes in Runtime](https://boxd.it/TsT4E) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films Below 100 Minutes in Runtime](https://boxd.it/TsT1A) | Not Scraped ❌ |  | - | - |
-| [Top 50 Films on the Most Watchlists—watchlist total must exceed watches total](https://boxd.it/Vn4j2) | Not Scraped ❌ |  | - | - |
+| [The Best Best Picture Lineups in Academy History](https://boxd.it/4BwHi) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/the-best-best-picture-lineups-in-academy.json) | 97 | 2026-08-02 |
+| [Top 250 Films Above 150 Minutes in Runtime](https://boxd.it/TsT4E) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-above-150-minutes-in-runtime.json) | 250 | 2026-08-02 |
+| [Top 250 Films Below 100 Minutes in Runtime](https://boxd.it/TsT1A) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-below-100-minutes-in-runtime.json) | 250 | 2026-08-02 |
+| [Top 50 Films on the Most Watchlists—watchlist total must exceed watches total](https://boxd.it/Vn4j2) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-films-on-the-most-watchlists-watchlist.json) | 50 | 2026-08-02 |
 | **Underseen Lists** | | | | |
-| [Top 50 Underseen Horror Films](https://boxd.it/xHFLm) | Not Scraped ❌ |  | - | - |
+| [Top 50 Underseen Horror Films](https://boxd.it/xHFLm) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-underseen-horror-films.json) | 50 | 2026-08-02 |
 | **Year in Review** | | | | |
 | [2025 All Lists](https://letterboxd.com/official/tag/yir2025/lists/) | Not Scraped ❌ |  | - | - |
 | [2024 All Lists](https://letterboxd.com/official/tag/yir2024/lists/) | Not Scraped ❌ |  | - | - |
