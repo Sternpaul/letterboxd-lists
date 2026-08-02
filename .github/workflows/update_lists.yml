@@ -24,7 +24,7 @@ jobs:
           mkdir -p ../../public
           node fetch_list.mjs official/list/top-100-french-films/ ../../public/top-100-french-films-top50.json 50
           node fetch_list.mjs official/list/top-100-anime-films/ ../../public/top-100-anime-films-top50.json 50
-          node fetch_list.mjs gubarenko/list/the-bfi-100-british-films/ ../../public/the-bfi-100-british-films.json
+          node fetch_list.mjs official/list/top-100-british-films/ ../../public/the-bfi-100-british-films.json
           node fetch_list.mjs official/list/top-100-best-picture-nominees-with-the-most/ ../../public/top-100-best-picture-nominees-with-the-most.json
           node fetch_list.mjs official/list/top-250-films-with-the-most-fans/ ../../public/top-250-films-with-the-most-fans.json
           node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/letterboxds-top-500-films.json
@@ -88,6 +88,7 @@ jobs:
           node fetch_list.mjs official/list/top-100-films-on-the-most-watchlists/ ../../public/top-100-films-on-the-most-watchlists.json
           node fetch_list.mjs official/list/top-100-fastest-films-to-one-million-watched/ ../../public/top-100-fastest-films-to-one-million-watched.json
           node notify_discord.mjs
+          node update_directory.mjs
           cp ../../src/index.html ../../index.html
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
@@ -105,6 +106,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -f public/*.json
           git add -f index.html
+          git add ../../lists_directory.md
           git commit -m "Update movie lists" || exit 0
           git pull --rebase
           git push
