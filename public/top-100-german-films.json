@@ -1,5 +1,13 @@
 [
   {
+    "title": "Paris, Texas",
+    "release_year": "1984",
+    "clean_title": "/film/paris-texas/",
+    "adult": false,
+    "id": 655,
+    "imdb_id": "tt0087884"
+  },
+  {
     "title": "Das Boot",
     "release_year": "1981",
     "clean_title": "/film/das-boot/",
@@ -224,20 +232,20 @@
     "imdb_id": "tt1998204"
   },
   {
-    "title": "In a Year with 13 Moons",
-    "release_year": "1978",
-    "clean_title": "/film/in-a-year-with-13-moons/",
-    "adult": false,
-    "id": 42206,
-    "imdb_id": "tt0077729"
-  },
-  {
     "title": "The Adventures of Prince Achmed",
     "release_year": "1926",
     "clean_title": "/film/the-adventures-of-prince-achmed/",
     "adult": false,
     "id": 19354,
     "imdb_id": "tt0015532"
+  },
+  {
+    "title": "In a Year with 13 Moons",
+    "release_year": "1978",
+    "clean_title": "/film/in-a-year-with-13-moons/",
+    "adult": false,
+    "id": 42206,
+    "imdb_id": "tt0077729"
   },
   {
     "title": "Kings of the Road",
@@ -296,6 +304,14 @@
     "imdb_id": "tt0076147"
   },
   {
+    "title": "Knockin' on Heaven's Door",
+    "release_year": "1997",
+    "clean_title": "/film/knockin-on-heavens-door/",
+    "adult": false,
+    "id": 158,
+    "imdb_id": "tt0119472"
+  },
+  {
     "title": "The Edge of Heaven",
     "release_year": "2007",
     "clean_title": "/film/the-edge-of-heaven/",
@@ -310,14 +326,6 @@
     "adult": false,
     "id": 10311,
     "imdb_id": "tt0070374"
-  },
-  {
-    "title": "Knockin' on Heaven's Door",
-    "release_year": "1997",
-    "clean_title": "/film/knockin-on-heavens-door/",
-    "adult": false,
-    "id": 158,
-    "imdb_id": "tt0119472"
   },
   {
     "title": "Never Look Away",
@@ -512,20 +520,20 @@
     "imdb_id": "tt6675244"
   },
   {
-    "title": "Johanna d’Arc of Mongolia",
-    "release_year": "1989",
-    "clean_title": "/film/johanna-darc-of-mongolia/",
-    "adult": false,
-    "id": 120268,
-    "imdb_id": "tt0095406"
-  },
-  {
     "title": "Stations of the Cross",
     "release_year": "2014",
     "clean_title": "/film/stations-of-the-cross/",
     "adult": false,
     "id": 254721,
     "imdb_id": "tt3465916"
+  },
+  {
+    "title": "Johanna d’Arc of Mongolia",
+    "release_year": "1989",
+    "clean_title": "/film/johanna-darc-of-mongolia/",
+    "adult": false,
+    "id": 120268,
+    "imdb_id": "tt0095406"
   },
   {
     "title": "Fabian: Going to the Dogs",
@@ -680,14 +688,6 @@
     "imdb_id": "tt0020697"
   },
   {
-    "title": "Gigantic",
-    "release_year": "1999",
-    "clean_title": "/film/gigantic-1999/",
-    "adult": false,
-    "id": 1661,
-    "imdb_id": "tt0177507"
-  },
-  {
     "title": "Lola",
     "release_year": "1981",
     "clean_title": "/film/lola-1981/",
@@ -710,6 +710,14 @@
     "adult": false,
     "id": 998022,
     "imdb_id": "tt26612950"
+  },
+  {
+    "title": "Gigantic",
+    "release_year": "1999",
+    "clean_title": "/film/gigantic-1999/",
+    "adult": false,
+    "id": 1661,
+    "imdb_id": "tt0177507"
   },
   {
     "title": "Marianne and Juliane",
@@ -760,20 +768,20 @@
     "imdb_id": "tt0091871"
   },
   {
-    "title": "It Is Not the Homosexual Who Is Perverse, But the Society in Which He Lives",
-    "release_year": "1971",
-    "clean_title": "/film/it-is-not-the-homosexual-who-is-perverse-but-the-society-in-which-he-lives/",
-    "adult": false,
-    "id": 130961,
-    "imdb_id": "tt0066136"
-  },
-  {
     "title": "The Cat",
     "release_year": "1988",
     "clean_title": "/film/the-cat-1988/",
     "adult": false,
     "id": 148866,
     "imdb_id": "tt0093336"
+  },
+  {
+    "title": "It Is Not the Homosexual Who Is Perverse, But the Society in Which He Lives",
+    "release_year": "1971",
+    "clean_title": "/film/it-is-not-the-homosexual-who-is-perverse-but-the-society-in-which-he-lives/",
+    "adult": false,
+    "id": 130961,
+    "imdb_id": "tt0066136"
   },
   {
     "title": "The Forest for the Trees",
@@ -790,13 +798,5 @@
     "adult": false,
     "id": 779,
     "imdb_id": "tt0023649"
-  },
-  {
-    "title": "Black Gravel",
-    "release_year": "1961",
-    "clean_title": "/film/black-gravel/",
-    "adult": false,
-    "id": 267768,
-    "imdb_id": "tt0055418"
   }
 ]
