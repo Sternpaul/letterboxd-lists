@@ -64,7 +64,7 @@ for (const list of officialLists) {
             if (dailyJsonFiles.has(jsonName)) {
                 status = "Daily Sync 🟢";
             } else if (status !== "Failed 🚨") {
-                status = `Not actively scraped (last update ${lastUpdate}) 📦`;
+                status = `Not actively scraped 📦`;
             }
             endpointStr = `[RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/${jsonName})`;
         }
