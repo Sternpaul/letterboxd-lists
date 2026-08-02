@@ -30,8 +30,8 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | [Top 50 Horror Films by Women Directors](https://boxd.it/48z62) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-horror-films-by-women-directors.json) | 50 | 2026-08-02 |
 | **By Decade** | | | | |
 | [Top 250 Films of the 1970s](https://boxd.it/TazAO) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1970s.json) | 250 | 2026-08-02 |
-| [Top 250 Films of the 2010s](https://boxd.it/TacD6) | Not Scraped ❌ |  | - | - |
-| [Top 250 Films of the 1980s](https://boxd.it/TauLC) | Not Scraped ❌ |  | - | - |
+| [Top 250 Films of the 2010s](https://boxd.it/TacD6) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-2010s.json) | 250 | 2026-08-02 |
+| [Top 250 Films of the 1980s](https://boxd.it/TauLC) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-250-films-of-the-1980s.json) | 250 | 2026-08-02 |
 | [Top 250 Films of the 2020s](https://boxd.it/Ta8Xw) | Not Scraped ❌ |  | - | - |
 | [Top 250 Films of the 1990s](https://boxd.it/TamsW) | Not Scraped ❌ |  | - | - |
 | [Top 250 Films of the 2000s](https://boxd.it/TahIA) | Not Scraped ❌ |  | - | - |
@@ -140,6 +140,7 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | **Most Fans Lists** | | | | |
 | [Top 50 Best Animated Feature Oscar Nominees with the Most Fans](https://boxd.it/DEMAe) | Not Scraped ❌ |  | - | - |
 | [Top 100 Best Visual Effects Oscar Nominees with the Most Fans](https://boxd.it/S03nk) | Not Scraped ❌ |  | - | - |
+| [Top 100 Best Picture Oscar Nominees with the Most Fans](https://boxd.it/DklNg) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-best-picture-nominees-with-the-most.json) | 100 | 2026-07-24 |
 | **Miscellaneous** | | | | |
 | [Top 100 Fastest Films to One Million Watched](https://boxd.it/V2tim) | Not Scraped ❌ |  | - | - |
 | **Underseen Lists** | | | | |
@@ -288,5 +289,4 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | [Most Divisive Films (500+ ratings) 2018](https://boxd.it/1LiPq) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/most-divisive-all-time-min-500-ratings.json) | 100 | 2026-08-02 |
 | **Other Hardcoded Lists** | | | | |
 | [The Bfi 100 British Films](https://letterboxd.com/gubarenko/list/the-bfi-100-british-films/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/the-bfi-100-british-films.json) | 100 | 2026-05-26 |
-| [Top 100 Best Picture Nominees With The Most](https://letterboxd.com/official/list/top-100-best-picture-nominees-with-the-most/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-100-best-picture-nominees-with-the-most.json) | 100 | 2026-07-24 |
 | [Watchlist](https://letterboxd.com/sternpaul/watchlist/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/sternpaul-watchlist.json) | 585 | 2026-08-02 |

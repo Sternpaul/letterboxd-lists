@@ -960,6 +960,14 @@
     "jsonName": "top-100-best-visual-effects-oscar-nominees.json"
   },
   {
+    "category": "Most Fans Lists",
+    "name": "Top 100 Best Picture Oscar Nominees with the Most Fans",
+    "shortUrl": "https://boxd.it/DklNg",
+    "trueUrl": "https://letterboxd.com/official/list/top-100-best-picture-nominees-with-the-most/",
+    "trueSlug": "official/list/top-100-best-picture-nominees-with-the-most/",
+    "jsonName": "top-100-best-picture-nominees-with-the-most.json"
+  },
+  {
     "category": "Miscellaneous",
     "name": "Top 100 Fastest Films to One Million Watched",
     "shortUrl": "https://boxd.it/V2tim",
@@ -2022,14 +2030,6 @@
     "trueUrl": "https://letterboxd.com/gubarenko/list/the-bfi-100-british-films/",
     "trueSlug": "gubarenko/list/the-bfi-100-british-films/",
     "jsonName": "the-bfi-100-british-films.json"
-  },
-  {
-    "category": "Other Hardcoded Lists",
-    "name": "Top 100 Best Picture Nominees With The Most",
-    "shortUrl": "https://letterboxd.com/official/list/top-100-best-picture-nominees-with-the-most/",
-    "trueUrl": "https://letterboxd.com/official/list/top-100-best-picture-nominees-with-the-most/",
-    "trueSlug": "official/list/top-100-best-picture-nominees-with-the-most/",
-    "jsonName": "top-100-best-picture-nominees-with-the-most.json"
   },
   {
     "category": "Other Hardcoded Lists",
