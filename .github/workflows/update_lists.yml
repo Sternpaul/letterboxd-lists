@@ -30,6 +30,63 @@ jobs:
           node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/letterboxds-top-500-films.json
           node fetch_list.mjs sternpaul/watchlist/ ../../public/sternpaul-watchlist.json
           node fetch_list.mjs official/list/top-100-german-films/ ../../public/top-100-german-films.json
+          node fetch_list.mjs official/list/top-250-films-by-heart-rate/ ../../public/top-250-films-by-heart-rate.json
+          node fetch_list.mjs official/list/top-250-documentary-films/ ../../public/top-250-documentary-films.json
+          node fetch_list.mjs official/list/top-250-animated-films/ ../../public/top-250-animated-films.json
+          node fetch_list.mjs official/list/top-250-short-films/ ../../public/top-250-short-films.json
+          node fetch_list.mjs official/list/top-250-miniseries/ ../../public/top-250-miniseries.json
+          node fetch_list.mjs official/list/top-100-documentary-miniseries/ ../../public/top-100-documentary-miniseries.json
+          node fetch_list.mjs official/list/top-100-concert-films/ ../../public/top-100-concert-films.json
+          node fetch_list.mjs official/list/top-100-comedy-specials/ ../../public/top-100-comedy-specials.json
+          node fetch_list.mjs official/list/top-100-pro-shot-theatre-films/ ../../public/top-100-pro-shot-theatre-films.json
+          node fetch_list.mjs official/list/top-50-adult-films/ ../../public/top-50-adult-films.json
+          node fetch_list.mjs official/list/top-250-films-of-the-2020s/ ../../public/top-250-films-of-the-2020s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-2010s/ ../../public/top-250-films-of-the-2010s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-2000s/ ../../public/top-250-films-of-the-2000s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1990s/ ../../public/top-250-films-of-the-1990s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1980s/ ../../public/top-250-films-of-the-1980s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1970s/ ../../public/top-250-films-of-the-1970s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1960s/ ../../public/top-250-films-of-the-1960s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1950s/ ../../public/top-250-films-of-the-1950s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1940s/ ../../public/top-250-films-of-the-1940s.json
+          node fetch_list.mjs official/list/top-250-films-of-the-1930s/ ../../public/top-250-films-of-the-1930s.json
+          node fetch_list.mjs official/list/top-100-films-of-the-1920s/ ../../public/top-100-films-of-the-1920s.json
+          node fetch_list.mjs official/list/top-50-films-of-the-1910s/ ../../public/top-50-films-of-the-1910s.json
+          node fetch_list.mjs official/list/top-250-action-films/ ../../public/top-250-action-films.json
+          node fetch_list.mjs official/list/top-250-biographical-films/ ../../public/top-250-biographical-films.json
+          node fetch_list.mjs official/list/top-250-crime-films/ ../../public/top-250-crime-films.json
+          node fetch_list.mjs official/list/top-100-film-noir-films/ ../../public/top-100-film-noir-films.json
+          node fetch_list.mjs official/list/top-250-horror-films/ ../../public/top-250-horror-films.json
+          node fetch_list.mjs official/list/top-100-live-action-fantasy-films/ ../../public/top-100-live-action-fantasy-films.json
+          node fetch_list.mjs official/list/top-250-musical-films/ ../../public/top-250-musical-films.json
+          node fetch_list.mjs official/list/top-250-mystery-films/ ../../public/top-250-mystery-films.json
+          node fetch_list.mjs official/list/top-250-science-fiction-films/ ../../public/top-250-science-fiction-films.json
+          node fetch_list.mjs official/list/top-100-sports-films/ ../../public/top-100-sports-films.json
+          node fetch_list.mjs official/list/top-250-war-films/ ../../public/top-250-war-films.json
+          node fetch_list.mjs official/list/top-100-western-films/ ../../public/top-100-western-films.json
+          node fetch_list.mjs official/list/top-50-heroic-bloodshed-films/ ../../public/top-50-heroic-bloodshed-films.json
+          node fetch_list.mjs official/list/top-250-romantic-comedy-films/ ../../public/top-250-romantic-comedy-films.json
+          node fetch_list.mjs official/list/top-100-samurai-films/ ../../public/top-100-samurai-films.json
+          node fetch_list.mjs official/list/top-100-spy-films/ ../../public/top-100-spy-films.json
+          node fetch_list.mjs official/list/top-100-wuxia-films/ ../../public/top-100-wuxia-films.json
+          node fetch_list.mjs official/list/top-100-australian-films/ ../../public/top-100-australian-films.json
+          node fetch_list.mjs official/list/top-50-austrian-films/ ../../public/top-50-austrian-films.json
+          node fetch_list.mjs official/list/top-100-british-films/ ../../public/top-100-british-films.json
+          node fetch_list.mjs official/list/top-100-canadian-films/ ../../public/top-100-canadian-films.json
+          node fetch_list.mjs official/list/top-100-danish-films/ ../../public/top-100-danish-films.json
+          node fetch_list.mjs official/list/top-100-dutch-films/ ../../public/top-100-dutch-films.json
+          node fetch_list.mjs official/list/top-100-italian-films/ ../../public/top-100-italian-films.json
+          node fetch_list.mjs official/list/top-100-south-korean-films/ ../../public/top-100-south-korean-films.json
+          node fetch_list.mjs official/list/top-100-spanish-films/ ../../public/top-100-spanish-films.json
+          node fetch_list.mjs official/list/top-100-swedish-films/ ../../public/top-100-swedish-films.json
+          node fetch_list.mjs official/list/top-100-films-with-the-most-fans-by-he-pronoun/ ../../public/top-100-films-with-the-most-fans-by-he-pronoun.json
+          node fetch_list.mjs official/list/top-250-non-english-language-films-with-the/ ../../public/top-250-non-english-language-films-with-the.json
+          node fetch_list.mjs official/list/top-250-pre-1970s-films-with-the-most-fans/ ../../public/top-250-pre-1970s-films-with-the-most-fans.json
+          node fetch_list.mjs official/list/top-100-films-of-the-2020s-with-the-most/ ../../public/top-100-films-of-the-2020s-with-the-most.json
+          node fetch_list.mjs official/list/top-100-best-international-feature-oscar/ ../../public/top-100-best-international-feature-oscar.json
+          node fetch_list.mjs official/list/top-100-palme-dor-in-competition-nominees/ ../../public/top-100-palme-dor-in-competition-nominees.json
+          node fetch_list.mjs official/list/top-100-films-on-the-most-watchlists/ ../../public/top-100-films-on-the-most-watchlists.json
+          node fetch_list.mjs official/list/top-100-fastest-films-to-one-million-watched/ ../../public/top-100-fastest-films-to-one-million-watched.json
           node notify_discord.mjs
           cp ../../src/index.html ../../index.html
         env:

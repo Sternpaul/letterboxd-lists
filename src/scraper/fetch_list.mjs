@@ -91,12 +91,14 @@ async function main() {
     
     console.log(`Found ${slugs.length} movies. Fetching details...`);
     
-    // Increase concurrency slightly? The original had 7. Let's do 7.
-    const limit = pLimit(7);
+    // Lowered concurrency to prevent rate limits from Letterboxd
+    const limit = pLimit(3);
     
     const movies = await Promise.all(
         slugs.map(slug => limit(async () => {
             const detail = await getMovieDetail(slug);
+            // Rate limit pause to avoid getting blocked
+            await new Promise(r => setTimeout(r, 300));
             return detail;
         }))
     );
