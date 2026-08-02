@@ -1,0 +1,2002 @@
+[
+  {
+    "title": "Coraline",
+    "release_year": "2009",
+    "clean_title": "/film/coraline/",
+    "adult": false,
+    "id": 14836,
+    "imdb_id": "tt0327597"
+  },
+  {
+    "title": "Black Swan",
+    "release_year": "2010",
+    "clean_title": "/film/black-swan/",
+    "adult": false,
+    "id": 44214,
+    "imdb_id": "tt0947798"
+  },
+  {
+    "title": "Scream",
+    "release_year": "1996",
+    "clean_title": "/film/scream/",
+    "adult": false,
+    "id": 4232,
+    "imdb_id": "tt0117571"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "release_year": "1991",
+    "clean_title": "/film/the-silence-of-the-lambs/",
+    "adult": false,
+    "id": 274,
+    "imdb_id": "tt0102926"
+  },
+  {
+    "title": "Sinners",
+    "release_year": "2025",
+    "clean_title": "/film/sinners-2025/",
+    "adult": false,
+    "id": 1233413,
+    "imdb_id": "tt31193180"
+  },
+  {
+    "title": "The Shining",
+    "release_year": "1980",
+    "clean_title": "/film/the-shining/",
+    "adult": false,
+    "id": 694,
+    "imdb_id": "tt0081505"
+  },
+  {
+    "title": "Bones and All",
+    "release_year": "2022",
+    "clean_title": "/film/bones-and-all/",
+    "adult": false,
+    "id": 791177,
+    "imdb_id": "tt10168670"
+  },
+  {
+    "title": "The Thing",
+    "release_year": "1982",
+    "clean_title": "/film/the-thing/",
+    "adult": false,
+    "id": 1091,
+    "imdb_id": "tt0084787"
+  },
+  {
+    "title": "Alien",
+    "release_year": "1979",
+    "clean_title": "/film/alien/",
+    "adult": false,
+    "id": 348,
+    "imdb_id": "tt0078748"
+  },
+  {
+    "title": "Perfect Blue",
+    "release_year": "1997",
+    "clean_title": "/film/perfect-blue/",
+    "adult": false,
+    "id": 10494,
+    "imdb_id": "tt0156887"
+  },
+  {
+    "title": "Midsommar",
+    "release_year": "2019",
+    "clean_title": "/film/midsommar/",
+    "adult": false,
+    "id": 530385,
+    "imdb_id": "tt8772262"
+  },
+  {
+    "title": "It",
+    "release_year": "2017",
+    "clean_title": "/film/it-2017/",
+    "adult": false,
+    "id": 346364,
+    "imdb_id": "tt1396484"
+  },
+  {
+    "title": "Hereditary",
+    "release_year": "2018",
+    "clean_title": "/film/hereditary/",
+    "adult": false,
+    "id": 493922,
+    "imdb_id": "tt7784604"
+  },
+  {
+    "title": "American Psycho",
+    "release_year": "2000",
+    "clean_title": "/film/american-psycho/",
+    "adult": false,
+    "id": 1359,
+    "imdb_id": "tt0144084"
+  },
+  {
+    "title": "Get Out",
+    "release_year": "2017",
+    "clean_title": "/film/get-out-2017/",
+    "adult": false,
+    "id": 419430,
+    "imdb_id": "tt5052448"
+  },
+  {
+    "title": "The Rocky Horror Picture Show",
+    "release_year": "1975",
+    "clean_title": "/film/the-rocky-horror-picture-show/",
+    "adult": false,
+    "id": 36685,
+    "imdb_id": "tt0073629"
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "release_year": "1992",
+    "clean_title": "/film/twin-peaks-fire-walk-with-me/",
+    "adult": false,
+    "id": 1923,
+    "imdb_id": "tt0105665"
+  },
+  {
+    "title": "Pearl",
+    "release_year": "2022",
+    "clean_title": "/film/pearl-2022/",
+    "adult": false,
+    "id": 949423,
+    "imdb_id": "tt18925334"
+  },
+  {
+    "title": "Frankenstein",
+    "release_year": "2025",
+    "clean_title": "/film/frankenstein-2025/",
+    "adult": false,
+    "id": 1062722,
+    "imdb_id": "tt1312221"
+  },
+  {
+    "title": "The Lighthouse",
+    "release_year": "2019",
+    "clean_title": "/film/the-lighthouse-2019/",
+    "adult": false,
+    "id": 503919,
+    "imdb_id": "tt7984734"
+  },
+  {
+    "title": "The Substance",
+    "release_year": "2024",
+    "clean_title": "/film/the-substance/",
+    "adult": false,
+    "id": 933260,
+    "imdb_id": "tt17526714"
+  },
+  {
+    "title": "Jaws",
+    "release_year": "1975",
+    "clean_title": "/film/jaws/",
+    "adult": false,
+    "id": 578,
+    "imdb_id": "tt0073195"
+  },
+  {
+    "title": "Jennifer's Body",
+    "release_year": "2009",
+    "clean_title": "/film/jennifers-body/",
+    "adult": false,
+    "id": 19994,
+    "imdb_id": "tt1131734"
+  },
+  {
+    "title": "I Saw the TV Glow",
+    "release_year": "2024",
+    "clean_title": "/film/i-saw-the-tv-glow/",
+    "adult": false,
+    "id": 858017,
+    "imdb_id": "tt15574270"
+  },
+  {
+    "title": "The Conjuring",
+    "release_year": "2013",
+    "clean_title": "/film/the-conjuring/",
+    "adult": false,
+    "id": 138843,
+    "imdb_id": "tt1457767"
+  },
+  {
+    "title": "Halloween",
+    "release_year": "1978",
+    "clean_title": "/film/halloween-1978/",
+    "adult": false,
+    "id": 948,
+    "imdb_id": "tt0077651"
+  },
+  {
+    "title": "Possession",
+    "release_year": "1981",
+    "clean_title": "/film/possession/",
+    "adult": false,
+    "id": 21484,
+    "imdb_id": "tt0082933"
+  },
+  {
+    "title": "Saw",
+    "release_year": "2004",
+    "clean_title": "/film/saw/",
+    "adult": false,
+    "id": 176,
+    "imdb_id": "tt0387564"
+  },
+  {
+    "title": "The Witch",
+    "release_year": "2015",
+    "clean_title": "/film/the-witch-2015/",
+    "adult": false,
+    "id": 310131,
+    "imdb_id": "tt4263482"
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "release_year": "1974",
+    "clean_title": "/film/the-texas-chain-saw-massacre/",
+    "adult": false,
+    "id": 30497,
+    "imdb_id": "tt0072271"
+  },
+  {
+    "title": "Psycho",
+    "release_year": "1960",
+    "clean_title": "/film/psycho/",
+    "adult": false,
+    "id": 539,
+    "imdb_id": "tt0054215"
+  },
+  {
+    "title": "Nosferatu",
+    "release_year": "2024",
+    "clean_title": "/film/nosferatu-2024/",
+    "adult": false,
+    "id": 426063,
+    "imdb_id": "tt5040012"
+  },
+  {
+    "title": "Obsession",
+    "release_year": "2025",
+    "clean_title": "/film/obsession-2025/",
+    "adult": false,
+    "id": 1339713,
+    "imdb_id": "tt37287335"
+  },
+  {
+    "title": "Nope",
+    "release_year": "2022",
+    "clean_title": "/film/nope/",
+    "adult": false,
+    "id": 762504,
+    "imdb_id": "tt10954984"
+  },
+  {
+    "title": "Shaun of the Dead",
+    "release_year": "2004",
+    "clean_title": "/film/shaun-of-the-dead/",
+    "adult": false,
+    "id": 747,
+    "imdb_id": "tt0365748"
+  },
+  {
+    "title": "The Sixth Sense",
+    "release_year": "1999",
+    "clean_title": "/film/the-sixth-sense/",
+    "adult": false,
+    "id": 745,
+    "imdb_id": "tt0167404"
+  },
+  {
+    "title": "Us",
+    "release_year": "2019",
+    "clean_title": "/film/us-2019/",
+    "adult": false,
+    "id": 458723,
+    "imdb_id": "tt6857112"
+  },
+  {
+    "title": "Aliens",
+    "release_year": "1986",
+    "clean_title": "/film/aliens/",
+    "adult": false,
+    "id": 679,
+    "imdb_id": "tt0090605"
+  },
+  {
+    "title": "Evil Dead II",
+    "release_year": "1987",
+    "clean_title": "/film/evil-dead-ii/",
+    "adult": false,
+    "id": 765,
+    "imdb_id": "tt0092991"
+  },
+  {
+    "title": "Suspiria",
+    "release_year": "1977",
+    "clean_title": "/film/suspiria/",
+    "adult": false,
+    "id": 11906,
+    "imdb_id": "tt0076786"
+  },
+  {
+    "title": "Cure",
+    "release_year": "1997",
+    "clean_title": "/film/cure/",
+    "adult": false,
+    "id": 36095,
+    "imdb_id": "tt0123948"
+  },
+  {
+    "title": "Godzilla Minus One",
+    "release_year": "2023",
+    "clean_title": "/film/godzilla-minus-one/",
+    "adult": false,
+    "id": 940721,
+    "imdb_id": "tt23289160"
+  },
+  {
+    "title": "The Craft",
+    "release_year": "1996",
+    "clean_title": "/film/the-craft/",
+    "adult": false,
+    "id": 9100,
+    "imdb_id": "tt0115963"
+  },
+  {
+    "title": "The Lost Boys",
+    "release_year": "1987",
+    "clean_title": "/film/the-lost-boys/",
+    "adult": false,
+    "id": 1547,
+    "imdb_id": "tt0093437"
+  },
+  {
+    "title": "The Exorcist",
+    "release_year": "1973",
+    "clean_title": "/film/the-exorcist/",
+    "adult": false,
+    "id": 9552,
+    "imdb_id": "tt0070047"
+  },
+  {
+    "title": "Bram Stoker's Dracula",
+    "release_year": "1992",
+    "clean_title": "/film/bram-stokers-dracula/",
+    "adult": false,
+    "id": 6114,
+    "imdb_id": "tt0103874"
+  },
+  {
+    "title": "Climax",
+    "release_year": "2018",
+    "clean_title": "/film/climax-2018/",
+    "adult": false,
+    "id": 507076,
+    "imdb_id": "tt8359848"
+  },
+  {
+    "title": "Suspiria",
+    "release_year": "2018",
+    "clean_title": "/film/suspiria-2018/",
+    "adult": false,
+    "id": 361292,
+    "imdb_id": "tt1034415"
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "release_year": "2014",
+    "clean_title": "/film/what-we-do-in-the-shadows/",
+    "adult": false,
+    "id": 246741,
+    "imdb_id": "tt3416742"
+  },
+  {
+    "title": "The Black Phone",
+    "release_year": "2021",
+    "clean_title": "/film/the-black-phone/",
+    "adult": false,
+    "id": 756999,
+    "imdb_id": "tt7144666"
+  },
+  {
+    "title": "28 Days Later",
+    "release_year": "2002",
+    "clean_title": "/film/28-days-later/",
+    "adult": false,
+    "id": 170,
+    "imdb_id": "tt0289043"
+  },
+  {
+    "title": "Lisa Frankenstein",
+    "release_year": "2024",
+    "clean_title": "/film/lisa-frankenstein/",
+    "adult": false,
+    "id": 993784,
+    "imdb_id": "tt21188080"
+  },
+  {
+    "title": "The Conjuring 2",
+    "release_year": "2016",
+    "clean_title": "/film/the-conjuring-2/",
+    "adult": false,
+    "id": 259693,
+    "imdb_id": "tt3065204"
+  },
+  {
+    "title": "Rosemary's Baby",
+    "release_year": "1968",
+    "clean_title": "/film/rosemarys-baby/",
+    "adult": false,
+    "id": 805,
+    "imdb_id": "tt0063522"
+  },
+  {
+    "title": "mother!",
+    "release_year": "2017",
+    "clean_title": "/film/mother-2017/",
+    "adult": false,
+    "id": 381283,
+    "imdb_id": "tt5109784"
+  },
+  {
+    "title": "Carrie",
+    "release_year": "1976",
+    "clean_title": "/film/carrie-1976/",
+    "adult": false,
+    "id": 7340,
+    "imdb_id": "tt0074285"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "release_year": "1994",
+    "clean_title": "/film/interview-with-the-vampire/",
+    "adult": false,
+    "id": 628,
+    "imdb_id": "tt0110148"
+  },
+  {
+    "title": "Train to Busan",
+    "release_year": "2016",
+    "clean_title": "/film/train-to-busan/",
+    "adult": false,
+    "id": 396535,
+    "imdb_id": "tt5700672"
+  },
+  {
+    "title": "House",
+    "release_year": "1977",
+    "clean_title": "/film/house/",
+    "adult": false,
+    "id": 25623,
+    "imdb_id": "tt0076162"
+  },
+  {
+    "title": "Phantom of the Paradise",
+    "release_year": "1974",
+    "clean_title": "/film/phantom-of-the-paradise/",
+    "adult": false,
+    "id": 27327,
+    "imdb_id": "tt0071994"
+  },
+  {
+    "title": "Eraserhead",
+    "release_year": "1977",
+    "clean_title": "/film/eraserhead/",
+    "adult": false,
+    "id": 985,
+    "imdb_id": "tt0074486"
+  },
+  {
+    "title": "Annihilation",
+    "release_year": "2018",
+    "clean_title": "/film/annihilation/",
+    "adult": false,
+    "id": 300668,
+    "imdb_id": "tt2798920"
+  },
+  {
+    "title": "The Love Witch",
+    "release_year": "2016",
+    "clean_title": "/film/the-love-witch/",
+    "adult": false,
+    "id": 374052,
+    "imdb_id": "tt3908142"
+  },
+  {
+    "title": "As Above, So Below",
+    "release_year": "2014",
+    "clean_title": "/film/as-above-so-below-2014/",
+    "adult": false,
+    "id": 256274,
+    "imdb_id": "tt2870612"
+  },
+  {
+    "title": "The Menu",
+    "release_year": "2022",
+    "clean_title": "/film/the-menu-2022/",
+    "adult": false,
+    "id": 593643,
+    "imdb_id": "tt9764362"
+  },
+  {
+    "title": "Helter Skelter",
+    "release_year": "2012",
+    "clean_title": "/film/helter-skelter-2012/",
+    "adult": false,
+    "id": 104524,
+    "imdb_id": "tt2147319"
+  },
+  {
+    "title": "Last Night in Soho",
+    "release_year": "2021",
+    "clean_title": "/film/last-night-in-soho/",
+    "adult": false,
+    "id": 576845,
+    "imdb_id": "tt9639470"
+  },
+  {
+    "title": "Creep",
+    "release_year": "2014",
+    "clean_title": "/film/creep-2014/",
+    "adult": false,
+    "id": 250574,
+    "imdb_id": "tt2428170"
+  },
+  {
+    "title": "Crimson Peak",
+    "release_year": "2015",
+    "clean_title": "/film/crimson-peak/",
+    "adult": false,
+    "id": 201085,
+    "imdb_id": "tt2554274"
+  },
+  {
+    "title": "The Long Walk",
+    "release_year": "2025",
+    "clean_title": "/film/the-long-walk-2025/",
+    "adult": false,
+    "id": 604079,
+    "imdb_id": "tt10374610"
+  },
+  {
+    "title": "Death Becomes Her",
+    "release_year": "1992",
+    "clean_title": "/film/death-becomes-her/",
+    "adult": false,
+    "id": 9374,
+    "imdb_id": "tt0104070"
+  },
+  {
+    "title": "Videodrome",
+    "release_year": "1983",
+    "clean_title": "/film/videodrome/",
+    "adult": false,
+    "id": 837,
+    "imdb_id": "tt0086541"
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "release_year": "1984",
+    "clean_title": "/film/a-nightmare-on-elm-street/",
+    "adult": false,
+    "id": 377,
+    "imdb_id": "tt0087800"
+  },
+  {
+    "title": "The Blair Witch Project",
+    "release_year": "1999",
+    "clean_title": "/film/the-blair-witch-project/",
+    "adult": false,
+    "id": 2667,
+    "imdb_id": "tt0185937"
+  },
+  {
+    "title": "Ready or Not",
+    "release_year": "2019",
+    "clean_title": "/film/ready-or-not-2019/",
+    "adult": false,
+    "id": 567609,
+    "imdb_id": "tt7798634"
+  },
+  {
+    "title": "Little Shop of Horrors",
+    "release_year": "1986",
+    "clean_title": "/film/little-shop-of-horrors/",
+    "adult": false,
+    "id": 10776,
+    "imdb_id": "tt0091419"
+  },
+  {
+    "title": "Raw",
+    "release_year": "2016",
+    "clean_title": "/film/raw-2016/",
+    "adult": false,
+    "id": 393519,
+    "imdb_id": "tt4954522"
+  },
+  {
+    "title": "Fear Street: 1978",
+    "release_year": "2021",
+    "clean_title": "/film/fear-street-1978/",
+    "adult": false,
+    "id": 591274,
+    "imdb_id": "tt9701940"
+  },
+  {
+    "title": "Split",
+    "release_year": "2016",
+    "clean_title": "/film/split-2016/",
+    "adult": false,
+    "id": 381288,
+    "imdb_id": "tt4972582"
+  },
+  {
+    "title": "X",
+    "release_year": "2022",
+    "clean_title": "/film/x-2022/",
+    "adult": false,
+    "id": 760104,
+    "imdb_id": "tt13560574"
+  },
+  {
+    "title": "Shin Godzilla",
+    "release_year": "2016",
+    "clean_title": "/film/shin-godzilla/",
+    "adult": false,
+    "id": 315011,
+    "imdb_id": "tt4262980"
+  },
+  {
+    "title": "The Devil's Advocate",
+    "release_year": "1997",
+    "clean_title": "/film/the-devils-advocate/",
+    "adult": false,
+    "id": 1813,
+    "imdb_id": "tt0118971"
+  },
+  {
+    "title": "The Wicker Man",
+    "release_year": "1973",
+    "clean_title": "/film/the-wicker-man/",
+    "adult": false,
+    "id": 16307,
+    "imdb_id": "tt0070917"
+  },
+  {
+    "title": "Funny Games",
+    "release_year": "1997",
+    "clean_title": "/film/funny-games/",
+    "adult": false,
+    "id": 10234,
+    "imdb_id": "tt0119167"
+  },
+  {
+    "title": "The Evil Dead",
+    "release_year": "1981",
+    "clean_title": "/film/the-evil-dead/",
+    "adult": false,
+    "id": 764,
+    "imdb_id": "tt0083907"
+  },
+  {
+    "title": "Final Destination 3",
+    "release_year": "2006",
+    "clean_title": "/film/final-destination-3/",
+    "adult": false,
+    "id": 9286,
+    "imdb_id": "tt0414982"
+  },
+  {
+    "title": "Scream 4",
+    "release_year": "2011",
+    "clean_title": "/film/scream-4/",
+    "adult": false,
+    "id": 41446,
+    "imdb_id": "tt1262416"
+  },
+  {
+    "title": "Don't Worry Darling",
+    "release_year": "2022",
+    "clean_title": "/film/dont-worry-darling/",
+    "adult": false,
+    "id": 619730,
+    "imdb_id": "tt10731256"
+  },
+  {
+    "title": "Thesis",
+    "release_year": "1996",
+    "clean_title": "/film/thesis/",
+    "adult": false,
+    "id": 9299,
+    "imdb_id": "tt0117883"
+  },
+  {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "release_year": "2007",
+    "clean_title": "/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/",
+    "adult": false,
+    "id": 13885,
+    "imdb_id": "tt0408236"
+  },
+  {
+    "title": "Martyrs",
+    "release_year": "2008",
+    "clean_title": "/film/martyrs/",
+    "adult": false,
+    "id": 9539,
+    "imdb_id": "tt1029234"
+  },
+  {
+    "title": "Inland Empire",
+    "release_year": "2006",
+    "clean_title": "/film/inland-empire/",
+    "adult": false,
+    "id": 1730,
+    "imdb_id": "tt0460829"
+  },
+  {
+    "title": "Longlegs",
+    "release_year": "2024",
+    "clean_title": "/film/longlegs/",
+    "adult": false,
+    "id": 1226578,
+    "imdb_id": "tt23468450"
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "release_year": "2023",
+    "clean_title": "/film/five-nights-at-freddys/",
+    "adult": false,
+    "id": 507089,
+    "imdb_id": "tt4589218"
+  },
+  {
+    "title": "Ginger Snaps",
+    "release_year": "2000",
+    "clean_title": "/film/ginger-snaps/",
+    "adult": false,
+    "id": 9871,
+    "imdb_id": "tt0210070"
+  },
+  {
+    "title": "House of 1000 Corpses",
+    "release_year": "2003",
+    "clean_title": "/film/house-of-1000-corpses/",
+    "adult": false,
+    "id": 2662,
+    "imdb_id": "tt0251736"
+  },
+  {
+    "title": "Sleepy Hollow",
+    "release_year": "1999",
+    "clean_title": "/film/sleepy-hollow/",
+    "adult": false,
+    "id": 2668,
+    "imdb_id": "tt0162661"
+  },
+  {
+    "title": "Hellraiser",
+    "release_year": "1987",
+    "clean_title": "/film/hellraiser/",
+    "adult": false,
+    "id": 9003,
+    "imdb_id": "tt0093177"
+  },
+  {
+    "title": "The House That Jack Built",
+    "release_year": "2018",
+    "clean_title": "/film/the-house-that-jack-built-2018/",
+    "adult": false,
+    "id": 398173,
+    "imdb_id": "tt4003440"
+  },
+  {
+    "title": "The Night of the Hunter",
+    "release_year": "1955",
+    "clean_title": "/film/the-night-of-the-hunter/",
+    "adult": false,
+    "id": 3112,
+    "imdb_id": "tt0048424"
+  },
+  {
+    "title": "The Fly",
+    "release_year": "1986",
+    "clean_title": "/film/the-fly-1986/",
+    "adult": false,
+    "id": 9426,
+    "imdb_id": "tt0091064"
+  },
+  {
+    "title": "Sinister",
+    "release_year": "2012",
+    "clean_title": "/film/sinister/",
+    "adult": false,
+    "id": 82507,
+    "imdb_id": "tt1922777"
+  },
+  {
+    "title": "May",
+    "release_year": "2002",
+    "clean_title": "/film/may/",
+    "adult": false,
+    "id": 10894,
+    "imdb_id": "tt0303361"
+  },
+  {
+    "title": "Constantine",
+    "release_year": "2005",
+    "clean_title": "/film/constantine/",
+    "adult": false,
+    "id": 561,
+    "imdb_id": "tt0360486"
+  },
+  {
+    "title": "Weapons",
+    "release_year": "2025",
+    "clean_title": "/film/weapons-2025/",
+    "adult": false,
+    "id": 1078605,
+    "imdb_id": "tt26581740"
+  },
+  {
+    "title": "Mandy",
+    "release_year": "2018",
+    "clean_title": "/film/mandy-2018/",
+    "adult": false,
+    "id": 460885,
+    "imdb_id": "tt6998518"
+  },
+  {
+    "title": "Killer Klowns from Outer Space",
+    "release_year": "1988",
+    "clean_title": "/film/killer-klowns-from-outer-space/",
+    "adult": false,
+    "id": 16296,
+    "imdb_id": "tt0095444"
+  },
+  {
+    "title": "[REC]",
+    "release_year": "2007",
+    "clean_title": "/film/rec/",
+    "adult": false,
+    "id": 8329,
+    "imdb_id": "tt1038988"
+  },
+  {
+    "title": "Zombieland",
+    "release_year": "2009",
+    "clean_title": "/film/zombieland/",
+    "adult": false,
+    "id": 19908,
+    "imdb_id": "tt1156398"
+  },
+  {
+    "title": "Evil Dead",
+    "release_year": "2013",
+    "clean_title": "/film/evil-dead/",
+    "adult": false,
+    "id": 109428,
+    "imdb_id": "tt1288558"
+  },
+  {
+    "title": "Humanist Vampire Seeking Consenting Suicidal Person",
+    "release_year": "2023",
+    "clean_title": "/film/humanist-vampire-seeking-consenting-suicidal-person/",
+    "adult": false,
+    "id": 988402,
+    "imdb_id": "tt24216998"
+  },
+  {
+    "title": "Signs",
+    "release_year": "2002",
+    "clean_title": "/film/signs/",
+    "adult": false,
+    "id": 2675,
+    "imdb_id": "tt0286106"
+  },
+  {
+    "title": "I Saw the Devil",
+    "release_year": "2010",
+    "clean_title": "/film/i-saw-the-devil/",
+    "adult": false,
+    "id": 49797,
+    "imdb_id": "tt1588170"
+  },
+  {
+    "title": "Dracula",
+    "release_year": "2025",
+    "clean_title": "/film/dracula-2025/",
+    "adult": false,
+    "id": 1246049,
+    "imdb_id": "tt31434030"
+  },
+  {
+    "title": "Re-Animator",
+    "release_year": "1985",
+    "clean_title": "/film/re-animator/",
+    "adult": false,
+    "id": 1694,
+    "imdb_id": "tt0089885"
+  },
+  {
+    "title": "Army of Darkness",
+    "release_year": "1992",
+    "clean_title": "/film/army-of-darkness/",
+    "adult": false,
+    "id": 766,
+    "imdb_id": "tt0106308"
+  },
+  {
+    "title": "Marrowbone",
+    "release_year": "2017",
+    "clean_title": "/film/marrowbone/",
+    "adult": false,
+    "id": 399366,
+    "imdb_id": "tt5886440"
+  },
+  {
+    "title": "Titane",
+    "release_year": "2021",
+    "clean_title": "/film/titane/",
+    "adult": false,
+    "id": 630240,
+    "imdb_id": "tt10944760"
+  },
+  {
+    "title": "Gremlins",
+    "release_year": "1984",
+    "clean_title": "/film/gremlins/",
+    "adult": false,
+    "id": 927,
+    "imdb_id": "tt0087363"
+  },
+  {
+    "title": "The Ugly Stepsister",
+    "release_year": "2025",
+    "clean_title": "/film/the-ugly-stepsister/",
+    "adult": false,
+    "id": 1284120,
+    "imdb_id": "tt29344903"
+  },
+  {
+    "title": "Barbarian",
+    "release_year": "2022",
+    "clean_title": "/film/barbarian-2022/",
+    "adult": false,
+    "id": 913290,
+    "imdb_id": "tt15791034"
+  },
+  {
+    "title": "The Others",
+    "release_year": "2001",
+    "clean_title": "/film/the-others/",
+    "adult": false,
+    "id": 1933,
+    "imdb_id": "tt0230600"
+  },
+  {
+    "title": "World War Z",
+    "release_year": "2013",
+    "clean_title": "/film/world-war-z/",
+    "adult": false,
+    "id": 72190,
+    "imdb_id": "tt0816711"
+  },
+  {
+    "title": "A Quiet Place",
+    "release_year": "2018",
+    "clean_title": "/film/a-quiet-place-2018/",
+    "adult": false,
+    "id": 447332,
+    "imdb_id": "tt6644200"
+  },
+  {
+    "title": "An American Werewolf in London",
+    "release_year": "1981",
+    "clean_title": "/film/an-american-werewolf-in-london/",
+    "adult": false,
+    "id": 814,
+    "imdb_id": "tt0082010"
+  },
+  {
+    "title": "The Wailing",
+    "release_year": "2016",
+    "clean_title": "/film/the-wailing/",
+    "adult": false,
+    "id": 293670,
+    "imdb_id": "tt5215952"
+  },
+  {
+    "title": "Scream VI",
+    "release_year": "2023",
+    "clean_title": "/film/scream-vi/",
+    "adult": false,
+    "id": 934433,
+    "imdb_id": "tt17663992"
+  },
+  {
+    "title": "Under the Skin",
+    "release_year": "2013",
+    "clean_title": "/film/under-the-skin-2013/",
+    "adult": false,
+    "id": 97370,
+    "imdb_id": "tt1441395"
+  },
+  {
+    "title": "It Chapter Two",
+    "release_year": "2019",
+    "clean_title": "/film/it-chapter-two/",
+    "adult": false,
+    "id": 474350,
+    "imdb_id": "tt7349950"
+  },
+  {
+    "title": "Final Destination",
+    "release_year": "2000",
+    "clean_title": "/film/final-destination/",
+    "adult": false,
+    "id": 9532,
+    "imdb_id": "tt0195714"
+  },
+  {
+    "title": "The Cabin in the Woods",
+    "release_year": "2011",
+    "clean_title": "/film/the-cabin-in-the-woods/",
+    "adult": false,
+    "id": 22970,
+    "imdb_id": "tt1259521"
+  },
+  {
+    "title": "Saw II",
+    "release_year": "2005",
+    "clean_title": "/film/saw-ii/",
+    "adult": false,
+    "id": 215,
+    "imdb_id": "tt0432348"
+  },
+  {
+    "title": "Jacob's Ladder",
+    "release_year": "1990",
+    "clean_title": "/film/jacobs-ladder/",
+    "adult": false,
+    "id": 2291,
+    "imdb_id": "tt0099871"
+  },
+  {
+    "title": "It Follows",
+    "release_year": "2014",
+    "clean_title": "/film/it-follows/",
+    "adult": false,
+    "id": 270303,
+    "imdb_id": "tt3235888"
+  },
+  {
+    "title": "Misery",
+    "release_year": "1990",
+    "clean_title": "/film/misery/",
+    "adult": false,
+    "id": 1700,
+    "imdb_id": "tt0100157"
+  },
+  {
+    "title": "Insidious",
+    "release_year": "2010",
+    "clean_title": "/film/insidious/",
+    "adult": false,
+    "id": 49018,
+    "imdb_id": "tt1591095"
+  },
+  {
+    "title": "Iron Lung",
+    "release_year": "2026",
+    "clean_title": "/film/iron-lung/",
+    "adult": false,
+    "id": 1116201,
+    "imdb_id": "tt27564844"
+  },
+  {
+    "title": "Incantation",
+    "release_year": "2022",
+    "clean_title": "/film/incantation-2022/",
+    "adult": false,
+    "id": 864370,
+    "imdb_id": "tt18968540"
+  },
+  {
+    "title": "Talk to Me",
+    "release_year": "2022",
+    "clean_title": "/film/talk-to-me-2022/",
+    "adult": false,
+    "id": 1008042,
+    "imdb_id": "tt10638522"
+  },
+  {
+    "title": "Godzilla",
+    "release_year": "1954",
+    "clean_title": "/film/godzilla/",
+    "adult": false,
+    "id": 1678,
+    "imdb_id": "tt0047034"
+  },
+  {
+    "title": "Bodies Bodies Bodies",
+    "release_year": "2022",
+    "clean_title": "/film/bodies-bodies-bodies/",
+    "adult": false,
+    "id": 520023,
+    "imdb_id": "tt8110652"
+  },
+  {
+    "title": "Vampire Hunter D: Bloodlust",
+    "release_year": "2000",
+    "clean_title": "/film/vampire-hunter-d-bloodlust/",
+    "adult": false,
+    "id": 15999,
+    "imdb_id": "tt0216651"
+  },
+  {
+    "title": "Bring Her Back",
+    "release_year": "2025",
+    "clean_title": "/film/bring-her-back/",
+    "adult": false,
+    "id": 1151031,
+    "imdb_id": "tt32246771"
+  },
+  {
+    "title": "House of Wax",
+    "release_year": "2005",
+    "clean_title": "/film/house-of-wax-2005/",
+    "adult": false,
+    "id": 10066,
+    "imdb_id": "tt0397065"
+  },
+  {
+    "title": "Dawn of the Dead",
+    "release_year": "1978",
+    "clean_title": "/film/dawn-of-the-dead/",
+    "adult": false,
+    "id": 923,
+    "imdb_id": "tt0077402"
+  },
+  {
+    "title": "Companion",
+    "release_year": "2025",
+    "clean_title": "/film/companion-2025/",
+    "adult": false,
+    "id": 1084199,
+    "imdb_id": "tt26584495"
+  },
+  {
+    "title": "The Descent",
+    "release_year": "2005",
+    "clean_title": "/film/the-descent/",
+    "adult": false,
+    "id": 9392,
+    "imdb_id": "tt0435625"
+  },
+  {
+    "title": "Bride of Chucky",
+    "release_year": "1998",
+    "clean_title": "/film/bride-of-chucky/",
+    "adult": false,
+    "id": 11932,
+    "imdb_id": "tt0144120"
+  },
+  {
+    "title": "Alien: Romulus",
+    "release_year": "2024",
+    "clean_title": "/film/alien-romulus/",
+    "adult": false,
+    "id": 945961,
+    "imdb_id": "tt18412256"
+  },
+  {
+    "title": "Valerie and Her Week of Wonders",
+    "release_year": "1970",
+    "clean_title": "/film/valerie-and-her-week-of-wonders/",
+    "adult": false,
+    "id": 46315,
+    "imdb_id": "tt0066516"
+  },
+  {
+    "title": "Backrooms",
+    "release_year": "2026",
+    "clean_title": "/film/backrooms-2026/",
+    "adult": false,
+    "id": 1083381,
+    "imdb_id": "tt26657236"
+  },
+  {
+    "title": "Let the Right One In",
+    "release_year": "2008",
+    "clean_title": "/film/let-the-right-one-in/",
+    "adult": false,
+    "id": 13310,
+    "imdb_id": "tt1139797"
+  },
+  {
+    "title": "Fear Street: 1994",
+    "release_year": "2021",
+    "clean_title": "/film/fear-street-1994/",
+    "adult": false,
+    "id": 591273,
+    "imdb_id": "tt6566576"
+  },
+  {
+    "title": "Silent Hill",
+    "release_year": "2006",
+    "clean_title": "/film/silent-hill/",
+    "adult": false,
+    "id": 588,
+    "imdb_id": "tt0384537"
+  },
+  {
+    "title": "Heretic",
+    "release_year": "2024",
+    "clean_title": "/film/heretic-2024/",
+    "adult": false,
+    "id": 1138194,
+    "imdb_id": "tt28015403"
+  },
+  {
+    "title": "Fear Street: 1666",
+    "release_year": "2021",
+    "clean_title": "/film/fear-street-1666/",
+    "adult": false,
+    "id": 591275,
+    "imdb_id": "tt9701942"
+  },
+  {
+    "title": "Nosferatu",
+    "release_year": "1922",
+    "clean_title": "/film/nosferatu/",
+    "adult": false,
+    "id": 653,
+    "imdb_id": "tt0013442"
+  },
+  {
+    "title": "Spree",
+    "release_year": "2020",
+    "clean_title": "/film/spree-2020/",
+    "adult": false,
+    "id": 653598,
+    "imdb_id": "tt11394332"
+  },
+  {
+    "title": "Ichi the Killer",
+    "release_year": "2001",
+    "clean_title": "/film/ichi-the-killer/",
+    "adult": false,
+    "id": 9696,
+    "imdb_id": "tt0296042"
+  },
+  {
+    "title": "Scream",
+    "release_year": "2022",
+    "clean_title": "/film/scream-2022/",
+    "adult": false,
+    "id": 646385,
+    "imdb_id": "tt11245972"
+  },
+  {
+    "title": "The Cabinet of Dr. Caligari",
+    "release_year": "1920",
+    "clean_title": "/film/the-cabinet-of-dr-caligari-1920/",
+    "adult": false,
+    "id": 234,
+    "imdb_id": "tt0010323"
+  },
+  {
+    "title": "Five Nights at Freddy's 2",
+    "release_year": "2025",
+    "clean_title": "/film/five-nights-at-freddys-2/",
+    "adult": false,
+    "id": 1228246,
+    "imdb_id": "tt30274401"
+  },
+  {
+    "title": "Tetsuo: The Iron Man",
+    "release_year": "1989",
+    "clean_title": "/film/tetsuo-the-iron-man/",
+    "adult": false,
+    "id": 41428,
+    "imdb_id": "tt0096251"
+  },
+  {
+    "title": "Terrifier",
+    "release_year": "2016",
+    "clean_title": "/film/terrifier-2016/",
+    "adult": false,
+    "id": 420634,
+    "imdb_id": "tt4281724"
+  },
+  {
+    "title": "Smile 2",
+    "release_year": "2024",
+    "clean_title": "/film/smile-2-2024/",
+    "adult": false,
+    "id": 1100782,
+    "imdb_id": "tt29268110"
+  },
+  {
+    "title": "Mad God",
+    "release_year": "2021",
+    "clean_title": "/film/mad-god/",
+    "adult": false,
+    "id": 846867,
+    "imdb_id": "tt15090124"
+  },
+  {
+    "title": "A Girl Walks Home Alone at Night",
+    "release_year": "2014",
+    "clean_title": "/film/a-girl-walks-home-alone-at-night/",
+    "adult": false,
+    "id": 252171,
+    "imdb_id": "tt2326554"
+  },
+  {
+    "title": "Elvira: Mistress of the Dark",
+    "release_year": "1988",
+    "clean_title": "/film/elvira-mistress-of-the-dark/",
+    "adult": false,
+    "id": 5680,
+    "imdb_id": "tt0095088"
+  },
+  {
+    "title": "Blade",
+    "release_year": "1998",
+    "clean_title": "/film/blade/",
+    "adult": false,
+    "id": 36647,
+    "imdb_id": "tt0120611"
+  },
+  {
+    "title": "28 Years Later: The Bone Temple",
+    "release_year": "2026",
+    "clean_title": "/film/28-years-later-the-bone-temple/",
+    "adult": false,
+    "id": 1272837,
+    "imdb_id": "tt32141377"
+  },
+  {
+    "title": "28 Years Later",
+    "release_year": "2025",
+    "clean_title": "/film/28-years-later/",
+    "adult": false,
+    "id": 1100988,
+    "imdb_id": "tt10548174"
+  },
+  {
+    "title": "Audition",
+    "release_year": "1999",
+    "clean_title": "/film/audition/",
+    "adult": false,
+    "id": 11075,
+    "imdb_id": "tt0235198"
+  },
+  {
+    "title": "Black Phone 2",
+    "release_year": "2025",
+    "clean_title": "/film/black-phone-2/",
+    "adult": false,
+    "id": 1197137,
+    "imdb_id": "tt29644189"
+  },
+  {
+    "title": "Pulse",
+    "release_year": "2001",
+    "clean_title": "/film/pulse-2001/",
+    "adult": false,
+    "id": 27324,
+    "imdb_id": "tt0286751"
+  },
+  {
+    "title": "Saw III",
+    "release_year": "2006",
+    "clean_title": "/film/saw-iii/",
+    "adult": false,
+    "id": 214,
+    "imdb_id": "tt0489270"
+  },
+  {
+    "title": "Child's Play",
+    "release_year": "1988",
+    "clean_title": "/film/childs-play/",
+    "adult": false,
+    "id": 10585,
+    "imdb_id": "tt0094862"
+  },
+  {
+    "title": "The Return of the Living Dead",
+    "release_year": "1985",
+    "clean_title": "/film/the-return-of-the-living-dead/",
+    "adult": false,
+    "id": 10925,
+    "imdb_id": "tt0089907"
+  },
+  {
+    "title": "The Skin I Live In",
+    "release_year": "2011",
+    "clean_title": "/film/the-skin-i-live-in/",
+    "adult": false,
+    "id": 63311,
+    "imdb_id": "tt1189073"
+  },
+  {
+    "title": "Eyes Without a Face",
+    "release_year": "1960",
+    "clean_title": "/film/eyes-without-a-face/",
+    "adult": false,
+    "id": 31417,
+    "imdb_id": "tt0053459"
+  },
+  {
+    "title": "Cloverfield",
+    "release_year": "2008",
+    "clean_title": "/film/cloverfield/",
+    "adult": false,
+    "id": 7191,
+    "imdb_id": "tt1060277"
+  },
+  {
+    "title": "Braindead",
+    "release_year": "1992",
+    "clean_title": "/film/braindead-1992/",
+    "adult": false,
+    "id": 763,
+    "imdb_id": "tt0103873"
+  },
+  {
+    "title": "Like Minds",
+    "release_year": "2006",
+    "clean_title": "/film/like-minds/",
+    "adult": false,
+    "id": 15714,
+    "imdb_id": "tt0425196"
+  },
+  {
+    "title": "MaXXXine",
+    "release_year": "2024",
+    "clean_title": "/film/maxxxine/",
+    "adult": false,
+    "id": 1023922,
+    "imdb_id": "tt22048412"
+  },
+  {
+    "title": "Night of the Living Dead",
+    "release_year": "1968",
+    "clean_title": "/film/night-of-the-living-dead/",
+    "adult": false,
+    "id": 10331,
+    "imdb_id": "tt0063350"
+  },
+  {
+    "title": "The Babadook",
+    "release_year": "2014",
+    "clean_title": "/film/the-babadook/",
+    "adult": false,
+    "id": 242224,
+    "imdb_id": "tt2321549"
+  },
+  {
+    "title": "Black Christmas",
+    "release_year": "1974",
+    "clean_title": "/film/black-christmas/",
+    "adult": false,
+    "id": 16938,
+    "imdb_id": "tt0071222"
+  },
+  {
+    "title": "Fresh",
+    "release_year": "2022",
+    "clean_title": "/film/fresh-2022/",
+    "adult": false,
+    "id": 787752,
+    "imdb_id": "tt13403046"
+  },
+  {
+    "title": "Salò, or the 120 Days of Sodom",
+    "release_year": "1975",
+    "clean_title": "/film/salo-or-the-120-days-of-sodom/",
+    "adult": false,
+    "id": 5336,
+    "imdb_id": "tt0073650"
+  },
+  {
+    "title": "Orphan",
+    "release_year": "2009",
+    "clean_title": "/film/orphan/",
+    "adult": false,
+    "id": 21208,
+    "imdb_id": "tt1148204"
+  },
+  {
+    "title": "Prometheus",
+    "release_year": "2012",
+    "clean_title": "/film/prometheus/",
+    "adult": false,
+    "id": 70981,
+    "imdb_id": "tt1446714"
+  },
+  {
+    "title": "Repo! The Genetic Opera",
+    "release_year": "2008",
+    "clean_title": "/film/repo-the-genetic-opera/",
+    "adult": false,
+    "id": 14353,
+    "imdb_id": "tt0963194"
+  },
+  {
+    "title": "Terrifier 2",
+    "release_year": "2022",
+    "clean_title": "/film/terrifier-2/",
+    "adult": false,
+    "id": 663712,
+    "imdb_id": "tt10403420"
+  },
+  {
+    "title": "Fear",
+    "release_year": "1996",
+    "clean_title": "/film/fear-1996/",
+    "adult": false,
+    "id": 10543,
+    "imdb_id": "tt0116287"
+  },
+  {
+    "title": "American Mary",
+    "release_year": "2012",
+    "clean_title": "/film/american-mary/",
+    "adult": false,
+    "id": 126277,
+    "imdb_id": "tt1959332"
+  },
+  {
+    "title": "What Ever Happened to Baby Jane?",
+    "release_year": "1962",
+    "clean_title": "/film/what-ever-happened-to-baby-jane/",
+    "adult": false,
+    "id": 10242,
+    "imdb_id": "tt0056687"
+  },
+  {
+    "title": "Van Helsing",
+    "release_year": "2004",
+    "clean_title": "/film/van-helsing/",
+    "adult": false,
+    "id": 7131,
+    "imdb_id": "tt0338526"
+  },
+  {
+    "title": "Skinamarink",
+    "release_year": "2022",
+    "clean_title": "/film/skinamarink/",
+    "adult": false,
+    "id": 994143,
+    "imdb_id": "tt21307994"
+  },
+  {
+    "title": "From Dusk Till Dawn",
+    "release_year": "1996",
+    "clean_title": "/film/from-dusk-till-dawn/",
+    "adult": false,
+    "id": 755,
+    "imdb_id": "tt0116367"
+  },
+  {
+    "title": "The Devils",
+    "release_year": "1971",
+    "clean_title": "/film/the-devils/",
+    "adult": false,
+    "id": 31767,
+    "imdb_id": "tt0066993"
+  },
+  {
+    "title": "The Ring",
+    "release_year": "2002",
+    "clean_title": "/film/the-ring-2002/",
+    "adult": false,
+    "id": 565,
+    "imdb_id": "tt0298130"
+  },
+  {
+    "title": "Blink Twice",
+    "release_year": "2024",
+    "clean_title": "/film/blink-twice/",
+    "adult": false,
+    "id": 840705,
+    "imdb_id": "tt14858658"
+  },
+  {
+    "title": "Terrifier 3",
+    "release_year": "2024",
+    "clean_title": "/film/terrifier-3/",
+    "adult": false,
+    "id": 1034541,
+    "imdb_id": "tt27911000"
+  },
+  {
+    "title": "Green Room",
+    "release_year": "2015",
+    "clean_title": "/film/green-room/",
+    "adult": false,
+    "id": 313922,
+    "imdb_id": "tt4062536"
+  },
+  {
+    "title": "Evil Dead Rise",
+    "release_year": "2023",
+    "clean_title": "/film/evil-dead-rise/",
+    "adult": false,
+    "id": 713704,
+    "imdb_id": "tt13345606"
+  },
+  {
+    "title": "The Neon Demon",
+    "release_year": "2016",
+    "clean_title": "/film/the-neon-demon/",
+    "adult": false,
+    "id": 301365,
+    "imdb_id": "tt1974419"
+  },
+  {
+    "title": "Lake Mungo",
+    "release_year": "2008",
+    "clean_title": "/film/lake-mungo/",
+    "adult": false,
+    "id": 27374,
+    "imdb_id": "tt0816556"
+  },
+  {
+    "title": "Liverleaf",
+    "release_year": "2018",
+    "clean_title": "/film/liverleaf/",
+    "adult": false,
+    "id": 498934,
+    "imdb_id": "tt7155170"
+  },
+  {
+    "title": "Stoker",
+    "release_year": "2013",
+    "clean_title": "/film/stoker/",
+    "adult": false,
+    "id": 86825,
+    "imdb_id": "tt1682180"
+  },
+  {
+    "title": "The Vanishing",
+    "release_year": "1988",
+    "clean_title": "/film/the-vanishing/",
+    "adult": false,
+    "id": 8740,
+    "imdb_id": "tt0096163"
+  },
+  {
+    "title": "Friday the 13th",
+    "release_year": "1980",
+    "clean_title": "/film/friday-the-13th/",
+    "adult": false,
+    "id": 4488,
+    "imdb_id": "tt0080761"
+  },
+  {
+    "title": "Santa Sangre",
+    "release_year": "1989",
+    "clean_title": "/film/santa-sangre/",
+    "adult": false,
+    "id": 19236,
+    "imdb_id": "tt0098253"
+  },
+  {
+    "title": "Candyman",
+    "release_year": "1992",
+    "clean_title": "/film/candyman/",
+    "adult": false,
+    "id": 9529,
+    "imdb_id": "tt0103919"
+  },
+  {
+    "title": "Creep 2",
+    "release_year": "2017",
+    "clean_title": "/film/creep-2/",
+    "adult": false,
+    "id": 396493,
+    "imdb_id": "tt3654796"
+  },
+  {
+    "title": "Warm Bodies",
+    "release_year": "2013",
+    "clean_title": "/film/warm-bodies/",
+    "adult": false,
+    "id": 82654,
+    "imdb_id": "tt1588173"
+  },
+  {
+    "title": "Tremors",
+    "release_year": "1990",
+    "clean_title": "/film/tremors/",
+    "adult": false,
+    "id": 9362,
+    "imdb_id": "tt0100814"
+  },
+  {
+    "title": "Attack on Titan",
+    "release_year": "2015",
+    "clean_title": "/film/attack-on-titan/",
+    "adult": false,
+    "id": 295830,
+    "imdb_id": "tt2072230"
+  },
+  {
+    "title": "When Evil Lurks",
+    "release_year": "2023",
+    "clean_title": "/film/when-evil-lurks/",
+    "adult": false,
+    "id": 744857,
+    "imdb_id": "tt16300962"
+  },
+  {
+    "title": "Scooby-Doo on Zombie Island",
+    "release_year": "1998",
+    "clean_title": "/film/scooby-doo-on-zombie-island/",
+    "adult": false,
+    "id": 13151,
+    "imdb_id": "tt0166792"
+  },
+  {
+    "title": "Antichrist",
+    "release_year": "2009",
+    "clean_title": "/film/antichrist/",
+    "adult": false,
+    "id": 17609,
+    "imdb_id": "tt0870984"
+  },
+  {
+    "title": "Queen of the Damned",
+    "release_year": "2002",
+    "clean_title": "/film/queen-of-the-damned/",
+    "adult": false,
+    "id": 11979,
+    "imdb_id": "tt0238546"
+  },
+  {
+    "title": "Final Destination Bloodlines",
+    "release_year": "2025",
+    "clean_title": "/film/final-destination-bloodlines/",
+    "adult": false,
+    "id": 574475,
+    "imdb_id": "tt9619824"
+  },
+  {
+    "title": "Nosferatu the Vampyre",
+    "release_year": "1979",
+    "clean_title": "/film/nosferatu-the-vampyre/",
+    "adult": false,
+    "id": 6404,
+    "imdb_id": "tt0079641"
+  },
+  {
+    "title": "The Autopsy of Jane Doe",
+    "release_year": "2016",
+    "clean_title": "/film/the-autopsy-of-jane-doe/",
+    "adult": false,
+    "id": 397243,
+    "imdb_id": "tt3289956"
+  },
+  {
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "release_year": "2021",
+    "clean_title": "/film/the-conjuring-the-devil-made-me-do-it/",
+    "adult": false,
+    "id": 423108,
+    "imdb_id": "tt7069210"
+  },
+  {
+    "title": "Late Night with the Devil",
+    "release_year": "2023",
+    "clean_title": "/film/late-night-with-the-devil/",
+    "adult": false,
+    "id": 938614,
+    "imdb_id": "tt14966898"
+  },
+  {
+    "title": "Deep Red",
+    "release_year": "1975",
+    "clean_title": "/film/deep-red/",
+    "adult": false,
+    "id": 20126,
+    "imdb_id": "tt0073582"
+  },
+  {
+    "title": "Jeepers Creepers",
+    "release_year": "2001",
+    "clean_title": "/film/jeepers-creepers/",
+    "adult": false,
+    "id": 8922,
+    "imdb_id": "tt0263488"
+  },
+  {
+    "title": "The Texas Chainsaw Massacre 2",
+    "release_year": "1986",
+    "clean_title": "/film/the-texas-chainsaw-massacre-2/",
+    "adult": false,
+    "id": 16337,
+    "imdb_id": "tt0092076"
+  },
+  {
+    "title": "Alice",
+    "release_year": "1988",
+    "clean_title": "/film/alice-1988/",
+    "adult": false,
+    "id": 18917,
+    "imdb_id": "tt0095715"
+  },
+  {
+    "title": "Trick 'r Treat",
+    "release_year": "2007",
+    "clean_title": "/film/trick-r-treat/",
+    "adult": false,
+    "id": 23202,
+    "imdb_id": "tt0862856"
+  },
+  {
+    "title": "The Ritual",
+    "release_year": "2017",
+    "clean_title": "/film/the-ritual-2017/",
+    "adult": false,
+    "id": 433808,
+    "imdb_id": "tt5638642"
+  },
+  {
+    "title": "Scream 2",
+    "release_year": "1997",
+    "clean_title": "/film/scream-2/",
+    "adult": false,
+    "id": 4233,
+    "imdb_id": "tt0120082"
+  },
+  {
+    "title": "Saw X",
+    "release_year": "2023",
+    "clean_title": "/film/saw-x/",
+    "adult": false,
+    "id": 951491,
+    "imdb_id": "tt21807222"
+  },
+  {
+    "title": "One Cut of the Dead",
+    "release_year": "2017",
+    "clean_title": "/film/one-cut-of-the-dead/",
+    "adult": false,
+    "id": 513434,
+    "imdb_id": "tt7914416"
+  },
+  {
+    "title": "The Mist",
+    "release_year": "2007",
+    "clean_title": "/film/the-mist/",
+    "adult": false,
+    "id": 5876,
+    "imdb_id": "tt0884328"
+  },
+  {
+    "title": "The Birds",
+    "release_year": "1963",
+    "clean_title": "/film/the-birds/",
+    "adult": false,
+    "id": 571,
+    "imdb_id": "tt0056869"
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "release_year": "1990",
+    "clean_title": "/film/gremlins-2-the-new-batch/",
+    "adult": false,
+    "id": 928,
+    "imdb_id": "tt0099700"
+  },
+  {
+    "title": "Ring",
+    "release_year": "1998",
+    "clean_title": "/film/ring-1998/",
+    "adult": false,
+    "id": 2671,
+    "imdb_id": "tt0178868"
+  },
+  {
+    "title": "Dead Ringers",
+    "release_year": "1988",
+    "clean_title": "/film/dead-ringers/",
+    "adult": false,
+    "id": 9540,
+    "imdb_id": "tt0094964"
+  },
+  {
+    "title": "Event Horizon",
+    "release_year": "1997",
+    "clean_title": "/film/event-horizon/",
+    "adult": false,
+    "id": 8413,
+    "imdb_id": "tt0119081"
+  },
+  {
+    "title": "Halloween",
+    "release_year": "2018",
+    "clean_title": "/film/halloween-2018/",
+    "adult": false,
+    "id": 424139,
+    "imdb_id": "tt1502407"
+  },
+  {
+    "title": "The Wolf House",
+    "release_year": "2018",
+    "clean_title": "/film/the-wolf-house/",
+    "adult": false,
+    "id": 499537,
+    "imdb_id": "tt8173728"
+  },
+  {
+    "title": "Noroi: The Curse",
+    "release_year": "2005",
+    "clean_title": "/film/noroi-the-curse/",
+    "adult": false,
+    "id": 21506,
+    "imdb_id": "tt0930083"
+  },
+  {
+    "title": "Hannibal",
+    "release_year": "2001",
+    "clean_title": "/film/hannibal/",
+    "adult": false,
+    "id": 9740,
+    "imdb_id": "tt0212985"
+  },
+  {
+    "title": "Smile",
+    "release_year": "2022",
+    "clean_title": "/film/smile-2022/",
+    "adult": false,
+    "id": 882598,
+    "imdb_id": "tt15474916"
+  },
+  {
+    "title": "The Strangers",
+    "release_year": "2008",
+    "clean_title": "/film/the-strangers/",
+    "adult": false,
+    "id": 10665,
+    "imdb_id": "tt0482606"
+  },
+  {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "release_year": "1987",
+    "clean_title": "/film/a-nightmare-on-elm-street-3-dream-warriors/",
+    "adult": false,
+    "id": 10072,
+    "imdb_id": "tt0093629"
+  },
+  {
+    "title": "Doctor Sleep",
+    "release_year": "2019",
+    "clean_title": "/film/doctor-sleep/",
+    "adult": false,
+    "id": 501170,
+    "imdb_id": "tt5606664"
+  },
+  {
+    "title": "Manhunter",
+    "release_year": "1986",
+    "clean_title": "/film/manhunter/",
+    "adult": false,
+    "id": 11454,
+    "imdb_id": "tt0091474"
+  },
+  {
+    "title": "Resident Evil",
+    "release_year": "2002",
+    "clean_title": "/film/resident-evil/",
+    "adult": false,
+    "id": 1576,
+    "imdb_id": "tt0120804"
+  }
+]

@@ -1,0 +1,793 @@
+[
+  {
+    "title": "Close-Up",
+    "release_year": "1990",
+    "clean_title": "/film/close-up/",
+    "adult": false,
+    "id": 30017,
+    "imdb_id": "tt0100234"
+  },
+  {
+    "title": "Where Is the Friend's House?",
+    "release_year": "1987",
+    "clean_title": "/film/where-is-the-friends-house/",
+    "adult": false,
+    "id": 49964,
+    "imdb_id": "tt0093342"
+  },
+  {
+    "title": "A Separation",
+    "release_year": "2011",
+    "clean_title": "/film/a-separation/",
+    "adult": false,
+    "id": 60243,
+    "imdb_id": "tt1832382"
+  },
+  {
+    "title": "Death of Yazdgerd",
+    "release_year": "1982",
+    "clean_title": "/film/death-of-yazdgerd/",
+    "adult": false,
+    "id": 266225,
+    "imdb_id": "tt0084304"
+  },
+  {
+    "title": "Taste of Cherry",
+    "release_year": "1997",
+    "clean_title": "/film/taste-of-cherry/",
+    "adult": false,
+    "id": 30020,
+    "imdb_id": "tt0120265"
+  },
+  {
+    "title": "Life, and Nothing More…",
+    "release_year": "1992",
+    "clean_title": "/film/life-and-nothing-more/",
+    "adult": false,
+    "id": 83761,
+    "imdb_id": "tt0105888"
+  },
+  {
+    "title": "Still Life",
+    "release_year": "1974",
+    "clean_title": "/film/still-life-1974/",
+    "adult": false,
+    "id": 213592,
+    "imdb_id": "tt0072248"
+  },
+  {
+    "title": "A Moment of Innocence",
+    "release_year": "1996",
+    "clean_title": "/film/a-moment-of-innocence/",
+    "adult": false,
+    "id": 43976,
+    "imdb_id": "tt0117214"
+  },
+  {
+    "title": "Children of Heaven",
+    "release_year": "1997",
+    "clean_title": "/film/children-of-heaven/",
+    "adult": false,
+    "id": 21334,
+    "imdb_id": "tt0118849"
+  },
+  {
+    "title": "Through the Olive Trees",
+    "release_year": "1994",
+    "clean_title": "/film/through-the-olive-trees/",
+    "adult": false,
+    "id": 47104,
+    "imdb_id": "tt0111845"
+  },
+  {
+    "title": "Bashu, the Little Stranger",
+    "release_year": "1989",
+    "clean_title": "/film/bashu-the-little-stranger/",
+    "adult": false,
+    "id": 43980,
+    "imdb_id": "tt0096894"
+  },
+  {
+    "title": "About Elly",
+    "release_year": "2009",
+    "clean_title": "/film/about-elly/",
+    "adult": false,
+    "id": 37181,
+    "imdb_id": "tt1360860"
+  },
+  {
+    "title": "The Brick and the Mirror",
+    "release_year": "1966",
+    "clean_title": "/film/the-brick-and-the-mirror/",
+    "adult": false,
+    "id": 149135,
+    "imdb_id": "tt0122130"
+  },
+  {
+    "title": "The Runner",
+    "release_year": "1984",
+    "clean_title": "/film/the-runner/",
+    "adult": false,
+    "id": 213938,
+    "imdb_id": "tt0088992"
+  },
+  {
+    "title": "A Simple Event",
+    "release_year": "1973",
+    "clean_title": "/film/a-simple-event/",
+    "adult": false,
+    "id": 318342,
+    "imdb_id": "tt0070938"
+  },
+  {
+    "title": "The Wind Will Carry Us",
+    "release_year": "1999",
+    "clean_title": "/film/the-wind-will-carry-us/",
+    "adult": false,
+    "id": 43423,
+    "imdb_id": "tt0209463"
+  },
+  {
+    "title": "The White Meadows",
+    "release_year": "2009",
+    "clean_title": "/film/the-white-meadows/",
+    "adult": false,
+    "id": 98238,
+    "imdb_id": "tt1509132"
+  },
+  {
+    "title": "Willow and Wind",
+    "release_year": "1999",
+    "clean_title": "/film/willow-and-wind/",
+    "adult": false,
+    "id": 247447,
+    "imdb_id": "tt0243218"
+  },
+  {
+    "title": "Dead End",
+    "release_year": "1977",
+    "clean_title": "/film/dead-end-1977/",
+    "adult": false,
+    "id": 283024,
+    "imdb_id": "tt0078893"
+  },
+  {
+    "title": "The Cow",
+    "release_year": "1969",
+    "clean_title": "/film/the-cow-1969/",
+    "adult": false,
+    "id": 43984,
+    "imdb_id": "tt0064356"
+  },
+  {
+    "title": "It Was Just an Accident",
+    "release_year": "2025",
+    "clean_title": "/film/it-was-just-an-accident/",
+    "adult": false,
+    "id": 1456349,
+    "imdb_id": "tt36491653"
+  },
+  {
+    "title": "Chess of the Wind",
+    "release_year": "1976",
+    "clean_title": "/film/chess-of-the-wind/",
+    "adult": false,
+    "id": 194088,
+    "imdb_id": "tt0318069"
+  },
+  {
+    "title": "The Mirror",
+    "release_year": "1997",
+    "clean_title": "/film/the-mirror/",
+    "adult": false,
+    "id": 40882,
+    "imdb_id": "tt0117056"
+  },
+  {
+    "title": "The Color of Paradise",
+    "release_year": "1999",
+    "clean_title": "/film/the-color-of-paradise/",
+    "adult": false,
+    "id": 17078,
+    "imdb_id": "tt0191043"
+  },
+  {
+    "title": "Vaziat Sefid",
+    "release_year": "2011",
+    "clean_title": "/film/vaziat-sefid/",
+    "adult": false,
+    "id": 611031,
+    "imdb_id": "tt6217954"
+  },
+  {
+    "title": "The Mongols",
+    "release_year": "1973",
+    "clean_title": "/film/the-mongols/",
+    "adult": false,
+    "id": 260294,
+    "imdb_id": "tt0206947"
+  },
+  {
+    "title": "Hit the Road",
+    "release_year": "2021",
+    "clean_title": "/film/hit-the-road-2021/",
+    "adult": false,
+    "id": 838154,
+    "imdb_id": "tt14812782"
+  },
+  {
+    "title": "The Stranger and the Fog",
+    "release_year": "1974",
+    "clean_title": "/film/the-stranger-and-the-fog/",
+    "adult": false,
+    "id": 266230,
+    "imdb_id": "tt0071549"
+  },
+  {
+    "title": "Captain Khorshid",
+    "release_year": "1987",
+    "clean_title": "/film/captain-khorshid/",
+    "adult": false,
+    "id": 257687,
+    "imdb_id": "tt0122186"
+  },
+  {
+    "title": "Ballad of Tara",
+    "release_year": "1979",
+    "clean_title": "/film/ballad-of-tara/",
+    "adult": false,
+    "id": 266217,
+    "imdb_id": "tt0079997"
+  },
+  {
+    "title": "Night of the Hunchback",
+    "release_year": "1965",
+    "clean_title": "/film/night-of-the-hunchback/",
+    "adult": false,
+    "id": 315013,
+    "imdb_id": "tt0311583"
+  },
+  {
+    "title": "The White Balloon",
+    "release_year": "1995",
+    "clean_title": "/film/the-white-balloon/",
+    "adult": false,
+    "id": 46785,
+    "imdb_id": "tt0112445"
+  },
+  {
+    "title": "Harmonica",
+    "release_year": "1974",
+    "clean_title": "/film/harmonica-1974/",
+    "adult": false,
+    "id": 327194,
+    "imdb_id": "tt0072117"
+  },
+  {
+    "title": "The Traveler",
+    "release_year": "1974",
+    "clean_title": "/film/the-traveler-1974-1/",
+    "adult": false,
+    "id": 54001,
+    "imdb_id": "tt0071859"
+  },
+  {
+    "title": "A Time for Drunken Horses",
+    "release_year": "2000",
+    "clean_title": "/film/a-time-for-drunken-horses/",
+    "adult": false,
+    "id": 29270,
+    "imdb_id": "tt0259072"
+  },
+  {
+    "title": "The Day I Became a Woman",
+    "release_year": "2000",
+    "clean_title": "/film/the-day-i-became-a-woman/",
+    "adult": false,
+    "id": 44069,
+    "imdb_id": "tt0260332"
+  },
+  {
+    "title": "A Few Kilos of Dates for a Funeral",
+    "release_year": "2006",
+    "clean_title": "/film/a-few-kilos-of-dates-for-a-funeral/",
+    "adult": false,
+    "id": 45895,
+    "imdb_id": "tt0922379"
+  },
+  {
+    "title": "Offside",
+    "release_year": "2006",
+    "clean_title": "/film/offside/",
+    "adult": false,
+    "id": 13209,
+    "imdb_id": "tt0499537"
+  },
+  {
+    "title": "No Bears",
+    "release_year": "2022",
+    "clean_title": "/film/no-bears/",
+    "adult": false,
+    "id": 974521,
+    "imdb_id": "tt20205236"
+  },
+  {
+    "title": "Buddha Collapsed Out of Shame",
+    "release_year": "2007",
+    "clean_title": "/film/buddha-collapsed-out-of-shame/",
+    "adult": false,
+    "id": 61820,
+    "imdb_id": "tt1094627"
+  },
+  {
+    "title": "White Nights",
+    "release_year": "2003",
+    "clean_title": "/film/white-nights-2003/",
+    "adult": false,
+    "id": 409703,
+    "imdb_id": "tt0423166"
+  },
+  {
+    "title": "Ten",
+    "release_year": "2002",
+    "clean_title": "/film/ten-2002/",
+    "adult": false,
+    "id": 14633,
+    "imdb_id": "tt0301978"
+  },
+  {
+    "title": "The Salesman",
+    "release_year": "2016",
+    "clean_title": "/film/the-salesman-2016/",
+    "adult": false,
+    "id": 375315,
+    "imdb_id": "tt5186714"
+  },
+  {
+    "title": "Taxi",
+    "release_year": "2015",
+    "clean_title": "/film/taxi-2015/",
+    "adult": false,
+    "id": 320006,
+    "imdb_id": "tt4359416"
+  },
+  {
+    "title": "The Abadanis",
+    "release_year": "1994",
+    "clean_title": "/film/the-abadanis/",
+    "adult": false,
+    "id": 471881,
+    "imdb_id": "tt0106207"
+  },
+  {
+    "title": "Crimson Gold",
+    "release_year": "2003",
+    "clean_title": "/film/crimson-gold/",
+    "adult": false,
+    "id": 40427,
+    "imdb_id": "tt0371280"
+  },
+  {
+    "title": "Waiting",
+    "release_year": "1974",
+    "clean_title": "/film/waiting-1974/",
+    "adult": false,
+    "id": 370465,
+    "imdb_id": "tt0071468"
+  },
+  {
+    "title": "Travelers",
+    "release_year": "1992",
+    "clean_title": "/film/travelers-1992/",
+    "adult": false,
+    "id": 263207,
+    "imdb_id": "tt0104919"
+  },
+  {
+    "title": "Downpour",
+    "release_year": "1972",
+    "clean_title": "/film/downpour-1972/",
+    "adult": false,
+    "id": 134346,
+    "imdb_id": "tt0067649"
+  },
+  {
+    "title": "The Circle",
+    "release_year": "2000",
+    "clean_title": "/film/the-circle/",
+    "adult": false,
+    "id": 13898,
+    "imdb_id": "tt0255094"
+  },
+  {
+    "title": "Fireworks Wednesday",
+    "release_year": "2006",
+    "clean_title": "/film/fireworks-wednesday/",
+    "adult": false,
+    "id": 43766,
+    "imdb_id": "tt0845439"
+  },
+  {
+    "title": "Far from Home",
+    "release_year": "1975",
+    "clean_title": "/film/far-from-home-1975/",
+    "adult": false,
+    "id": 264535,
+    "imdb_id": "tt0072843"
+  },
+  {
+    "title": "Once Upon a Time, Cinema",
+    "release_year": "1992",
+    "clean_title": "/film/once-upon-a-time-cinema/",
+    "adult": false,
+    "id": 43977,
+    "imdb_id": "tt0104974"
+  },
+  {
+    "title": "There Is No Evil",
+    "release_year": "2020",
+    "clean_title": "/film/there-is-no-evil/",
+    "adult": false,
+    "id": 667935,
+    "imdb_id": "tt11697844"
+  },
+  {
+    "title": "Gabbeh",
+    "release_year": "1996",
+    "clean_title": "/film/gabbeh/",
+    "adult": false,
+    "id": 43771,
+    "imdb_id": "tt0116384"
+  },
+  {
+    "title": "Killing Mad Dogs",
+    "release_year": "2001",
+    "clean_title": "/film/killing-mad-dogs/",
+    "adult": false,
+    "id": 266215,
+    "imdb_id": "tt0278006"
+  },
+  {
+    "title": "Spectre of Scorpion",
+    "release_year": "1987",
+    "clean_title": "/film/spectre-of-scorpion/",
+    "adult": false,
+    "id": 444977,
+    "imdb_id": "tt0149071"
+  },
+  {
+    "title": "Beehive",
+    "release_year": "1975",
+    "clean_title": "/film/beehive/",
+    "adult": false,
+    "id": 400501,
+    "imdb_id": "tt0319640"
+  },
+  {
+    "title": "The Song of Sparrows",
+    "release_year": "2008",
+    "clean_title": "/film/the-song-of-sparrows/",
+    "adult": false,
+    "id": 54254,
+    "imdb_id": "tt0997246"
+  },
+  {
+    "title": "A Hero",
+    "release_year": "2021",
+    "clean_title": "/film/a-hero/",
+    "adult": false,
+    "id": 672208,
+    "imdb_id": "tt11777738"
+  },
+  {
+    "title": "24 Frames",
+    "release_year": "2017",
+    "clean_title": "/film/24-frames/",
+    "adult": false,
+    "id": 377269,
+    "imdb_id": "tt6777170"
+  },
+  {
+    "title": "The Silence",
+    "release_year": "1998",
+    "clean_title": "/film/the-silence-1998/",
+    "adult": false,
+    "id": 43974,
+    "imdb_id": "tt0152438"
+  },
+  {
+    "title": "Bitter Dream",
+    "release_year": "2005",
+    "clean_title": "/film/bitter-dream/",
+    "adult": false,
+    "id": 315893,
+    "imdb_id": "tt0423868"
+  },
+  {
+    "title": "The Pear Tree",
+    "release_year": "1998",
+    "clean_title": "/film/the-pear-tree/",
+    "adult": false,
+    "id": 165911,
+    "imdb_id": "tt0187809"
+  },
+  {
+    "title": "Hamoon",
+    "release_year": "1990",
+    "clean_title": "/film/hamoon/",
+    "adult": false,
+    "id": 43761,
+    "imdb_id": "tt0099729"
+  },
+  {
+    "title": "Bab'Aziz",
+    "release_year": "2005",
+    "clean_title": "/film/babaziz/",
+    "adult": false,
+    "id": 45882,
+    "imdb_id": "tt0395461"
+  },
+  {
+    "title": "Desiderium",
+    "release_year": "1977",
+    "clean_title": "/film/desiderium/",
+    "adult": false,
+    "id": 315023,
+    "imdb_id": "tt0078299"
+  },
+  {
+    "title": "The Tenants",
+    "release_year": "1987",
+    "clean_title": "/film/the-tenants/",
+    "adult": false,
+    "id": 266236,
+    "imdb_id": "tt0099492"
+  },
+  {
+    "title": "The Deer",
+    "release_year": "1974",
+    "clean_title": "/film/the-deer-1974/",
+    "adult": false,
+    "id": 268028,
+    "imdb_id": "tt0074565"
+  },
+  {
+    "title": "Baran",
+    "release_year": "2001",
+    "clean_title": "/film/baran/",
+    "adult": false,
+    "id": 43774,
+    "imdb_id": "tt0233841"
+  },
+  {
+    "title": "Mother",
+    "release_year": "1990",
+    "clean_title": "/film/mother-1990-1/",
+    "adult": false,
+    "id": 253366,
+    "imdb_id": "tt0102369"
+  },
+  {
+    "title": "Deep Breath",
+    "release_year": "2003",
+    "clean_title": "/film/deep-breath-2003/",
+    "adult": false,
+    "id": 305696,
+    "imdb_id": "tt0364537"
+  },
+  {
+    "title": "The Cycle",
+    "release_year": "1977",
+    "clean_title": "/film/film:71265/",
+    "adult": false,
+    "id": 84806,
+    "imdb_id": "tt0077403"
+  },
+  {
+    "title": "Beautiful City",
+    "release_year": "2004",
+    "clean_title": "/film/beautiful-city/",
+    "adult": false,
+    "id": 89065,
+    "imdb_id": "tt0424434"
+  },
+  {
+    "title": "The Apple",
+    "release_year": "1998",
+    "clean_title": "/film/the-apple-1998/",
+    "adult": false,
+    "id": 43978,
+    "imdb_id": "tt0156901"
+  },
+  {
+    "title": "Tranquility in the Presence of Others",
+    "release_year": "1972",
+    "clean_title": "/film/tranquility-in-the-presence-of-others/",
+    "adult": false,
+    "id": 268104,
+    "imdb_id": "tt0069727"
+  },
+  {
+    "title": "Half Moon",
+    "release_year": "2006",
+    "clean_title": "/film/half-moon/",
+    "adult": false,
+    "id": 43985,
+    "imdb_id": "tt0847050"
+  },
+  {
+    "title": "Right on Time",
+    "release_year": "2008",
+    "clean_title": "/film/right-on-time/",
+    "adult": false,
+    "id": 1402021
+  },
+  {
+    "title": "The Report",
+    "release_year": "1977",
+    "clean_title": "/film/the-report/",
+    "adult": false,
+    "id": 149507,
+    "imdb_id": "tt0076098"
+  },
+  {
+    "title": "The Postman",
+    "release_year": "1972",
+    "clean_title": "/film/the-postman-1972/",
+    "adult": false,
+    "id": 266232,
+    "imdb_id": "tt0066233"
+  },
+  {
+    "title": "A Wedding Suit",
+    "release_year": "1976",
+    "clean_title": "/film/a-wedding-suit/",
+    "adult": false,
+    "id": 134209,
+    "imdb_id": "tt0074782"
+  },
+  {
+    "title": "What's the Time In Your World?",
+    "release_year": "2014",
+    "clean_title": "/film/whats-the-time-in-your-world/",
+    "adult": false,
+    "id": 298660,
+    "imdb_id": "tt4108894"
+  },
+  {
+    "title": "Bag of Rice",
+    "release_year": "1997",
+    "clean_title": "/film/bag-of-rice/",
+    "adult": false,
+    "id": 160434,
+    "imdb_id": "tt0116779"
+  },
+  {
+    "title": "Unruled Paper",
+    "release_year": "2002",
+    "clean_title": "/film/unruled-paper/",
+    "adult": false,
+    "id": 373624,
+    "imdb_id": "tt0317794"
+  },
+  {
+    "title": "Tight Spot",
+    "release_year": "1973",
+    "clean_title": "/film/tight-spot-1973/",
+    "adult": false,
+    "id": 237391,
+    "imdb_id": "tt0072254"
+  },
+  {
+    "title": "The Lizard",
+    "release_year": "2004",
+    "clean_title": "/film/the-lizard/",
+    "adult": false,
+    "id": 75404,
+    "imdb_id": "tt0416960"
+  },
+  {
+    "title": "The Sealed Soil",
+    "release_year": "1977",
+    "clean_title": "/film/the-sealed-soil/",
+    "adult": false,
+    "id": 43972,
+    "imdb_id": "tt0154728"
+  },
+  {
+    "title": "The Raven",
+    "release_year": "1977",
+    "clean_title": "/film/the-raven-1977/",
+    "adult": false,
+    "id": 331678,
+    "imdb_id": "tt0074732"
+  },
+  {
+    "title": "In the Land of Brothers",
+    "release_year": "2024",
+    "clean_title": "/film/in-the-land-of-brothers/",
+    "adult": false,
+    "id": 1214485,
+    "imdb_id": "tt30141676"
+  },
+  {
+    "title": "Iron Island",
+    "release_year": "2005",
+    "clean_title": "/film/iron-island/",
+    "adult": false,
+    "id": 43970,
+    "imdb_id": "tt0472113"
+  },
+  {
+    "title": "My Favourite Cake",
+    "release_year": "2024",
+    "clean_title": "/film/my-favourite-cake/",
+    "adult": false,
+    "id": 1234591,
+    "imdb_id": "tt31015278"
+  },
+  {
+    "title": "Experience",
+    "release_year": "1973",
+    "clean_title": "/film/experience-1973/",
+    "adult": false,
+    "id": 129942,
+    "imdb_id": "tt0070766"
+  },
+  {
+    "title": "Hajji Washington",
+    "release_year": "1983",
+    "clean_title": "/film/hajji-washington/",
+    "adult": false,
+    "id": 369803,
+    "imdb_id": "tt0084044"
+  },
+  {
+    "title": "The Cyclist",
+    "release_year": "1989",
+    "clean_title": "/film/the-cyclist/",
+    "adult": false,
+    "id": 44072,
+    "imdb_id": "tt0092651"
+  },
+  {
+    "title": "Beyond the Fire",
+    "release_year": "1987",
+    "clean_title": "/film/beyond-the-fire-1987/",
+    "adult": false,
+    "id": 46833,
+    "imdb_id": "tt0122948"
+  },
+  {
+    "title": "To Be or Not to Be",
+    "release_year": "1998",
+    "clean_title": "/film/to-be-or-not-to-be-1998/",
+    "adult": false,
+    "id": 305385,
+    "imdb_id": "tt0234899"
+  },
+  {
+    "title": "The Last Act",
+    "release_year": "1991",
+    "clean_title": "/film/the-last-act/",
+    "adult": false,
+    "id": 305442,
+    "imdb_id": "tt0193373"
+  },
+  {
+    "title": "Marooned in Iraq",
+    "release_year": "2002",
+    "clean_title": "/film/marooned-in-iraq/",
+    "adult": false,
+    "id": 13438,
+    "imdb_id": "tt0317226"
+  },
+  {
+    "title": "Here Without Me",
+    "release_year": "2011",
+    "clean_title": "/film/here-without-me/",
+    "adult": false,
+    "id": 253988,
+    "imdb_id": "tt1874522"
+  }
+]

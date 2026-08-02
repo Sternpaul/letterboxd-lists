@@ -1,0 +1,802 @@
+[
+  {
+    "title": "The Odyssey",
+    "release_year": "2026",
+    "clean_title": "/film/the-odyssey-2026/",
+    "adult": false,
+    "id": 1368337,
+    "imdb_id": "tt33764258"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "release_year": "2026",
+    "clean_title": "/film/spider-man-brand-new-day/",
+    "adult": false,
+    "id": 969681,
+    "imdb_id": "tt22084616"
+  },
+  {
+    "title": "Barbie",
+    "release_year": "2023",
+    "clean_title": "/film/barbie/",
+    "adult": false,
+    "id": 346698,
+    "imdb_id": "tt1517268"
+  },
+  {
+    "title": "Superman",
+    "release_year": "2025",
+    "clean_title": "/film/superman-2025/",
+    "adult": false,
+    "id": 1061474,
+    "imdb_id": "tt5950044"
+  },
+  {
+    "title": "Project Hail Mary",
+    "release_year": "2026",
+    "clean_title": "/film/project-hail-mary/",
+    "adult": false,
+    "id": 687163,
+    "imdb_id": "tt12042730"
+  },
+  {
+    "title": "Backrooms",
+    "release_year": "2026",
+    "clean_title": "/film/backrooms-2026/",
+    "adult": false,
+    "id": 1083381,
+    "imdb_id": "tt26657236"
+  },
+  {
+    "title": "The Fantastic 4: First Steps",
+    "release_year": "2025",
+    "clean_title": "/film/the-fantastic-4-first-steps/",
+    "adult": false,
+    "id": 617126,
+    "imdb_id": "tt10676052"
+  },
+  {
+    "title": "Nosferatu",
+    "release_year": "2024",
+    "clean_title": "/film/nosferatu-2024/",
+    "adult": false,
+    "id": 426063,
+    "imdb_id": "tt5040012"
+  },
+  {
+    "title": "The Drama",
+    "release_year": "2026",
+    "clean_title": "/film/the-drama/",
+    "adult": false,
+    "id": 1325734,
+    "imdb_id": "tt33071426"
+  },
+  {
+    "title": "Weapons",
+    "release_year": "2025",
+    "clean_title": "/film/weapons-2025/",
+    "adult": false,
+    "id": 1078605,
+    "imdb_id": "tt26581740"
+  },
+  {
+    "title": "Obsession",
+    "release_year": "2025",
+    "clean_title": "/film/obsession-2025/",
+    "adult": false,
+    "id": 1339713,
+    "imdb_id": "tt37287335"
+  },
+  {
+    "title": "Dune: Part Two",
+    "release_year": "2024",
+    "clean_title": "/film/dune-part-two/",
+    "adult": false,
+    "id": 693134,
+    "imdb_id": "tt15239678"
+  },
+  {
+    "title": "Sinners",
+    "release_year": "2025",
+    "clean_title": "/film/sinners-2025/",
+    "adult": false,
+    "id": 1233413,
+    "imdb_id": "tt31193180"
+  },
+  {
+    "title": "One Battle After Another",
+    "release_year": "2025",
+    "clean_title": "/film/one-battle-after-another/",
+    "adult": false,
+    "id": 1054867,
+    "imdb_id": "tt30144839"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "release_year": "2024",
+    "clean_title": "/film/deadpool-wolverine/",
+    "adult": false,
+    "id": 533535,
+    "imdb_id": "tt6263850"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "release_year": "2025",
+    "clean_title": "/film/avatar-fire-and-ash/",
+    "adult": false,
+    "id": 83533,
+    "imdb_id": "tt1757678"
+  },
+  {
+    "title": "Michael",
+    "release_year": "2026",
+    "clean_title": "/film/michael-2026/",
+    "adult": false,
+    "id": 936075,
+    "imdb_id": "tt11378946"
+  },
+  {
+    "title": "Oppenheimer",
+    "release_year": "2023",
+    "clean_title": "/film/oppenheimer-2023/",
+    "adult": false,
+    "id": 872585,
+    "imdb_id": "tt15398776"
+  },
+  {
+    "title": "Wake Up Dead Man",
+    "release_year": "2025",
+    "clean_title": "/film/wake-up-dead-man/",
+    "adult": false,
+    "id": 812583,
+    "imdb_id": "tt14364480"
+  },
+  {
+    "title": "The Devil Wears Prada 2",
+    "release_year": "2026",
+    "clean_title": "/film/the-devil-wears-prada-2/",
+    "adult": false,
+    "id": 1314481,
+    "imdb_id": "tt33612209"
+  },
+  {
+    "title": "Marty Supreme",
+    "release_year": "2025",
+    "clean_title": "/film/marty-supreme/",
+    "adult": false,
+    "id": 1317288,
+    "imdb_id": "tt32916440"
+  },
+  {
+    "title": "Frankenstein",
+    "release_year": "2025",
+    "clean_title": "/film/frankenstein-2025/",
+    "adult": false,
+    "id": 1062722,
+    "imdb_id": "tt1312221"
+  },
+  {
+    "title": "Wuthering Heights",
+    "release_year": "2026",
+    "clean_title": "/film/wuthering-heights-2026/",
+    "adult": false,
+    "id": 1316092,
+    "imdb_id": "tt32897959"
+  },
+  {
+    "title": "Wicked: For Good",
+    "release_year": "2025",
+    "clean_title": "/film/wicked-for-good/",
+    "adult": false,
+    "id": 967941,
+    "imdb_id": "tt19847976"
+  },
+  {
+    "title": "Mickey 17",
+    "release_year": "2025",
+    "clean_title": "/film/mickey-17/",
+    "adult": false,
+    "id": 696506,
+    "imdb_id": "tt12299608"
+  },
+  {
+    "title": "Inside Out 2",
+    "release_year": "2024",
+    "clean_title": "/film/inside-out-2-2024/",
+    "adult": false,
+    "id": 1022789,
+    "imdb_id": "tt22022452"
+  },
+  {
+    "title": "Wicked",
+    "release_year": "2024",
+    "clean_title": "/film/wicked-2024/",
+    "adult": false,
+    "id": 402431,
+    "imdb_id": "tt1262426"
+  },
+  {
+    "title": "Challengers",
+    "release_year": "2024",
+    "clean_title": "/film/challengers/",
+    "adult": false,
+    "id": 937287,
+    "imdb_id": "tt16426418"
+  },
+  {
+    "title": "The Substance",
+    "release_year": "2024",
+    "clean_title": "/film/the-substance/",
+    "adult": false,
+    "id": 933260,
+    "imdb_id": "tt17526714"
+  },
+  {
+    "title": "Zootopia 2",
+    "release_year": "2025",
+    "clean_title": "/film/zootopia-2/",
+    "adult": false,
+    "id": 1084242,
+    "imdb_id": "tt26443597"
+  },
+  {
+    "title": "Disclosure Day",
+    "release_year": "2026",
+    "clean_title": "/film/disclosure-day/",
+    "adult": false,
+    "id": 1275779,
+    "imdb_id": "tt15047880"
+  },
+  {
+    "title": "Saltburn",
+    "release_year": "2023",
+    "clean_title": "/film/saltburn/",
+    "adult": false,
+    "id": 930564,
+    "imdb_id": "tt17351924"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "release_year": "2023",
+    "clean_title": "/film/spider-man-across-the-spider-verse/",
+    "adult": false,
+    "id": 569094,
+    "imdb_id": "tt9362722"
+  },
+  {
+    "title": "F1",
+    "release_year": "2025",
+    "clean_title": "/film/f1/",
+    "adult": false,
+    "id": 911430,
+    "imdb_id": "tt16311594"
+  },
+  {
+    "title": "The Housemaid",
+    "release_year": "2025",
+    "clean_title": "/film/the-housemaid-2025/",
+    "adult": false,
+    "id": 1368166,
+    "imdb_id": "tt27543632"
+  },
+  {
+    "title": "Thunderbolts*",
+    "release_year": "2025",
+    "clean_title": "/film/thunderbolts/",
+    "adult": false,
+    "id": 986056,
+    "imdb_id": "tt20969586"
+  },
+  {
+    "title": "Glass Onion",
+    "release_year": "2022",
+    "clean_title": "/film/glass-onion/",
+    "adult": false,
+    "id": 661374,
+    "imdb_id": "tt11564570"
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "release_year": "2025",
+    "clean_title": "/film/kpop-demon-hunters/",
+    "adult": false,
+    "id": 803796,
+    "imdb_id": "tt14205554"
+  },
+  {
+    "title": "Bugonia",
+    "release_year": "2025",
+    "clean_title": "/film/bugonia/",
+    "adult": false,
+    "id": 701387,
+    "imdb_id": "tt12300742"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "release_year": "2026",
+    "clean_title": "/film/people-we-meet-on-vacation/",
+    "adult": false,
+    "id": 1034716,
+    "imdb_id": "tt22740896"
+  },
+  {
+    "title": "Gladiator II",
+    "release_year": "2024",
+    "clean_title": "/film/gladiator-ii/",
+    "adult": false,
+    "id": 558449,
+    "imdb_id": "tt9218128"
+  },
+  {
+    "title": "Hamnet",
+    "release_year": "2025",
+    "clean_title": "/film/hamnet/",
+    "adult": false,
+    "id": 858024,
+    "imdb_id": "tt14905854"
+  },
+  {
+    "title": "A Minecraft Movie",
+    "release_year": "2025",
+    "clean_title": "/film/a-minecraft-movie/",
+    "adult": false,
+    "id": 950387,
+    "imdb_id": "tt3566834"
+  },
+  {
+    "title": "Poor Things",
+    "release_year": "2023",
+    "clean_title": "/film/poor-things-2023/",
+    "adult": false,
+    "id": 792307,
+    "imdb_id": "tt14230458"
+  },
+  {
+    "title": "Longlegs",
+    "release_year": "2024",
+    "clean_title": "/film/longlegs/",
+    "adult": false,
+    "id": 1226578,
+    "imdb_id": "tt23468450"
+  },
+  {
+    "title": "Anora",
+    "release_year": "2024",
+    "clean_title": "/film/anora/",
+    "adult": false,
+    "id": 1064213,
+    "imdb_id": "tt28607951"
+  },
+  {
+    "title": "The Menu",
+    "release_year": "2022",
+    "clean_title": "/film/the-menu-2022/",
+    "adult": false,
+    "id": 593643,
+    "imdb_id": "tt9764362"
+  },
+  {
+    "title": "Final Destination Bloodlines",
+    "release_year": "2025",
+    "clean_title": "/film/final-destination-bloodlines/",
+    "adult": false,
+    "id": 574475,
+    "imdb_id": "tt9619824"
+  },
+  {
+    "title": "The Batman",
+    "release_year": "2022",
+    "clean_title": "/film/the-batman/",
+    "adult": false,
+    "id": 414906,
+    "imdb_id": "tt1877830"
+  },
+  {
+    "title": "Companion",
+    "release_year": "2025",
+    "clean_title": "/film/companion-2025/",
+    "adult": false,
+    "id": 1084199,
+    "imdb_id": "tt26584495"
+  },
+  {
+    "title": "Send Help",
+    "release_year": "2026",
+    "clean_title": "/film/send-help/",
+    "adult": false,
+    "id": 1198994,
+    "imdb_id": "tt8036976"
+  },
+  {
+    "title": "28 Years Later",
+    "release_year": "2025",
+    "clean_title": "/film/28-years-later/",
+    "adult": false,
+    "id": 1100988,
+    "imdb_id": "tt10548174"
+  },
+  {
+    "title": "Conclave",
+    "release_year": "2024",
+    "clean_title": "/film/conclave/",
+    "adult": false,
+    "id": 974576,
+    "imdb_id": "tt20215234"
+  },
+  {
+    "title": "Materialists",
+    "release_year": "2025",
+    "clean_title": "/film/materialists/",
+    "adult": false,
+    "id": 1136867,
+    "imdb_id": "tt30253473"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "release_year": "2023",
+    "clean_title": "/film/guardians-of-the-galaxy-vol-3/",
+    "adult": false,
+    "id": 447365,
+    "imdb_id": "tt6791350"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "release_year": "2021",
+    "clean_title": "/film/spider-man-no-way-home/",
+    "adult": false,
+    "id": 634649,
+    "imdb_id": "tt10872600"
+  },
+  {
+    "title": "Wonka",
+    "release_year": "2023",
+    "clean_title": "/film/wonka/",
+    "adult": false,
+    "id": 787699,
+    "imdb_id": "tt6166392"
+  },
+  {
+    "title": "Anyone But You",
+    "release_year": "2023",
+    "clean_title": "/film/anyone-but-you/",
+    "adult": false,
+    "id": 1072790,
+    "imdb_id": "tt26047818"
+  },
+  {
+    "title": "Jurassic World Rebirth",
+    "release_year": "2025",
+    "clean_title": "/film/jurassic-world-rebirth/",
+    "adult": false,
+    "id": 1234821,
+    "imdb_id": "tt31036941"
+  },
+  {
+    "title": "Alien: Romulus",
+    "release_year": "2024",
+    "clean_title": "/film/alien-romulus/",
+    "adult": false,
+    "id": 945961,
+    "imdb_id": "tt18412256"
+  },
+  {
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "release_year": "2023",
+    "clean_title": "/film/the-hunger-games-the-ballad-of-songbirds-snakes/",
+    "adult": false,
+    "id": 695721,
+    "imdb_id": "tt10545296"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "release_year": "2022",
+    "clean_title": "/film/avatar-the-way-of-water/",
+    "adult": false,
+    "id": 76600,
+    "imdb_id": "tt1630029"
+  },
+  {
+    "title": "A Real Pain",
+    "release_year": "2024",
+    "clean_title": "/film/a-real-pain/",
+    "adult": false,
+    "id": 1013850,
+    "imdb_id": "tt21823606"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "release_year": "2025",
+    "clean_title": "/film/how-to-train-your-dragon-2025/",
+    "adult": false,
+    "id": 1087192,
+    "imdb_id": "tt26743210"
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "release_year": "2025",
+    "clean_title": "/film/the-conjuring-last-rites/",
+    "adult": false,
+    "id": 1038392,
+    "imdb_id": "tt22898462"
+  },
+  {
+    "title": "Sentimental Value",
+    "release_year": "2025",
+    "clean_title": "/film/sentimental-value-2025/",
+    "adult": false,
+    "id": 1124566,
+    "imdb_id": "tt27714581"
+  },
+  {
+    "title": "A Complete Unknown",
+    "release_year": "2024",
+    "clean_title": "/film/a-complete-unknown/",
+    "adult": false,
+    "id": 661539,
+    "imdb_id": "tt11563598"
+  },
+  {
+    "title": "The Wild Robot",
+    "release_year": "2024",
+    "clean_title": "/film/the-wild-robot/",
+    "adult": false,
+    "id": 1184918,
+    "imdb_id": "tt29623480"
+  },
+  {
+    "title": "Heretic",
+    "release_year": "2024",
+    "clean_title": "/film/heretic-2024/",
+    "adult": false,
+    "id": 1138194,
+    "imdb_id": "tt28015403"
+  },
+  {
+    "title": "Nope",
+    "release_year": "2022",
+    "clean_title": "/film/nope/",
+    "adult": false,
+    "id": 762504,
+    "imdb_id": "tt10954984"
+  },
+  {
+    "title": "Carry-On",
+    "release_year": "2024",
+    "clean_title": "/film/carry-on-2024/",
+    "adult": false,
+    "id": 1005331,
+    "imdb_id": "tt21382296"
+  },
+  {
+    "title": "Bottoms",
+    "release_year": "2023",
+    "clean_title": "/film/bottoms/",
+    "adult": false,
+    "id": 814776,
+    "imdb_id": "tt17527468"
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "release_year": "2023",
+    "clean_title": "/film/killers-of-the-flower-moon/",
+    "adult": false,
+    "id": 466420,
+    "imdb_id": "tt5537002"
+  },
+  {
+    "title": "The Long Walk",
+    "release_year": "2025",
+    "clean_title": "/film/the-long-walk-2025/",
+    "adult": false,
+    "id": 604079,
+    "imdb_id": "tt10374610"
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "release_year": "2023",
+    "clean_title": "/film/anatomy-of-a-fall/",
+    "adult": false,
+    "id": 915935,
+    "imdb_id": "tt17009710"
+  },
+  {
+    "title": "Beetlejuice Beetlejuice",
+    "release_year": "2024",
+    "clean_title": "/film/beetlejuice-beetlejuice/",
+    "adult": false,
+    "id": 917496,
+    "imdb_id": "tt2049403"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "release_year": "2022",
+    "clean_title": "/film/everything-everywhere-all-at-once/",
+    "adult": false,
+    "id": 545611,
+    "imdb_id": "tt6710474"
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "release_year": "2022",
+    "clean_title": "/film/doctor-strange-in-the-multiverse-of-madness/",
+    "adult": false,
+    "id": 453395,
+    "imdb_id": "tt9419884"
+  },
+  {
+    "title": "The Super Mario Bros. Movie",
+    "release_year": "2023",
+    "clean_title": "/film/the-super-mario-bros-movie/",
+    "adult": false,
+    "id": 502356,
+    "imdb_id": "tt6718170"
+  },
+  {
+    "title": "Bring Her Back",
+    "release_year": "2025",
+    "clean_title": "/film/bring-her-back/",
+    "adult": false,
+    "id": 1151031,
+    "imdb_id": "tt32246771"
+  },
+  {
+    "title": "Don't Look Up",
+    "release_year": "2021",
+    "clean_title": "/film/dont-look-up-2021/",
+    "adult": false,
+    "id": 646380,
+    "imdb_id": "tt11286314"
+  },
+  {
+    "title": "Past Lives",
+    "release_year": "2023",
+    "clean_title": "/film/past-lives/",
+    "adult": false,
+    "id": 666277,
+    "imdb_id": "tt13238346"
+  },
+  {
+    "title": "Dune",
+    "release_year": "2021",
+    "clean_title": "/film/dune-2021/",
+    "adult": false,
+    "id": 438631,
+    "imdb_id": "tt1160419"
+  },
+  {
+    "title": "Civil War",
+    "release_year": "2024",
+    "clean_title": "/film/civil-war-2024/",
+    "adult": false,
+    "id": 929590,
+    "imdb_id": "tt17279496"
+  },
+  {
+    "title": "We Live in Time",
+    "release_year": "2024",
+    "clean_title": "/film/we-live-in-time/",
+    "adult": false,
+    "id": 1100099,
+    "imdb_id": "tt27131358"
+  },
+  {
+    "title": "Twisters",
+    "release_year": "2024",
+    "clean_title": "/film/twisters/",
+    "adult": false,
+    "id": 718821,
+    "imdb_id": "tt12584954"
+  },
+  {
+    "title": "Furiosa: A Mad Max Saga",
+    "release_year": "2024",
+    "clean_title": "/film/furiosa-a-mad-max-saga/",
+    "adult": false,
+    "id": 786892,
+    "imdb_id": "tt12037194"
+  },
+  {
+    "title": "Trap",
+    "release_year": "2024",
+    "clean_title": "/film/trap-2024/",
+    "adult": false,
+    "id": 1032823,
+    "imdb_id": "tt26753003"
+  },
+  {
+    "title": "The Holdovers",
+    "release_year": "2023",
+    "clean_title": "/film/the-holdovers/",
+    "adult": false,
+    "id": 840430,
+    "imdb_id": "tt14849194"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "release_year": "2022",
+    "clean_title": "/film/puss-in-boots-the-last-wish/",
+    "adult": false,
+    "id": 315162,
+    "imdb_id": "tt3915174"
+  },
+  {
+    "title": "No Hard Feelings",
+    "release_year": "2023",
+    "clean_title": "/film/no-hard-feelings-2023/",
+    "adult": false,
+    "id": 884605,
+    "imdb_id": "tt15671028"
+  },
+  {
+    "title": "Society of the Snow",
+    "release_year": "2023",
+    "clean_title": "/film/society-of-the-snow/",
+    "adult": false,
+    "id": 906126,
+    "imdb_id": "tt16277242"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "release_year": "2022",
+    "clean_title": "/film/top-gun-maverick/",
+    "adult": false,
+    "id": 361743,
+    "imdb_id": "tt1745960"
+  },
+  {
+    "title": "Babygirl",
+    "release_year": "2024",
+    "clean_title": "/film/babygirl-2024/",
+    "adult": false,
+    "id": 1097549,
+    "imdb_id": "tt30057084"
+  },
+  {
+    "title": "The Fall Guy",
+    "release_year": "2024",
+    "clean_title": "/film/the-fall-guy-2024/",
+    "adult": false,
+    "id": 746036,
+    "imdb_id": "tt1684562"
+  },
+  {
+    "title": "Flow",
+    "release_year": "2024",
+    "clean_title": "/film/flow-2024/",
+    "adult": false,
+    "id": 823219,
+    "imdb_id": "tt4772188"
+  },
+  {
+    "title": "Talk to Me",
+    "release_year": "2022",
+    "clean_title": "/film/talk-to-me-2022/",
+    "adult": false,
+    "id": 1008042,
+    "imdb_id": "tt10638522"
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "release_year": "2023",
+    "clean_title": "/film/five-nights-at-freddys/",
+    "adult": false,
+    "id": 507089,
+    "imdb_id": "tt4589218"
+  },
+  {
+    "title": "Smile 2",
+    "release_year": "2024",
+    "clean_title": "/film/smile-2-2024/",
+    "adult": false,
+    "id": 1100782,
+    "imdb_id": "tt29268110"
+  },
+  {
+    "title": "Bullet Train",
+    "release_year": "2022",
+    "clean_title": "/film/bullet-train/",
+    "adult": false,
+    "id": 718930,
+    "imdb_id": "tt12593682"
+  }
+]

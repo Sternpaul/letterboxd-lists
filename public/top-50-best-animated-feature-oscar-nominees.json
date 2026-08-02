@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Coraline",
+    "release_year": "2009",
+    "clean_title": "/film/coraline/",
+    "adult": false,
+    "id": 14836,
+    "imdb_id": "tt0327597"
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "release_year": "2009",
+    "clean_title": "/film/fantastic-mr-fox/",
+    "adult": false,
+    "id": 10315,
+    "imdb_id": "tt0432283"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "release_year": "2004",
+    "clean_title": "/film/howls-moving-castle/",
+    "adult": false,
+    "id": 4935,
+    "imdb_id": "tt0347149"
+  },
+  {
+    "title": "Spirited Away",
+    "release_year": "2001",
+    "clean_title": "/film/spirited-away/",
+    "adult": false,
+    "id": 129,
+    "imdb_id": "tt0245429"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_year": "2018",
+    "clean_title": "/film/spider-man-into-the-spider-verse/",
+    "adult": false,
+    "id": 324857,
+    "imdb_id": "tt4633694"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "release_year": "2023",
+    "clean_title": "/film/spider-man-across-the-spider-verse/",
+    "adult": false,
+    "id": 569094,
+    "imdb_id": "tt9362722"
+  },
+  {
+    "title": "Ratatouille",
+    "release_year": "2007",
+    "clean_title": "/film/ratatouille/",
+    "adult": false,
+    "id": 2062,
+    "imdb_id": "tt0382932"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "release_year": "2010",
+    "clean_title": "/film/how-to-train-your-dragon/",
+    "adult": false,
+    "id": 10191,
+    "imdb_id": "tt0892769"
+  },
+  {
+    "title": "Shrek 2",
+    "release_year": "2004",
+    "clean_title": "/film/shrek-2/",
+    "adult": false,
+    "id": 809,
+    "imdb_id": "tt0298148"
+  },
+  {
+    "title": "Cars",
+    "release_year": "2006",
+    "clean_title": "/film/cars/",
+    "adult": false,
+    "id": 920,
+    "imdb_id": "tt0317219"
+  },
+  {
+    "title": "Corpse Bride",
+    "release_year": "2005",
+    "clean_title": "/film/corpse-bride/",
+    "adult": false,
+    "id": 3933,
+    "imdb_id": "tt0121164"
+  },
+  {
+    "title": "WALL·E",
+    "release_year": "2008",
+    "clean_title": "/film/walle/",
+    "adult": false,
+    "id": 10681,
+    "imdb_id": "tt0910970"
+  },
+  {
+    "title": "Isle of Dogs",
+    "release_year": "2018",
+    "clean_title": "/film/isle-of-dogs-2018/",
+    "adult": false,
+    "id": 399174,
+    "imdb_id": "tt5104604"
+  },
+  {
+    "title": "Soul",
+    "release_year": "2020",
+    "clean_title": "/film/soul-2020/",
+    "adult": false,
+    "id": 508442,
+    "imdb_id": "tt2948372"
+  },
+  {
+    "title": "Coco",
+    "release_year": "2017",
+    "clean_title": "/film/coco-2017/",
+    "adult": false,
+    "id": 354912,
+    "imdb_id": "tt2380307"
+  },
+  {
+    "title": "Shrek",
+    "release_year": "2001",
+    "clean_title": "/film/shrek/",
+    "adult": false,
+    "id": 808,
+    "imdb_id": "tt0126029"
+  },
+  {
+    "title": "The Princess and the Frog",
+    "release_year": "2009",
+    "clean_title": "/film/the-princess-and-the-frog/",
+    "adult": false,
+    "id": 10198,
+    "imdb_id": "tt0780521"
+  },
+  {
+    "title": "Surf's Up",
+    "release_year": "2007",
+    "clean_title": "/film/surfs-up/",
+    "adult": false,
+    "id": 9408,
+    "imdb_id": "tt0423294"
+  },
+  {
+    "title": "The Incredibles",
+    "release_year": "2004",
+    "clean_title": "/film/the-incredibles/",
+    "adult": false,
+    "id": 9806,
+    "imdb_id": "tt0317705"
+  },
+  {
+    "title": "The Wind Rises",
+    "release_year": "2013",
+    "clean_title": "/film/the-wind-rises/",
+    "adult": false,
+    "id": 149870,
+    "imdb_id": "tt2013293"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "release_year": "2022",
+    "clean_title": "/film/puss-in-boots-the-last-wish/",
+    "adult": false,
+    "id": 315162,
+    "imdb_id": "tt3915174"
+  },
+  {
+    "title": "Spirit: Stallion of the Cimarron",
+    "release_year": "2002",
+    "clean_title": "/film/spirit-stallion-of-the-cimarron/",
+    "adult": false,
+    "id": 9023,
+    "imdb_id": "tt0166813"
+  },
+  {
+    "title": "Up",
+    "release_year": "2009",
+    "clean_title": "/film/up/",
+    "adult": false,
+    "id": 14160,
+    "imdb_id": "tt1049413"
+  },
+  {
+    "title": "Treasure Planet",
+    "release_year": "2002",
+    "clean_title": "/film/treasure-planet/",
+    "adult": false,
+    "id": 9016,
+    "imdb_id": "tt0133240"
+  },
+  {
+    "title": "The Wild Robot",
+    "release_year": "2024",
+    "clean_title": "/film/the-wild-robot/",
+    "adult": false,
+    "id": 1184918,
+    "imdb_id": "tt29623480"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "release_year": "2002",
+    "clean_title": "/film/lilo-stitch/",
+    "adult": false,
+    "id": 11544,
+    "imdb_id": "tt0275847"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "release_year": "2014",
+    "clean_title": "/film/how-to-train-your-dragon-2/",
+    "adult": false,
+    "id": 82702,
+    "imdb_id": "tt1646971"
+  },
+  {
+    "title": "Toy Story",
+    "release_year": "1995",
+    "clean_title": "/film/toy-story/",
+    "adult": false,
+    "id": 862,
+    "imdb_id": "tt0114709"
+  },
+  {
+    "title": "Rango",
+    "release_year": "2011",
+    "clean_title": "/film/rango/",
+    "adult": false,
+    "id": 44896,
+    "imdb_id": "tt1192628"
+  },
+  {
+    "title": "Frozen",
+    "release_year": "2013",
+    "clean_title": "/film/frozen-2013/",
+    "adult": false,
+    "id": 109445,
+    "imdb_id": "tt2294629"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "release_year": "2001",
+    "clean_title": "/film/monsters-inc/",
+    "adult": false,
+    "id": 585,
+    "imdb_id": "tt0198781"
+  },
+  {
+    "title": "The Tale of The Princess Kaguya",
+    "release_year": "2013",
+    "clean_title": "/film/the-tale-of-the-princess-kaguya/",
+    "adult": false,
+    "id": 149871,
+    "imdb_id": "tt2576852"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "release_year": "2008",
+    "clean_title": "/film/kung-fu-panda/",
+    "adult": false,
+    "id": 9502,
+    "imdb_id": "tt0441773"
+  },
+  {
+    "title": "Inside Out",
+    "release_year": "2015",
+    "clean_title": "/film/inside-out-2015/",
+    "adult": false,
+    "id": 150540,
+    "imdb_id": "tt2096673"
+  },
+  {
+    "title": "Flow",
+    "release_year": "2024",
+    "clean_title": "/film/flow-2024/",
+    "adult": false,
+    "id": 823219,
+    "imdb_id": "tt4772188"
+  },
+  {
+    "title": "Finding Nemo",
+    "release_year": "2003",
+    "clean_title": "/film/finding-nemo/",
+    "adult": false,
+    "id": 12,
+    "imdb_id": "tt0266543"
+  },
+  {
+    "title": "Zootopia",
+    "release_year": "2016",
+    "clean_title": "/film/zootopia/",
+    "adult": false,
+    "id": 269149,
+    "imdb_id": "tt2948356"
+  },
+  {
+    "title": "Big Hero 6",
+    "release_year": "2014",
+    "clean_title": "/film/big-hero-6/",
+    "adult": false,
+    "id": 177572,
+    "imdb_id": "tt2245084"
+  },
+  {
+    "title": "Brother Bear",
+    "release_year": "2003",
+    "clean_title": "/film/brother-bear/",
+    "adult": false,
+    "id": 10009,
+    "imdb_id": "tt0328880"
+  },
+  {
+    "title": "Toy Story 3",
+    "release_year": "2010",
+    "clean_title": "/film/toy-story-3/",
+    "adult": false,
+    "id": 10193,
+    "imdb_id": "tt0435761"
+  },
+  {
+    "title": "When Marnie Was There",
+    "release_year": "2014",
+    "clean_title": "/film/when-marnie-was-there/",
+    "adult": false,
+    "id": 242828,
+    "imdb_id": "tt3398268"
+  },
+  {
+    "title": "Memoir of a Snail",
+    "release_year": "2024",
+    "clean_title": "/film/memoir-of-a-snail/",
+    "adult": false,
+    "id": 1064486,
+    "imdb_id": "tt23770030"
+  },
+  {
+    "title": "Marcel the Shell with Shoes On",
+    "release_year": "2021",
+    "clean_title": "/film/marcel-the-shell-with-shoes-on-2021/",
+    "adult": false,
+    "id": 869626,
+    "imdb_id": "tt15339456"
+  },
+  {
+    "title": "Luca",
+    "release_year": "2021",
+    "clean_title": "/film/luca-2021/",
+    "adult": false,
+    "id": 508943,
+    "imdb_id": "tt12801262"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "release_year": "2011",
+    "clean_title": "/film/kung-fu-panda-2/",
+    "adult": false,
+    "id": 49444,
+    "imdb_id": "tt1302011"
+  },
+  {
+    "title": "Moana",
+    "release_year": "2016",
+    "clean_title": "/film/moana-2016/",
+    "adult": false,
+    "id": 277834,
+    "imdb_id": "tt3521164"
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "release_year": "2025",
+    "clean_title": "/film/kpop-demon-hunters/",
+    "adult": false,
+    "id": 803796,
+    "imdb_id": "tt14205554"
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "release_year": "1988",
+    "clean_title": "/film/who-framed-roger-rabbit/",
+    "adult": false,
+    "id": 856,
+    "imdb_id": "tt0096438"
+  },
+  {
+    "title": "The Boy and the Heron",
+    "release_year": "2023",
+    "clean_title": "/film/the-boy-and-the-heron/",
+    "adult": false,
+    "id": 508883,
+    "imdb_id": "tt6587046"
+  },
+  {
+    "title": "Song of the Sea",
+    "release_year": "2014",
+    "clean_title": "/film/song-of-the-sea/",
+    "adult": false,
+    "id": 110416,
+    "imdb_id": "tt1865505"
+  }
+]

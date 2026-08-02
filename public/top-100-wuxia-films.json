@@ -1,0 +1,802 @@
+[
+  {
+    "title": "A Touch of Zen",
+    "release_year": "1970",
+    "clean_title": "/film/a-touch-of-zen/",
+    "adult": false,
+    "id": 44154,
+    "imdb_id": "tt0064451"
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "release_year": "2000",
+    "clean_title": "/film/crouching-tiger-hidden-dragon/",
+    "adult": false,
+    "id": 146,
+    "imdb_id": "tt0190332"
+  },
+  {
+    "title": "Kung Fu Hustle",
+    "release_year": "2004",
+    "clean_title": "/film/kung-fu-hustle/",
+    "adult": false,
+    "id": 9470,
+    "imdb_id": "tt0373074"
+  },
+  {
+    "title": "Dragon Inn",
+    "release_year": "1967",
+    "clean_title": "/film/dragon-inn/",
+    "adult": false,
+    "id": 104237,
+    "imdb_id": "tt0060635"
+  },
+  {
+    "title": "Hero",
+    "release_year": "2002",
+    "clean_title": "/film/hero-2002/",
+    "adult": false,
+    "id": 79,
+    "imdb_id": "tt0299977"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "release_year": "2008",
+    "clean_title": "/film/kung-fu-panda/",
+    "adult": false,
+    "id": 9502,
+    "imdb_id": "tt0441773"
+  },
+  {
+    "title": "Duel to the Death",
+    "release_year": "1983",
+    "clean_title": "/film/duel-to-the-death/",
+    "adult": false,
+    "id": 50572,
+    "imdb_id": "tt0084924"
+  },
+  {
+    "title": "Raining in the Mountain",
+    "release_year": "1979",
+    "clean_title": "/film/raining-in-the-mountain/",
+    "adult": false,
+    "id": 76294,
+    "imdb_id": "tt0192213"
+  },
+  {
+    "title": "The Fate of Lee Khan",
+    "release_year": "1973",
+    "clean_title": "/film/the-fate-of-lee-khan/",
+    "adult": false,
+    "id": 192871,
+    "imdb_id": "tt0070942"
+  },
+  {
+    "title": "Holy Flame of the Martial World",
+    "release_year": "1983",
+    "clean_title": "/film/holy-flame-of-the-martial-world/",
+    "adult": false,
+    "id": 74257,
+    "imdb_id": "tt0086607"
+  },
+  {
+    "title": "Iron Monkey",
+    "release_year": "1993",
+    "clean_title": "/film/iron-monkey/",
+    "adult": false,
+    "id": 12780,
+    "imdb_id": "tt0108148"
+  },
+  {
+    "title": "Killer Constable",
+    "release_year": "1980",
+    "clean_title": "/film/killer-constable/",
+    "adult": false,
+    "id": 112700,
+    "imdb_id": "tt0083313"
+  },
+  {
+    "title": "Five Element Ninjas",
+    "release_year": "1982",
+    "clean_title": "/film/five-element-ninjas/",
+    "adult": false,
+    "id": 41378,
+    "imdb_id": "tt0084921"
+  },
+  {
+    "title": "Crippled Avengers",
+    "release_year": "1978",
+    "clean_title": "/film/crippled-avengers/",
+    "adult": false,
+    "id": 40081,
+    "imdb_id": "tt0077292"
+  },
+  {
+    "title": "The Blade",
+    "release_year": "1995",
+    "clean_title": "/film/the-blade/",
+    "adult": false,
+    "id": 42845,
+    "imdb_id": "tt0112800"
+  },
+  {
+    "title": "The Valiant Ones",
+    "release_year": "1975",
+    "clean_title": "/film/the-valiant-ones/",
+    "adult": false,
+    "id": 76293,
+    "imdb_id": "tt0071324"
+  },
+  {
+    "title": "The Sword",
+    "release_year": "1980",
+    "clean_title": "/film/the-sword/",
+    "adult": false,
+    "id": 73841,
+    "imdb_id": "tt0080958"
+  },
+  {
+    "title": "House of Flying Daggers",
+    "release_year": "2004",
+    "clean_title": "/film/house-of-flying-daggers/",
+    "adult": false,
+    "id": 9550,
+    "imdb_id": "tt0385004"
+  },
+  {
+    "title": "Once Upon a Time in China II",
+    "release_year": "1992",
+    "clean_title": "/film/once-upon-a-time-in-china-ii/",
+    "adult": false,
+    "id": 10618,
+    "imdb_id": "tt0105839"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "release_year": "2011",
+    "clean_title": "/film/kung-fu-panda-2/",
+    "adult": false,
+    "id": 49444,
+    "imdb_id": "tt1302011"
+  },
+  {
+    "title": "The Avenging Eagle",
+    "release_year": "1978",
+    "clean_title": "/film/the-avenging-eagle/",
+    "adult": false,
+    "id": 83876,
+    "imdb_id": "tt0077868"
+  },
+  {
+    "title": "Bastard Swordsman",
+    "release_year": "1983",
+    "clean_title": "/film/bastard-swordsman/",
+    "adult": false,
+    "id": 72121,
+    "imdb_id": "tt0078393"
+  },
+  {
+    "title": "The Black Tavern",
+    "release_year": "1972",
+    "clean_title": "/film/the-black-tavern/",
+    "adult": false,
+    "id": 86275,
+    "imdb_id": "tt1043429"
+  },
+  {
+    "title": "Come Drink with Me",
+    "release_year": "1966",
+    "clean_title": "/film/come-drink-with-me/",
+    "adult": false,
+    "id": 26259,
+    "imdb_id": "tt0059079"
+  },
+  {
+    "title": "Master of the Flying Guillotine",
+    "release_year": "1976",
+    "clean_title": "/film/master-of-the-flying-guillotine/",
+    "adult": false,
+    "id": 49636,
+    "imdb_id": "tt0072913"
+  },
+  {
+    "title": "Once Upon a Time in China",
+    "release_year": "1991",
+    "clean_title": "/film/once-upon-a-time-in-china/",
+    "adult": false,
+    "id": 10617,
+    "imdb_id": "tt0103285"
+  },
+  {
+    "title": "Red Cliff",
+    "release_year": "2008",
+    "clean_title": "/film/red-cliff/",
+    "adult": false,
+    "id": 12289,
+    "imdb_id": "tt0425637"
+  },
+  {
+    "title": "New Dragon Gate Inn",
+    "release_year": "1992",
+    "clean_title": "/film/new-dragon-gate-inn/",
+    "adult": false,
+    "id": 40213,
+    "imdb_id": "tt0105859"
+  },
+  {
+    "title": "Intimate Confessions of a Chinese Courtesan",
+    "release_year": "1972",
+    "clean_title": "/film/intimate-confessions-of-a-chinese-courtesan/",
+    "adult": false,
+    "id": 46957,
+    "imdb_id": "tt0068744"
+  },
+  {
+    "title": "The New One-Armed Swordsman",
+    "release_year": "1971",
+    "clean_title": "/film/the-new-one-armed-swordsman/",
+    "adult": false,
+    "id": 28039,
+    "imdb_id": "tt0069518"
+  },
+  {
+    "title": "The One-Armed Swordsman",
+    "release_year": "1967",
+    "clean_title": "/film/the-one-armed-swordsman/",
+    "adult": false,
+    "id": 54178,
+    "imdb_id": "tt0061597"
+  },
+  {
+    "title": "Last Hurrah for Chivalry",
+    "release_year": "1979",
+    "clean_title": "/film/last-hurrah-for-chivalry/",
+    "adult": false,
+    "id": 13514,
+    "imdb_id": "tt0077655"
+  },
+  {
+    "title": "The Magic Blade",
+    "release_year": "1976",
+    "clean_title": "/film/the-magic-blade/",
+    "adult": false,
+    "id": 26875,
+    "imdb_id": "tt0075329"
+  },
+  {
+    "title": "Burning Paradise",
+    "release_year": "1994",
+    "clean_title": "/film/burning-paradise/",
+    "adult": false,
+    "id": 58457,
+    "imdb_id": "tt0110080"
+  },
+  {
+    "title": "Tai-Chi Master",
+    "release_year": "1993",
+    "clean_title": "/film/tai-chi-master/",
+    "adult": false,
+    "id": 11143,
+    "imdb_id": "tt0108281"
+  },
+  {
+    "title": "The Lady Hermit",
+    "release_year": "1971",
+    "clean_title": "/film/the-lady-hermit/",
+    "adult": false,
+    "id": 40486,
+    "imdb_id": "tt0067322"
+  },
+  {
+    "title": "Blade of Fury",
+    "release_year": "1993",
+    "clean_title": "/film/blade-of-fury/",
+    "adult": false,
+    "id": 67097,
+    "imdb_id": "tt0108622"
+  },
+  {
+    "title": "Chinese Odyssey 2002",
+    "release_year": "2002",
+    "clean_title": "/film/chinese-odyssey-2002/",
+    "adult": false,
+    "id": 45379,
+    "imdb_id": "tt0311913"
+  },
+  {
+    "title": "The Miracle Fighters",
+    "release_year": "1982",
+    "clean_title": "/film/the-miracle-fighters/",
+    "adult": false,
+    "id": 74262,
+    "imdb_id": "tt0084557"
+  },
+  {
+    "title": "The Legend of the Swordsman",
+    "release_year": "1992",
+    "clean_title": "/film/the-legend-of-the-swordsman/",
+    "adult": false,
+    "id": 18672,
+    "imdb_id": "tt0103295"
+  },
+  {
+    "title": "Shaolin Intruders",
+    "release_year": "1983",
+    "clean_title": "/film/shaolin-intruders/",
+    "adult": false,
+    "id": 60568,
+    "imdb_id": "tt0201060"
+  },
+  {
+    "title": "The Legend",
+    "release_year": "1993",
+    "clean_title": "/film/the-legend-1993/",
+    "adult": false,
+    "id": 17653,
+    "imdb_id": "tt0106936"
+  },
+  {
+    "title": "Shadow",
+    "release_year": "2018",
+    "clean_title": "/film/shadow-2018/",
+    "adult": false,
+    "id": 463319,
+    "imdb_id": "tt6864046"
+  },
+  {
+    "title": "Beach of the War Gods",
+    "release_year": "1973",
+    "clean_title": "/film/beach-of-the-war-gods/",
+    "adult": false,
+    "id": 58358,
+    "imdb_id": "tt0068015"
+  },
+  {
+    "title": "Golden Swallow",
+    "release_year": "1968",
+    "clean_title": "/film/golden-swallow/",
+    "adult": false,
+    "id": 32388,
+    "imdb_id": "tt0063105"
+  },
+  {
+    "title": "Portrait in Crystal",
+    "release_year": "1983",
+    "clean_title": "/film/portrait-in-crystal/",
+    "adult": false,
+    "id": 104595,
+    "imdb_id": "tt0084678"
+  },
+  {
+    "title": "Return of the One-Armed Swordsman",
+    "release_year": "1969",
+    "clean_title": "/film/return-of-the-one-armed-swordsman/",
+    "adult": false,
+    "id": 48300,
+    "imdb_id": "tt0064265"
+  },
+  {
+    "title": "Thrilling Bloody Sword",
+    "release_year": "1981",
+    "clean_title": "/film/thrilling-bloody-sword/",
+    "adult": false,
+    "id": 106954,
+    "imdb_id": "tt0122286"
+  },
+  {
+    "title": "Zatoichi Meets the One-Armed Swordsman",
+    "release_year": "1971",
+    "clean_title": "/film/zatoichi-meets-the-one-armed-swordsman/",
+    "adult": false,
+    "id": 24444,
+    "imdb_id": "tt0066602"
+  },
+  {
+    "title": "The Bells of Death",
+    "release_year": "1968",
+    "clean_title": "/film/the-bells-of-death/",
+    "adult": false,
+    "id": 58361,
+    "imdb_id": "tt0164549"
+  },
+  {
+    "title": "Legendary Weapons of China",
+    "release_year": "1982",
+    "clean_title": "/film/legendary-weapons-of-china/",
+    "adult": false,
+    "id": 19156,
+    "imdb_id": "tt0084671"
+  },
+  {
+    "title": "Blades of the Guardians",
+    "release_year": "2026",
+    "clean_title": "/film/blades-of-the-guardians/",
+    "adult": false,
+    "id": 1305781,
+    "imdb_id": "tt32649961"
+  },
+  {
+    "title": "Child of Peach",
+    "release_year": "1987",
+    "clean_title": "/film/child-of-peach/",
+    "adult": false,
+    "id": 104583,
+    "imdb_id": "tt0405479"
+  },
+  {
+    "title": "The Sentimental Swordsman",
+    "release_year": "1977",
+    "clean_title": "/film/the-sentimental-swordsman/",
+    "adult": false,
+    "id": 149961,
+    "imdb_id": "tt0076827"
+  },
+  {
+    "title": "Ashes of Time",
+    "release_year": "1994",
+    "clean_title": "/film/ashes-of-time/",
+    "adult": false,
+    "id": 40751,
+    "imdb_id": "tt0109688"
+  },
+  {
+    "title": "The Lady Assassin",
+    "release_year": "1983",
+    "clean_title": "/film/the-lady-assassin/",
+    "adult": false,
+    "id": 66977,
+    "imdb_id": "tt0164360"
+  },
+  {
+    "title": "Curse of the Golden Flower",
+    "release_year": "2006",
+    "clean_title": "/film/curse-of-the-golden-flower/",
+    "adult": false,
+    "id": 1494,
+    "imdb_id": "tt0473444"
+  },
+  {
+    "title": "The Swordsman of All Swordsmen",
+    "release_year": "1968",
+    "clean_title": "/film/the-swordsman-of-all-swordsmen/",
+    "adult": false,
+    "id": 369216,
+    "imdb_id": "tt0978752"
+  },
+  {
+    "title": "Have Sword, Will Travel",
+    "release_year": "1969",
+    "clean_title": "/film/have-sword-will-travel/",
+    "adult": false,
+    "id": 90022,
+    "imdb_id": "tt0064067"
+  },
+  {
+    "title": "Magic of Spell",
+    "release_year": "1988",
+    "clean_title": "/film/magic-of-spell/",
+    "adult": false,
+    "id": 101189,
+    "imdb_id": "tt0122164"
+  },
+  {
+    "title": "Forbidden City Cop",
+    "release_year": "1996",
+    "clean_title": "/film/forbidden-city-cop/",
+    "adult": false,
+    "id": 37702,
+    "imdb_id": "tt0116014"
+  },
+  {
+    "title": "Masked Avengers",
+    "release_year": "1981",
+    "clean_title": "/film/masked-avengers/",
+    "adult": false,
+    "id": 63441,
+    "imdb_id": "tt0082153"
+  },
+  {
+    "title": "Human Lanterns",
+    "release_year": "1982",
+    "clean_title": "/film/human-lanterns/",
+    "adult": false,
+    "id": 64992,
+    "imdb_id": "tt0084586"
+  },
+  {
+    "title": "Clans of Intrigue",
+    "release_year": "1977",
+    "clean_title": "/film/clans-of-intrigue/",
+    "adult": false,
+    "id": 88048,
+    "imdb_id": "tt0075833"
+  },
+  {
+    "title": "Eye for an Eye 2",
+    "release_year": "2024",
+    "clean_title": "/film/eye-for-an-eye-2/",
+    "adult": false,
+    "id": 1235623,
+    "imdb_id": "tt30972810"
+  },
+  {
+    "title": "Death Duel",
+    "release_year": "1977",
+    "clean_title": "/film/death-duel/",
+    "adult": false,
+    "id": 66013,
+    "imdb_id": "tt0076660"
+  },
+  {
+    "title": "Shaolin Prince",
+    "release_year": "1982",
+    "clean_title": "/film/shaolin-prince/",
+    "adult": false,
+    "id": 66756,
+    "imdb_id": "tt0092855"
+  },
+  {
+    "title": "The Jade Raksha",
+    "release_year": "1968",
+    "clean_title": "/film/the-jade-raksha/",
+    "adult": false,
+    "id": 107900,
+    "imdb_id": "tt0063831"
+  },
+  {
+    "title": "Kid with the Golden Arm",
+    "release_year": "1979",
+    "clean_title": "/film/kid-with-the-golden-arm/",
+    "adult": false,
+    "id": 13513,
+    "imdb_id": "tt0079372"
+  },
+  {
+    "title": "The Swordsman in Double Flag Town",
+    "release_year": "1991",
+    "clean_title": "/film/the-swordsman-in-double-flag-town/",
+    "adult": false,
+    "id": 58370,
+    "imdb_id": "tt0102917"
+  },
+  {
+    "title": "Moon Warriors",
+    "release_year": "1992",
+    "clean_title": "/film/moon-warriors/",
+    "adult": false,
+    "id": 50936,
+    "imdb_id": "tt0108650"
+  },
+  {
+    "title": "Lady with a Sword",
+    "release_year": "1971",
+    "clean_title": "/film/lady-with-a-sword/",
+    "adult": false,
+    "id": 169809,
+    "imdb_id": "tt0879239"
+  },
+  {
+    "title": "The Assassin",
+    "release_year": "2015",
+    "clean_title": "/film/the-assassin-2015/",
+    "adult": false,
+    "id": 253450,
+    "imdb_id": "tt3508840"
+  },
+  {
+    "title": "Descendant of the Sun",
+    "release_year": "1983",
+    "clean_title": "/film/descendant-of-the-sun/",
+    "adult": false,
+    "id": 64988,
+    "imdb_id": "tt0084594"
+  },
+  {
+    "title": "Wing Chun",
+    "release_year": "1994",
+    "clean_title": "/film/wing-chun/",
+    "adult": false,
+    "id": 25645,
+    "imdb_id": "tt0111800"
+  },
+  {
+    "title": "Demon of the Lute",
+    "release_year": "1983",
+    "clean_title": "/film/demon-of-the-lute/",
+    "adult": false,
+    "id": 152251,
+    "imdb_id": "tt0165366"
+  },
+  {
+    "title": "Secret Service of the Imperial Court",
+    "release_year": "1984",
+    "clean_title": "/film/secret-service-of-the-imperial-court/",
+    "adult": false,
+    "id": 56550,
+    "imdb_id": "tt0199651"
+  },
+  {
+    "title": "Duel for Gold",
+    "release_year": "1971",
+    "clean_title": "/film/duel-for-gold/",
+    "adult": false,
+    "id": 66019,
+    "imdb_id": "tt0067024"
+  },
+  {
+    "title": "Royal Tramp",
+    "release_year": "1992",
+    "clean_title": "/film/royal-tramp/",
+    "adult": false,
+    "id": 51730,
+    "imdb_id": "tt0104770"
+  },
+  {
+    "title": "Killer Clans",
+    "release_year": "1976",
+    "clean_title": "/film/killer-clans/",
+    "adult": false,
+    "id": 87036,
+    "imdb_id": "tt0074745"
+  },
+  {
+    "title": "The Bride with White Hair",
+    "release_year": "1993",
+    "clean_title": "/film/the-bride-with-white-hair/",
+    "adult": false,
+    "id": 18817,
+    "imdb_id": "tt0106342"
+  },
+  {
+    "title": "The Iceman Cometh",
+    "release_year": "1989",
+    "clean_title": "/film/the-iceman-cometh-1989/",
+    "adult": false,
+    "id": 45454,
+    "imdb_id": "tt0097618"
+  },
+  {
+    "title": "The Invincible Fist",
+    "release_year": "1969",
+    "clean_title": "/film/the-invincible-fist/",
+    "adult": false,
+    "id": 66975,
+    "imdb_id": "tt0065102"
+  },
+  {
+    "title": "Shaolin Temple",
+    "release_year": "1976",
+    "clean_title": "/film/shaolin-temple/",
+    "adult": false,
+    "id": 45736,
+    "imdb_id": "tt0075202"
+  },
+  {
+    "title": "Blood Brothers",
+    "release_year": "1973",
+    "clean_title": "/film/blood-brothers-1973/",
+    "adult": false,
+    "id": 64363,
+    "imdb_id": "tt0069881"
+  },
+  {
+    "title": "Return of the Sentimental Swordsman",
+    "release_year": "1981",
+    "clean_title": "/film/return-of-the-sentimental-swordsman/",
+    "adult": false,
+    "id": 179631,
+    "imdb_id": "tt0081168"
+  },
+  {
+    "title": "Dragon",
+    "release_year": "2011",
+    "clean_title": "/film/dragon-2011/",
+    "adult": false,
+    "id": 70057,
+    "imdb_id": "tt1718199"
+  },
+  {
+    "title": "The Battle Wizard",
+    "release_year": "1977",
+    "clean_title": "/film/the-battle-wizard/",
+    "adult": false,
+    "id": 66759,
+    "imdb_id": "tt0081631"
+  },
+  {
+    "title": "The Final Master",
+    "release_year": "2015",
+    "clean_title": "/film/the-final-master/",
+    "adult": false,
+    "id": 377823,
+    "imdb_id": "tt4851640"
+  },
+  {
+    "title": "Swordsman and Enchantress",
+    "release_year": "1978",
+    "clean_title": "/film/swordsman-and-enchantress/",
+    "adult": false,
+    "id": 66758,
+    "imdb_id": "tt0078352"
+  },
+  {
+    "title": "Soul of the Sword",
+    "release_year": "1978",
+    "clean_title": "/film/soul-of-the-sword/",
+    "adult": false,
+    "id": 106640,
+    "imdb_id": "tt0076692"
+  },
+  {
+    "title": "The Jade Tiger",
+    "release_year": "1977",
+    "clean_title": "/film/the-jade-tiger/",
+    "adult": false,
+    "id": 64993,
+    "imdb_id": "tt0076519"
+  },
+  {
+    "title": "The Eagle Shooting Heroes",
+    "release_year": "1993",
+    "clean_title": "/film/the-eagle-shooting-heroes/",
+    "adult": false,
+    "id": 55157,
+    "imdb_id": "tt0108074"
+  },
+  {
+    "title": "Bloody Parrot",
+    "release_year": "1981",
+    "clean_title": "/film/bloody-parrot/",
+    "adult": false,
+    "id": 63440,
+    "imdb_id": "tt0164977"
+  },
+  {
+    "title": "The Flag of Iron",
+    "release_year": "1980",
+    "clean_title": "/film/the-flag-of-iron/",
+    "adult": false,
+    "id": 60415,
+    "imdb_id": "tt0080743"
+  },
+  {
+    "title": "King of Beggars",
+    "release_year": "1992",
+    "clean_title": "/film/king-of-beggars/",
+    "adult": false,
+    "id": 47648,
+    "imdb_id": "tt0100963"
+  },
+  {
+    "title": "The Brave Archer",
+    "release_year": "1977",
+    "clean_title": "/film/the-brave-archer/",
+    "adult": false,
+    "id": 73749,
+    "imdb_id": "tt0078249"
+  },
+  {
+    "title": "The Heroic Ones",
+    "release_year": "1970",
+    "clean_title": "/film/the-heroic-ones/",
+    "adult": false,
+    "id": 36261,
+    "imdb_id": "tt0070684"
+  },
+  {
+    "title": "Dragon Swamp",
+    "release_year": "1969",
+    "clean_title": "/film/dragon-swamp/",
+    "adult": false,
+    "id": 75699,
+    "imdb_id": "tt0064258"
+  },
+  {
+    "title": "Shaolin Drunkard",
+    "release_year": "1983",
+    "clean_title": "/film/shaolin-drunkard/",
+    "adult": false,
+    "id": 85014,
+    "imdb_id": "tt0086303"
+  }
+]

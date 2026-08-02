@@ -1,0 +1,802 @@
+[
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "release_year": "1966",
+    "clean_title": "/film/the-good-the-bad-and-the-ugly/",
+    "adult": false,
+    "id": 429,
+    "imdb_id": "tt0060196"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "release_year": "1968",
+    "clean_title": "/film/once-upon-a-time-in-the-west/",
+    "adult": false,
+    "id": 335,
+    "imdb_id": "tt0064116"
+  },
+  {
+    "title": "Django Unchained",
+    "release_year": "2012",
+    "clean_title": "/film/django-unchained/",
+    "adult": false,
+    "id": 68718,
+    "imdb_id": "tt1853728"
+  },
+  {
+    "title": "No Country for Old Men",
+    "release_year": "2007",
+    "clean_title": "/film/no-country-for-old-men/",
+    "adult": false,
+    "id": 6977,
+    "imdb_id": "tt0477348"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "release_year": "1948",
+    "clean_title": "/film/the-treasure-of-the-sierra-madre/",
+    "adult": false,
+    "id": 3090,
+    "imdb_id": "tt0040897"
+  },
+  {
+    "title": "The Man Who Shot Liberty Valance",
+    "release_year": "1962",
+    "clean_title": "/film/the-man-who-shot-liberty-valance/",
+    "adult": false,
+    "id": 11697,
+    "imdb_id": "tt0056217"
+  },
+  {
+    "title": "The New Land",
+    "release_year": "1972",
+    "clean_title": "/film/the-new-land/",
+    "adult": false,
+    "id": 42488,
+    "imdb_id": "tt0069035"
+  },
+  {
+    "title": "For a Few Dollars More",
+    "release_year": "1965",
+    "clean_title": "/film/for-a-few-dollars-more/",
+    "adult": false,
+    "id": 938,
+    "imdb_id": "tt0059578"
+  },
+  {
+    "title": "The Emigrants",
+    "release_year": "1971",
+    "clean_title": "/film/the-emigrants/",
+    "adult": false,
+    "id": 40732,
+    "imdb_id": "tt0067919"
+  },
+  {
+    "title": "Unforgiven",
+    "release_year": "1992",
+    "clean_title": "/film/unforgiven/",
+    "adult": false,
+    "id": 33,
+    "imdb_id": "tt0105695"
+  },
+  {
+    "title": "Rio Bravo",
+    "release_year": "1959",
+    "clean_title": "/film/rio-bravo/",
+    "adult": false,
+    "id": 301,
+    "imdb_id": "tt0053221"
+  },
+  {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "release_year": "1969",
+    "clean_title": "/film/butch-cassidy-and-the-sundance-kid/",
+    "adult": false,
+    "id": 642,
+    "imdb_id": "tt0064115"
+  },
+  {
+    "title": "The Ox-Bow Incident",
+    "release_year": "1943",
+    "clean_title": "/film/the-ox-bow-incident/",
+    "adult": false,
+    "id": 980,
+    "imdb_id": "tt0036244"
+  },
+  {
+    "title": "The Great Silence",
+    "release_year": "1968",
+    "clean_title": "/film/the-great-silence/",
+    "adult": false,
+    "id": 9028,
+    "imdb_id": "tt0063032"
+  },
+  {
+    "title": "McCabe & Mrs. Miller",
+    "release_year": "1971",
+    "clean_title": "/film/mccabe-mrs-miller/",
+    "adult": false,
+    "id": 29005,
+    "imdb_id": "tt0067411"
+  },
+  {
+    "title": "My Darling Clementine",
+    "release_year": "1946",
+    "clean_title": "/film/my-darling-clementine/",
+    "adult": false,
+    "id": 3088,
+    "imdb_id": "tt0038762"
+  },
+  {
+    "title": "Johnny Guitar",
+    "release_year": "1954",
+    "clean_title": "/film/johnny-guitar/",
+    "adult": false,
+    "id": 26596,
+    "imdb_id": "tt0047136"
+  },
+  {
+    "title": "The Wild Bunch",
+    "release_year": "1969",
+    "clean_title": "/film/the-wild-bunch/",
+    "adult": false,
+    "id": 576,
+    "imdb_id": "tt0065214"
+  },
+  {
+    "title": "The Wind",
+    "release_year": "1928",
+    "clean_title": "/film/the-wind/",
+    "adult": false,
+    "id": 31416,
+    "imdb_id": "tt0019585"
+  },
+  {
+    "title": "Hud",
+    "release_year": "1963",
+    "clean_title": "/film/hud/",
+    "adult": false,
+    "id": 24748,
+    "imdb_id": "tt0057163"
+  },
+  {
+    "title": "The Big Country",
+    "release_year": "1958",
+    "clean_title": "/film/the-big-country/",
+    "adult": false,
+    "id": 12501,
+    "imdb_id": "tt0051411"
+  },
+  {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "release_year": "2007",
+    "clean_title": "/film/the-assassination-of-jesse-james-by-the-coward-robert-ford/",
+    "adult": false,
+    "id": 4512,
+    "imdb_id": "tt0443680"
+  },
+  {
+    "title": "The Hateful Eight",
+    "release_year": "2015",
+    "clean_title": "/film/the-hateful-eight/",
+    "adult": false,
+    "id": 273248,
+    "imdb_id": "tt3460252"
+  },
+  {
+    "title": "Red River",
+    "release_year": "1948",
+    "clean_title": "/film/red-river/",
+    "adult": false,
+    "id": 3089,
+    "imdb_id": "tt0040724"
+  },
+  {
+    "title": "El Infierno",
+    "release_year": "2010",
+    "clean_title": "/film/el-infierno/",
+    "adult": false,
+    "id": 52629,
+    "imdb_id": "tt1692190"
+  },
+  {
+    "title": "The Gunfighter",
+    "release_year": "1950",
+    "clean_title": "/film/the-gunfighter/",
+    "adult": false,
+    "id": 17409,
+    "imdb_id": "tt0042531"
+  },
+  {
+    "title": "High Noon",
+    "release_year": "1952",
+    "clean_title": "/film/high-noon/",
+    "adult": false,
+    "id": 288,
+    "imdb_id": "tt0044706"
+  },
+  {
+    "title": "Stagecoach",
+    "release_year": "1939",
+    "clean_title": "/film/stagecoach/",
+    "adult": false,
+    "id": 995,
+    "imdb_id": "tt0031971"
+  },
+  {
+    "title": "The Rider",
+    "release_year": "2017",
+    "clean_title": "/film/the-rider/",
+    "adult": false,
+    "id": 453278,
+    "imdb_id": "tt6217608"
+  },
+  {
+    "title": "A Fistful of Dollars",
+    "release_year": "1964",
+    "clean_title": "/film/a-fistful-of-dollars/",
+    "adult": false,
+    "id": 391,
+    "imdb_id": "tt0058461"
+  },
+  {
+    "title": "Duck, You Sucker",
+    "release_year": "1971",
+    "clean_title": "/film/duck-you-sucker/",
+    "adult": false,
+    "id": 336,
+    "imdb_id": "tt0067140"
+  },
+  {
+    "title": "The Lusty Men",
+    "release_year": "1952",
+    "clean_title": "/film/the-lusty-men/",
+    "adult": false,
+    "id": 43370,
+    "imdb_id": "tt0044860"
+  },
+  {
+    "title": "Bad Day at Black Rock",
+    "release_year": "1955",
+    "clean_title": "/film/bad-day-at-black-rock/",
+    "adult": false,
+    "id": 14554,
+    "imdb_id": "tt0047849"
+  },
+  {
+    "title": "The Searchers",
+    "release_year": "1956",
+    "clean_title": "/film/the-searchers/",
+    "adult": false,
+    "id": 3114,
+    "imdb_id": "tt0049730"
+  },
+  {
+    "title": "By the Law",
+    "release_year": "1926",
+    "clean_title": "/film/by-the-law/",
+    "adult": false,
+    "id": 126644,
+    "imdb_id": "tt0017271"
+  },
+  {
+    "title": "My Son, the Hero",
+    "release_year": "1961",
+    "clean_title": "/film/my-son-the-hero-1961/",
+    "adult": false,
+    "id": 116986,
+    "imdb_id": "tt0054969"
+  },
+  {
+    "title": "3:10 to Yuma",
+    "release_year": "1957",
+    "clean_title": "/film/310-to-yuma/",
+    "adult": false,
+    "id": 14168,
+    "imdb_id": "tt0050086"
+  },
+  {
+    "title": "Hell or High Water",
+    "release_year": "2016",
+    "clean_title": "/film/hell-or-high-water/",
+    "adult": false,
+    "id": 338766,
+    "imdb_id": "tt2582782"
+  },
+  {
+    "title": "Tombstone",
+    "release_year": "1993",
+    "clean_title": "/film/tombstone/",
+    "adult": false,
+    "id": 11969,
+    "imdb_id": "tt0108358"
+  },
+  {
+    "title": "Bacurau",
+    "release_year": "2019",
+    "clean_title": "/film/bacurau/",
+    "adult": false,
+    "id": 446159,
+    "imdb_id": "tt2762506"
+  },
+  {
+    "title": "Dances with Wolves",
+    "release_year": "1990",
+    "clean_title": "/film/dances-with-wolves/",
+    "adult": false,
+    "id": 581,
+    "imdb_id": "tt0099348"
+  },
+  {
+    "title": "Dead Man",
+    "release_year": "1995",
+    "clean_title": "/film/dead-man/",
+    "adult": false,
+    "id": 922,
+    "imdb_id": "tt0112817"
+  },
+  {
+    "title": "Stars in My Crown",
+    "release_year": "1950",
+    "clean_title": "/film/stars-in-my-crown/",
+    "adult": false,
+    "id": 111390,
+    "imdb_id": "tt0042998"
+  },
+  {
+    "title": "Wagon Master",
+    "release_year": "1950",
+    "clean_title": "/film/wagon-master/",
+    "adult": false,
+    "id": 37327,
+    "imdb_id": "tt0043117"
+  },
+  {
+    "title": "The Big Gundown",
+    "release_year": "1967",
+    "clean_title": "/film/the-big-gundown/",
+    "adult": false,
+    "id": 16662,
+    "imdb_id": "tt0063501"
+  },
+  {
+    "title": "The Revenant",
+    "release_year": "2015",
+    "clean_title": "/film/the-revenant-2015/",
+    "adult": false,
+    "id": 281957,
+    "imdb_id": "tt1663202"
+  },
+  {
+    "title": "Giant",
+    "release_year": "1956",
+    "clean_title": "/film/giant/",
+    "adult": false,
+    "id": 1712,
+    "imdb_id": "tt0049261"
+  },
+  {
+    "title": "First Cow",
+    "release_year": "2019",
+    "clean_title": "/film/first-cow/",
+    "adult": false,
+    "id": 558582,
+    "imdb_id": "tt9231040"
+  },
+  {
+    "title": "Westward the Women",
+    "release_year": "1951",
+    "clean_title": "/film/westward-the-women/",
+    "adult": false,
+    "id": 101557,
+    "imdb_id": "tt0044205"
+  },
+  {
+    "title": "The Outlaw Josey Wales",
+    "release_year": "1976",
+    "clean_title": "/film/the-outlaw-josey-wales/",
+    "adult": false,
+    "id": 10747,
+    "imdb_id": "tt0075029"
+  },
+  {
+    "title": "Pat Garrett & Billy the Kid",
+    "release_year": "1973",
+    "clean_title": "/film/pat-garrett-billy-the-kid/",
+    "adult": false,
+    "id": 11577,
+    "imdb_id": "tt0070518"
+  },
+  {
+    "title": "Winchester '73",
+    "release_year": "1950",
+    "clean_title": "/film/winchester-73/",
+    "adult": false,
+    "id": 14551,
+    "imdb_id": "tt0043137"
+  },
+  {
+    "title": "Lonely Are the Brave",
+    "release_year": "1962",
+    "clean_title": "/film/lonely-are-the-brave/",
+    "adult": false,
+    "id": 43002,
+    "imdb_id": "tt0056195"
+  },
+  {
+    "title": "3 Bad Men",
+    "release_year": "1926",
+    "clean_title": "/film/3-bad-men/",
+    "adult": false,
+    "id": 32716,
+    "imdb_id": "tt0017463"
+  },
+  {
+    "title": "Jeremiah Johnson",
+    "release_year": "1972",
+    "clean_title": "/film/jeremiah-johnson/",
+    "adult": false,
+    "id": 11943,
+    "imdb_id": "tt0068762"
+  },
+  {
+    "title": "Day of the Outlaw",
+    "release_year": "1959",
+    "clean_title": "/film/day-of-the-outlaw/",
+    "adult": false,
+    "id": 37481,
+    "imdb_id": "tt0052724"
+  },
+  {
+    "title": "Fort Apache",
+    "release_year": "1948",
+    "clean_title": "/film/fort-apache/",
+    "adult": false,
+    "id": 37347,
+    "imdb_id": "tt0040369"
+  },
+  {
+    "title": "True Grit",
+    "release_year": "2010",
+    "clean_title": "/film/true-grit-2010/",
+    "adult": false,
+    "id": 44264,
+    "imdb_id": "tt1403865"
+  },
+  {
+    "title": "Wind River",
+    "release_year": "2017",
+    "clean_title": "/film/wind-river-2017/",
+    "adult": false,
+    "id": 395834,
+    "imdb_id": "tt5362988"
+  },
+  {
+    "title": "Sertânia",
+    "release_year": "2020",
+    "clean_title": "/film/sertania/",
+    "adult": false,
+    "id": 594478,
+    "imdb_id": "tt11275354"
+  },
+  {
+    "title": "The Magnificent Seven",
+    "release_year": "1960",
+    "clean_title": "/film/the-magnificent-seven/",
+    "adult": false,
+    "id": 966,
+    "imdb_id": "tt0054047"
+  },
+  {
+    "title": "Canyon Passage",
+    "release_year": "1946",
+    "clean_title": "/film/canyon-passage/",
+    "adult": false,
+    "id": 37309,
+    "imdb_id": "tt0038395"
+  },
+  {
+    "title": "Walker",
+    "release_year": "1987",
+    "clean_title": "/film/walker/",
+    "adult": false,
+    "id": 28448,
+    "imdb_id": "tt0096409"
+  },
+  {
+    "title": "Blazing Saddles",
+    "release_year": "1974",
+    "clean_title": "/film/blazing-saddles/",
+    "adult": false,
+    "id": 11072,
+    "imdb_id": "tt0071230"
+  },
+  {
+    "title": "Django",
+    "release_year": "1966",
+    "clean_title": "/film/django/",
+    "adult": false,
+    "id": 10772,
+    "imdb_id": "tt0060315"
+  },
+  {
+    "title": "The Tall T",
+    "release_year": "1957",
+    "clean_title": "/film/the-tall-t/",
+    "adult": false,
+    "id": 43253,
+    "imdb_id": "tt0051047"
+  },
+  {
+    "title": "Destry Rides Again",
+    "release_year": "1939",
+    "clean_title": "/film/destry-rides-again/",
+    "adult": false,
+    "id": 43828,
+    "imdb_id": "tt0031225"
+  },
+  {
+    "title": "7 Men from Now",
+    "release_year": "1956",
+    "clean_title": "/film/7-men-from-now/",
+    "adult": false,
+    "id": 26502,
+    "imdb_id": "tt0049743"
+  },
+  {
+    "title": "The Man from Laramie",
+    "release_year": "1955",
+    "clean_title": "/film/the-man-from-laramie/",
+    "adult": false,
+    "id": 18264,
+    "imdb_id": "tt0048342"
+  },
+  {
+    "title": "Colorado Territory",
+    "release_year": "1949",
+    "clean_title": "/film/colorado-territory/",
+    "adult": false,
+    "id": 28484,
+    "imdb_id": "tt0041253"
+  },
+  {
+    "title": "Antonio das Mortes",
+    "release_year": "1969",
+    "clean_title": "/film/antonio-das-mortes/",
+    "adult": false,
+    "id": 74349,
+    "imdb_id": "tt0064256"
+  },
+  {
+    "title": "Heaven's Gate",
+    "release_year": "1980",
+    "clean_title": "/film/heavens-gate/",
+    "adult": false,
+    "id": 10935,
+    "imdb_id": "tt0080855"
+  },
+  {
+    "title": "3:10 to Yuma",
+    "release_year": "2007",
+    "clean_title": "/film/310-to-yuma-2007/",
+    "adult": false,
+    "id": 5176,
+    "imdb_id": "tt0381849"
+  },
+  {
+    "title": "Sergeant Rutledge",
+    "release_year": "1960",
+    "clean_title": "/film/sergeant-rutledge/",
+    "adult": false,
+    "id": 43040,
+    "imdb_id": "tt0054292"
+  },
+  {
+    "title": "The Naked Spur",
+    "release_year": "1953",
+    "clean_title": "/film/the-naked-spur/",
+    "adult": false,
+    "id": 20442,
+    "imdb_id": "tt0044953"
+  },
+  {
+    "title": "El Dorado",
+    "release_year": "1966",
+    "clean_title": "/film/el-dorado/",
+    "adult": false,
+    "id": 6644,
+    "imdb_id": "tt0061619"
+  },
+  {
+    "title": "El Topo",
+    "release_year": "1970",
+    "clean_title": "/film/el-topo/",
+    "adult": false,
+    "id": 13041,
+    "imdb_id": "tt0067866"
+  },
+  {
+    "title": "Black God, White Devil",
+    "release_year": "1964",
+    "clean_title": "/film/black-god-white-devil/",
+    "adult": false,
+    "id": 67612,
+    "imdb_id": "tt0058006"
+  },
+  {
+    "title": "The Proposition",
+    "release_year": "2005",
+    "clean_title": "/film/the-proposition-2005/",
+    "adult": false,
+    "id": 16608,
+    "imdb_id": "tt0421238"
+  },
+  {
+    "title": "The Ballad of Gregorio Cortez",
+    "release_year": "1982",
+    "clean_title": "/film/the-ballad-of-gregorio-cortez/",
+    "adult": false,
+    "id": 218500,
+    "imdb_id": "tt0083613"
+  },
+  {
+    "title": "Way Out West",
+    "release_year": "1937",
+    "clean_title": "/film/way-out-west/",
+    "adult": false,
+    "id": 25599,
+    "imdb_id": "tt0029747"
+  },
+  {
+    "title": "Face to Face",
+    "release_year": "1967",
+    "clean_title": "/film/face-to-face-1967/",
+    "adult": false,
+    "id": 45211,
+    "imdb_id": "tt0061636"
+  },
+  {
+    "title": "Man of the West",
+    "release_year": "1958",
+    "clean_title": "/film/man-of-the-west/",
+    "adult": false,
+    "id": 14674,
+    "imdb_id": "tt0051899"
+  },
+  {
+    "title": "No Name on the Bullet",
+    "release_year": "1959",
+    "clean_title": "/film/no-name-on-the-bullet/",
+    "adult": false,
+    "id": 51997,
+    "imdb_id": "tt0052002"
+  },
+  {
+    "title": "A Bullet for the General",
+    "release_year": "1967",
+    "clean_title": "/film/a-bullet-for-the-general/",
+    "adult": false,
+    "id": 37316,
+    "imdb_id": "tt0061429"
+  },
+  {
+    "title": "The Good, the Bad, the Weird",
+    "release_year": "2008",
+    "clean_title": "/film/the-good-the-bad-the-weird/",
+    "adult": false,
+    "id": 15067,
+    "imdb_id": "tt0901487"
+  },
+  {
+    "title": "Marlina the Murderer in Four Acts",
+    "release_year": "2017",
+    "clean_title": "/film/marlina-the-murderer-in-four-acts/",
+    "adult": false,
+    "id": 453276,
+    "imdb_id": "tt5923026"
+  },
+  {
+    "title": "Yellow Sky",
+    "release_year": "1948",
+    "clean_title": "/film/yellow-sky/",
+    "adult": false,
+    "id": 20638,
+    "imdb_id": "tt0040978"
+  },
+  {
+    "title": "Ride the High Country",
+    "release_year": "1962",
+    "clean_title": "/film/ride-the-high-country/",
+    "adult": false,
+    "id": 36206,
+    "imdb_id": "tt0056412"
+  },
+  {
+    "title": "The Three Burials of Melquiades Estrada",
+    "release_year": "2005",
+    "clean_title": "/film/the-three-burials-of-melquiades-estrada/",
+    "adult": false,
+    "id": 8053,
+    "imdb_id": "tt0419294"
+  },
+  {
+    "title": "Last Train from Gun Hill",
+    "release_year": "1959",
+    "clean_title": "/film/last-train-from-gun-hill/",
+    "adult": false,
+    "id": 14677,
+    "imdb_id": "tt0052993"
+  },
+  {
+    "title": "Shane",
+    "release_year": "1953",
+    "clean_title": "/film/shane/",
+    "adult": false,
+    "id": 3110,
+    "imdb_id": "tt0046303"
+  },
+  {
+    "title": "Pursued",
+    "release_year": "1947",
+    "clean_title": "/film/pursued/",
+    "adult": false,
+    "id": 26761,
+    "imdb_id": "tt0039737"
+  },
+  {
+    "title": "Open Range",
+    "release_year": "2003",
+    "clean_title": "/film/open-range/",
+    "adult": false,
+    "id": 2055,
+    "imdb_id": "tt0316356"
+  },
+  {
+    "title": "Ride Lonesome",
+    "release_year": "1959",
+    "clean_title": "/film/ride-lonesome/",
+    "adult": false,
+    "id": 27644,
+    "imdb_id": "tt0053220"
+  },
+  {
+    "title": "Meek's Cutoff",
+    "release_year": "2010",
+    "clean_title": "/film/meeks-cutoff/",
+    "adult": false,
+    "id": 57120,
+    "imdb_id": "tt1518812"
+  },
+  {
+    "title": "The Tin Star",
+    "release_year": "1957",
+    "clean_title": "/film/the-tin-star/",
+    "adult": false,
+    "id": 30054,
+    "imdb_id": "tt0051087"
+  },
+  {
+    "title": "The Hired Hand",
+    "release_year": "1971",
+    "clean_title": "/film/the-hired-hand/",
+    "adult": false,
+    "id": 42522,
+    "imdb_id": "tt0067204"
+  },
+  {
+    "title": "The Ballad of Cable Hogue",
+    "release_year": "1970",
+    "clean_title": "/film/the-ballad-of-cable-hogue/",
+    "adult": false,
+    "id": 23330,
+    "imdb_id": "tt0065446"
+  },
+  {
+    "title": "The Furies",
+    "release_year": "1950",
+    "clean_title": "/film/the-furies/",
+    "adult": false,
+    "id": 28304,
+    "imdb_id": "tt0042490"
+  }
+]

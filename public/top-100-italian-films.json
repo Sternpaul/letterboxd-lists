@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Cinema Paradiso",
+    "release_year": "1988",
+    "clean_title": "/film/cinema-paradiso/",
+    "adult": false,
+    "id": 11216,
+    "imdb_id": "tt0095765"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "release_year": "1966",
+    "clean_title": "/film/the-good-the-bad-and-the-ugly/",
+    "adult": false,
+    "id": 429,
+    "imdb_id": "tt0060196"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "release_year": "1997",
+    "clean_title": "/film/life-is-beautiful/",
+    "adult": false,
+    "id": 637,
+    "imdb_id": "tt0118799"
+  },
+  {
+    "title": "Nights of Cabiria",
+    "release_year": "1957",
+    "clean_title": "/film/nights-of-cabiria/",
+    "adult": false,
+    "id": 19426,
+    "imdb_id": "tt0050783"
+  },
+  {
+    "title": "A Special Day",
+    "release_year": "1977",
+    "clean_title": "/film/a-special-day/",
+    "adult": false,
+    "id": 42229,
+    "imdb_id": "tt0076085"
+  },
+  {
+    "title": "Rocco and His Brothers",
+    "release_year": "1960",
+    "clean_title": "/film/rocco-and-his-brothers/",
+    "adult": false,
+    "id": 8422,
+    "imdb_id": "tt0054248"
+  },
+  {
+    "title": "The Best of Youth",
+    "release_year": "2003",
+    "clean_title": "/film/the-best-of-youth/",
+    "adult": false,
+    "id": 11659,
+    "imdb_id": "tt0346336"
+  },
+  {
+    "title": "We All Loved Each Other So Much",
+    "release_year": "1974",
+    "clean_title": "/film/we-all-loved-each-other-so-much/",
+    "adult": false,
+    "id": 42269,
+    "imdb_id": "tt0075793"
+  },
+  {
+    "title": "La Notte",
+    "release_year": "1961",
+    "clean_title": "/film/la-notte/",
+    "adult": false,
+    "id": 41050,
+    "imdb_id": "tt0054130"
+  },
+  {
+    "title": "Bicycle Thieves",
+    "release_year": "1948",
+    "clean_title": "/film/bicycle-thieves/",
+    "adult": false,
+    "id": 5156,
+    "imdb_id": "tt0040522"
+  },
+  {
+    "title": "8½",
+    "release_year": "1963",
+    "clean_title": "/film/8-half/",
+    "adult": false,
+    "id": 422,
+    "imdb_id": "tt0056801"
+  },
+  {
+    "title": "La Dolce Vita",
+    "release_year": "1960",
+    "clean_title": "/film/la-dolce-vita/",
+    "adult": false,
+    "id": 439,
+    "imdb_id": "tt0053779"
+  },
+  {
+    "title": "Il Sorpasso",
+    "release_year": "1962",
+    "clean_title": "/film/il-sorpasso/",
+    "adult": false,
+    "id": 24188,
+    "imdb_id": "tt0056512"
+  },
+  {
+    "title": "Umberto D.",
+    "release_year": "1952",
+    "clean_title": "/film/umberto-d/",
+    "adult": false,
+    "id": 833,
+    "imdb_id": "tt0045274"
+  },
+  {
+    "title": "Voices Through Time",
+    "release_year": "1996",
+    "clean_title": "/film/voices-through-time/",
+    "adult": false,
+    "id": 202253,
+    "imdb_id": "tt0118098"
+  },
+  {
+    "title": "For a Few Dollars More",
+    "release_year": "1965",
+    "clean_title": "/film/for-a-few-dollars-more/",
+    "adult": false,
+    "id": 938,
+    "imdb_id": "tt0059578"
+  },
+  {
+    "title": "Investigation of a Citizen Above Suspicion",
+    "release_year": "1970",
+    "clean_title": "/film/investigation-of-a-citizen-above-suspicion/",
+    "adult": false,
+    "id": 26451,
+    "imdb_id": "tt0065889"
+  },
+  {
+    "title": "The Conformist",
+    "release_year": "1970",
+    "clean_title": "/film/the-conformist/",
+    "adult": false,
+    "id": 8416,
+    "imdb_id": "tt0065571"
+  },
+  {
+    "title": "La Strada",
+    "release_year": "1954",
+    "clean_title": "/film/la-strada/",
+    "adult": false,
+    "id": 405,
+    "imdb_id": "tt0047528"
+  },
+  {
+    "title": "Rome, Open City",
+    "release_year": "1945",
+    "clean_title": "/film/rome-open-city/",
+    "adult": false,
+    "id": 307,
+    "imdb_id": "tt0038890"
+  },
+  {
+    "title": "Nostos: The Return",
+    "release_year": "1989",
+    "clean_title": "/film/nostos-the-return/",
+    "adult": false,
+    "id": 237957,
+    "imdb_id": "tt0100271"
+  },
+  {
+    "title": "Il Posto",
+    "release_year": "1961",
+    "clean_title": "/film/il-posto/",
+    "adult": false,
+    "id": 31742,
+    "imdb_id": "tt0055320"
+  },
+  {
+    "title": "The Great Silence",
+    "release_year": "1968",
+    "clean_title": "/film/the-great-silence/",
+    "adult": false,
+    "id": 9028,
+    "imdb_id": "tt0063032"
+  },
+  {
+    "title": "The Leopard",
+    "release_year": "1963",
+    "clean_title": "/film/the-leopard/",
+    "adult": false,
+    "id": 1040,
+    "imdb_id": "tt0057091"
+  },
+  {
+    "title": "There's Still Tomorrow",
+    "release_year": "2023",
+    "clean_title": "/film/theres-still-tomorrow/",
+    "adult": false,
+    "id": 1026227,
+    "imdb_id": "tt21800162"
+  },
+  {
+    "title": "Amarcord",
+    "release_year": "1973",
+    "clean_title": "/film/amarcord/",
+    "adult": false,
+    "id": 7857,
+    "imdb_id": "tt0071129"
+  },
+  {
+    "title": "The Eight Mountains",
+    "release_year": "2022",
+    "clean_title": "/film/the-eight-mountains/",
+    "adult": false,
+    "id": 803700,
+    "imdb_id": "tt14641542"
+  },
+  {
+    "title": "The Great Beauty",
+    "release_year": "2013",
+    "clean_title": "/film/the-great-beauty/",
+    "adult": false,
+    "id": 179144,
+    "imdb_id": "tt2358891"
+  },
+  {
+    "title": "The Gospel According to St. Matthew",
+    "release_year": "1964",
+    "clean_title": "/film/the-gospel-according-to-st-matthew/",
+    "adult": false,
+    "id": 24192,
+    "imdb_id": "tt0058715"
+  },
+  {
+    "title": "The Tree of Wooden Clogs",
+    "release_year": "1978",
+    "clean_title": "/film/the-tree-of-wooden-clogs/",
+    "adult": false,
+    "id": 31542,
+    "imdb_id": "tt0077138"
+  },
+  {
+    "title": "La Chimera",
+    "release_year": "2023",
+    "clean_title": "/film/la-chimera/",
+    "adult": false,
+    "id": 837335,
+    "imdb_id": "tt14561712"
+  },
+  {
+    "title": "The Organizer",
+    "release_year": "1963",
+    "clean_title": "/film/the-organizer/",
+    "adult": false,
+    "id": 51092,
+    "imdb_id": "tt0056945"
+  },
+  {
+    "title": "Three Men and a Leg",
+    "release_year": "1997",
+    "clean_title": "/film/three-men-and-a-leg/",
+    "adult": false,
+    "id": 38286,
+    "imdb_id": "tt0135007"
+  },
+  {
+    "title": "Shoeshine",
+    "release_year": "1946",
+    "clean_title": "/film/shoeshine/",
+    "adult": false,
+    "id": 43469,
+    "imdb_id": "tt0038913"
+  },
+  {
+    "title": "Happy as Lazzaro",
+    "release_year": "2018",
+    "clean_title": "/film/happy-as-lazzaro/",
+    "adult": false,
+    "id": 481432,
+    "imdb_id": "tt6752992"
+  },
+  {
+    "title": "L'Avventura",
+    "release_year": "1960",
+    "clean_title": "/film/lavventura/",
+    "adult": false,
+    "id": 5165,
+    "imdb_id": "tt0053619"
+  },
+  {
+    "title": "At the First Breath of Wind",
+    "release_year": "2002",
+    "clean_title": "/film/at-the-first-breath-of-wind/",
+    "adult": false,
+    "id": 220005,
+    "imdb_id": "tt0328825"
+  },
+  {
+    "title": "An Average Little Man",
+    "release_year": "1977",
+    "clean_title": "/film/an-average-little-man/",
+    "adult": false,
+    "id": 54561,
+    "imdb_id": "tt0129794"
+  },
+  {
+    "title": "The Great War",
+    "release_year": "1959",
+    "clean_title": "/film/the-great-war/",
+    "adult": false,
+    "id": 55823,
+    "imdb_id": "tt0052861"
+  },
+  {
+    "title": "My Friends",
+    "release_year": "1975",
+    "clean_title": "/film/my-friends-1975/",
+    "adult": false,
+    "id": 20914,
+    "imdb_id": "tt0072637"
+  },
+  {
+    "title": "La Terra Trema",
+    "release_year": "1948",
+    "clean_title": "/film/la-terra-trema/",
+    "adult": false,
+    "id": 43445,
+    "imdb_id": "tt0040866"
+  },
+  {
+    "title": "A Difficult Life",
+    "release_year": "1961",
+    "clean_title": "/film/a-difficult-life/",
+    "adult": false,
+    "id": 56343,
+    "imdb_id": "tt0055602"
+  },
+  {
+    "title": "Red Desert",
+    "release_year": "1964",
+    "clean_title": "/film/red-desert/",
+    "adult": false,
+    "id": 26638,
+    "imdb_id": "tt0058003"
+  },
+  {
+    "title": "Mamma Roma",
+    "release_year": "1962",
+    "clean_title": "/film/mamma-roma/",
+    "adult": false,
+    "id": 47796,
+    "imdb_id": "tt0056215"
+  },
+  {
+    "title": "Big Deal on Madonna Street",
+    "release_year": "1958",
+    "clean_title": "/film/big-deal-on-madonna-street/",
+    "adult": false,
+    "id": 24382,
+    "imdb_id": "tt0052216"
+  },
+  {
+    "title": "Christ Stopped at Eboli",
+    "release_year": "1979",
+    "clean_title": "/film/christ-stopped-at-eboli/",
+    "adult": false,
+    "id": 42169,
+    "imdb_id": "tt0079010"
+  },
+  {
+    "title": "Le Notti Bianche",
+    "release_year": "1957",
+    "clean_title": "/film/le-notti-bianche/",
+    "adult": false,
+    "id": 43231,
+    "imdb_id": "tt0050782"
+  },
+  {
+    "title": "Love and Anarchy",
+    "release_year": "1973",
+    "clean_title": "/film/love-and-anarchy/",
+    "adult": false,
+    "id": 65332,
+    "imdb_id": "tt0070061"
+  },
+  {
+    "title": "Misunderstood",
+    "release_year": "1966",
+    "clean_title": "/film/misunderstood-1966/",
+    "adult": false,
+    "id": 56978,
+    "imdb_id": "tt0060538"
+  },
+  {
+    "title": "The Postman",
+    "release_year": "1994",
+    "clean_title": "/film/the-postman-1994/",
+    "adult": false,
+    "id": 11010,
+    "imdb_id": "tt0110877"
+  },
+  {
+    "title": "Fireworks",
+    "release_year": "2023",
+    "clean_title": "/film/fireworks-2023/",
+    "adult": false,
+    "id": 891636,
+    "imdb_id": "tt15764854"
+  },
+  {
+    "title": "Kaos",
+    "release_year": "1984",
+    "clean_title": "/film/kaos-1984/",
+    "adult": false,
+    "id": 38164,
+    "imdb_id": "tt0087537"
+  },
+  {
+    "title": "I Knew Her Well",
+    "release_year": "1965",
+    "clean_title": "/film/i-knew-her-well/",
+    "adult": false,
+    "id": 59336,
+    "imdb_id": "tt0060545"
+  },
+  {
+    "title": "Seven Beauties",
+    "release_year": "1975",
+    "clean_title": "/film/seven-beauties/",
+    "adult": false,
+    "id": 37550,
+    "imdb_id": "tt0075040"
+  },
+  {
+    "title": "I Vitelloni",
+    "release_year": "1953",
+    "clean_title": "/film/i-vitelloni/",
+    "adult": false,
+    "id": 12548,
+    "imdb_id": "tt0046521"
+  },
+  {
+    "title": "The Working Class Goes to Heaven",
+    "release_year": "1971",
+    "clean_title": "/film/the-working-class-goes-to-heaven/",
+    "adult": false,
+    "id": 56231,
+    "imdb_id": "tt0066919"
+  },
+  {
+    "title": "A Fistful of Dollars",
+    "release_year": "1964",
+    "clean_title": "/film/a-fistful-of-dollars/",
+    "adult": false,
+    "id": 391,
+    "imdb_id": "tt0058461"
+  },
+  {
+    "title": "Lucky and Zorba",
+    "release_year": "1998",
+    "clean_title": "/film/lucky-and-zorba/",
+    "adult": false,
+    "id": 49992,
+    "imdb_id": "tt0122735"
+  },
+  {
+    "title": "L'Eclisse",
+    "release_year": "1962",
+    "clean_title": "/film/leclisse/",
+    "adult": false,
+    "id": 21135,
+    "imdb_id": "tt0056736"
+  },
+  {
+    "title": "Sacco & Vanzetti",
+    "release_year": "1971",
+    "clean_title": "/film/sacco-vanzetti/",
+    "adult": false,
+    "id": 48211,
+    "imdb_id": "tt0067698"
+  },
+  {
+    "title": "Duck, You Sucker",
+    "release_year": "1971",
+    "clean_title": "/film/duck-you-sucker/",
+    "adult": false,
+    "id": 336,
+    "imdb_id": "tt0067140"
+  },
+  {
+    "title": "Divorce Italian Style",
+    "release_year": "1961",
+    "clean_title": "/film/divorce-italian-style/",
+    "adult": false,
+    "id": 20271,
+    "imdb_id": "tt0055913"
+  },
+  {
+    "title": "Rome 11:00",
+    "release_year": "1952",
+    "clean_title": "/film/rome-11-00/",
+    "adult": false,
+    "id": 158693,
+    "imdb_id": "tt0045098"
+  },
+  {
+    "title": "One Way or Another",
+    "release_year": "1976",
+    "clean_title": "/film/one-way-or-another/",
+    "adult": false,
+    "id": 47096,
+    "imdb_id": "tt0075335"
+  },
+  {
+    "title": "Bandits of Orgosolo",
+    "release_year": "1961",
+    "clean_title": "/film/bandits-of-orgosolo/",
+    "adult": false,
+    "id": 122699,
+    "imdb_id": "tt0053632"
+  },
+  {
+    "title": "From the Clouds to the Resistance",
+    "release_year": "1979",
+    "clean_title": "/film/from-the-clouds-to-the-resistance/",
+    "adult": false,
+    "id": 87415,
+    "imdb_id": "tt0079023"
+  },
+  {
+    "title": "Family Diary",
+    "release_year": "1962",
+    "clean_title": "/film/family-diary/",
+    "adult": false,
+    "id": 80557,
+    "imdb_id": "tt0056966"
+  },
+  {
+    "title": "Seduced and Abandoned",
+    "release_year": "1964",
+    "clean_title": "/film/seduced-and-abandoned/",
+    "adult": false,
+    "id": 42790,
+    "imdb_id": "tt0058564"
+  },
+  {
+    "title": "Everybody's Fine",
+    "release_year": "1990",
+    "clean_title": "/film/everybodys-fine/",
+    "adult": false,
+    "id": 45799,
+    "imdb_id": "tt0100681"
+  },
+  {
+    "title": "Ask Me If I'm Happy",
+    "release_year": "2000",
+    "clean_title": "/film/ask-me-if-im-happy/",
+    "adult": false,
+    "id": 50531,
+    "imdb_id": "tt0252985"
+  },
+  {
+    "title": "The Desert of the Tartars",
+    "release_year": "1976",
+    "clean_title": "/film/the-desert-of-the-tartars/",
+    "adult": false,
+    "id": 48203,
+    "imdb_id": "tt0074400"
+  },
+  {
+    "title": "Paisan",
+    "release_year": "1946",
+    "clean_title": "/film/paisan/",
+    "adult": false,
+    "id": 8429,
+    "imdb_id": "tt0038823"
+  },
+  {
+    "title": "Deep Red",
+    "release_year": "1975",
+    "clean_title": "/film/deep-red/",
+    "adult": false,
+    "id": 20126,
+    "imdb_id": "tt0073582"
+  },
+  {
+    "title": "Dear Diary",
+    "release_year": "1993",
+    "clean_title": "/film/dear-diary-1993/",
+    "adult": false,
+    "id": 25403,
+    "imdb_id": "tt0109382"
+  },
+  {
+    "title": "What Time Is It?",
+    "release_year": "1989",
+    "clean_title": "/film/what-time-is-it/",
+    "adult": false,
+    "id": 58187,
+    "imdb_id": "tt0097051"
+  },
+  {
+    "title": "A Drama of Jealousy (and other things)",
+    "release_year": "1970",
+    "clean_title": "/film/a-drama-of-jealousy-and-other-things/",
+    "adult": false,
+    "id": 56366,
+    "imdb_id": "tt0065662"
+  },
+  {
+    "title": "General Della Rovere",
+    "release_year": "1959",
+    "clean_title": "/film/general-della-rovere/",
+    "adult": false,
+    "id": 43100,
+    "imdb_id": "tt0053856"
+  },
+  {
+    "title": "The Big Gundown",
+    "release_year": "1967",
+    "clean_title": "/film/the-big-gundown/",
+    "adult": false,
+    "id": 16662,
+    "imdb_id": "tt0063501"
+  },
+  {
+    "title": "Two Women",
+    "release_year": "1960",
+    "clean_title": "/film/two-women/",
+    "adult": false,
+    "id": 24167,
+    "imdb_id": "tt0054749"
+  },
+  {
+    "title": "Accattone",
+    "release_year": "1961",
+    "clean_title": "/film/accattone/",
+    "adult": false,
+    "id": 12491,
+    "imdb_id": "tt0054599"
+  },
+  {
+    "title": "Europa '51",
+    "release_year": "1952",
+    "clean_title": "/film/europa-51/",
+    "adult": false,
+    "id": 41464,
+    "imdb_id": "tt0043511"
+  },
+  {
+    "title": "Theorem",
+    "release_year": "1968",
+    "clean_title": "/film/theorem/",
+    "adult": false,
+    "id": 5335,
+    "imdb_id": "tt0063678"
+  },
+  {
+    "title": "Miracle in Milan",
+    "release_year": "1951",
+    "clean_title": "/film/miracle-in-milan/",
+    "adult": false,
+    "id": 43379,
+    "imdb_id": "tt0043809"
+  },
+  {
+    "title": "Juliet of the Spirits",
+    "release_year": "1965",
+    "clean_title": "/film/juliet-of-the-spirits/",
+    "adult": false,
+    "id": 19120,
+    "imdb_id": "tt0059229"
+  },
+  {
+    "title": "Io Capitano",
+    "release_year": "2023",
+    "clean_title": "/film/io-capitano/",
+    "adult": false,
+    "id": 937746,
+    "imdb_id": "tt14225838"
+  },
+  {
+    "title": "For Love and Gold",
+    "release_year": "1966",
+    "clean_title": "/film/for-love-and-gold/",
+    "adult": false,
+    "id": 23832,
+    "imdb_id": "tt0060125"
+  },
+  {
+    "title": "The Fiancés",
+    "release_year": "1963",
+    "clean_title": "/film/the-fiances/",
+    "adult": false,
+    "id": 66180,
+    "imdb_id": "tt0055981"
+  },
+  {
+    "title": "The Marquis of Grillo",
+    "release_year": "1981",
+    "clean_title": "/film/the-marquis-of-grillo/",
+    "adult": false,
+    "id": 32480,
+    "imdb_id": "tt0082714"
+  },
+  {
+    "title": "Everybody Go Home!",
+    "release_year": "1960",
+    "clean_title": "/film/everybody-go-home/",
+    "adult": false,
+    "id": 48955,
+    "imdb_id": "tt0054413"
+  },
+  {
+    "title": "I'm Starting from Three",
+    "release_year": "1981",
+    "clean_title": "/film/im-starting-from-three/",
+    "adult": false,
+    "id": 13386,
+    "imdb_id": "tt0081427"
+  },
+  {
+    "title": "The Flowers of St. Francis",
+    "release_year": "1950",
+    "clean_title": "/film/the-flowers-of-st-francis/",
+    "adult": false,
+    "id": 56518,
+    "imdb_id": "tt0042477"
+  },
+  {
+    "title": "Adua and Her Friends",
+    "release_year": "1960",
+    "clean_title": "/film/adua-and-her-friends/",
+    "adult": false,
+    "id": 63070,
+    "imdb_id": "tt0053570"
+  },
+  {
+    "title": "The Last One for the Road",
+    "release_year": "2025",
+    "clean_title": "/film/the-last-one-for-the-road/",
+    "adult": false,
+    "id": 1462322,
+    "imdb_id": "tt36491632"
+  },
+  {
+    "title": "Bellissima",
+    "release_year": "1951",
+    "clean_title": "/film/bellissima/",
+    "adult": false,
+    "id": 43372,
+    "imdb_id": "tt0043332"
+  },
+  {
+    "title": "Roma",
+    "release_year": "1972",
+    "clean_title": "/film/roma/",
+    "adult": false,
+    "id": 11035,
+    "imdb_id": "tt0069191"
+  },
+  {
+    "title": "Hands Over the City",
+    "release_year": "1963",
+    "clean_title": "/film/hands-over-the-city/",
+    "adult": false,
+    "id": 58383,
+    "imdb_id": "tt0057286"
+  },
+  {
+    "title": "1900",
+    "release_year": "1976",
+    "clean_title": "/film/1900/",
+    "adult": false,
+    "id": 3870,
+    "imdb_id": "tt0074084"
+  },
+  {
+    "title": "The Children Are Watching Us",
+    "release_year": "1943",
+    "clean_title": "/film/the-children-are-watching-us/",
+    "adult": false,
+    "id": 61461,
+    "imdb_id": "tt0034493"
+  },
+  {
+    "title": "Mafioso",
+    "release_year": "1962",
+    "clean_title": "/film/mafioso/",
+    "adult": false,
+    "id": 34866,
+    "imdb_id": "tt0056210"
+  },
+  {
+    "title": "Girl with a Suitcase",
+    "release_year": "1961",
+    "clean_title": "/film/girl-with-a-suitcase/",
+    "adult": false,
+    "id": 49697,
+    "imdb_id": "tt0054225"
+  }
+]
