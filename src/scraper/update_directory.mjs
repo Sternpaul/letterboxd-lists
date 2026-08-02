@@ -49,25 +49,24 @@ for (const list of officialLists) {
         const filePath = path.join(publicDir, jsonName);
         if (fs.existsSync(filePath)) {
             // It exists! Determine if it's daily or one-time
-            if (dailyJsonFiles.has(jsonName)) {
-                status = "Daily Sync 🟢";
-            } else {
-                status = "One-Time Scraped 📦";
-            }
-            endpointStr = `[JSON](public/${jsonName})`;
-            
             try {
                 const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
                 totalItems = data.length.toString();
                 isSuccess = true;
                 
-                // Get file modify date. On GitHub Actions, this will be the current run time.
                 const stats = fs.statSync(filePath);
                 lastUpdate = stats.mtime.toISOString().split('T')[0];
             } catch (e) {
                 totalItems = 'Error';
                 status = "Failed 🚨";
             }
+
+            if (dailyJsonFiles.has(jsonName)) {
+                status = "Daily Sync 🟢";
+            } else if (status !== "Failed 🚨") {
+                status = `Not actively scraped (last update ${lastUpdate}) 📦`;
+            }
+            endpointStr = `[RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/${jsonName})`;
         }
     } else if (list.trueSlug === 'tag') {
         // Special case for 'All Lists' tags

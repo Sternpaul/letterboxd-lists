@@ -2014,5 +2014,29 @@
     "trueUrl": "https://letterboxd.com/official/list/most-divisive-all-time-min-500-ratings/",
     "trueSlug": "official/list/most-divisive-all-time-min-500-ratings/",
     "jsonName": "most-divisive-all-time-min-500-ratings.json"
+  },
+  {
+    "category": "Other Hardcoded Lists",
+    "name": "The Bfi 100 British Films",
+    "shortUrl": "https://letterboxd.com/gubarenko/list/the-bfi-100-british-films/",
+    "trueUrl": "https://letterboxd.com/gubarenko/list/the-bfi-100-british-films/",
+    "trueSlug": "gubarenko/list/the-bfi-100-british-films/",
+    "jsonName": "the-bfi-100-british-films.json"
+  },
+  {
+    "category": "Other Hardcoded Lists",
+    "name": "Top 100 Best Picture Nominees With The Most",
+    "shortUrl": "https://letterboxd.com/official/list/top-100-best-picture-nominees-with-the-most/",
+    "trueUrl": "https://letterboxd.com/official/list/top-100-best-picture-nominees-with-the-most/",
+    "trueSlug": "official/list/top-100-best-picture-nominees-with-the-most/",
+    "jsonName": "top-100-best-picture-nominees-with-the-most.json"
+  },
+  {
+    "category": "Other Hardcoded Lists",
+    "name": "Watchlist",
+    "shortUrl": "https://letterboxd.com/sternpaul/watchlist/",
+    "trueUrl": "https://letterboxd.com/sternpaul/watchlist/",
+    "trueSlug": "sternpaul/watchlist/",
+    "jsonName": "sternpaul-watchlist.json"
   }
 ]
