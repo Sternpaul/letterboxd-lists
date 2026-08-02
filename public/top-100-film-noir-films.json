@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Sunset Boulevard",
+    "release_year": "1950",
+    "clean_title": "/film/sunset-boulevard/",
+    "adult": false,
+    "id": 599,
+    "imdb_id": "tt0043014"
+  },
+  {
+    "title": "Ace in the Hole",
+    "release_year": "1951",
+    "clean_title": "/film/ace-in-the-hole/",
+    "adult": false,
+    "id": 25364,
+    "imdb_id": "tt0043338"
+  },
+  {
+    "title": "The Night of the Hunter",
+    "release_year": "1955",
+    "clean_title": "/film/the-night-of-the-hunter/",
+    "adult": false,
+    "id": 3112,
+    "imdb_id": "tt0048424"
+  },
+  {
+    "title": "Double Indemnity",
+    "release_year": "1944",
+    "clean_title": "/film/double-indemnity/",
+    "adult": false,
+    "id": 996,
+    "imdb_id": "tt0036775"
+  },
+  {
+    "title": "Sweet Smell of Success",
+    "release_year": "1957",
+    "clean_title": "/film/sweet-smell-of-success/",
+    "adult": false,
+    "id": 976,
+    "imdb_id": "tt0051036"
+  },
+  {
+    "title": "The Third Man",
+    "release_year": "1949",
+    "clean_title": "/film/the-third-man/",
+    "adult": false,
+    "id": 1092,
+    "imdb_id": "tt0041959"
+  },
+  {
+    "title": "In a Lonely Place",
+    "release_year": "1950",
+    "clean_title": "/film/in-a-lonely-place/",
+    "adult": false,
+    "id": 17057,
+    "imdb_id": "tt0042593"
+  },
+  {
+    "title": "Touch of Evil",
+    "release_year": "1958",
+    "clean_title": "/film/touch-of-evil/",
+    "adult": false,
+    "id": 1480,
+    "imdb_id": "tt0052311"
+  },
+  {
+    "title": "White Heat",
+    "release_year": "1949",
+    "clean_title": "/film/white-heat/",
+    "adult": false,
+    "id": 15794,
+    "imdb_id": "tt0042041"
+  },
+  {
+    "title": "I Am a Fugitive from a Chain Gang",
+    "release_year": "1932",
+    "clean_title": "/film/i-am-a-fugitive-from-a-chain-gang/",
+    "adult": false,
+    "id": 29740,
+    "imdb_id": "tt0023042"
+  },
+  {
+    "title": "Out of the Past",
+    "release_year": "1947",
+    "clean_title": "/film/out-of-the-past/",
+    "adult": false,
+    "id": 678,
+    "imdb_id": "tt0039689"
+  },
+  {
+    "title": "The Big Heat",
+    "release_year": "1953",
+    "clean_title": "/film/the-big-heat/",
+    "adult": false,
+    "id": 14580,
+    "imdb_id": "tt0045555"
+  },
+  {
+    "title": "Notorious",
+    "release_year": "1946",
+    "clean_title": "/film/notorious/",
+    "adult": false,
+    "id": 303,
+    "imdb_id": "tt0038787"
+  },
+  {
+    "title": "Mildred Pierce",
+    "release_year": "1945",
+    "clean_title": "/film/mildred-pierce/",
+    "adult": false,
+    "id": 3309,
+    "imdb_id": "tt0037913"
+  },
+  {
+    "title": "Strangers on a Train",
+    "release_year": "1951",
+    "clean_title": "/film/strangers-on-a-train/",
+    "adult": false,
+    "id": 845,
+    "imdb_id": "tt0044079"
+  },
+  {
+    "title": "Laura",
+    "release_year": "1944",
+    "clean_title": "/film/laura/",
+    "adult": false,
+    "id": 1939,
+    "imdb_id": "tt0037008"
+  },
+  {
+    "title": "Night and the City",
+    "release_year": "1950",
+    "clean_title": "/film/night-and-the-city/",
+    "adult": false,
+    "id": 19119,
+    "imdb_id": "tt0042788"
+  },
+  {
+    "title": "Stray Dog",
+    "release_year": "1949",
+    "clean_title": "/film/stray-dog/",
+    "adult": false,
+    "id": 30368,
+    "imdb_id": "tt0041699"
+  },
+  {
+    "title": "The Set-Up",
+    "release_year": "1949",
+    "clean_title": "/film/the-set-up/",
+    "adult": false,
+    "id": 17218,
+    "imdb_id": "tt0041859"
+  },
+  {
+    "title": "The Roaring Twenties",
+    "release_year": "1939",
+    "clean_title": "/film/the-roaring-twenties/",
+    "adult": false,
+    "id": 37698,
+    "imdb_id": "tt0031867"
+  },
+  {
+    "title": "The Killing",
+    "release_year": "1956",
+    "clean_title": "/film/the-killing/",
+    "adult": false,
+    "id": 247,
+    "imdb_id": "tt0049406"
+  },
+  {
+    "title": "Kiss Me Deadly",
+    "release_year": "1955",
+    "clean_title": "/film/kiss-me-deadly/",
+    "adult": false,
+    "id": 18030,
+    "imdb_id": "tt0048261"
+  },
+  {
+    "title": "The Lost Weekend",
+    "release_year": "1945",
+    "clean_title": "/film/the-lost-weekend/",
+    "adult": false,
+    "id": 28580,
+    "imdb_id": "tt0037884"
+  },
+  {
+    "title": "Fury",
+    "release_year": "1936",
+    "clean_title": "/film/fury/",
+    "adult": false,
+    "id": 14615,
+    "imdb_id": "tt0027652"
+  },
+  {
+    "title": "Scarlet Street",
+    "release_year": "1945",
+    "clean_title": "/film/scarlet-street/",
+    "adult": false,
+    "id": 17058,
+    "imdb_id": "tt0038057"
+  },
+  {
+    "title": "The Big Sleep",
+    "release_year": "1946",
+    "clean_title": "/film/the-big-sleep/",
+    "adult": false,
+    "id": 910,
+    "imdb_id": "tt0038355"
+  },
+  {
+    "title": "Leave Her to Heaven",
+    "release_year": "1945",
+    "clean_title": "/film/leave-her-to-heaven/",
+    "adult": false,
+    "id": 17645,
+    "imdb_id": "tt0037865"
+  },
+  {
+    "title": "Gun Crazy",
+    "release_year": "1950",
+    "clean_title": "/film/gun-crazy/",
+    "adult": false,
+    "id": 18671,
+    "imdb_id": "tt0042530"
+  },
+  {
+    "title": "Angels with Dirty Faces",
+    "release_year": "1938",
+    "clean_title": "/film/angels-with-dirty-faces/",
+    "adult": false,
+    "id": 13696,
+    "imdb_id": "tt0029870"
+  },
+  {
+    "title": "Pickup on South Street",
+    "release_year": "1953",
+    "clean_title": "/film/pickup-on-south-street/",
+    "adult": false,
+    "id": 25955,
+    "imdb_id": "tt0046187"
+  },
+  {
+    "title": "Detective Story",
+    "release_year": "1951",
+    "clean_title": "/film/detective-story/",
+    "adult": false,
+    "id": 20853,
+    "imdb_id": "tt0043465"
+  },
+  {
+    "title": "To Have and Have Not",
+    "release_year": "1944",
+    "clean_title": "/film/to-have-and-have-not/",
+    "adult": false,
+    "id": 22584,
+    "imdb_id": "tt0037382"
+  },
+  {
+    "title": "They Live by Night",
+    "release_year": "1948",
+    "clean_title": "/film/they-live-by-night/",
+    "adult": false,
+    "id": 44190,
+    "imdb_id": "tt0040872"
+  },
+  {
+    "title": "The Breaking Point",
+    "release_year": "1950",
+    "clean_title": "/film/the-breaking-point/",
+    "adult": false,
+    "id": 37954,
+    "imdb_id": "tt0042281"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "release_year": "1941",
+    "clean_title": "/film/the-maltese-falcon-1941/",
+    "adult": false,
+    "id": 963,
+    "imdb_id": "tt0033870"
+  },
+  {
+    "title": "Nightmare Alley",
+    "release_year": "1947",
+    "clean_title": "/film/nightmare-alley/",
+    "adult": false,
+    "id": 19169,
+    "imdb_id": "tt0039661"
+  },
+  {
+    "title": "The Lady from Shanghai",
+    "release_year": "1947",
+    "clean_title": "/film/the-lady-from-shanghai/",
+    "adult": false,
+    "id": 3766,
+    "imdb_id": "tt0040525"
+  },
+  {
+    "title": "The Asphalt Jungle",
+    "release_year": "1950",
+    "clean_title": "/film/the-asphalt-jungle/",
+    "adult": false,
+    "id": 16958,
+    "imdb_id": "tt0042208"
+  },
+  {
+    "title": "Brute Force",
+    "release_year": "1947",
+    "clean_title": "/film/brute-force/",
+    "adult": false,
+    "id": 28297,
+    "imdb_id": "tt0039224"
+  },
+  {
+    "title": "The Killers",
+    "release_year": "1946",
+    "clean_title": "/film/the-killers/",
+    "adult": false,
+    "id": 14638,
+    "imdb_id": "tt0038669"
+  },
+  {
+    "title": "Sudden Fear",
+    "release_year": "1952",
+    "clean_title": "/film/sudden-fear/",
+    "adult": false,
+    "id": 19171,
+    "imdb_id": "tt0045205"
+  },
+  {
+    "title": "Caged",
+    "release_year": "1950",
+    "clean_title": "/film/caged/",
+    "adult": false,
+    "id": 29381,
+    "imdb_id": "tt0042296"
+  },
+  {
+    "title": "The Narrow Margin",
+    "release_year": "1952",
+    "clean_title": "/film/the-narrow-margin/",
+    "adult": false,
+    "id": 31713,
+    "imdb_id": "tt0044954"
+  },
+  {
+    "title": "Scarface",
+    "release_year": "1932",
+    "clean_title": "/film/scarface/",
+    "adult": false,
+    "id": 877,
+    "imdb_id": "tt0023427"
+  },
+  {
+    "title": "The Docks of New York",
+    "release_year": "1928",
+    "clean_title": "/film/the-docks-of-new-york/",
+    "adult": false,
+    "id": 885,
+    "imdb_id": "tt0018839"
+  },
+  {
+    "title": "The Fallen Idol",
+    "release_year": "1948",
+    "clean_title": "/film/the-fallen-idol/",
+    "adult": false,
+    "id": 21631,
+    "imdb_id": "tt0040338"
+  },
+  {
+    "title": "Detour",
+    "release_year": "1945",
+    "clean_title": "/film/detour/",
+    "adult": false,
+    "id": 20367,
+    "imdb_id": "tt0037638"
+  },
+  {
+    "title": "Spellbound",
+    "release_year": "1945",
+    "clean_title": "/film/spellbound/",
+    "adult": false,
+    "id": 4174,
+    "imdb_id": "tt0038109"
+  },
+  {
+    "title": "The Naked City",
+    "release_year": "1948",
+    "clean_title": "/film/the-naked-city/",
+    "adult": false,
+    "id": 20482,
+    "imdb_id": "tt0040636"
+  },
+  {
+    "title": "The Big Clock",
+    "release_year": "1948",
+    "clean_title": "/film/the-big-clock/",
+    "adult": false,
+    "id": 19974,
+    "imdb_id": "tt0040160"
+  },
+  {
+    "title": "Key Largo",
+    "release_year": "1948",
+    "clean_title": "/film/key-largo/",
+    "adult": false,
+    "id": 11016,
+    "imdb_id": "tt0040506"
+  },
+  {
+    "title": "Act of Violence",
+    "release_year": "1949",
+    "clean_title": "/film/act-of-violence/",
+    "adult": false,
+    "id": 32850,
+    "imdb_id": "tt0041088"
+  },
+  {
+    "title": "Underworld",
+    "release_year": "1927",
+    "clean_title": "/film/underworld/",
+    "adult": false,
+    "id": 42565,
+    "imdb_id": "tt0018526"
+  },
+  {
+    "title": "The Wrong Man",
+    "release_year": "1956",
+    "clean_title": "/film/the-wrong-man/",
+    "adult": false,
+    "id": 22527,
+    "imdb_id": "tt0051207"
+  },
+  {
+    "title": "Where the Sidewalk Ends",
+    "release_year": "1950",
+    "clean_title": "/film/where-the-sidewalk-ends/",
+    "adult": false,
+    "id": 17221,
+    "imdb_id": "tt0043132"
+  },
+  {
+    "title": "You Only Live Once",
+    "release_year": "1937",
+    "clean_title": "/film/you-only-live-once/",
+    "adult": false,
+    "id": 52758,
+    "imdb_id": "tt0029808"
+  },
+  {
+    "title": "The Harder They Fall",
+    "release_year": "1956",
+    "clean_title": "/film/the-harder-they-fall/",
+    "adult": false,
+    "id": 28528,
+    "imdb_id": "tt0049291"
+  },
+  {
+    "title": "Criss Cross",
+    "release_year": "1949",
+    "clean_title": "/film/criss-cross/",
+    "adult": false,
+    "id": 22112,
+    "imdb_id": "tt0041268"
+  },
+  {
+    "title": "Body and Soul",
+    "release_year": "1947",
+    "clean_title": "/film/body-and-soul/",
+    "adult": false,
+    "id": 17487,
+    "imdb_id": "tt0039204"
+  },
+  {
+    "title": "Thieves' Highway",
+    "release_year": "1949",
+    "clean_title": "/film/thieves-highway/",
+    "adult": false,
+    "id": 20025,
+    "imdb_id": "tt0041958"
+  },
+  {
+    "title": "The Big Combo",
+    "release_year": "1955",
+    "clean_title": "/film/the-big-combo/",
+    "adult": false,
+    "id": 22342,
+    "imdb_id": "tt0047878"
+  },
+  {
+    "title": "Gilda",
+    "release_year": "1946",
+    "clean_title": "/film/gilda/",
+    "adult": false,
+    "id": 3767,
+    "imdb_id": "tt0038559"
+  },
+  {
+    "title": "Dark Passage",
+    "release_year": "1947",
+    "clean_title": "/film/dark-passage/",
+    "adult": false,
+    "id": 16227,
+    "imdb_id": "tt0039302"
+  },
+  {
+    "title": "On Dangerous Ground",
+    "release_year": "1951",
+    "clean_title": "/film/on-dangerous-ground/",
+    "adult": false,
+    "id": 31152,
+    "imdb_id": "tt0043879"
+  },
+  {
+    "title": "I Want to Live!",
+    "release_year": "1958",
+    "clean_title": "/film/i-want-to-live/",
+    "adult": false,
+    "id": 28577,
+    "imdb_id": "tt0051758"
+  },
+  {
+    "title": "No Way Out",
+    "release_year": "1950",
+    "clean_title": "/film/no-way-out/",
+    "adult": false,
+    "id": 28433,
+    "imdb_id": "tt0042792"
+  },
+  {
+    "title": "Murder by Contract",
+    "release_year": "1958",
+    "clean_title": "/film/murder-by-contract/",
+    "adult": false,
+    "id": 18930,
+    "imdb_id": "tt0051959"
+  },
+  {
+    "title": "Pursued",
+    "release_year": "1947",
+    "clean_title": "/film/pursued/",
+    "adult": false,
+    "id": 26761,
+    "imdb_id": "tt0039737"
+  },
+  {
+    "title": "The Woman in the Window",
+    "release_year": "1944",
+    "clean_title": "/film/the-woman-in-the-window/",
+    "adult": false,
+    "id": 17136,
+    "imdb_id": "tt0037469"
+  },
+  {
+    "title": "Hangmen Also Die!",
+    "release_year": "1943",
+    "clean_title": "/film/hangmen-also-die/",
+    "adult": false,
+    "id": 22178,
+    "imdb_id": "tt0035966"
+  },
+  {
+    "title": "High Sierra",
+    "release_year": "1941",
+    "clean_title": "/film/high-sierra/",
+    "adult": false,
+    "id": 27725,
+    "imdb_id": "tt0033717"
+  },
+  {
+    "title": "Murder, My Sweet",
+    "release_year": "1944",
+    "clean_title": "/film/murder-my-sweet/",
+    "adult": false,
+    "id": 1834,
+    "imdb_id": "tt0037101"
+  },
+  {
+    "title": "Shanghai Express",
+    "release_year": "1932",
+    "clean_title": "/film/shanghai-express/",
+    "adult": false,
+    "id": 875,
+    "imdb_id": "tt0023458"
+  },
+  {
+    "title": "The Stranger",
+    "release_year": "1946",
+    "clean_title": "/film/the-stranger/",
+    "adult": false,
+    "id": 20246,
+    "imdb_id": "tt0038991"
+  },
+  {
+    "title": "The Desperate Hours",
+    "release_year": "1955",
+    "clean_title": "/film/the-desperate-hours/",
+    "adult": false,
+    "id": 18612,
+    "imdb_id": "tt0047985"
+  },
+  {
+    "title": "Brighton Rock",
+    "release_year": "1948",
+    "clean_title": "/film/brighton-rock/",
+    "adult": false,
+    "id": 13385,
+    "imdb_id": "tt0039220"
+  },
+  {
+    "title": "Mr. Arkadin",
+    "release_year": "1955",
+    "clean_title": "/film/mr-arkadin/",
+    "adult": false,
+    "id": 44026,
+    "imdb_id": "tt0048393"
+  },
+  {
+    "title": "Crime Wave",
+    "release_year": "1953",
+    "clean_title": "/film/crime-wave/",
+    "adult": false,
+    "id": 19618,
+    "imdb_id": "tt0046878"
+  },
+  {
+    "title": "The Prowler",
+    "release_year": "1951",
+    "clean_title": "/film/the-prowler/",
+    "adult": false,
+    "id": 22985,
+    "imdb_id": "tt0043938"
+  },
+  {
+    "title": "99 River Street",
+    "release_year": "1953",
+    "clean_title": "/film/99-river-street/",
+    "adult": false,
+    "id": 36949,
+    "imdb_id": "tt0045465"
+  },
+  {
+    "title": "A Woman's Face",
+    "release_year": "1941",
+    "clean_title": "/film/a-womans-face/",
+    "adult": false,
+    "id": 27622,
+    "imdb_id": "tt0034399"
+  },
+  {
+    "title": "Woman on the Run",
+    "release_year": "1950",
+    "clean_title": "/film/woman-on-the-run/",
+    "adult": false,
+    "id": 28663,
+    "imdb_id": "tt0043142"
+  },
+  {
+    "title": "Scandal Sheet",
+    "release_year": "1952",
+    "clean_title": "/film/scandal-sheet/",
+    "adult": false,
+    "id": 26009,
+    "imdb_id": "tt0045124"
+  },
+  {
+    "title": "Humoresque",
+    "release_year": "1946",
+    "clean_title": "/film/humoresque/",
+    "adult": false,
+    "id": 26701,
+    "imdb_id": "tt0038622"
+  },
+  {
+    "title": "Island of Lost Souls",
+    "release_year": "1932",
+    "clean_title": "/film/island-of-lost-souls/",
+    "adult": false,
+    "id": 3031,
+    "imdb_id": "tt0024188"
+  },
+  {
+    "title": "Nightfall",
+    "release_year": "1956",
+    "clean_title": "/film/nightfall/",
+    "adult": false,
+    "id": 34667,
+    "imdb_id": "tt0049552"
+  },
+  {
+    "title": "Kansas City Confidential",
+    "release_year": "1952",
+    "clean_title": "/film/kansas-city-confidential/",
+    "adult": false,
+    "id": 21296,
+    "imdb_id": "tt0044789"
+  },
+  {
+    "title": "Raw Deal",
+    "release_year": "1948",
+    "clean_title": "/film/raw-deal/",
+    "adult": false,
+    "id": 26167,
+    "imdb_id": "tt0040723"
+  },
+  {
+    "title": "Angel Face",
+    "release_year": "1952",
+    "clean_title": "/film/angel-face/",
+    "adult": false,
+    "id": 1938,
+    "imdb_id": "tt0044357"
+  },
+  {
+    "title": "The Letter",
+    "release_year": "1940",
+    "clean_title": "/film/the-letter/",
+    "adult": false,
+    "id": 17801,
+    "imdb_id": "tt0032701"
+  },
+  {
+    "title": "The Lineup",
+    "release_year": "1958",
+    "clean_title": "/film/the-lineup/",
+    "adult": false,
+    "id": 24508,
+    "imdb_id": "tt0051866"
+  },
+  {
+    "title": "The Petrified Forest",
+    "release_year": "1936",
+    "clean_title": "/film/the-petrified-forest/",
+    "adult": false,
+    "id": 17030,
+    "imdb_id": "tt0028096"
+  },
+  {
+    "title": "Phantom Lady",
+    "release_year": "1944",
+    "clean_title": "/film/phantom-lady/",
+    "adult": false,
+    "id": 37992,
+    "imdb_id": "tt0036260"
+  },
+  {
+    "title": "Kiss of Death",
+    "release_year": "1947",
+    "clean_title": "/film/kiss-of-death/",
+    "adult": false,
+    "id": 21454,
+    "imdb_id": "tt0039536"
+  },
+  {
+    "title": "Force of Evil",
+    "release_year": "1948",
+    "clean_title": "/film/force-of-evil/",
+    "adult": false,
+    "id": 26744,
+    "imdb_id": "tt0040366"
+  },
+  {
+    "title": "The Reckless Moment",
+    "release_year": "1949",
+    "clean_title": "/film/the-reckless-moment/",
+    "adult": false,
+    "id": 28007,
+    "imdb_id": "tt0041786"
+  },
+  {
+    "title": "Champion",
+    "release_year": "1949",
+    "clean_title": "/film/champion/",
+    "adult": false,
+    "id": 25918,
+    "imdb_id": "tt0041239"
+  },
+  {
+    "title": "Road House",
+    "release_year": "1948",
+    "clean_title": "/film/road-house-1948/",
+    "adult": false,
+    "id": 30624,
+    "imdb_id": "tt0040740"
+  },
+  {
+    "title": "The Window",
+    "release_year": "1949",
+    "clean_title": "/film/the-window/",
+    "adult": false,
+    "id": 32684,
+    "imdb_id": "tt0042046"
+  },
+  {
+    "title": "Cry of the City",
+    "release_year": "1948",
+    "clean_title": "/film/cry-of-the-city/",
+    "adult": false,
+    "id": 20362,
+    "imdb_id": "tt0040257"
+  }
+]
