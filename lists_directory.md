@@ -156,9 +156,9 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | **Underseen Lists** | | | | |
 | [Top 50 Underseen Horror Films](https://boxd.it/xHFLm) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-50-underseen-horror-films.json) | 50 | 2026-08-02 |
 | **Year in Review** | | | | |
-| [2025 All Lists](https://letterboxd.com/official/tag/yir2025/lists/) | Not Scraped ❌ |  | - | - |
-| [2024 All Lists](https://letterboxd.com/official/tag/yir2024/lists/) | Not Scraped ❌ |  | - | - |
-| [2023 All Lists](https://letterboxd.com/official/tag/yir2023/lists/) | Not Scraped ❌ |  | - | - |
+| [2025 All Lists](https://letterboxd.com/official/tag/yir2025/lists/) | Directory Link 📁 |  | - | - |
+| [2024 All Lists](https://letterboxd.com/official/tag/yir2024/lists/) | Directory Link 📁 |  | - | - |
+| [2023 All Lists](https://letterboxd.com/official/tag/yir2023/lists/) | Directory Link 📁 |  | - | - |
 | [2023 Top 50](https://boxd.it/qQ1iu) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2023-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2024 Midway](https://boxd.it/wHhQS) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/halfway-2024-the-top-25-highest-rated-films.json) | 25 | 2026-08-02 |
 | [2023 Midway](https://boxd.it/nxT5O) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-25-highest-rated-for-first-half-of-2023.json) | 25 | 2026-08-02 |
@@ -166,9 +166,9 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | [2025 Top 50](https://boxd.it/QKjHO) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2025-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2022 Top 50](https://boxd.it/jywbg) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2022-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2024 Top 50](https://boxd.it/Ab5SY) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2024-highest-rated-films.json) | 50 | 2026-08-02 |
-| [2022 All Lists](https://letterboxd.com/official/tag/yir2022/lists/) | Not Scraped ❌ |  | - | - |
-| [2021 All Lists](https://letterboxd.com/official/tag/yir2021/lists/) | Not Scraped ❌ |  | - | - |
-| [2020 All Lists](https://letterboxd.com/official/tag/yir2020/lists/) | Not Scraped ❌ |  | - | - |
+| [2022 All Lists](https://letterboxd.com/official/tag/yir2022/lists/) | Directory Link 📁 |  | - | - |
+| [2021 All Lists](https://letterboxd.com/official/tag/yir2021/lists/) | Directory Link 📁 |  | - | - |
+| [2020 All Lists](https://letterboxd.com/official/tag/yir2020/lists/) | Directory Link 📁 |  | - | - |
 | [2020 Midway](https://boxd.it/5So96) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-10-highest-rated-for-first-half-of-2020.json) | 10 | 2026-08-02 |
 | [2020 Top 50](https://boxd.it/aFgIQ) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2020-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2022 Midway](https://boxd.it/hcr2c) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-25-highest-rated-for-first-half-of-2022.json) | 25 | 2026-08-02 |
@@ -176,27 +176,27 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | [2019 Top 50](https://boxd.it/4twtY) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2019-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2019 Midway](https://boxd.it/3DX8k) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-10-highest-rated-for-first-half-of-2019.json) | 10 | 2026-08-02 |
 | [2021 Top 50](https://boxd.it/eh7fI) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2021-highest-rated-films.json) | 50 | 2026-08-02 |
-| [2019 All Lists](https://letterboxd.com/official/tag/yir2019/lists/) | Not Scraped ❌ |  | - | - |
-| [2018 All Lists](https://letterboxd.com/official/tag/yir2018/lists/) | Not Scraped ❌ |  | - | - |
-| [2017 All Lists](https://letterboxd.com/official/tag/yir2017/lists/) | Not Scraped ❌ |  | - | - |
-| [2016 All Lists](https://letterboxd.com/official/tag/yir2016/lists/) | Not Scraped ❌ |  | - | - |
+| [2019 All Lists](https://letterboxd.com/official/tag/yir2019/lists/) | Directory Link 📁 |  | - | - |
+| [2018 All Lists](https://letterboxd.com/official/tag/yir2018/lists/) | Directory Link 📁 |  | - | - |
+| [2017 All Lists](https://letterboxd.com/official/tag/yir2017/lists/) | Directory Link 📁 |  | - | - |
+| [2016 All Lists](https://letterboxd.com/official/tag/yir2016/lists/) | Directory Link 📁 |  | - | - |
 | [2017 Top 50](https://boxd.it/1pN7A) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2017-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2016 Top 50](https://boxd.it/UHnq) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2016-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2018 Midway](https://boxd.it/1R7zy) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-10-highest-rated-for-first-half-of-2018.json) | 10 | 2026-08-02 |
 | [2017 Midway](https://boxd.it/18ChU) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-10-highest-rated-for-first-half-of-2017.json) | 10 | 2026-08-02 |
 | [2018 Top 50](https://boxd.it/2kAwm) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2018-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2016 Midway](https://boxd.it/KDvK) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-10-highest-rated-for-first-half-of-2016.json) | 10 | 2026-08-02 |
-| [2015 All Lists](https://letterboxd.com/official/tag/yir2015/lists/) | Not Scraped ❌ |  | - | - |
-| [2014 All Lists](https://letterboxd.com/official/tag/yir2014/lists/) | Not Scraped ❌ |  | - | - |
-| [2013 All Lists](https://letterboxd.com/official/tag/yir2013/lists/) | Not Scraped ❌ |  | - | - |
-| [2012 All Lists](https://letterboxd.com/official/tag/yir2012/lists/) | Not Scraped ❌ |  | - | - |
-| [2020s All Midway Lists](https://letterboxd.com/official/tag/midway-2020s/lists/) | Not Scraped ❌ |  | - | - |
+| [2015 All Lists](https://letterboxd.com/official/tag/yir2015/lists/) | Directory Link 📁 |  | - | - |
+| [2014 All Lists](https://letterboxd.com/official/tag/yir2014/lists/) | Directory Link 📁 |  | - | - |
+| [2013 All Lists](https://letterboxd.com/official/tag/yir2013/lists/) | Directory Link 📁 |  | - | - |
+| [2012 All Lists](https://letterboxd.com/official/tag/yir2012/lists/) | Directory Link 📁 |  | - | - |
+| [2020s All Midway Lists](https://letterboxd.com/official/tag/midway-2020s/lists/) | Directory Link 📁 |  | - | - |
 | [2014 Top 50](https://boxd.it/jnaC) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2014-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2015 Top 50](https://boxd.it/zozq) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2015-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2013 Top 50](https://boxd.it/9Y34) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2013-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2020s Midway](https://boxd.it/Ab1p4) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/midway-2020s-highest-rated-films.json) | 50 | 2026-08-02 |
 | [2012 Top 40](https://boxd.it/2Xow) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/2012-highest-rated-films.json) | 40 | 2026-08-02 |
-| [2010s All Lists](https://letterboxd.com/official/tag/the-2010s/lists/) | Not Scraped ❌ |  | - | - |
+| [2010s All Lists](https://letterboxd.com/official/tag/the-2010s/lists/) | Directory Link 📁 |  | - | - |
 | **Top Films Report** | | | | |
 | [2026 Underseen](https://boxd.it/VwCXo) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/top-25-underseen-films-of-2026.json) | 25 | 2026-08-02 |
 | **Most Anticipated Leaderboard** | | | | |

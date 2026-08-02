@@ -45,7 +45,11 @@ for (const list of officialLists) {
     let isSuccess = false;
 
     // Check if the file exists in the repo
-    if (jsonName) {
+    if (list.trueSlug === 'tag') {
+        // Special case for 'All Lists' tags
+        status = 'Directory Link 📁';
+        endpointStr = '';
+    } else if (jsonName) {
         const filePath = path.join(publicDir, jsonName);
         if (fs.existsSync(filePath)) {
             // It exists! Determine if it's daily or one-time
@@ -68,10 +72,6 @@ for (const list of officialLists) {
             }
             endpointStr = `[RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/${jsonName})`;
         }
-    } else if (list.trueSlug === 'tag') {
-        // Special case for 'All Lists' tags
-        status = 'Directory Link 📁';
-        endpointStr = '';
     }
 
     // Add extra indicators for failure
