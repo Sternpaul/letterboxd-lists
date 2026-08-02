@@ -16,7 +16,10 @@ A GitHub Actions workflow (`.github/workflows/update_lists.yml`) runs **every da
 
 ## Available Lists 📋
 
-The following lists are currently tracked and updated automatically:
+The following lists are currently tracked and updated automatically. 
+
+> [!NOTE]
+> For a full directory of all official Letterboxd lists, including archived and one-time scraped lists that are available in this repository, please view the [Full Lists Directory](lists_directory.md).
 
 - **Top 100 French Films** (`top-100-french-films-top50.json` - limited to 50 items)
   - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-french-films-top50.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/top-100-french-films-top50.json)
