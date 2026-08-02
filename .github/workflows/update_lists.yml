@@ -24,7 +24,7 @@ jobs:
           mkdir -p ../../public
           node fetch_list.mjs official/list/top-100-french-films/ ../../public/top-100-french-films-top50.json 50
           node fetch_list.mjs official/list/top-100-anime-films/ ../../public/top-100-anime-films-top50.json 50
-          node fetch_list.mjs official/list/top-100-british-films/ ../../public/the-bfi-100-british-films.json
+          node fetch_list.mjs gubarenko/list/the-bfi-100-british-films/ ../../public/the-bfi-100-british-films.json
           node fetch_list.mjs official/list/top-100-best-picture-nominees-with-the-most/ ../../public/top-100-best-picture-nominees-with-the-most.json
           node fetch_list.mjs official/list/top-250-films-with-the-most-fans/ ../../public/top-250-films-with-the-most-fans.json
           node fetch_list.mjs official/list/letterboxds-top-500-films/ ../../public/letterboxds-top-500-films.json

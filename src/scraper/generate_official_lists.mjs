@@ -6,8 +6,7 @@ const lines = fs.readFileSync(markdownFile, 'utf8').split('\n');
 
 const manualOverrides = {
     "Top 100 French Films": "top-100-french-films-top50.json",
-    "Top 100 Anime Films": "top-100-anime-films-top50.json",
-    "Top 100 British Films": "the-bfi-100-british-films.json"
+    "Top 100 Anime Films": "top-100-anime-films-top50.json"
 };
 
 async function resolveUrl(shortUrl) {
