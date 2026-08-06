@@ -1,5 +1,61 @@
 [
   {
+    "title": "Body of Lies",
+    "release_year": "2008",
+    "clean_title": "/film/body-of-lies/",
+    "adult": false,
+    "id": 12113,
+    "imdb_id": "tt0758774"
+  },
+  {
+    "title": "Robin Hood",
+    "release_year": "2010",
+    "clean_title": "/film/robin-hood-2010/",
+    "adult": false,
+    "id": 20662,
+    "imdb_id": "tt0955308"
+  },
+  {
+    "title": "Legend",
+    "release_year": "1985",
+    "clean_title": "/film/legend/",
+    "adult": false,
+    "id": 11976,
+    "imdb_id": "tt0089469"
+  },
+  {
+    "title": "Black Hawk Down",
+    "release_year": "2001",
+    "clean_title": "/film/black-hawk-down/",
+    "adult": false,
+    "id": 855,
+    "imdb_id": "tt0265086"
+  },
+  {
+    "title": "The Last Duel",
+    "release_year": "2021",
+    "clean_title": "/film/the-last-duel-2021/",
+    "adult": false,
+    "id": 617653,
+    "imdb_id": "tt4244994"
+  },
+  {
+    "title": "American Gangster",
+    "release_year": "2007",
+    "clean_title": "/film/american-gangster/",
+    "adult": false,
+    "id": 4982,
+    "imdb_id": "tt0765429"
+  },
+  {
+    "title": "Alien: Covenant",
+    "release_year": "2017",
+    "clean_title": "/film/alien-covenant/",
+    "adult": false,
+    "id": 126889,
+    "imdb_id": "tt2316204"
+  },
+  {
     "title": "The King",
     "release_year": "2019",
     "clean_title": "/film/the-king-2019/",
