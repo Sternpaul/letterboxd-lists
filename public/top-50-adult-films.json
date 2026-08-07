@@ -1,5 +1,13 @@
 [
   {
+    "title": "LA Plays Itself",
+    "release_year": "1972",
+    "clean_title": "/film/la-plays-itself/",
+    "adult": false,
+    "id": 162796,
+    "imdb_id": "tt0249670"
+  },
+  {
     "title": "Forbidden Letters",
     "release_year": "1979",
     "clean_title": "/film/forbidden-letters/",
@@ -14,14 +22,6 @@
     "adult": false,
     "id": 505704,
     "imdb_id": "tt0071975"
-  },
-  {
-    "title": "LA Plays Itself",
-    "release_year": "1972",
-    "clean_title": "/film/la-plays-itself/",
-    "adult": false,
-    "id": 162796,
-    "imdb_id": "tt0249670"
   },
   {
     "title": "Bijou",
@@ -64,6 +64,14 @@
     "imdb_id": "tt0294780"
   },
   {
+    "title": "Roommates",
+    "release_year": "1982",
+    "clean_title": "/film/roommates-1982/",
+    "adult": false,
+    "id": 25932,
+    "imdb_id": "tt0083007"
+  },
+  {
     "title": "Through the Looking Glass",
     "release_year": "1976",
     "clean_title": "/film/through-the-looking-glass/",
@@ -80,20 +88,12 @@
     "imdb_id": "tt0075018"
   },
   {
-    "title": "Roommates",
-    "release_year": "1982",
-    "clean_title": "/film/roommates-1982/",
+    "title": "Score",
+    "release_year": "1973",
+    "clean_title": "/film/score-1973/",
     "adult": false,
-    "id": 25932,
-    "imdb_id": "tt0083007"
-  },
-  {
-    "title": "Take One",
-    "release_year": "1977",
-    "clean_title": "/film/take-one-1977/",
-    "adult": false,
-    "id": 461625,
-    "imdb_id": "tt0259029"
+    "id": 53897,
+    "imdb_id": "tt0069236"
   },
   {
     "title": "Boys in the Sand",
@@ -104,28 +104,12 @@
     "imdb_id": "tt0181990"
   },
   {
-    "title": "Blonde Ambition",
-    "release_year": "1981",
-    "clean_title": "/film/blonde-ambition-1981/",
+    "title": "Take One",
+    "release_year": "1977",
+    "clean_title": "/film/take-one-1977/",
     "adult": false,
-    "id": 214462,
-    "imdb_id": "tt0082082"
-  },
-  {
-    "title": "Score",
-    "release_year": "1973",
-    "clean_title": "/film/score-1973/",
-    "adult": false,
-    "id": 53897,
-    "imdb_id": "tt0069236"
-  },
-  {
-    "title": "Café Flesh",
-    "release_year": "1982",
-    "clean_title": "/film/cafe-flesh/",
-    "adult": false,
-    "id": 30824,
-    "imdb_id": "tt0083707"
+    "id": 461625,
+    "imdb_id": "tt0259029"
   },
   {
     "title": "Daddy Dearest",
@@ -136,6 +120,30 @@
     "imdb_id": "tt0087113"
   },
   {
+    "title": "Blonde Ambition",
+    "release_year": "1981",
+    "clean_title": "/film/blonde-ambition-1981/",
+    "adult": false,
+    "id": 214462,
+    "imdb_id": "tt0082082"
+  },
+  {
+    "title": "Sensational Janine",
+    "release_year": "1976",
+    "clean_title": "/film/sensational-janine/",
+    "adult": false,
+    "id": 75280,
+    "imdb_id": "tt0294658"
+  },
+  {
+    "title": "Café Flesh",
+    "release_year": "1982",
+    "clean_title": "/film/cafe-flesh/",
+    "adult": false,
+    "id": 30824,
+    "imdb_id": "tt0083707"
+  },
+  {
     "title": "The Destroying Angel",
     "release_year": "1976",
     "clean_title": "/film/the-destroying-angel/",
@@ -144,28 +152,12 @@
     "imdb_id": "tt0216690"
   },
   {
-    "title": "A Gunman Named Papaco",
-    "release_year": "1985",
-    "clean_title": "/film/a-gunman-named-papaco/",
+    "title": "Elevator Girls in Bondage",
+    "release_year": "1972",
+    "clean_title": "/film/elevator-girls-in-bondage/",
     "adult": false,
-    "id": 253041,
-    "imdb_id": "tt0459011"
-  },
-  {
-    "title": "Nightdreams",
-    "release_year": "1981",
-    "clean_title": "/film/nightdreams/",
-    "adult": false,
-    "id": 30825,
-    "imdb_id": "tt0082811"
-  },
-  {
-    "title": "I.K.U.",
-    "release_year": "2000",
-    "clean_title": "/film/iku/",
-    "adult": false,
-    "id": 37982,
-    "imdb_id": "tt0255233"
+    "id": 241833,
+    "imdb_id": "tt0219665"
   },
   {
     "title": "Don't Change Hands",
@@ -176,12 +168,28 @@
     "imdb_id": "tt0122430"
   },
   {
+    "title": "A Gunman Named Papaco",
+    "release_year": "1985",
+    "clean_title": "/film/a-gunman-named-papaco/",
+    "adult": false,
+    "id": 253041,
+    "imdb_id": "tt0459011"
+  },
+  {
     "title": "Water Power",
     "release_year": "1976",
     "clean_title": "/film/water-power/",
     "adult": false,
     "id": 40242,
     "imdb_id": "tt0076907"
+  },
+  {
+    "title": "Nightdreams",
+    "release_year": "1981",
+    "clean_title": "/film/nightdreams/",
+    "adult": false,
+    "id": 30825,
+    "imdb_id": "tt0082811"
   },
   {
     "title": "Memories Within Miss Aggie",
@@ -192,12 +200,12 @@
     "imdb_id": "tt0195054"
   },
   {
-    "title": "Pandora's Mirror",
-    "release_year": "1981",
-    "clean_title": "/film/pandoras-mirror/",
+    "title": "Le Beau Mec",
+    "release_year": "1979",
+    "clean_title": "/film/le-beau-mec/",
     "adult": false,
-    "id": 27608,
-    "imdb_id": "tt0082879"
+    "id": 533098,
+    "imdb_id": "tt0211229"
   },
   {
     "title": "Deep Inside Annie Sprinkle",
@@ -208,52 +216,12 @@
     "imdb_id": "tt0082253"
   },
   {
-    "title": "Stiff Competition",
-    "release_year": "1984",
-    "clean_title": "/film/stiff-competition/",
+    "title": "I.K.U.",
+    "release_year": "2000",
+    "clean_title": "/film/iku/",
     "adult": false,
-    "id": 431487,
-    "imdb_id": "tt0128611"
-  },
-  {
-    "title": "Scoundrels",
-    "release_year": "1982",
-    "clean_title": "/film/scoundrels/",
-    "adult": false,
-    "id": 502091,
-    "imdb_id": "tt0139593"
-  },
-  {
-    "title": "Naked Came the Stranger",
-    "release_year": "1975",
-    "clean_title": "/film/naked-came-the-stranger/",
-    "adult": false,
-    "id": 85629,
-    "imdb_id": "tt0073437"
-  },
-  {
-    "title": "Barbara Broadcast",
-    "release_year": "1977",
-    "clean_title": "/film/barbara-broadcast/",
-    "adult": false,
-    "id": 29553,
-    "imdb_id": "tt0075726"
-  },
-  {
-    "title": "Le Beau Mec",
-    "release_year": "1979",
-    "clean_title": "/film/le-beau-mec/",
-    "adult": false,
-    "id": 533098,
-    "imdb_id": "tt0211229"
-  },
-  {
-    "title": "FireStorm",
-    "release_year": "1984",
-    "clean_title": "/film/firestorm-1984/",
-    "adult": false,
-    "id": 461852,
-    "imdb_id": "tt0186114"
+    "id": 37982,
+    "imdb_id": "tt0255233"
   },
   {
     "title": "The Image",
@@ -264,20 +232,60 @@
     "imdb_id": "tt0073589"
   },
   {
+    "title": "Pandora's Mirror",
+    "release_year": "1981",
+    "clean_title": "/film/pandoras-mirror/",
+    "adult": false,
+    "id": 27608,
+    "imdb_id": "tt0082879"
+  },
+  {
+    "title": "Scoundrels",
+    "release_year": "1982",
+    "clean_title": "/film/scoundrels/",
+    "adult": false,
+    "id": 502091,
+    "imdb_id": "tt0139593"
+  },
+  {
+    "title": "Barbara Broadcast",
+    "release_year": "1977",
+    "clean_title": "/film/barbara-broadcast/",
+    "adult": false,
+    "id": 29553,
+    "imdb_id": "tt0075726"
+  },
+  {
+    "title": "Naked Came the Stranger",
+    "release_year": "1975",
+    "clean_title": "/film/naked-came-the-stranger/",
+    "adult": false,
+    "id": 85629,
+    "imdb_id": "tt0073437"
+  },
+  {
+    "title": "Stiff Competition",
+    "release_year": "1984",
+    "clean_title": "/film/stiff-competition/",
+    "adult": false,
+    "id": 431487,
+    "imdb_id": "tt0128611"
+  },
+  {
+    "title": "FireStorm",
+    "release_year": "1984",
+    "clean_title": "/film/firestorm-1984/",
+    "adult": false,
+    "id": 461852,
+    "imdb_id": "tt0186114"
+  },
+  {
     "title": "Oh! Rebuceteio",
     "release_year": "1984",
     "clean_title": "/film/oh-rebuceteio/",
     "adult": false,
     "id": 228640,
     "imdb_id": "tt0241788"
-  },
-  {
-    "title": "Programmed for Pleasure",
-    "release_year": "1981",
-    "clean_title": "/film/programmed-for-pleasure/",
-    "adult": false,
-    "id": 77558,
-    "imdb_id": "tt0146082"
   },
   {
     "title": "Mascara",
@@ -288,14 +296,6 @@
     "imdb_id": "tt0196741"
   },
   {
-    "title": "Her Name Was Lisa",
-    "release_year": "1980",
-    "clean_title": "/film/her-name-was-lisa/",
-    "adult": false,
-    "id": 523802,
-    "imdb_id": "tt0079290"
-  },
-  {
     "title": "The Young Like It Hot",
     "release_year": "1983",
     "clean_title": "/film/the-young-like-it-hot/",
@@ -304,28 +304,12 @@
     "imdb_id": "tt0129653"
   },
   {
-    "title": "Insatiable",
+    "title": "Her Name Was Lisa",
     "release_year": "1980",
-    "clean_title": "/film/insatiable-1980/",
+    "clean_title": "/film/her-name-was-lisa/",
     "adult": false,
-    "id": 29666,
-    "imdb_id": "tt0080927"
-  },
-  {
-    "title": "Taboo II",
-    "release_year": "1982",
-    "clean_title": "/film/taboo-ii/",
-    "adult": false,
-    "id": 37795,
-    "imdb_id": "tt0084755"
-  },
-  {
-    "title": "Hot & Saucy Pizza Girls",
-    "release_year": "1978",
-    "clean_title": "/film/hot-saucy-pizza-girls/",
-    "adult": false,
-    "id": 298799,
-    "imdb_id": "tt0127113"
+    "id": 523802,
+    "imdb_id": "tt0079290"
   },
   {
     "title": "Neon Nights",
@@ -336,12 +320,28 @@
     "imdb_id": "tt0082802"
   },
   {
-    "title": "Taboo IV: The Younger Generation",
-    "release_year": "1985",
-    "clean_title": "/film/taboo-iv-the-younger-generation/",
+    "title": "Programmed for Pleasure",
+    "release_year": "1981",
+    "clean_title": "/film/programmed-for-pleasure/",
     "adult": false,
-    "id": 55969,
-    "imdb_id": "tt0134988"
+    "id": 77558,
+    "imdb_id": "tt0146082"
+  },
+  {
+    "title": "Insatiable",
+    "release_year": "1980",
+    "clean_title": "/film/insatiable-1980/",
+    "adult": false,
+    "id": 29666,
+    "imdb_id": "tt0080927"
+  },
+  {
+    "title": "Hot & Saucy Pizza Girls",
+    "release_year": "1978",
+    "clean_title": "/film/hot-saucy-pizza-girls/",
+    "adult": false,
+    "id": 298799,
+    "imdb_id": "tt0127113"
   },
   {
     "title": "Corruption",
@@ -352,12 +352,12 @@
     "imdb_id": "tt0085367"
   },
   {
-    "title": "Babyface",
-    "release_year": "1977",
-    "clean_title": "/film/babyface-1977/",
+    "title": "SexWorld",
+    "release_year": "1978",
+    "clean_title": "/film/sexworld/",
     "adult": false,
-    "id": 70510,
-    "imdb_id": "tt0075715"
+    "id": 315109,
+    "imdb_id": "tt0127862"
   },
   {
     "title": "Sex Demon",
@@ -376,14 +376,6 @@
     "imdb_id": "tt0076238"
   },
   {
-    "title": "Taboo",
-    "release_year": "1980",
-    "clean_title": "/film/taboo-1980/",
-    "adult": false,
-    "id": 42019,
-    "imdb_id": "tt0081593"
-  },
-  {
     "title": "Indecent Exposure",
     "release_year": "1981",
     "clean_title": "/film/indecent-exposure/",
@@ -392,11 +384,19 @@
     "imdb_id": "tt0189608"
   },
   {
-    "title": "SexWorld",
-    "release_year": "1978",
-    "clean_title": "/film/sexworld/",
+    "title": "Taboo II",
+    "release_year": "1982",
+    "clean_title": "/film/taboo-ii/",
     "adult": false,
-    "id": 315109,
-    "imdb_id": "tt0127862"
+    "id": 37795,
+    "imdb_id": "tt0084755"
+  },
+  {
+    "title": "Babyface",
+    "release_year": "1977",
+    "clean_title": "/film/babyface-1977/",
+    "adult": false,
+    "id": 70510,
+    "imdb_id": "tt0075715"
   }
 ]
