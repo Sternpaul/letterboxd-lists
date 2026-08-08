@@ -1,19 +1,19 @@
 [
   {
-    "title": "The Odyssey",
-    "release_year": "2026",
-    "clean_title": "/film/the-odyssey-2026/",
-    "adult": false,
-    "id": 1368337,
-    "imdb_id": "tt33764258"
-  },
-  {
     "title": "Spider-Man: Brand New Day",
     "release_year": "2026",
     "clean_title": "/film/spider-man-brand-new-day/",
     "adult": false,
     "id": 969681,
     "imdb_id": "tt22084616"
+  },
+  {
+    "title": "The Odyssey",
+    "release_year": "2026",
+    "clean_title": "/film/the-odyssey-2026/",
+    "adult": false,
+    "id": 1368337,
+    "imdb_id": "tt33764258"
   },
   {
     "title": "Barbie",
@@ -232,6 +232,14 @@
     "imdb_id": "tt17526714"
   },
   {
+    "title": "Toy Story 5",
+    "release_year": "2026",
+    "clean_title": "/film/toy-story-5/",
+    "adult": false,
+    "id": 1084244,
+    "imdb_id": "tt29355505"
+  },
+  {
     "title": "Zootopia 2",
     "release_year": "2025",
     "clean_title": "/film/zootopia-2/",
@@ -360,6 +368,14 @@
     "imdb_id": "tt23468450"
   },
   {
+    "title": "The Sheep Detectives",
+    "release_year": "2026",
+    "clean_title": "/film/the-sheep-detectives/",
+    "adult": false,
+    "id": 1301421,
+    "imdb_id": "tt32565993"
+  },
+  {
     "title": "Anora",
     "release_year": "2024",
     "clean_title": "/film/anora/",
@@ -446,6 +462,14 @@
     "adult": false,
     "id": 634649,
     "imdb_id": "tt10872600"
+  },
+  {
+    "title": "Hoppers",
+    "release_year": "2026",
+    "clean_title": "/film/hoppers/",
+    "adult": false,
+    "id": 1327819,
+    "imdb_id": "tt26443616"
   },
   {
     "title": "Wonka",
@@ -774,29 +798,5 @@
     "adult": false,
     "id": 1008042,
     "imdb_id": "tt10638522"
-  },
-  {
-    "title": "Five Nights at Freddy's",
-    "release_year": "2023",
-    "clean_title": "/film/five-nights-at-freddys/",
-    "adult": false,
-    "id": 507089,
-    "imdb_id": "tt4589218"
-  },
-  {
-    "title": "Smile 2",
-    "release_year": "2024",
-    "clean_title": "/film/smile-2-2024/",
-    "adult": false,
-    "id": 1100782,
-    "imdb_id": "tt29268110"
-  },
-  {
-    "title": "Bullet Train",
-    "release_year": "2022",
-    "clean_title": "/film/bullet-train/",
-    "adult": false,
-    "id": 718930,
-    "imdb_id": "tt12593682"
   }
 ]

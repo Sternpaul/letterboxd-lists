@@ -1,5 +1,69 @@
 [
   {
+    "title": "World on a Wire",
+    "release_year": "1973",
+    "clean_title": "/film/world-on-a-wire-1973/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0070904"
+  },
+  {
+    "title": "Ghost in the Shell 2: Innocence",
+    "release_year": "2004",
+    "clean_title": "/film/ghost-in-the-shell-2-innocence/",
+    "adult": false,
+    "id": 12140,
+    "imdb_id": "tt0347246"
+  },
+  {
+    "title": "Finch",
+    "release_year": "2021",
+    "clean_title": "/film/finch/",
+    "adult": false,
+    "id": 522402,
+    "imdb_id": "tt3420504"
+  },
+  {
+    "title": "Swan Song",
+    "release_year": "2021",
+    "clean_title": "/film/swan-song-2021-1/",
+    "adult": false,
+    "id": 765245,
+    "imdb_id": "tt13207508"
+  },
+  {
+    "title": "The Creator",
+    "release_year": "2023",
+    "clean_title": "/film/the-creator-2023/",
+    "adult": false,
+    "id": 670292,
+    "imdb_id": "tt11858890"
+  },
+  {
+    "title": "Prometheus",
+    "release_year": "2012",
+    "clean_title": "/film/prometheus/",
+    "adult": false,
+    "id": 70981,
+    "imdb_id": "tt1446714"
+  },
+  {
+    "title": "The Producers",
+    "release_year": "2005",
+    "clean_title": "/film/the-producers-2005/",
+    "adult": false,
+    "id": 9899,
+    "imdb_id": "tt0395251"
+  },
+  {
+    "title": "The Producers",
+    "release_year": "1967",
+    "clean_title": "/film/the-producers/",
+    "adult": false,
+    "id": 30197,
+    "imdb_id": "tt0063462"
+  },
+  {
     "title": "Body of Lies",
     "release_year": "2008",
     "clean_title": "/film/body-of-lies/",
