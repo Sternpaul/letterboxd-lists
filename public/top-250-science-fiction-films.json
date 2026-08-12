@@ -80,14 +80,6 @@
     "imdb_id": "tt12042730"
   },
   {
-    "title": "Children of Men",
-    "release_year": "2006",
-    "clean_title": "/film/children-of-men/",
-    "adult": false,
-    "id": 9693,
-    "imdb_id": "tt0206634"
-  },
-  {
     "title": "The Prestige",
     "release_year": "2006",
     "clean_title": "/film/the-prestige/",
@@ -96,12 +88,12 @@
     "imdb_id": "tt0482571"
   },
   {
-    "title": "Terminator 2: Judgment Day",
-    "release_year": "1991",
-    "clean_title": "/film/terminator-2-judgment-day/",
+    "title": "Children of Men",
+    "release_year": "2006",
+    "clean_title": "/film/children-of-men/",
     "adult": false,
-    "id": 280,
-    "imdb_id": "tt0103064"
+    "id": 9693,
+    "imdb_id": "tt0206634"
   },
   {
     "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
@@ -110,6 +102,14 @@
     "adult": false,
     "id": 283566,
     "imdb_id": "tt2458948"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "release_year": "1991",
+    "clean_title": "/film/terminator-2-judgment-day/",
+    "adult": false,
+    "id": 280,
+    "imdb_id": "tt0103064"
   },
   {
     "title": "The Iron Giant",
@@ -152,14 +152,6 @@
     "imdb_id": "tt0078748"
   },
   {
-    "title": "The Face of Another",
-    "release_year": "1966",
-    "clean_title": "/film/the-face-of-another/",
-    "adult": false,
-    "id": 29452,
-    "imdb_id": "tt0061065"
-  },
-  {
     "title": "WALL·E",
     "release_year": "2008",
     "clean_title": "/film/walle/",
@@ -168,12 +160,12 @@
     "imdb_id": "tt0910970"
   },
   {
-    "title": "Everything Everywhere All at Once",
-    "release_year": "2022",
-    "clean_title": "/film/everything-everywhere-all-at-once/",
+    "title": "The Face of Another",
+    "release_year": "1966",
+    "clean_title": "/film/the-face-of-another/",
     "adult": false,
-    "id": 545611,
-    "imdb_id": "tt6710474"
+    "id": 29452,
+    "imdb_id": "tt0061065"
   },
   {
     "title": "Metropolis",
@@ -184,20 +176,20 @@
     "imdb_id": "tt0017136"
   },
   {
+    "title": "Everything Everywhere All at Once",
+    "release_year": "2022",
+    "clean_title": "/film/everything-everywhere-all-at-once/",
+    "adult": false,
+    "id": 545611,
+    "imdb_id": "tt6710474"
+  },
+  {
     "title": "Eternal Sunshine of the Spotless Mind",
     "release_year": "2004",
     "clean_title": "/film/eternal-sunshine-of-the-spotless-mind/",
     "adult": false,
     "id": 38,
     "imdb_id": "tt0338013"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "release_year": "2025",
-    "clean_title": "/film/nirvanna-the-band-the-show-the-movie/",
-    "adult": false,
-    "id": 1154538,
-    "imdb_id": "tt35522483"
   },
   {
     "title": "Inception",
@@ -214,6 +206,14 @@
     "adult": false,
     "id": 62,
     "imdb_id": "tt0062622"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "release_year": "2025",
+    "clean_title": "/film/nirvanna-the-band-the-show-the-movie/",
+    "adult": false,
+    "id": 1154538,
+    "imdb_id": "tt35522483"
   },
   {
     "title": "Solaris",
@@ -278,14 +278,6 @@
     "adult": false,
     "id": 11,
     "imdb_id": "tt0076759"
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "release_year": "2026",
-    "clean_title": "/film/spider-man-brand-new-day/",
-    "adult": false,
-    "id": 969681,
-    "imdb_id": "tt22084616"
   },
   {
     "title": "Gintama: The Final Chapter - Be Forever Yorozuya",
@@ -424,6 +416,14 @@
     "imdb_id": "tt0083658"
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "release_year": "2026",
+    "clean_title": "/film/spider-man-brand-new-day/",
+    "adult": false,
+    "id": 969681,
+    "imdb_id": "tt22084616"
+  },
+  {
     "title": "Ghost in the Shell",
     "release_year": "1995",
     "clean_title": "/film/ghost-in-the-shell/",
@@ -448,20 +448,20 @@
     "imdb_id": "tt0092067"
   },
   {
+    "title": "Avengers: Infinity War",
+    "release_year": "2018",
+    "clean_title": "/film/avengers-infinity-war/",
+    "adult": false,
+    "id": 299536,
+    "imdb_id": "tt4154756"
+  },
+  {
     "title": "Godzilla Minus One",
     "release_year": "2023",
     "clean_title": "/film/godzilla-minus-one/",
     "adult": false,
     "id": 940721,
     "imdb_id": "tt23289160"
-  },
-  {
-    "title": "Angel's Egg",
-    "release_year": "1985",
-    "clean_title": "/film/angels-egg/",
-    "adult": false,
-    "id": 15916,
-    "imdb_id": "tt0208502"
   },
   {
     "title": "Swallowtail Butterfly",
@@ -472,12 +472,12 @@
     "imdb_id": "tt0117797"
   },
   {
-    "title": "Avengers: Infinity War",
-    "release_year": "2018",
-    "clean_title": "/film/avengers-infinity-war/",
+    "title": "Angel's Egg",
+    "release_year": "1985",
+    "clean_title": "/film/angels-egg/",
     "adult": false,
-    "id": 299536,
-    "imdb_id": "tt4154756"
+    "id": 15916,
+    "imdb_id": "tt0208502"
   },
   {
     "title": "August in the Water",
@@ -568,20 +568,20 @@
     "imdb_id": "tt0070544"
   },
   {
-    "title": "Dirty Computer",
-    "release_year": "2018",
-    "clean_title": "/film/dirty-computer/",
-    "adult": false,
-    "id": 517582,
-    "imdb_id": "tt8343642"
-  },
-  {
     "title": "Happyend",
     "release_year": "2024",
     "clean_title": "/film/happyend/",
     "adult": false,
     "id": 730251,
     "imdb_id": "tt29279903"
+  },
+  {
+    "title": "Dirty Computer",
+    "release_year": "2018",
+    "clean_title": "/film/dirty-computer/",
+    "adult": false,
+    "id": 517582,
+    "imdb_id": "tt8343642"
   },
   {
     "title": "A Visitor to a Museum",
@@ -592,20 +592,20 @@
     "imdb_id": "tt0173024"
   },
   {
-    "title": "Planet of the Apes",
-    "release_year": "1968",
-    "clean_title": "/film/planet-of-the-apes/",
-    "adult": false,
-    "id": 871,
-    "imdb_id": "tt0063442"
-  },
-  {
     "title": "Avengers: Endgame",
     "release_year": "2019",
     "clean_title": "/film/avengers-endgame/",
     "adult": false,
     "id": 299534,
     "imdb_id": "tt4154796"
+  },
+  {
+    "title": "Planet of the Apes",
+    "release_year": "1968",
+    "clean_title": "/film/planet-of-the-apes/",
+    "adult": false,
+    "id": 871,
+    "imdb_id": "tt0063442"
   },
   {
     "title": "Evangelion: 2.0 You Can (Not) Advance",
@@ -616,14 +616,6 @@
     "imdb_id": "tt0860906"
   },
   {
-    "title": "The Fly",
-    "release_year": "1986",
-    "clean_title": "/film/the-fly-1986/",
-    "adult": false,
-    "id": 9426,
-    "imdb_id": "tt0091064"
-  },
-  {
     "title": "The Hole",
     "release_year": "1998",
     "clean_title": "/film/the-hole/",
@@ -632,12 +624,12 @@
     "imdb_id": "tt0156610"
   },
   {
-    "title": "Junk Head",
-    "release_year": "2017",
-    "clean_title": "/film/junk-head/",
+    "title": "The Fly",
+    "release_year": "1986",
+    "clean_title": "/film/the-fly-1986/",
     "adult": false,
-    "id": 464768,
-    "imdb_id": "tt6848928"
+    "id": 9426,
+    "imdb_id": "tt0091064"
   },
   {
     "title": "Batman: The Dark Knight Returns, Part 2",
@@ -646,6 +638,14 @@
     "adult": false,
     "id": 142061,
     "imdb_id": "tt2166834"
+  },
+  {
+    "title": "Junk Head",
+    "release_year": "2017",
+    "clean_title": "/film/junk-head/",
+    "adult": false,
+    "id": 464768,
+    "imdb_id": "tt6848928"
   },
   {
     "title": "Nowhere",
@@ -688,20 +688,20 @@
     "imdb_id": "tt0070233"
   },
   {
-    "title": "Nimona",
-    "release_year": "2023",
-    "clean_title": "/film/nimona-2023/",
-    "adult": false,
-    "id": 961323,
-    "imdb_id": "tt19500164"
-  },
-  {
     "title": "The Hunger Games: Catching Fire",
     "release_year": "2013",
     "clean_title": "/film/the-hunger-games-catching-fire/",
     "adult": false,
     "id": 101299,
     "imdb_id": "tt1951264"
+  },
+  {
+    "title": "Nimona",
+    "release_year": "2023",
+    "clean_title": "/film/nimona-2023/",
+    "adult": false,
+    "id": 961323,
+    "imdb_id": "tt19500164"
   },
   {
     "title": "Born in Flames",
@@ -720,20 +720,20 @@
     "imdb_id": "tt1851909"
   },
   {
-    "title": "Bride of Frankenstein",
-    "release_year": "1935",
-    "clean_title": "/film/bride-of-frankenstein/",
-    "adult": false,
-    "id": 229,
-    "imdb_id": "tt0026138"
-  },
-  {
     "title": "Gintama: The Movie",
     "release_year": "2010",
     "clean_title": "/film/gintama-the-movie/",
     "adult": false,
     "id": 71172,
     "imdb_id": "tt1636780"
+  },
+  {
+    "title": "Bride of Frankenstein",
+    "release_year": "1935",
+    "clean_title": "/film/bride-of-frankenstein/",
+    "adult": false,
+    "id": 229,
+    "imdb_id": "tt0026138"
   },
   {
     "title": "Ex Machina",
@@ -792,6 +792,14 @@
     "imdb_id": "tt0077745"
   },
   {
+    "title": "Spider-Man 2",
+    "release_year": "2004",
+    "clean_title": "/film/spider-man-2/",
+    "adult": false,
+    "id": 558,
+    "imdb_id": "tt0316654"
+  },
+  {
     "title": "Star Trek II: The Wrath of Khan",
     "release_year": "1982",
     "clean_title": "/film/star-trek-ii-the-wrath-of-khan/",
@@ -808,12 +816,12 @@
     "imdb_id": "tt0063350"
   },
   {
-    "title": "Spider-Man 2",
-    "release_year": "2004",
-    "clean_title": "/film/spider-man-2/",
+    "title": "Jin-Roh: The Wolf Brigade",
+    "release_year": "1999",
+    "clean_title": "/film/jin-roh-the-wolf-brigade/",
     "adult": false,
-    "id": 558,
-    "imdb_id": "tt0316654"
+    "id": 823,
+    "imdb_id": "tt0193253"
   },
   {
     "title": "Until the End of the World",
@@ -822,14 +830,6 @@
     "adult": false,
     "id": 10341,
     "imdb_id": "tt0101458"
-  },
-  {
-    "title": "Jin-Roh: The Wolf Brigade",
-    "release_year": "1999",
-    "clean_title": "/film/jin-roh-the-wolf-brigade/",
-    "adult": false,
-    "id": 823,
-    "imdb_id": "tt0193253"
   },
   {
     "title": "Lost in Starlight",
@@ -864,20 +864,20 @@
     "imdb_id": "tt0093870"
   },
   {
-    "title": "Beyond the Infinite Two Minutes",
-    "release_year": "2020",
-    "clean_title": "/film/beyond-the-infinite-two-minutes/",
-    "adult": false,
-    "id": 805627,
-    "imdb_id": "tt14500584"
-  },
-  {
     "title": "Dragon Ball Super: Broly",
     "release_year": "2018",
     "clean_title": "/film/dragon-ball-super-broly/",
     "adult": false,
     "id": 503314,
     "imdb_id": "tt7961060"
+  },
+  {
+    "title": "Beyond the Infinite Two Minutes",
+    "release_year": "2020",
+    "clean_title": "/film/beyond-the-infinite-two-minutes/",
+    "adult": false,
+    "id": 805627,
+    "imdb_id": "tt14500584"
   },
   {
     "title": "Open Your Eyes",
@@ -928,14 +928,6 @@
     "imdb_id": "tt1160419"
   },
   {
-    "title": "The Fabulous World of Jules Verne",
-    "release_year": "1958",
-    "clean_title": "/film/the-fabulous-world-of-jules-verne/",
-    "adult": false,
-    "id": 19759,
-    "imdb_id": "tt0052374"
-  },
-  {
     "title": "Macross: Do You Remember Love?",
     "release_year": "1984",
     "clean_title": "/film/macross-do-you-remember-love/",
@@ -950,6 +942,14 @@
     "adult": false,
     "id": 12140,
     "imdb_id": "tt0347246"
+  },
+  {
+    "title": "The Fabulous World of Jules Verne",
+    "release_year": "1958",
+    "clean_title": "/film/the-fabulous-world-of-jules-verne/",
+    "adult": false,
+    "id": 19759,
+    "imdb_id": "tt0052374"
   },
   {
     "title": "Twelve Monkeys",
@@ -984,14 +984,6 @@
     "imdb_id": "tt4262980"
   },
   {
-    "title": "The Terminator",
-    "release_year": "1984",
-    "clean_title": "/film/the-terminator/",
-    "adult": false,
-    "id": 218,
-    "imdb_id": "tt0088247"
-  },
-  {
     "title": "The Invisible Man",
     "release_year": "1933",
     "clean_title": "/film/the-invisible-man/",
@@ -1008,12 +1000,28 @@
     "imdb_id": "tt14883538"
   },
   {
+    "title": "The Terminator",
+    "release_year": "1984",
+    "clean_title": "/film/the-terminator/",
+    "adult": false,
+    "id": 218,
+    "imdb_id": "tt0088247"
+  },
+  {
     "title": "Spider-Man",
     "release_year": "2002",
     "clean_title": "/film/spider-man/",
     "adult": false,
     "id": 557,
     "imdb_id": "tt0145487"
+  },
+  {
+    "title": "G.O.R.A.",
+    "release_year": "2004",
+    "clean_title": "/film/gora/",
+    "adult": false,
+    "id": 27275,
+    "imdb_id": "tt0384116"
   },
   {
     "title": "Videodrome",
@@ -1032,28 +1040,12 @@
     "imdb_id": "tt0050539"
   },
   {
-    "title": "G.O.R.A.",
-    "release_year": "2004",
-    "clean_title": "/film/gora/",
-    "adult": false,
-    "id": 27275,
-    "imdb_id": "tt0384116"
-  },
-  {
     "title": "The Secret of NIMH",
     "release_year": "1982",
     "clean_title": "/film/the-secret-of-nimh/",
     "adult": false,
     "id": 11704,
     "imdb_id": "tt0084649"
-  },
-  {
-    "title": "Tetsuo: The Iron Man",
-    "release_year": "1989",
-    "clean_title": "/film/tetsuo-the-iron-man/",
-    "adult": false,
-    "id": 41428,
-    "imdb_id": "tt0096251"
   },
   {
     "title": "Big Hero 6",
@@ -1064,12 +1056,12 @@
     "imdb_id": "tt2245084"
   },
   {
-    "title": "O-Bi, O-Ba: The End of Civilization",
-    "release_year": "1985",
-    "clean_title": "/film/o-bi-o-ba-the-end-of-civilization/",
+    "title": "Tetsuo: The Iron Man",
+    "release_year": "1989",
+    "clean_title": "/film/tetsuo-the-iron-man/",
     "adult": false,
-    "id": 71933,
-    "imdb_id": "tt0089714"
+    "id": 41428,
+    "imdb_id": "tt0096251"
   },
   {
     "title": "Dawn of the Planet of the Apes",
@@ -1088,12 +1080,12 @@
     "imdb_id": "tt10872600"
   },
   {
-    "title": "Transformers One",
-    "release_year": "2024",
-    "clean_title": "/film/transformers-one/",
+    "title": "O-Bi, O-Ba: The End of Civilization",
+    "release_year": "1985",
+    "clean_title": "/film/o-bi-o-ba-the-end-of-civilization/",
     "adult": false,
-    "id": 698687,
-    "imdb_id": "tt8864596"
+    "id": 71933,
+    "imdb_id": "tt0089714"
   },
   {
     "title": "Godzilla vs. Destoroyah",
@@ -1102,6 +1094,14 @@
     "adult": false,
     "id": 12561,
     "imdb_id": "tt0113187"
+  },
+  {
+    "title": "Transformers One",
+    "release_year": "2024",
+    "clean_title": "/film/transformers-one/",
+    "adult": false,
+    "id": 698687,
+    "imdb_id": "tt8864596"
   },
   {
     "title": "Guardians of the Galaxy",
@@ -1128,20 +1128,20 @@
     "imdb_id": "tt0083866"
   },
   {
-    "title": "Starship Troopers",
-    "release_year": "1997",
-    "clean_title": "/film/starship-troopers/",
-    "adult": false,
-    "id": 563,
-    "imdb_id": "tt0120201"
-  },
-  {
     "title": "Riki-Oh: The Story of Ricky",
     "release_year": "1991",
     "clean_title": "/film/riki-oh-the-story-of-ricky/",
     "adult": false,
     "id": 17467,
     "imdb_id": "tt0102293"
+  },
+  {
+    "title": "Starship Troopers",
+    "release_year": "1997",
+    "clean_title": "/film/starship-troopers/",
+    "adult": false,
+    "id": 563,
+    "imdb_id": "tt0120201"
   },
   {
     "title": "Batman: The Dark Knight Returns, Part 1",
@@ -1160,6 +1160,14 @@
     "imdb_id": "tt12300742"
   },
   {
+    "title": "Summer Wars",
+    "release_year": "2009",
+    "clean_title": "/film/summer-wars/",
+    "adult": false,
+    "id": 28874,
+    "imdb_id": "tt1474276"
+  },
+  {
     "title": "Man Facing Southeast",
     "release_year": "1986",
     "clean_title": "/film/man-facing-southeast/",
@@ -1176,20 +1184,12 @@
     "imdb_id": "tt0049366"
   },
   {
-    "title": "Summer Wars",
-    "release_year": "2009",
-    "clean_title": "/film/summer-wars/",
+    "title": "The Hunger Games",
+    "release_year": "2012",
+    "clean_title": "/film/the-hunger-games/",
     "adult": false,
-    "id": 28874,
-    "imdb_id": "tt1474276"
-  },
-  {
-    "title": "Superman",
-    "release_year": "2025",
-    "clean_title": "/film/superman-2025/",
-    "adult": false,
-    "id": 1061474,
-    "imdb_id": "tt5950044"
+    "id": 70160,
+    "imdb_id": "tt1392170"
   },
   {
     "title": "Rogue One: A Star Wars Story",
@@ -1200,6 +1200,14 @@
     "imdb_id": "tt3748528"
   },
   {
+    "title": "PK",
+    "release_year": "2014",
+    "clean_title": "/film/pk/",
+    "adult": false,
+    "id": 297222,
+    "imdb_id": "tt2338151"
+  },
+  {
     "title": "Frankenstein",
     "release_year": "2025",
     "clean_title": "/film/frankenstein-2025/",
@@ -1208,12 +1216,12 @@
     "imdb_id": "tt1312221"
   },
   {
-    "title": "The Hunger Games",
-    "release_year": "2012",
-    "clean_title": "/film/the-hunger-games/",
+    "title": "Superman",
+    "release_year": "2025",
+    "clean_title": "/film/superman-2025/",
     "adult": false,
-    "id": 70160,
-    "imdb_id": "tt1392170"
+    "id": 1061474,
+    "imdb_id": "tt5950044"
   },
   {
     "title": "The Day the Earth Stood Still",
@@ -1224,14 +1232,6 @@
     "imdb_id": "tt0043456"
   },
   {
-    "title": "PK",
-    "release_year": "2014",
-    "clean_title": "/film/pk/",
-    "adult": false,
-    "id": 297222,
-    "imdb_id": "tt2338151"
-  },
-  {
     "title": "Electric Dragon 80000V",
     "release_year": "2001",
     "clean_title": "/film/electric-dragon-80000v/",
@@ -1240,20 +1240,20 @@
     "imdb_id": "tt0276935"
   },
   {
-    "title": "After Yang",
-    "release_year": "2021",
-    "clean_title": "/film/after-yang/",
-    "adult": false,
-    "id": 585378,
-    "imdb_id": "tt8633464"
-  },
-  {
     "title": "Melancholia",
     "release_year": "2011",
     "clean_title": "/film/melancholia/",
     "adult": false,
     "id": 62215,
     "imdb_id": "tt1527186"
+  },
+  {
+    "title": "After Yang",
+    "release_year": "2021",
+    "clean_title": "/film/after-yang/",
+    "adult": false,
+    "id": 585378,
+    "imdb_id": "tt8633464"
   },
   {
     "title": "Gamera 3: Revenge of Iris",
@@ -1280,6 +1280,14 @@
     "imdb_id": "tt3450958"
   },
   {
+    "title": "Contact",
+    "release_year": "1997",
+    "clean_title": "/film/contact/",
+    "adult": false,
+    "id": 686,
+    "imdb_id": "tt0118884"
+  },
+  {
     "title": "Wallace & Gromit: Vengeance Most Fowl",
     "release_year": "2024",
     "clean_title": "/film/wallace-gromit-vengeance-most-fowl/",
@@ -1302,22 +1310,6 @@
     "adult": false,
     "id": 110402,
     "imdb_id": "tt2328813"
-  },
-  {
-    "title": "Contact",
-    "release_year": "1997",
-    "clean_title": "/film/contact/",
-    "adult": false,
-    "id": 686,
-    "imdb_id": "tt0118884"
-  },
-  {
-    "title": "28 Years Later: The Bone Temple",
-    "release_year": "2026",
-    "clean_title": "/film/28-years-later-the-bone-temple/",
-    "adult": false,
-    "id": 1272837,
-    "imdb_id": "tt32141377"
   },
   {
     "title": "Miracle Mile",
@@ -1344,14 +1336,6 @@
     "imdb_id": "tt0075860"
   },
   {
-    "title": "The Mitchells vs. the Machines",
-    "release_year": "2021",
-    "clean_title": "/film/the-mitchells-vs-the-machines/",
-    "adult": false,
-    "id": 501929,
-    "imdb_id": "tt7979580"
-  },
-  {
     "title": "Batman Beyond: Return of the Joker",
     "release_year": "2000",
     "clean_title": "/film/batman-beyond-return-of-the-joker/",
@@ -1368,6 +1352,14 @@
     "imdb_id": "tt0100802"
   },
   {
+    "title": "28 Years Later: The Bone Temple",
+    "release_year": "2026",
+    "clean_title": "/film/28-years-later-the-bone-temple/",
+    "adult": false,
+    "id": 1272837,
+    "imdb_id": "tt32141377"
+  },
+  {
     "title": "The Martian",
     "release_year": "2015",
     "clean_title": "/film/the-martian/",
@@ -1376,12 +1368,12 @@
     "imdb_id": "tt3659388"
   },
   {
-    "title": "Je T'Aime, Je T'Aime",
-    "release_year": "1968",
-    "clean_title": "/film/je-taime-je-taime/",
+    "title": "The Mitchells vs. the Machines",
+    "release_year": "2021",
+    "clean_title": "/film/the-mitchells-vs-the-machines/",
     "adult": false,
-    "id": 4798,
-    "imdb_id": "tt0063152"
+    "id": 501929,
+    "imdb_id": "tt7979580"
   },
   {
     "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -1392,12 +1384,12 @@
     "imdb_id": "tt2967286"
   },
   {
-    "title": "District 9",
-    "release_year": "2009",
-    "clean_title": "/film/district-9/",
+    "title": "Je T'Aime, Je T'Aime",
+    "release_year": "1968",
+    "clean_title": "/film/je-taime-je-taime/",
     "adult": false,
-    "id": 17654,
-    "imdb_id": "tt1136608"
+    "id": 4798,
+    "imdb_id": "tt0063152"
   },
   {
     "title": "Cosmic Princess Kaguya!",
@@ -1408,6 +1400,14 @@
     "imdb_id": "tt38872297"
   },
   {
+    "title": "District 9",
+    "release_year": "2009",
+    "clean_title": "/film/district-9/",
+    "adult": false,
+    "id": 17654,
+    "imdb_id": "tt1136608"
+  },
+  {
     "title": "Gattaca",
     "release_year": "1997",
     "clean_title": "/film/gattaca/",
@@ -1416,20 +1416,20 @@
     "imdb_id": "tt0119177"
   },
   {
-    "title": "Eraserhead",
-    "release_year": "1977",
-    "clean_title": "/film/eraserhead/",
-    "adult": false,
-    "id": 985,
-    "imdb_id": "tt0074486"
-  },
-  {
     "title": "Metropolis",
     "release_year": "2001",
     "clean_title": "/film/metropolis-2001/",
     "adult": false,
     "id": 9606,
     "imdb_id": "tt0293416"
+  },
+  {
+    "title": "Eraserhead",
+    "release_year": "1977",
+    "clean_title": "/film/eraserhead/",
+    "adult": false,
+    "id": 985,
+    "imdb_id": "tt0074486"
   },
   {
     "title": "Promare",
@@ -1488,6 +1488,14 @@
     "imdb_id": "tt30827810"
   },
   {
+    "title": "Save the Green Planet!",
+    "release_year": "2003",
+    "clean_title": "/film/save-the-green-planet/",
+    "adult": false,
+    "id": 11297,
+    "imdb_id": "tt0354668"
+  },
+  {
     "title": "Dead Leaves",
     "release_year": "2004",
     "clean_title": "/film/dead-leaves/",
@@ -1504,28 +1512,12 @@
     "imdb_id": "tt0181689"
   },
   {
-    "title": "Save the Green Planet!",
-    "release_year": "2003",
-    "clean_title": "/film/save-the-green-planet/",
-    "adult": false,
-    "id": 11297,
-    "imdb_id": "tt0354668"
-  },
-  {
     "title": "The Missing",
     "release_year": "2023",
     "clean_title": "/film/the-missing-2023/",
     "adult": false,
     "id": 1146277,
     "imdb_id": "tt28288396"
-  },
-  {
-    "title": "Regular Show: The Movie",
-    "release_year": "2015",
-    "clean_title": "/film/regular-show-the-movie/",
-    "adult": false,
-    "id": 354857,
-    "imdb_id": "tt4920274"
   },
   {
     "title": "Captain America: The Winter Soldier",
@@ -1536,12 +1528,12 @@
     "imdb_id": "tt1843866"
   },
   {
-    "title": "Predator",
-    "release_year": "1987",
-    "clean_title": "/film/predator/",
+    "title": "Regular Show: The Movie",
+    "release_year": "2015",
+    "clean_title": "/film/regular-show-the-movie/",
     "adult": false,
-    "id": 106,
-    "imdb_id": "tt0093773"
+    "id": 354857,
+    "imdb_id": "tt4920274"
   },
   {
     "title": "The Man from Earth",
@@ -1550,6 +1542,14 @@
     "adult": false,
     "id": 13363,
     "imdb_id": "tt0756683"
+  },
+  {
+    "title": "Predator",
+    "release_year": "1987",
+    "clean_title": "/film/predator/",
+    "adult": false,
+    "id": 106,
+    "imdb_id": "tt0093773"
   },
   {
     "title": "Edge of Tomorrow",
@@ -1568,20 +1568,20 @@
     "imdb_id": "tt0083335"
   },
   {
-    "title": "Furiosa: A Mad Max Saga",
-    "release_year": "2024",
-    "clean_title": "/film/furiosa-a-mad-max-saga/",
-    "adult": false,
-    "id": 786892,
-    "imdb_id": "tt12037194"
-  },
-  {
     "title": "Frankenstein",
     "release_year": "1931",
     "clean_title": "/film/frankenstein-1931/",
     "adult": false,
     "id": 3035,
     "imdb_id": "tt0021884"
+  },
+  {
+    "title": "Furiosa: A Mad Max Saga",
+    "release_year": "2024",
+    "clean_title": "/film/furiosa-a-mad-max-saga/",
+    "adult": false,
+    "id": 786892,
+    "imdb_id": "tt12037194"
   },
   {
     "title": "The Fifth Element",
@@ -1592,12 +1592,12 @@
     "imdb_id": "tt0119116"
   },
   {
-    "title": "Memoria",
-    "release_year": "2021",
-    "clean_title": "/film/memoria-2021/",
+    "title": "Atlantis: The Lost Empire",
+    "release_year": "2001",
+    "clean_title": "/film/atlantis-the-lost-empire/",
     "adult": false,
-    "id": 511819,
-    "imdb_id": "tt8399288"
+    "id": 10865,
+    "imdb_id": "tt0230011"
   },
   {
     "title": "The City of Lost Children",
@@ -1608,12 +1608,12 @@
     "imdb_id": "tt0112682"
   },
   {
-    "title": "Atlantis: The Lost Empire",
-    "release_year": "2001",
-    "clean_title": "/film/atlantis-the-lost-empire/",
+    "title": "Memoria",
+    "release_year": "2021",
+    "clean_title": "/film/memoria-2021/",
     "adult": false,
-    "id": 10865,
-    "imdb_id": "tt0230011"
+    "id": 511819,
+    "imdb_id": "tt8399288"
   },
   {
     "title": "Avatar",
@@ -1632,6 +1632,14 @@
     "imdb_id": "tt0089885"
   },
   {
+    "title": "Megamind",
+    "release_year": "2010",
+    "clean_title": "/film/megamind/",
+    "adult": false,
+    "id": 38055,
+    "imdb_id": "tt1001526"
+  },
+  {
     "title": "Palm Springs",
     "release_year": "2020",
     "clean_title": "/film/palm-springs-2020/",
@@ -1640,12 +1648,12 @@
     "imdb_id": "tt9484998"
   },
   {
-    "title": "Megamind",
-    "release_year": "2010",
-    "clean_title": "/film/megamind/",
+    "title": "The Avengers",
+    "release_year": "2012",
+    "clean_title": "/film/the-avengers-2012/",
     "adult": false,
-    "id": 38055,
-    "imdb_id": "tt1001526"
+    "id": 24428,
+    "imdb_id": "tt0848228"
   },
   {
     "title": "The Host",
@@ -1664,28 +1672,12 @@
     "imdb_id": "tt8589698"
   },
   {
-    "title": "The Avengers",
-    "release_year": "2012",
-    "clean_title": "/film/the-avengers-2012/",
-    "adult": false,
-    "id": 24428,
-    "imdb_id": "tt0848228"
-  },
-  {
     "title": "Time Masters",
     "release_year": "1982",
     "clean_title": "/film/time-masters/",
     "adult": false,
     "id": 22501,
     "imdb_id": "tt0084315"
-  },
-  {
-    "title": "They Live",
-    "release_year": "1988",
-    "clean_title": "/film/they-live/",
-    "adult": false,
-    "id": 8337,
-    "imdb_id": "tt0096256"
   },
   {
     "title": "Dr. Jekyll and Mr. Hyde",
@@ -1696,6 +1688,14 @@
     "imdb_id": "tt0022835"
   },
   {
+    "title": "They Live",
+    "release_year": "1988",
+    "clean_title": "/film/they-live/",
+    "adult": false,
+    "id": 8337,
+    "imdb_id": "tt0096256"
+  },
+  {
     "title": "The Stepford Wives",
     "release_year": "1975",
     "clean_title": "/film/the-stepford-wives/",
@@ -1704,20 +1704,20 @@
     "imdb_id": "tt0073747"
   },
   {
-    "title": "River",
-    "release_year": "2023",
-    "clean_title": "/film/river-2023-1/",
-    "adult": false,
-    "id": 1138476,
-    "imdb_id": "tt27695005"
-  },
-  {
     "title": "I Origins",
     "release_year": "2014",
     "clean_title": "/film/i-origins/",
     "adult": false,
     "id": 244267,
     "imdb_id": "tt2884206"
+  },
+  {
+    "title": "River",
+    "release_year": "2023",
+    "clean_title": "/film/river-2023-1/",
+    "adult": false,
+    "id": 1138476,
+    "imdb_id": "tt27695005"
   },
   {
     "title": "Predator: Killer of Killers",
@@ -1784,6 +1784,14 @@
     "imdb_id": "tt0448134"
   },
   {
+    "title": "Sorry to Bother You",
+    "release_year": "2018",
+    "clean_title": "/film/sorry-to-bother-you/",
+    "adult": false,
+    "id": 424781,
+    "imdb_id": "tt5688932"
+  },
+  {
     "title": "Superman",
     "release_year": "1978",
     "clean_title": "/film/superman/",
@@ -1792,12 +1800,12 @@
     "imdb_id": "tt0078346"
   },
   {
-    "title": "Sorry to Bother You",
-    "release_year": "2018",
-    "clean_title": "/film/sorry-to-bother-you/",
+    "title": "Patlabor: The Movie",
+    "release_year": "1989",
+    "clean_title": "/film/patlabor-the-movie/",
     "adult": false,
-    "id": 424781,
-    "imdb_id": "tt5688932"
+    "id": 14571,
+    "imdb_id": "tt0100339"
   },
   {
     "title": "Repo Man",
@@ -1816,12 +1824,12 @@
     "imdb_id": "tt2866360"
   },
   {
-    "title": "Patlabor: The Movie",
-    "release_year": "1989",
-    "clean_title": "/film/patlabor-the-movie/",
+    "title": "28 Days Later",
+    "release_year": "2002",
+    "clean_title": "/film/28-days-later/",
     "adult": false,
-    "id": 14571,
-    "imdb_id": "tt0100339"
+    "id": 170,
+    "imdb_id": "tt0289043"
   },
   {
     "title": "Neo Tokyo",
@@ -1830,14 +1838,6 @@
     "adult": false,
     "id": 37433,
     "imdb_id": "tt0185481"
-  },
-  {
-    "title": "28 Days Later",
-    "release_year": "2002",
-    "clean_title": "/film/28-days-later/",
-    "adult": false,
-    "id": 170,
-    "imdb_id": "tt0289043"
   },
   {
     "title": "Evangelion: 1.0 You Are (Not) Alone",
@@ -1864,6 +1864,14 @@
     "imdb_id": "tt35340614"
   },
   {
+    "title": "Rio 2096: A Story of Love and Fury",
+    "release_year": "2013",
+    "clean_title": "/film/rio-2096-a-story-of-love-and-fury/",
+    "adult": false,
+    "id": 173443,
+    "imdb_id": "tt2231208"
+  },
+  {
     "title": "Last and First Men",
     "release_year": "2020",
     "clean_title": "/film/last-and-first-men/",
@@ -1878,14 +1886,6 @@
     "adult": false,
     "id": 387426,
     "imdb_id": "tt3967856"
-  },
-  {
-    "title": "Escape from the 21st Century",
-    "release_year": "2024",
-    "clean_title": "/film/escape-from-the-21st-century/",
-    "adult": false,
-    "id": 1242372,
-    "imdb_id": "tt7171442"
   },
   {
     "title": "Black Panther",
@@ -1904,12 +1904,12 @@
     "imdb_id": "tt0116390"
   },
   {
-    "title": "Rio 2096: A Story of Love and Fury",
-    "release_year": "2013",
-    "clean_title": "/film/rio-2096-a-story-of-love-and-fury/",
+    "title": "Escape from the 21st Century",
+    "release_year": "2024",
+    "clean_title": "/film/escape-from-the-21st-century/",
     "adult": false,
-    "id": 173443,
-    "imdb_id": "tt2231208"
+    "id": 1242372,
+    "imdb_id": "tt7171442"
   },
   {
     "title": "Maanaadu",
@@ -1952,14 +1952,6 @@
     "imdb_id": "tt2027178"
   },
   {
-    "title": "April and the Extraordinary World",
-    "release_year": "2015",
-    "clean_title": "/film/april-and-the-extraordinary-world/",
-    "adult": false,
-    "id": 340357,
-    "imdb_id": "tt3422078"
-  },
-  {
     "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
     "release_year": "2001",
     "clean_title": "/film/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack/",
@@ -1968,20 +1960,20 @@
     "imdb_id": "tt0279112"
   },
   {
+    "title": "April and the Extraordinary World",
+    "release_year": "2015",
+    "clean_title": "/film/april-and-the-extraordinary-world/",
+    "adult": false,
+    "id": 340357,
+    "imdb_id": "tt3422078"
+  },
+  {
     "title": "Ikarie XB 1",
     "release_year": "1963",
     "clean_title": "/film/ikarie-xb-1/",
     "adult": false,
     "id": 19757,
     "imdb_id": "tt0122111"
-  },
-  {
-    "title": "Hoppers",
-    "release_year": "2026",
-    "clean_title": "/film/hoppers/",
-    "adult": false,
-    "id": 1327819,
-    "imdb_id": "tt26443616"
   },
   {
     "title": "The Aerial",
@@ -1998,5 +1990,13 @@
     "adult": false,
     "id": 11542,
     "imdb_id": "tt0080360"
+  },
+  {
+    "title": "Space Is the Place",
+    "release_year": "1974",
+    "clean_title": "/film/space-is-the-place/",
+    "adult": false,
+    "id": 16203,
+    "imdb_id": "tt0072195"
   }
 ]
