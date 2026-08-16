@@ -1,5 +1,29 @@
 [
   {
+    "title": "Cocorico 2",
+    "release_year": "2026",
+    "clean_title": "/film/cocorico-2/",
+    "adult": false,
+    "id": 1437939,
+    "imdb_id": "tt36933402"
+  },
+  {
+    "title": "Cocorico",
+    "release_year": "2024",
+    "clean_title": "/film/cocorico/",
+    "adult": false,
+    "id": 973912,
+    "imdb_id": "tt19381382"
+  },
+  {
+    "title": "The Last House",
+    "release_year": "2026",
+    "clean_title": "/film/the-last-house-2026/",
+    "adult": false,
+    "id": 1284041,
+    "imdb_id": "tt32268156"
+  },
+  {
     "title": "Labubu",
     "release_year": "",
     "clean_title": "/film/labubu/",
