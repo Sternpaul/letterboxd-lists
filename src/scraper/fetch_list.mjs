@@ -162,14 +162,27 @@ async function main() {
     fs.writeFileSync(outputFile, JSON.stringify(radarrData, null, 2));
     console.log(`Successfully wrote ${radarrData.length} entries to ${outputFile}`);
 
-    // --- UPDATE LAST SCRAPED MANIFEST ---
+    // --- UPDATE LAST SCRAPED & UPDATED MANIFEST ---
     try {
         const jsonBasename = path.basename(outputFile);
+        const today = new Date().toISOString().split('T')[0];
         let manifest = {};
         if (fs.existsSync(lastScrapedPath)) {
             manifest = JSON.parse(fs.readFileSync(lastScrapedPath, 'utf8'));
         }
-        manifest[jsonBasename] = new Date().toISOString().split('T')[0];
+        const hasChanges = (added.length > 0 || removed.length > 0 || !existingData.length);
+        let listMeta = manifest[jsonBasename];
+        if (!listMeta || typeof listMeta === 'string') {
+            listMeta = {
+                last_scraped: today,
+                last_updated: (typeof listMeta === 'string' ? listMeta : today)
+            };
+        }
+        listMeta.last_scraped = today;
+        if (hasChanges) {
+            listMeta.last_updated = today;
+        }
+        manifest[jsonBasename] = listMeta;
         fs.writeFileSync(lastScrapedPath, JSON.stringify(manifest, null, 2));
     } catch (e) {
         console.warn('Could not update last_scraped.json:', e.message);

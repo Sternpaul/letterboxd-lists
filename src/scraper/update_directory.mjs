@@ -41,22 +41,23 @@ for (const match of matches) {
 let md = "# Official Letterboxd Lists Directory\n\n";
 md += "This document tracks all Official Letterboxd Lists and their sync status in this repository. Use this reference to find the exact endpoints for Radarr.\n\n";
 md += "*(This directory is automatically updated after every successful GitHub Action run)*\n\n";
-md += "| List Name | Status | JSON Endpoint | Total Items | Last Scraped |\n";
-md += "| :--- | :--- | :--- | :--- | :--- |\n";
+md += "| List Name | Status | JSON Endpoint | Total Items | Last Scraped | Last Updated |\n";
+md += "| :--- | :--- | :--- | :--- | :--- | :--- |\n";
 
 let currentCategory = '';
 
 for (const list of officialLists) {
     if (list.category !== currentCategory) {
         currentCategory = list.category;
-        md += `| **${currentCategory}** | | | | |\n`;
+        md += `| **${currentCategory}** | | | | | |\n`;
     }
 
     let jsonName = list.jsonName;
     let endpointStr = '';
     let status = 'Not Scraped ❌';
     let totalItems = '-';
-    let lastUpdate = '-';
+    let lastScraped = '-';
+    let lastUpdated = '-';
     let isSuccess = false;
 
     // Check if the file exists in the repo
@@ -73,11 +74,18 @@ for (const list of officialLists) {
                 totalItems = data.length.toString();
                 isSuccess = true;
                 
-                if (lastScrapedMap[jsonName]) {
-                    lastUpdate = lastScrapedMap[jsonName];
+                const meta = lastScrapedMap[jsonName];
+                if (meta && typeof meta === 'object') {
+                    lastScraped = meta.last_scraped || '-';
+                    lastUpdated = meta.last_updated || meta.last_scraped || '-';
+                } else if (typeof meta === 'string') {
+                    lastScraped = meta;
+                    lastUpdated = meta;
                 } else {
                     const stats = fs.statSync(filePath);
-                    lastUpdate = stats.mtime.toISOString().split('T')[0];
+                    const fileDate = stats.mtime.toISOString().split('T')[0];
+                    lastScraped = fileDate;
+                    lastUpdated = fileDate;
                 }
             } catch (e) {
                 totalItems = 'Error';
@@ -98,7 +106,7 @@ for (const list of officialLists) {
         status = "Failed 🚨";
     }
 
-    md += `| [${list.name}](${list.shortUrl}) | ${status} | ${endpointStr} | ${totalItems} | ${lastUpdate} |\n`;
+    md += `| [${list.name}](${list.shortUrl}) | ${status} | ${endpointStr} | ${totalItems} | ${lastScraped} | ${lastUpdated} |\n`;
 }
 
 fs.writeFileSync(readmePath, md);

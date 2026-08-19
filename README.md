@@ -187,11 +187,15 @@ This repository includes native, rich Discord Webhook notifications. It will pus
 
 ## List Tracking & Scrape Manifest 📊
 
-All list metadata and scrape history are tracked using a dedicated tracking manifest:
+All list metadata, scrape history, and content modification timestamps are tracked using a dedicated manifest:
 
-- **Manifest File**: `src/scraper/last_scraped.json` tracks the exact ISO date (`YYYY-MM-DD`) when each JSON list was last fetched from Letterboxd.
-- **Automatic Updates**: When `fetch_list.mjs` runs, it updates the corresponding timestamp in `last_scraped.json`.
-- **Directory Generator**: `update_directory.mjs` reads `last_scraped.json` to generate [lists_directory.md](lists_directory.md), accurately showing when both **Daily Sync 🟢** and static **Not actively scraped 📦** lists were last fetched.
+- **Manifest File**: `src/scraper/last_scraped.json` tracks two separate ISO dates (`YYYY-MM-DD`) for each list:
+  - **`last_scraped`**: The date when the scraper last checked / fetched the list from Letterboxd.
+  - **`last_updated`**: The date when the actual *movie content* of the list changed (movies added, removed, or reordered).
+- **Automatic Updates**: When `fetch_list.mjs` runs:
+  - It always updates `last_scraped` to today's date.
+  - If changes to the movie list were detected (`added` or `removed`), it also updates `last_updated` to today's date.
+- **Directory Generator**: `update_directory.mjs` reads `last_scraped.json` to generate [lists_directory.md](lists_directory.md), providing full visibility into both sync frequency and content freshness for **Daily Sync 🟢** and **Not actively scraped 📦** lists.
 
 ## Local Development & Scraper Commands 💻
 

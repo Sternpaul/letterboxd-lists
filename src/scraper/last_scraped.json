@@ -1,258 +1,1026 @@
 {
-  "1001-movies-you-must-see-before-you-die.json": "2026-08-02",
-  "2012-highest-rated-films.json": "2026-08-02",
-  "2013-highest-rated-films.json": "2026-08-02",
-  "2014-highest-rated-films.json": "2026-08-02",
-  "2015-highest-rated-films.json": "2026-08-02",
-  "2016-highest-rated-films.json": "2026-08-02",
-  "2017-highest-rated-films.json": "2026-08-02",
-  "2018-highest-rated-films.json": "2026-08-02",
-  "2019-highest-rated-films.json": "2026-08-02",
-  "2020-highest-rated-films.json": "2026-08-02",
-  "2021-highest-rated-films.json": "2026-08-02",
-  "2022-highest-rated-films.json": "2026-08-02",
-  "2023-highest-rated-films.json": "2026-08-02",
-  "2024-highest-rated-films.json": "2026-08-02",
-  "2025-highest-rated-films.json": "2026-08-02",
-  "25-highest-rated-christmas-films-of-all-time.json": "2026-08-02",
-  "25-highest-rated-horrors-of-all-time-2018.json": "2026-08-02",
-  "25-most-popular-horrors-of-all-time-2018.json": "2026-08-02",
-  "afi-100-years-100-movies.json": "2026-08-02",
-  "april-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "april-report-2026-top-25-films-of-the-year.json": "2026-08-02",
-  "august-leaderboard-most-anticipated-movies-1.json": "2026-08-02",
-  "august-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "august-report-2026-top-25-films-of-the-year.json": "2026-08-02",
-  "best-picture-nominees.json": "2026-05-25",
-  "bfi-british-films.json": "2026-05-25",
-  "criterion.json": "2026-08-02",
-  "edgar-wrights-1000-favorite-movies.json": "2026-08-02",
-  "february-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "german-films.json": "2026-05-25",
-  "halfway-2024-the-top-25-highest-rated-films.json": "2026-08-02",
-  "halfway-2025-the-top-25-highest-rated-films.json": "2026-08-02",
-  "halloween-2019-first-time-watches.json": "2026-08-02",
-  "halloween-2019-most-rewatched.json": "2026-08-02",
-  "high-risers-the-50-biggest-ratings-rises.json": "2026-08-02",
-  "highest-rated-obsessively-rewatched-club-1.json": "2026-08-02",
-  "highest-rated-obsessively-rewatched-club.json": "2026-08-02",
-  "imdb-top-250.json": "2026-08-02",
-  "january-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "july-leaderboard-most-anticipated-movies-1.json": "2026-08-02",
-  "july-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "july-report-2026-top-25-films-of-the-year.json": "2026-08-02",
-  "june-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "june-report-2026-top-25-films-of-the-year.json": "2026-08-02",
-  "letterboxd-in-lockdown-what-you-watched-during.json": "2026-08-02",
-  "letterboxds-1000-most-watched-films.json": "2026-08-02",
-  "letterboxds-top-500-films.json": "2026-08-19",
-  "low-rated-most-loved-top-50-by-highest-total.json": "2026-08-02",
-  "low-rated-most-loved-top-50-by-ratio-of-hearts.json": "2026-08-02",
-  "march-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "march-report-2026-top-25-films-of-the-year.json": "2026-08-02",
-  "may-leaderboard-most-anticipated-movies-of.json": "2026-08-02",
-  "may-report-2026-top-25-films-of-the-year.json": "2026-08-02",
-  "midway-2020s-highest-rated-films.json": "2026-08-02",
-  "most-divisive-all-time-min-10000-ratings.json": "2026-08-02",
-  "most-divisive-all-time-min-500-ratings.json": "2026-08-02",
-  "most-fans-on-letterboxd-as-of-2018.json": "2026-08-02",
-  "most-fans-on-letterboxd-as-of-2019.json": "2026-08-02",
-  "most-fans-on-letterboxd-as-of-2022.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-he-as-1.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-he-as-2.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-he-as-3.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-he-as-4.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-she-1.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-she-2.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-she-3.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-she.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-ze-or-1.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-ze-or-2.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-ze-or-3.json": "2026-08-02",
-  "most-fans-on-letterboxd-with-pronoun-ze-or.json": "2026-08-02",
-  "most-fans-per-viewer-on-letterboxd-as-of-1.json": "2026-08-02",
-  "most-fans-per-viewer-on-letterboxd-as-of-2.json": "2026-08-02",
-  "most-fans-per-viewer-on-letterboxd-as-of-3.json": "2026-08-02",
-  "most-fans-per-viewer-on-letterboxd-as-of-4.json": "2026-08-02",
-  "most-fans.json": "2026-05-25",
-  "most-obsessively-rewatched-films-at-christmas.json": "2026-08-02",
-  "most-obsessively-rewatched-horror-films-as.json": "2026-08-02",
-  "most-obsessively-rewatched-love-stories-as.json": "2026-08-02",
-  "most-obsessively-rewatched-underseen-horror.json": "2026-08-02",
-  "movies-everyone-should-watch-at-least-once.json": "2026-08-02",
-  "november-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "october-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "ratings.json": "2026-08-19",
-  "reddit-r-movies-top-250-2019-edition.json": "2026-08-02",
-  "september-leaderboard-most-anticipated-movies.json": "2026-08-02",
-  "sight-and-sounds-greatest-films-of-all-time.json": "2026-08-02",
-  "sternpaul-watchlist.json": "2026-08-19",
-  "the-2010s-top-250-narrative-features.json": "2026-08-02",
-  "the-best-best-picture-lineups-in-academy.json": "2026-08-02",
-  "the-bfi-100-british-films.json": "2026-08-19",
-  "the-first-letterboxd-top-250-as-of-2013.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2015.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2016.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2017.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2018.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2019.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2020.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2021.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2022.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2023.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2024.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-2025.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-april-2022.json": "2026-08-02",
-  "the-letterboxd-top-250-as-of-june-2023.json": "2026-08-02",
-  "the-ten-most-rewatched-films-in-the-highest.json": "2026-08-02",
-  "they-shoot-pictures-dont-they-1000-greatest-1.json": "2026-08-02",
-  "top-10-highest-rated-for-first-half-of-2016.json": "2026-08-02",
-  "top-10-highest-rated-for-first-half-of-2017.json": "2026-08-02",
-  "top-10-highest-rated-for-first-half-of-2018.json": "2026-08-02",
-  "top-10-highest-rated-for-first-half-of-2019.json": "2026-08-02",
-  "top-10-highest-rated-for-first-half-of-2020.json": "2026-08-02",
-  "top-100-anime-films-top50.json": "2026-08-19",
-  "top-100-argentinian-films.json": "2026-08-02",
-  "top-100-australian-films.json": "2026-08-19",
-  "top-100-below-average-films-with-the-most.json": "2026-08-02",
-  "top-100-best-cinematography-oscar-nominees.json": "2026-08-02",
-  "top-100-best-international-feature-oscar.json": "2026-08-19",
-  "top-100-best-picture-nominees-with-the-most.json": "2026-08-19",
-  "top-100-best-picture-oscar-nominees-with.json": "2026-08-02",
-  "top-100-best-visual-effects-oscar-nominees.json": "2026-08-02",
-  "top-100-british-films.json": "2026-08-19",
-  "top-100-canadian-films.json": "2026-08-19",
-  "top-100-comedy-specials.json": "2026-08-19",
-  "top-100-concert-films.json": "2026-08-19",
-  "top-100-czech-films.json": "2026-08-02",
-  "top-100-danish-films.json": "2026-08-19",
-  "top-100-documentary-films-with-the-most-fans.json": "2026-08-02",
-  "top-100-documentary-miniseries.json": "2026-08-19",
-  "top-100-dutch-films.json": "2026-08-19",
-  "top-100-egyptian-films.json": "2026-08-02",
-  "top-100-fastest-films-to-one-million-watched.json": "2026-08-19",
-  "top-100-filipino-films.json": "2026-08-02",
-  "top-100-film-noir-films.json": "2026-08-19",
-  "top-100-films-by-asian-women-directors.json": "2026-08-02",
-  "top-100-films-by-trans-directors.json": "2026-08-02",
-  "top-100-films-of-the-1920s.json": "2026-08-19",
-  "top-100-films-of-the-2020s-with-the-most.json": "2026-08-19",
-  "top-100-films-on-the-most-watchlists.json": "2026-08-19",
-  "top-100-films-with-the-most-fans-by-free.json": "2026-08-02",
-  "top-100-films-with-the-most-fans-by-he-pronoun.json": "2026-08-19",
-  "top-100-films-with-the-most-fans-by-members.json": "2026-08-02",
-  "top-100-films-with-the-most-fans-by-patron.json": "2026-08-02",
-  "top-100-films-with-the-most-fans-by-pro-members.json": "2026-08-02",
-  "top-100-films-with-the-most-fans-by-ratio.json": "2026-08-02",
-  "top-100-films-with-the-most-fans-by-she-pronoun.json": "2026-08-02",
-  "top-100-films-with-the-most-fans-by-ze-or.json": "2026-08-02",
-  "top-100-french-films-top50.json": "2026-08-19",
-  "top-100-german-films.json": "2026-08-19",
-  "top-100-hungarian-films.json": "2026-08-02",
-  "top-100-indian-films.json": "2026-08-02",
-  "top-100-indonesian-films.json": "2026-08-02",
-  "top-100-iranian-films.json": "2026-08-02",
-  "top-100-italian-films.json": "2026-08-19",
-  "top-100-japanese-films.json": "2026-08-02",
-  "top-100-live-action-fantasy-films.json": "2026-08-19",
-  "top-100-palme-dor-in-competition-nominees.json": "2026-08-19",
-  "top-100-polish-films.json": "2026-08-02",
-  "top-100-popular-films-by-women-directors.json": "2026-08-02",
-  "top-100-pro-shot-theatre-films.json": "2026-08-19",
-  "top-100-romanian-films.json": "2026-08-02",
-  "top-100-samurai-films.json": "2026-08-19",
-  "top-100-sony-pictures-films-as-of-2024.json": "2026-08-02",
-  "top-100-south-korean-films.json": "2026-08-19",
-  "top-100-spanish-films.json": "2026-08-19",
-  "top-100-sports-films.json": "2026-08-19",
-  "top-100-spy-films.json": "2026-08-19",
-  "top-100-sub-saharan-african-films.json": "2026-08-02",
-  "top-100-swedish-films.json": "2026-08-19",
-  "top-100-taiwanese-films.json": "2026-08-02",
-  "top-100-underseen-documentaries.json": "2026-08-02",
-  "top-100-underseen-films.json": "2026-08-02",
-  "top-100-western-films.json": "2026-08-19",
-  "top-100-wuxia-films.json": "2026-08-19",
-  "top-1000-horror-films-on-halloween-2020.json": "2026-08-02",
-  "top-1000-horror-films-on-halloween-2021.json": "2026-08-02",
-  "top-1000-horror-films-on-halloween-2022.json": "2026-08-02",
-  "top-1000-horror-films-on-halloween-2023.json": "2026-08-02",
-  "top-1000-horror-films-on-halloween-2024.json": "2026-08-02",
-  "top-1000-horror-films-on-halloween-2025.json": "2026-08-02",
-  "top-25-highest-rated-for-first-half-of-2021.json": "2026-08-02",
-  "top-25-highest-rated-for-first-half-of-2022.json": "2026-08-02",
-  "top-25-highest-rated-for-first-half-of-2023.json": "2026-08-02",
-  "top-25-underseen-films-of-2026.json": "2026-08-02",
-  "top-250-action-films.json": "2026-08-19",
-  "top-250-animated-films.json": "2026-08-19",
-  "top-250-biographical-films.json": "2026-08-19",
-  "top-250-brazilian-films.json": "2026-08-02",
-  "top-250-crime-films.json": "2026-08-19",
-  "top-250-documentary-films.json": "2026-08-19",
-  "top-250-films-above-150-minutes-in-runtime.json": "2026-08-02",
-  "top-250-films-below-100-minutes-in-runtime.json": "2026-08-02",
-  "top-250-films-by-black-directors.json": "2026-08-02",
-  "top-250-films-by-heart-rate.json": "2026-08-19",
-  "top-250-films-by-queer-directors.json": "2026-08-02",
-  "top-250-films-by-women-directors.json": "2026-08-02",
-  "top-250-films-of-the-1930s.json": "2026-08-19",
-  "top-250-films-of-the-1940s.json": "2026-08-19",
-  "top-250-films-of-the-1950s.json": "2026-08-19",
-  "top-250-films-of-the-1960s.json": "2026-08-19",
-  "top-250-films-of-the-1970s.json": "2026-08-19",
-  "top-250-films-of-the-1980s.json": "2026-08-19",
-  "top-250-films-of-the-1990s.json": "2026-08-19",
-  "top-250-films-of-the-2000s.json": "2026-08-19",
-  "top-250-films-of-the-2010s.json": "2026-08-19",
-  "top-250-films-of-the-2020s.json": "2026-08-19",
-  "top-250-films-with-the-most-fans.json": "2026-08-19",
-  "top-250-global-south-films.json": "2026-08-02",
-  "top-250-horror-films-with-the-most-fans.json": "2026-08-02",
-  "top-250-horror-films.json": "2026-08-19",
-  "top-250-latin-american-films.json": "2026-08-02",
-  "top-250-mexican-films.json": "2026-08-02",
-  "top-250-miniseries.json": "2026-08-19",
-  "top-250-musical-films.json": "2026-08-19",
-  "top-250-mystery-films.json": "2026-08-19",
-  "top-250-non-english-language-films-with-the.json": "2026-08-19",
-  "top-250-pre-1970s-films-with-the-most-fans.json": "2026-08-19",
-  "top-250-romantic-comedy-films.json": "2026-08-19",
-  "top-250-science-fiction-films.json": "2026-08-19",
-  "top-250-short-films.json": "2026-08-19",
-  "top-250-war-films.json": "2026-08-19",
-  "top-50-adult-films.json": "2026-08-19",
-  "top-50-animated-films-by-women-directors.json": "2026-08-02",
-  "top-50-austrian-films.json": "2026-08-19",
-  "top-50-best-animated-feature-oscar-nominees.json": "2026-08-02",
-  "top-50-chilean-documentary-films.json": "2026-08-02",
-  "top-50-chilean-films.json": "2026-08-02",
-  "top-50-disney-live-action-features.json": "2026-08-02",
-  "top-50-estonian-films.json": "2026-08-02",
-  "top-50-films-of-the-1910s.json": "2026-08-19",
-  "top-50-films-on-letterboxd-video-store.json": "2026-08-02",
-  "top-50-films-on-the-most-watchlists-watchlist.json": "2026-08-02",
-  "top-50-finnish-films.json": "2026-08-02",
-  "top-50-georgian-films.json": "2026-08-02",
-  "top-50-heroic-bloodshed-films.json": "2026-08-19",
-  "top-50-horror-films-by-women-directors.json": "2026-08-02",
-  "top-50-icelandic-films.json": "2026-08-02",
-  "top-50-latvian-films.json": "2026-08-02",
-  "top-50-lithuanian-films.json": "2026-08-02",
-  "top-50-moroccan-films.json": "2026-08-02",
-  "top-50-new-zealand-films.json": "2026-08-02",
-  "top-50-peruvian-films.json": "2026-08-02",
-  "top-50-serbian-films.json": "2026-08-02",
-  "top-50-thai-films.json": "2026-08-02",
-  "top-50-ukrainian-films.json": "2026-08-02",
-  "top-50-underseen-animated-films.json": "2026-08-02",
-  "top-50-underseen-films-by-black-directors.json": "2026-08-02",
-  "top-50-underseen-films-by-women-directors.json": "2026-08-02",
-  "top-50-underseen-horror-films.json": "2026-08-02",
-  "top-50-underseen-science-fiction-films.json": "2026-08-02",
-  "top-50-uruguayan-films.json": "2026-08-02",
-  "top-50-vietnamese-films.json": "2026-08-02",
-  "top-50-walt-disney-animation-studios-features.json": "2026-08-02",
-  "top-50-yugoslavian-films.json": "2026-08-02",
-  "top-500.json": "2026-05-25",
-  "watchlist.json": "2026-05-25"
+  "1001-movies-you-must-see-before-you-die.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2012-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2013-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2014-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2015-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2016-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2017-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2018-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2019-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2020-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2021-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2022-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2023-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2024-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "2025-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "25-highest-rated-christmas-films-of-all-time.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "25-highest-rated-horrors-of-all-time-2018.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "25-most-popular-horrors-of-all-time-2018.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "afi-100-years-100-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "april-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "april-report-2026-top-25-films-of-the-year.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "august-leaderboard-most-anticipated-movies-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "august-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "august-report-2026-top-25-films-of-the-year.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "best-picture-nominees.json": {
+    "last_scraped": "2026-05-25",
+    "last_updated": "2026-05-25"
+  },
+  "bfi-british-films.json": {
+    "last_scraped": "2026-05-25",
+    "last_updated": "2026-05-25"
+  },
+  "criterion.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "edgar-wrights-1000-favorite-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "february-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "german-films.json": {
+    "last_scraped": "2026-05-25",
+    "last_updated": "2026-05-25"
+  },
+  "halfway-2024-the-top-25-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "halfway-2025-the-top-25-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "halloween-2019-first-time-watches.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "halloween-2019-most-rewatched.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "high-risers-the-50-biggest-ratings-rises.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "highest-rated-obsessively-rewatched-club-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "highest-rated-obsessively-rewatched-club.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "imdb-top-250.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "january-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "july-leaderboard-most-anticipated-movies-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "july-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "july-report-2026-top-25-films-of-the-year.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "june-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "june-report-2026-top-25-films-of-the-year.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "letterboxd-in-lockdown-what-you-watched-during.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "letterboxds-1000-most-watched-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "letterboxds-top-500-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-18"
+  },
+  "low-rated-most-loved-top-50-by-highest-total.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "low-rated-most-loved-top-50-by-ratio-of-hearts.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "march-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "march-report-2026-top-25-films-of-the-year.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "may-leaderboard-most-anticipated-movies-of.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "may-report-2026-top-25-films-of-the-year.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "midway-2020s-highest-rated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-divisive-all-time-min-10000-ratings.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-divisive-all-time-min-500-ratings.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-as-of-2018.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-as-of-2019.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-as-of-2022.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-he-as-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-he-as-2.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-he-as-3.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-he-as-4.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-she-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-she-2.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-she-3.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-she.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-ze-or-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-ze-or-2.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-ze-or-3.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-on-letterboxd-with-pronoun-ze-or.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-per-viewer-on-letterboxd-as-of-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-per-viewer-on-letterboxd-as-of-2.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-per-viewer-on-letterboxd-as-of-3.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans-per-viewer-on-letterboxd-as-of-4.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-fans.json": {
+    "last_scraped": "2026-05-25",
+    "last_updated": "2026-05-25"
+  },
+  "most-obsessively-rewatched-films-at-christmas.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-obsessively-rewatched-horror-films-as.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-obsessively-rewatched-love-stories-as.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "most-obsessively-rewatched-underseen-horror.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "movies-everyone-should-watch-at-least-once.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "november-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "october-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "ratings.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-09"
+  },
+  "reddit-r-movies-top-250-2019-edition.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "september-leaderboard-most-anticipated-movies.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "sight-and-sounds-greatest-films-of-all-time.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "sternpaul-watchlist.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-19"
+  },
+  "the-2010s-top-250-narrative-features.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-best-best-picture-lineups-in-academy.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-bfi-100-british-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-05-26"
+  },
+  "the-first-letterboxd-top-250-as-of-2013.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2015.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2016.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2017.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2018.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2019.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2020.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2021.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2022.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2023.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2024.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-2025.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-april-2022.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-letterboxd-top-250-as-of-june-2023.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "the-ten-most-rewatched-films-in-the-highest.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "they-shoot-pictures-dont-they-1000-greatest-1.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-10-highest-rated-for-first-half-of-2016.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-10-highest-rated-for-first-half-of-2017.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-10-highest-rated-for-first-half-of-2018.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-10-highest-rated-for-first-half-of-2019.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-10-highest-rated-for-first-half-of-2020.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-anime-films-top50.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-01"
+  },
+  "top-100-argentinian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-australian-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-13"
+  },
+  "top-100-below-average-films-with-the-most.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-best-cinematography-oscar-nominees.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-best-international-feature-oscar.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-07"
+  },
+  "top-100-best-picture-nominees-with-the-most.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-06-05"
+  },
+  "top-100-best-picture-oscar-nominees-with.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-best-visual-effects-oscar-nominees.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-british-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-canadian-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-comedy-specials.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-concert-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-12"
+  },
+  "top-100-czech-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-danish-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-documentary-films-with-the-most-fans.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-documentary-miniseries.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-dutch-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-17"
+  },
+  "top-100-egyptian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-fastest-films-to-one-million-watched.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-08"
+  },
+  "top-100-filipino-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-film-noir-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-by-asian-women-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-by-trans-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-of-the-1920s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-of-the-2020s-with-the-most.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-06"
+  },
+  "top-100-films-on-the-most-watchlists.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-free.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-he-pronoun.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-members.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-patron.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-pro-members.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-ratio.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-she-pronoun.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-films-with-the-most-fans-by-ze-or.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-french-films-top50.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-05-26"
+  },
+  "top-100-german-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-hungarian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-indian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-indonesian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-iranian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-italian-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-14"
+  },
+  "top-100-japanese-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-live-action-fantasy-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-palme-dor-in-competition-nominees.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-polish-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-popular-films-by-women-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-pro-shot-theatre-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-17"
+  },
+  "top-100-romanian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-samurai-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-sony-pictures-films-as-of-2024.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-south-korean-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-spanish-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-sports-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-spy-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-sub-saharan-african-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-swedish-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-taiwanese-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-underseen-documentaries.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-underseen-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-western-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-100-wuxia-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-09"
+  },
+  "top-1000-horror-films-on-halloween-2020.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-1000-horror-films-on-halloween-2021.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-1000-horror-films-on-halloween-2022.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-1000-horror-films-on-halloween-2023.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-1000-horror-films-on-halloween-2024.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-1000-horror-films-on-halloween-2025.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-25-highest-rated-for-first-half-of-2021.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-25-highest-rated-for-first-half-of-2022.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-25-highest-rated-for-first-half-of-2023.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-25-underseen-films-of-2026.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-action-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-animated-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-15"
+  },
+  "top-250-biographical-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-brazilian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-crime-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-documentary-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-18"
+  },
+  "top-250-films-above-150-minutes-in-runtime.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-below-100-minutes-in-runtime.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-by-black-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-by-heart-rate.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-06"
+  },
+  "top-250-films-by-queer-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-by-women-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-1930s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-1940s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-1950s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-1960s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-07"
+  },
+  "top-250-films-of-the-1970s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-1980s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-1990s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-2000s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-2010s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-films-of-the-2020s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-15"
+  },
+  "top-250-films-with-the-most-fans.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-06"
+  },
+  "top-250-global-south-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-horror-films-with-the-most-fans.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-horror-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-13"
+  },
+  "top-250-latin-american-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-mexican-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-miniseries.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-03"
+  },
+  "top-250-musical-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-mystery-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-non-english-language-films-with-the.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-pre-1970s-films-with-the-most-fans.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-07"
+  },
+  "top-250-romantic-comedy-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-17"
+  },
+  "top-250-science-fiction-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-18"
+  },
+  "top-250-short-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-250-war-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-07"
+  },
+  "top-50-adult-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-07"
+  },
+  "top-50-animated-films-by-women-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-austrian-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-best-animated-feature-oscar-nominees.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-chilean-documentary-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-chilean-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-disney-live-action-features.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-estonian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-films-of-the-1910s.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-films-on-letterboxd-video-store.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-films-on-the-most-watchlists-watchlist.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-finnish-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-georgian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-heroic-bloodshed-films.json": {
+    "last_scraped": "2026-08-19",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-horror-films-by-women-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-icelandic-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-latvian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-lithuanian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-moroccan-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-new-zealand-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-peruvian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-serbian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-thai-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-ukrainian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-underseen-animated-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-underseen-films-by-black-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-underseen-films-by-women-directors.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-underseen-horror-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-underseen-science-fiction-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-uruguayan-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-vietnamese-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-walt-disney-animation-studios-features.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-50-yugoslavian-films.json": {
+    "last_scraped": "2026-08-02",
+    "last_updated": "2026-08-02"
+  },
+  "top-500.json": {
+    "last_scraped": "2026-05-25",
+    "last_updated": "2026-05-25"
+  },
+  "watchlist.json": {
+    "last_scraped": "2026-05-25",
+    "last_updated": "2026-05-25"
+  }
 }
