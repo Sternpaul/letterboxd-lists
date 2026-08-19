@@ -106,6 +106,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -f public/*.json
           git add -f index.html
+          git add src/scraper/last_scraped.json
           git add lists_directory.md
           git commit -m "Update movie lists" || exit 0
           git pull --rebase

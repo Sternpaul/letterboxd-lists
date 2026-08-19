@@ -184,3 +184,44 @@ This repository includes native, rich Discord Webhook notifications. It will pus
 2. Click **New repository secret**.
 3. Name the secret exactly `DISCORD_WEBHOOK_URL`.
 4. Paste your Discord channel Webhook URL into the secret body.
+
+## List Tracking & Scrape Manifest 📊
+
+All list metadata and scrape history are tracked using a dedicated tracking manifest:
+
+- **Manifest File**: `src/scraper/last_scraped.json` tracks the exact ISO date (`YYYY-MM-DD`) when each JSON list was last fetched from Letterboxd.
+- **Automatic Updates**: When `fetch_list.mjs` runs, it updates the corresponding timestamp in `last_scraped.json`.
+- **Directory Generator**: `update_directory.mjs` reads `last_scraped.json` to generate [lists_directory.md](lists_directory.md), accurately showing when both **Daily Sync 🟢** and static **Not actively scraped 📦** lists were last fetched.
+
+## Local Development & Scraper Commands 💻
+
+You can run the scraper locally using Node.js:
+
+### 1. Install Dependencies
+```bash
+cd src/scraper
+npm install
+```
+
+### 2. Scrape a Specific Letterboxd List
+```bash
+# Usage: node fetch_list.mjs <listSlug> <outputFilePath> [limit]
+node fetch_list.mjs official/list/top-250-films-of-the-2020s/ ../../public/top-250-films-of-the-2020s.json
+```
+- To limit the scrape (e.g. only top 50):
+```bash
+node fetch_list.mjs official/list/top-100-french-films/ ../../public/top-100-french-films-top50.json 50
+```
+
+### 3. Update the Lists Directory Table
+```bash
+node update_directory.mjs
+```
+This regenerates `lists_directory.md` with updated counts, sync statuses, and last scrape dates.
+
+### 4. Adding a New List to Daily Automation
+To schedule a list for automatic daily updates:
+1. Open `.github/workflows/update_lists.yml`.
+2. Add a new `node fetch_list.mjs ...` line under the **Fetch and filter lists** step.
+3. Run `node update_directory.mjs` to promote the list from `Not actively scraped 📦` to `Daily Sync 🟢`.
+

@@ -1,14 +1,29 @@
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const officialListsPath = path.join(process.cwd(), 'official_lists.json');
-const ymlFile = path.join(process.cwd(), '../../.github/workflows/update_lists.yml');
-const publicDir = path.join(process.cwd(), '../../public');
-const readmePath = path.join(process.cwd(), '../../lists_directory.md');
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const scraperDir = __dirname;
+const rootDir = path.resolve(__dirname, '../../');
+
+const officialListsPath = path.join(scraperDir, 'official_lists.json');
+const lastScrapedPath = path.join(scraperDir, 'last_scraped.json');
+const ymlFile = path.join(rootDir, '.github/workflows/update_lists.yml');
+const publicDir = path.join(rootDir, 'public');
+const readmePath = path.join(rootDir, 'lists_directory.md');
 
 let officialLists = [];
 if (fs.existsSync(officialListsPath)) {
     officialLists = JSON.parse(fs.readFileSync(officialListsPath, 'utf8'));
+}
+
+let lastScrapedMap = {};
+if (fs.existsSync(lastScrapedPath)) {
+    try {
+        lastScrapedMap = JSON.parse(fs.readFileSync(lastScrapedPath, 'utf8'));
+    } catch (e) {
+        console.warn('Could not parse last_scraped.json:', e.message);
+    }
 }
 
 let ymlContent = '';
@@ -58,8 +73,12 @@ for (const list of officialLists) {
                 totalItems = data.length.toString();
                 isSuccess = true;
                 
-                const stats = fs.statSync(filePath);
-                lastUpdate = stats.mtime.toISOString().split('T')[0];
+                if (lastScrapedMap[jsonName]) {
+                    lastUpdate = lastScrapedMap[jsonName];
+                } else {
+                    const stats = fs.statSync(filePath);
+                    lastUpdate = stats.mtime.toISOString().split('T')[0];
+                }
             } catch (e) {
                 totalItems = 'Error';
                 status = "Failed 🚨";

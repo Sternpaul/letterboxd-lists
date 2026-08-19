@@ -3,7 +3,11 @@ import * as cheerio from 'cheerio';
 import pLimit from 'p-limit';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import { getMovieDetail, LETTERBOXD_ORIGIN, NEXT_PAGE_REGEX } from './utils.mjs';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const lastScrapedPath = path.join(__dirname, 'last_scraped.json');
 
 const listSlug = process.argv[2];
 const outputFile = process.argv[3];
@@ -157,6 +161,19 @@ async function main() {
     
     fs.writeFileSync(outputFile, JSON.stringify(radarrData, null, 2));
     console.log(`Successfully wrote ${radarrData.length} entries to ${outputFile}`);
+
+    // --- UPDATE LAST SCRAPED MANIFEST ---
+    try {
+        const jsonBasename = path.basename(outputFile);
+        let manifest = {};
+        if (fs.existsSync(lastScrapedPath)) {
+            manifest = JSON.parse(fs.readFileSync(lastScrapedPath, 'utf8'));
+        }
+        manifest[jsonBasename] = new Date().toISOString().split('T')[0];
+        fs.writeFileSync(lastScrapedPath, JSON.stringify(manifest, null, 2));
+    } catch (e) {
+        console.warn('Could not update last_scraped.json:', e.message);
+    }
 }
 
 main().catch(err => {
