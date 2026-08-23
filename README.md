@@ -269,3 +269,44 @@ To schedule a list for automatic daily updates:
 2. Add a new `node fetch_list.mjs ...` line under the **Fetch and filter lists** step.
 3. Run `node update_directory.mjs` to promote the list from `Not actively scraped 📦` to `Daily Sync 🟢`.
 
+### 6. Scrape Non-Daily Lists Locally
+You can run the batch dispatcher to scrape and update lists that are not in the daily schedule:
+```bash
+# Scrape all non-daily lists
+node scrape_non_daily.mjs
+
+# Scrape a specific category
+node scrape_non_daily.mjs --category "Famous Community Lists"
+
+# Filter by keyword or slug substring
+node scrape_non_daily.mjs --filter "reality"
+
+# Preview which lists will be scraped without making network requests
+node scrape_non_daily.mjs --dry-run --category "By Decade"
+```
+
+## Manual On-Demand Scraping Workflow (Owner Only) 🚀
+
+This repository includes a dedicated manual GitHub Actions workflow (`.github/workflows/manual_scrape.yml`) that allows the repository owner to trigger a full or filtered update of all lists that are **not** scraped daily.
+
+### Security & Access Control 🔒
+- **Owner-Gated**: Execution is strictly restricted to the repository owner (`${{ github.repository_owner }}`).
+- If any other user or fork attempts to run the action, the workflow immediately halts and exits with an unauthorized error.
+
+### How to Trigger the Manual Update:
+1. Go to the **Actions** tab in this GitHub repository.
+2. Under **Workflows** in the left sidebar, click on **Manual Scrape Non-Daily Lists**.
+3. Click the **Run workflow** dropdown on the right.
+4. (Optional) Customize the execution parameters:
+   - **Category**: Select a specific category (e.g. `Famous Community Lists`, `Core Lists`, `By Genre & Style`, `By Country & Region`, etc.) or leave as `All`.
+   - **Optional Filter**: Type a list name, keyword, or JSON filename to only scrape matching lists (or leave blank to scrape everything in the selected category).
+5. Click **Run workflow**.
+
+Upon completion:
+- All target JSON files in `public/` are refreshed.
+- `src/scraper/last_scraped.json` timestamps are updated.
+- `lists_directory.md` is automatically regenerated.
+- GitHub Pages is redeployed.
+- A summary embed is dispatched to your configured Discord Webhook.
+
+

@@ -1,0 +1,125 @@
+name: Manual Scrape Non-Daily Lists
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Category to scrape'
+        required: true
+        default: 'All'
+        type: choice
+        options:
+          - 'All'
+          - 'Famous Community Lists'
+          - 'Core Lists'
+          - 'Diverse Voices'
+          - 'By Decade'
+          - 'By Genre & Style'
+          - 'By Country & Region'
+          - 'Most Fans Lists'
+          - 'Underseen Lists'
+          - 'Miscellaneous'
+          - 'Year in Review'
+          - 'Top Films Report'
+          - 'Most Anticipated Leaderboard'
+          - 'Archived Lists'
+      filter:
+        description: 'Optional filter by list title, JSON filename, or slug (leave blank for all)'
+        required: false
+        default: ''
+        type: string
+
+jobs:
+  scrape:
+    name: Scrape Non-Daily Lists
+    runs-on: ubuntu-latest
+    if: github.actor == github.repository_owner
+    timeout-minutes: 360
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Verify Owner Authorization
+        run: |
+          echo "Triggered by actor: ${{ github.actor }}"
+          echo "Repository owner:   ${{ github.repository_owner }}"
+          if [ "${{ github.actor }}" != "${{ github.repository_owner }}" ]; then
+            echo "::error::Unauthorized: Only the repository owner (${{ github.repository_owner }}) can trigger this manual scrape."
+            exit 1
+          fi
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          cd src/scraper
+          npm install
+
+      - name: Execute Non-Daily Scraper
+        run: |
+          cd src/scraper
+          node scrape_non_daily.mjs --category "${{ inputs.category }}" --filter "${{ inputs.filter }}"
+          cp ../index.html ../../index.html 2>/dev/null || true
+          cp ../../src/index.html ../../index.html 2>/dev/null || true
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f public/*.json
+          git add -f index.html
+          git add src/scraper/last_scraped.json
+          git add lists_directory.md
+          git commit -m "Manual scrape: update non-daily lists (${{ inputs.category }})" || echo "No changes to commit"
+          git pull --rebase origin master
+          git push origin master
+
+      - name: Notify Discord on completion
+        if: always() && env.DISCORD_WEBHOOK_URL != ''
+        run: |
+          STATUS="${{ job.status }}"
+          if [ "$STATUS" = "success" ]; then
+            COLOR=65280
+            TITLE="✅ Manual Scrape Completed"
+            DESC="Manual scrape finished successfully for category: **${{ inputs.category }}** (Filter: '${{ inputs.filter }}')."
+          else
+            COLOR=16711680
+            TITLE="❌ Manual Scrape Failed"
+            DESC="Manual scrape encountered an error during execution. Check [Actions Log](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})."
+          fi
+          curl -H "Content-Type: application/json" \
+            -d "{\"username\":\"Letterboxd Radarr Tracker\", \"avatar_url\":\"https://a.ltrbxd.com/logos/letterboxd-mac-icon.png\", \"embeds\": [{\"title\":\"$TITLE\", \"description\":\"$DESC\", \"color\":$COLOR}]}" \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}"
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+  deploy:
+    needs: scrape
+    if: github.actor == github.repository_owner
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
