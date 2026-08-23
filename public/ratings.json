@@ -1951,5 +1951,26 @@
     "rating": 4.5,
     "id": 37165,
     "imdb_id": "tt0120382"
+  },
+  {
+    "title": "Cocorico",
+    "clean_title": "/film/cocorico/",
+    "rating": 4,
+    "id": 973912,
+    "imdb_id": "tt19381382"
+  },
+  {
+    "title": "The Apprentice",
+    "clean_title": "/film/the-apprentice-2024/",
+    "rating": 4.5,
+    "id": 1182047,
+    "imdb_id": "tt8368368"
+  },
+  {
+    "title": "Minions & Monsters",
+    "clean_title": "/film/minions-monsters-2026/",
+    "rating": 2,
+    "id": 1315772,
+    "imdb_id": "tt32890033"
   }
 ]
