@@ -152,6 +152,36 @@ The following lists are currently tracked and updated automatically.
 - **Top 100 Fastest Films to One Million Watched** (`top-100-fastest-films-to-one-million-watched.json`)
   - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/top-100-fastest-films-to-one-million-watched.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/top-100-fastest-films-to-one-million-watched.json)
 
+### Famous Community & Custom Lists 🌟
+
+- **All Time Worldwide Box Office (The Numbers Top 100)** (`the-numbers-all-time-worldwide-box-office.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/the-numbers-all-time-worldwide-box-office.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/the-numbers-all-time-worldwide-box-office.json)
+- **Movies Everyone Should Watch at Least Once** (`movies-everyone-should-watch-at-least-once.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/movies-everyone-should-watch-at-least-once.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/movies-everyone-should-watch-at-least-once.json)
+- **1001 Movies You Must See Before You Die** (`1001-movies-you-must-see-before-you-die.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/1001-movies-you-must-see-before-you-die.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/1001-movies-you-must-see-before-you-die.json)
+- **for when you want to feel something** (`for-when-you-want-to-feel-something.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/for-when-you-want-to-feel-something.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/for-when-you-want-to-feel-something.json)
+- **You’re not the same person once the film has finished** (`youre-not-the-same-person-once-the-film-has.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/youre-not-the-same-person-once-the-film-has.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/youre-not-the-same-person-once-the-film-has.json)
+- **classic movies for beginners.** (`classic-movies-for-beginners.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/classic-movies-for-beginners.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/classic-movies-for-beginners.json)
+- **Psychosexual dramas, nihilistic fever dreams & surrealism with a touch of humour** (`psychosexual-dramas-nihilistic-fever-dreams.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/psychosexual-dramas-nihilistic-fever-dreams.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/psychosexual-dramas-nihilistic-fever-dreams.json)
+- **Comfort Movies** (`comfort-movies.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/comfort-movies.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/comfort-movies.json)
+- **what is reality?** (`what-is-reality.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/what-is-reality.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/what-is-reality.json)
+- **Anxiety-Inducing Cinema** (`anxiety-inducing-cinema.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/anxiety-inducing-cinema.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/anxiety-inducing-cinema.json)
+- **Definitely there was love, oh but the circumstances** (`definitely-there-was-love-oh-but-the-circumstances.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/definitely-there-was-love-oh-but-the-circumstances.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/definitely-there-was-love-oh-but-the-circumstances.json)
+- **The Life of the Mind** (`the-life-of-the-mind.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/the-life-of-the-mind.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/the-life-of-the-mind.json)
+- **Sigma movies** (`sigma-movies.json`)
+  - [Raw JSON](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/refs/heads/master/public/sigma-movies.json) | [Pages JSON](https://Sternpaul.github.io/letterboxd-lists/public/sigma-movies.json)
+
+
 ## Using with Radarr 🎬
 
 To use these lists in Radarr:
@@ -216,14 +246,24 @@ node fetch_list.mjs official/list/top-250-films-of-the-2020s/ ../../public/top-2
 ```bash
 node fetch_list.mjs official/list/top-100-french-films/ ../../public/top-100-french-films-top50.json 50
 ```
+- To scrape a community/custom list:
+```bash
+node fetch_list.mjs ellefnning/list/for-when-you-want-to-feel-something/ ../../public/for-when-you-want-to-feel-something.json
+```
 
-### 3. Update the Lists Directory Table
+### 3. Scrape Worldwide Box Office Chart (The Numbers)
+```bash
+node fetch_the_numbers.mjs
+```
+This scrapes the Top 100 All-Time Worldwide Grossing Films from [The Numbers](https://www.the-numbers.com/box-office-records/worldwide/all-movies/cumulative/all-time) and resolves TMDb and IMDb IDs into `public/the-numbers-all-time-worldwide-box-office.json`.
+
+### 4. Update the Lists Directory Table
 ```bash
 node update_directory.mjs
 ```
 This regenerates `lists_directory.md` with updated counts, sync statuses, and last scrape dates.
 
-### 4. Adding a New List to Daily Automation
+### 5. Adding a New List to Daily Automation
 To schedule a list for automatic daily updates:
 1. Open `.github/workflows/update_lists.yml`.
 2. Add a new `node fetch_list.mjs ...` line under the **Fetch and filter lists** step.

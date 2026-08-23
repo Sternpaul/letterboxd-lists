@@ -1,0 +1,346 @@
+[
+  {
+    "title": "American Psycho",
+    "release_year": "2000",
+    "clean_title": "/film/american-psycho/",
+    "adult": false,
+    "id": 1359,
+    "imdb_id": "tt0144084"
+  },
+  {
+    "title": "Fight Club",
+    "release_year": "1999",
+    "clean_title": "/film/fight-club/",
+    "adult": false,
+    "id": 550,
+    "imdb_id": "tt0137523"
+  },
+  {
+    "title": "Taxi Driver",
+    "release_year": "1976",
+    "clean_title": "/film/taxi-driver/",
+    "adult": false,
+    "id": 103,
+    "imdb_id": "tt0075314"
+  },
+  {
+    "title": "Joker",
+    "release_year": "2019",
+    "clean_title": "/film/joker-2019/",
+    "adult": false,
+    "id": 475557,
+    "imdb_id": "tt7286456"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "release_year": "2017",
+    "clean_title": "/film/blade-runner-2049/",
+    "adult": false,
+    "id": 335984,
+    "imdb_id": "tt1856101"
+  },
+  {
+    "title": "Drive",
+    "release_year": "2011",
+    "clean_title": "/film/drive-2011/",
+    "adult": false,
+    "id": 64690,
+    "imdb_id": "tt0780504"
+  },
+  {
+    "title": "No Country for Old Men",
+    "release_year": "2007",
+    "clean_title": "/film/no-country-for-old-men/",
+    "adult": false,
+    "id": 6977,
+    "imdb_id": "tt0477348"
+  },
+  {
+    "title": "Nightcrawler",
+    "release_year": "2014",
+    "clean_title": "/film/nightcrawler/",
+    "adult": false,
+    "id": 242582,
+    "imdb_id": "tt2872718"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "release_year": "2013",
+    "clean_title": "/film/the-wolf-of-wall-street/",
+    "adult": false,
+    "id": 106646,
+    "imdb_id": "tt0993846"
+  },
+  {
+    "title": "Prisoners",
+    "release_year": "2013",
+    "clean_title": "/film/prisoners/",
+    "adult": false,
+    "id": 146233,
+    "imdb_id": "tt1392214"
+  },
+  {
+    "title": "The Godfather",
+    "release_year": "1972",
+    "clean_title": "/film/the-godfather/",
+    "adult": false,
+    "id": 238,
+    "imdb_id": "tt0068646"
+  },
+  {
+    "title": "The Batman",
+    "release_year": "2022",
+    "clean_title": "/film/the-batman/",
+    "adult": false,
+    "id": 414906,
+    "imdb_id": "tt1877830"
+  },
+  {
+    "title": "Whiplash",
+    "release_year": "2014",
+    "clean_title": "/film/whiplash-2014/",
+    "adult": false,
+    "id": 244786,
+    "imdb_id": "tt2582802"
+  },
+  {
+    "title": "Scarface",
+    "release_year": "1983",
+    "clean_title": "/film/scarface-1983/",
+    "adult": false,
+    "id": 111,
+    "imdb_id": "tt0086250"
+  },
+  {
+    "title": "The Social Network",
+    "release_year": "2010",
+    "clean_title": "/film/the-social-network/",
+    "adult": false,
+    "id": 37799,
+    "imdb_id": "tt1285016"
+  },
+  {
+    "title": "Good Time",
+    "release_year": "2017",
+    "clean_title": "/film/good-time/",
+    "adult": false,
+    "id": 429200,
+    "imdb_id": "tt4846232"
+  },
+  {
+    "title": "GoodFellas",
+    "release_year": "1990",
+    "clean_title": "/film/goodfellas/",
+    "adult": false,
+    "id": 769,
+    "imdb_id": "tt0099685"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": "2008",
+    "clean_title": "/film/the-dark-knight/",
+    "adult": false,
+    "id": 155,
+    "imdb_id": "tt0468569"
+  },
+  {
+    "title": "Primal Fear",
+    "release_year": "1996",
+    "clean_title": "/film/primal-fear/",
+    "adult": false,
+    "id": 1592,
+    "imdb_id": "tt0117381"
+  },
+  {
+    "title": "Nobody",
+    "release_year": "2021",
+    "clean_title": "/film/nobody-2021/",
+    "adult": false,
+    "id": 615457,
+    "imdb_id": "tt7888964"
+  },
+  {
+    "title": "Se7en",
+    "release_year": "1995",
+    "clean_title": "/film/se7en/",
+    "adult": false,
+    "id": 807,
+    "imdb_id": "tt0114369"
+  },
+  {
+    "title": "Falling Down",
+    "release_year": "1993",
+    "clean_title": "/film/falling-down/",
+    "adult": false,
+    "id": 37094,
+    "imdb_id": "tt0106856"
+  },
+  {
+    "title": "Batman Begins",
+    "release_year": "2005",
+    "clean_title": "/film/batman-begins/",
+    "adult": false,
+    "id": 272,
+    "imdb_id": "tt0372784"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "release_year": "2012",
+    "clean_title": "/film/the-dark-knight-rises/",
+    "adult": false,
+    "id": 49026,
+    "imdb_id": "tt1345836"
+  },
+  {
+    "title": "Rango",
+    "release_year": "2011",
+    "clean_title": "/film/rango/",
+    "adult": false,
+    "id": 44896,
+    "imdb_id": "tt1192628"
+  },
+  {
+    "title": "Casino",
+    "release_year": "1995",
+    "clean_title": "/film/casino/",
+    "adult": false,
+    "id": 524,
+    "imdb_id": "tt0112641"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "Memento",
+    "release_year": "2000",
+    "clean_title": "/film/memento/",
+    "adult": false,
+    "id": 77,
+    "imdb_id": "tt0209144"
+  },
+  {
+    "title": "The King of Comedy",
+    "release_year": "1982",
+    "clean_title": "/film/the-king-of-comedy/",
+    "adult": false,
+    "id": 262,
+    "imdb_id": "tt0085794"
+  },
+  {
+    "title": "A Bronx Tale",
+    "release_year": "1993",
+    "clean_title": "/film/a-bronx-tale/",
+    "adult": false,
+    "id": 1607,
+    "imdb_id": "tt0106489"
+  },
+  {
+    "title": "Django Unchained",
+    "release_year": "2012",
+    "clean_title": "/film/django-unchained/",
+    "adult": false,
+    "id": 68718,
+    "imdb_id": "tt1853728"
+  },
+  {
+    "title": "Psycho",
+    "release_year": "1960",
+    "clean_title": "/film/psycho/",
+    "adult": false,
+    "id": 539,
+    "imdb_id": "tt0054215"
+  },
+  {
+    "title": "There Will Be Blood",
+    "release_year": "2007",
+    "clean_title": "/film/there-will-be-blood/",
+    "adult": false,
+    "id": 7345,
+    "imdb_id": "tt0469494"
+  },
+  {
+    "title": "American History X",
+    "release_year": "1998",
+    "clean_title": "/film/american-history-x/",
+    "adult": false,
+    "id": 73,
+    "imdb_id": "tt0120586"
+  },
+  {
+    "title": "Spider-Man 3",
+    "release_year": "2007",
+    "clean_title": "/film/spider-man-3/",
+    "adult": false,
+    "id": 559,
+    "imdb_id": "tt0413300"
+  },
+  {
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "release_year": "2005",
+    "clean_title": "/film/star-wars-episode-iii-revenge-of-the-sith/",
+    "adult": false,
+    "id": 1895,
+    "imdb_id": "tt0121766"
+  },
+  {
+    "title": "The House That Jack Built",
+    "release_year": "2018",
+    "clean_title": "/film/the-house-that-jack-built-2018/",
+    "adult": false,
+    "id": 398173,
+    "imdb_id": "tt4003440"
+  },
+  {
+    "title": "La Haine",
+    "release_year": "1995",
+    "clean_title": "/film/la-haine/",
+    "adult": false,
+    "id": 406,
+    "imdb_id": "tt0113247"
+  },
+  {
+    "title": "The Shining",
+    "release_year": "1980",
+    "clean_title": "/film/the-shining/",
+    "adult": false,
+    "id": 694,
+    "imdb_id": "tt0081505"
+  },
+  {
+    "title": "Donnie Darko",
+    "release_year": "2001",
+    "clean_title": "/film/donnie-darko/",
+    "adult": false,
+    "id": 141,
+    "imdb_id": "tt0246578"
+  },
+  {
+    "title": "Morbius",
+    "release_year": "2022",
+    "clean_title": "/film/morbius/",
+    "adult": false,
+    "id": 526896,
+    "imdb_id": "tt5108870"
+  },
+  {
+    "title": "Saltburn",
+    "release_year": "2023",
+    "clean_title": "/film/saltburn/",
+    "adult": false,
+    "id": 930564,
+    "imdb_id": "tt17351924"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "release_year": "1975",
+    "clean_title": "/film/one-flew-over-the-cuckoos-nest/",
+    "adult": false,
+    "id": 510,
+    "imdb_id": "tt0073486"
+  }
+]
