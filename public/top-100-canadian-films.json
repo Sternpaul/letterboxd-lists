@@ -88,14 +88,6 @@
     "imdb_id": "tt0109759"
   },
   {
-    "title": "C.R.A.Z.Y.",
-    "release_year": "2005",
-    "clean_title": "/film/crazy-2005/",
-    "adult": false,
-    "id": 11421,
-    "imdb_id": "tt0401085"
-  },
-  {
     "title": "Lilies",
     "release_year": "1996",
     "clean_title": "/film/lilies/",
@@ -112,6 +104,14 @@
     "imdb_id": "tt32252801"
   },
   {
+    "title": "C.R.A.Z.Y.",
+    "release_year": "2005",
+    "clean_title": "/film/crazy-2005/",
+    "adult": false,
+    "id": 11421,
+    "imdb_id": "tt0401085"
+  },
+  {
     "title": "Red Rooms",
     "release_year": "2023",
     "clean_title": "/film/red-rooms/",
@@ -120,12 +120,12 @@
     "imdb_id": "tt22207786"
   },
   {
-    "title": "Brand Upon the Brain!",
-    "release_year": "2006",
-    "clean_title": "/film/brand-upon-the-brain/",
+    "title": "Humanist Vampire Seeking Consenting Suicidal Person",
+    "release_year": "2023",
+    "clean_title": "/film/humanist-vampire-seeking-consenting-suicidal-person/",
     "adult": false,
-    "id": 27359,
-    "imdb_id": "tt0443455"
+    "id": 988402,
+    "imdb_id": "tt24216998"
   },
   {
     "title": "Falcon Lake",
@@ -136,20 +136,12 @@
     "imdb_id": "tt11448830"
   },
   {
-    "title": "Orders",
-    "release_year": "1974",
-    "clean_title": "/film/orders/",
+    "title": "Brand Upon the Brain!",
+    "release_year": "2006",
+    "clean_title": "/film/brand-upon-the-brain/",
     "adult": false,
-    "id": 69765,
-    "imdb_id": "tt0071949"
-  },
-  {
-    "title": "Humanist Vampire Seeking Consenting Suicidal Person",
-    "release_year": "2023",
-    "clean_title": "/film/humanist-vampire-seeking-consenting-suicidal-person/",
-    "adult": false,
-    "id": 988402,
-    "imdb_id": "tt24216998"
+    "id": 27359,
+    "imdb_id": "tt0443455"
   },
   {
     "title": "Videodrome",
@@ -168,12 +160,12 @@
     "imdb_id": "tt0120255"
   },
   {
-    "title": "Good Riddance",
-    "release_year": "1980",
-    "clean_title": "/film/good-riddance/",
+    "title": "I Killed My Mother",
+    "release_year": "2009",
+    "clean_title": "/film/i-killed-my-mother/",
     "adult": false,
-    "id": 100984,
-    "imdb_id": "tt0078894"
+    "id": 26280,
+    "imdb_id": "tt1424797"
   },
   {
     "title": "Dead Ringers",
@@ -184,28 +176,20 @@
     "imdb_id": "tt0094964"
   },
   {
-    "title": "I Killed My Mother",
-    "release_year": "2009",
-    "clean_title": "/film/i-killed-my-mother/",
-    "adult": false,
-    "id": 26280,
-    "imdb_id": "tt1424797"
-  },
-  {
-    "title": "Sympathy for the Devil",
-    "release_year": "2019",
-    "clean_title": "/film/sympathy-for-the-devil-2019/",
-    "adult": false,
-    "id": 636835,
-    "imdb_id": "tt7710486"
-  },
-  {
     "title": "Black Christmas",
     "release_year": "1974",
     "clean_title": "/film/black-christmas/",
     "adult": false,
     "id": 16938,
     "imdb_id": "tt0071222"
+  },
+  {
+    "title": "Good Riddance",
+    "release_year": "1980",
+    "clean_title": "/film/good-riddance/",
+    "adult": false,
+    "id": 100984,
+    "imdb_id": "tt0078894"
   },
   {
     "title": "Universal Language",
@@ -216,36 +200,12 @@
     "imdb_id": "tt31691389"
   },
   {
-    "title": "Scarborough",
-    "release_year": "2021",
-    "clean_title": "/film/scarborough-2021/",
+    "title": "Orders",
+    "release_year": "1974",
+    "clean_title": "/film/orders/",
     "adult": false,
-    "id": 855136,
-    "imdb_id": "tt12890988"
-  },
-  {
-    "title": "Richelieu",
-    "release_year": "2023",
-    "clean_title": "/film/richelieu-2023/",
-    "adult": false,
-    "id": 958734,
-    "imdb_id": "tt11706872"
-  },
-  {
-    "title": "The Body Remembers When the World Broke Open",
-    "release_year": "2019",
-    "clean_title": "/film/the-body-remembers-when-the-world-broke-open/",
-    "adult": false,
-    "id": 575793,
-    "imdb_id": "tt8230872"
-  },
-  {
-    "title": "Crime Wave",
-    "release_year": "1985",
-    "clean_title": "/film/crime-wave-1985/",
-    "adult": false,
-    "id": 27294,
-    "imdb_id": "tt0088963"
+    "id": 69765,
+    "imdb_id": "tt0071949"
   },
   {
     "title": "Thirty Two Short Films About Glenn Gould",
@@ -256,6 +216,30 @@
     "imdb_id": "tt0108328"
   },
   {
+    "title": "The Body Remembers When the World Broke Open",
+    "release_year": "2019",
+    "clean_title": "/film/the-body-remembers-when-the-world-broke-open/",
+    "adult": false,
+    "id": 575793,
+    "imdb_id": "tt8230872"
+  },
+  {
+    "title": "Sympathy for the Devil",
+    "release_year": "2019",
+    "clean_title": "/film/sympathy-for-the-devil-2019/",
+    "adult": false,
+    "id": 636835,
+    "imdb_id": "tt7710486"
+  },
+  {
+    "title": "Richelieu",
+    "release_year": "2023",
+    "clean_title": "/film/richelieu-2023/",
+    "adult": false,
+    "id": 958734,
+    "imdb_id": "tt11706872"
+  },
+  {
     "title": "The Silent Partner",
     "release_year": "1978",
     "clean_title": "/film/the-silent-partner/",
@@ -264,20 +248,20 @@
     "imdb_id": "tt0078269"
   },
   {
+    "title": "Crime Wave",
+    "release_year": "1985",
+    "clean_title": "/film/crime-wave-1985/",
+    "adult": false,
+    "id": 27294,
+    "imdb_id": "tt0088963"
+  },
+  {
     "title": "Clearcut",
     "release_year": "1991",
     "clean_title": "/film/clearcut/",
     "adult": false,
     "id": 116494,
     "imdb_id": "tt0101592"
-  },
-  {
-    "title": "The Saddest Music in the World",
-    "release_year": "2003",
-    "clean_title": "/film/the-saddest-music-in-the-world/",
-    "adult": false,
-    "id": 37209,
-    "imdb_id": "tt0366996"
   },
   {
     "title": "Monsieur Lazhar",
@@ -296,28 +280,12 @@
     "imdb_id": "tt21867434"
   },
   {
-    "title": "Naked Lunch",
-    "release_year": "1991",
-    "clean_title": "/film/naked-lunch/",
+    "title": "The Saddest Music in the World",
+    "release_year": "2003",
+    "clean_title": "/film/the-saddest-music-in-the-world/",
     "adult": false,
-    "id": 2742,
-    "imdb_id": "tt0102511"
-  },
-  {
-    "title": "Kuessipan",
-    "release_year": "2019",
-    "clean_title": "/film/kuessipan/",
-    "adult": false,
-    "id": 589064,
-    "imdb_id": "tt4292432"
-  },
-  {
-    "title": "Café de Flore",
-    "release_year": "2011",
-    "clean_title": "/film/cafe-de-flore/",
-    "adult": false,
-    "id": 85033,
-    "imdb_id": "tt1550312"
+    "id": 37209,
+    "imdb_id": "tt0366996"
   },
   {
     "title": "Away from Her",
@@ -328,20 +296,28 @@
     "imdb_id": "tt0491747"
   },
   {
-    "title": "The Dog Who Stopped the War",
-    "release_year": "1984",
-    "clean_title": "/film/the-dog-who-stopped-the-war/",
+    "title": "Kuessipan",
+    "release_year": "2019",
+    "clean_title": "/film/kuessipan/",
     "adult": false,
-    "id": 37168,
-    "imdb_id": "tt0087373"
+    "id": 589064,
+    "imdb_id": "tt4292432"
   },
   {
-    "title": "The Forbidden Room",
-    "release_year": "2015",
-    "clean_title": "/film/the-forbidden-room-2015/",
+    "title": "Naked Lunch",
+    "release_year": "1991",
+    "clean_title": "/film/naked-lunch/",
     "adult": false,
-    "id": 315855,
-    "imdb_id": "tt3066630"
+    "id": 2742,
+    "imdb_id": "tt0102511"
+  },
+  {
+    "title": "Café de Flore",
+    "release_year": "2011",
+    "clean_title": "/film/cafe-de-flore/",
+    "adult": false,
+    "id": 85033,
+    "imdb_id": "tt1550312"
   },
   {
     "title": "Maudie",
@@ -360,6 +336,38 @@
     "imdb_id": "tt2334896"
   },
   {
+    "title": "The Grey Fox",
+    "release_year": "1982",
+    "clean_title": "/film/the-grey-fox/",
+    "adult": false,
+    "id": 42136,
+    "imdb_id": "tt0085622"
+  },
+  {
+    "title": "Scarborough",
+    "release_year": "2021",
+    "clean_title": "/film/scarborough-2021/",
+    "adult": false,
+    "id": 855136,
+    "imdb_id": "tt12890988"
+  },
+  {
+    "title": "The Forbidden Room",
+    "release_year": "2015",
+    "clean_title": "/film/the-forbidden-room-2015/",
+    "adult": false,
+    "id": 315855,
+    "imdb_id": "tt3066630"
+  },
+  {
+    "title": "Careful",
+    "release_year": "1992",
+    "clean_title": "/film/careful/",
+    "adult": false,
+    "id": 55613,
+    "imdb_id": "tt0103926"
+  },
+  {
     "title": "Atanarjuat: The Fast Runner",
     "release_year": "2001",
     "clean_title": "/film/atanarjuat-the-fast-runner/",
@@ -376,20 +384,12 @@
     "imdb_id": "tt7969836"
   },
   {
-    "title": "Careful",
-    "release_year": "1992",
-    "clean_title": "/film/careful/",
+    "title": "Polytechnique",
+    "release_year": "2009",
+    "clean_title": "/film/polytechnique/",
     "adult": false,
-    "id": 55613,
-    "imdb_id": "tt0103926"
-  },
-  {
-    "title": "The Grey Fox",
-    "release_year": "1982",
-    "clean_title": "/film/the-grey-fox/",
-    "adult": false,
-    "id": 42136,
-    "imdb_id": "tt0085622"
+    "id": 22302,
+    "imdb_id": "tt1194238"
   },
   {
     "title": "Mon oncle Antoine",
@@ -400,36 +400,20 @@
     "imdb_id": "tt0067439"
   },
   {
-    "title": "Cowards Bend the Knee",
-    "release_year": "2003",
-    "clean_title": "/film/cowards-bend-the-knee/",
-    "adult": false,
-    "id": 17595,
-    "imdb_id": "tt0346800"
-  },
-  {
-    "title": "Polytechnique",
-    "release_year": "2009",
-    "clean_title": "/film/polytechnique/",
-    "adult": false,
-    "id": 22302,
-    "imdb_id": "tt1194238"
-  },
-  {
-    "title": "Hard Core Logo",
-    "release_year": "1996",
-    "clean_title": "/film/hard-core-logo/",
-    "adult": false,
-    "id": 21589,
-    "imdb_id": "tt0116488"
-  },
-  {
     "title": "Léolo",
     "release_year": "1992",
     "clean_title": "/film/leolo/",
     "adult": false,
     "id": 11139,
     "imdb_id": "tt0104782"
+  },
+  {
+    "title": "Cowards Bend the Knee",
+    "release_year": "2003",
+    "clean_title": "/film/cowards-bend-the-knee/",
+    "adult": false,
+    "id": 17595,
+    "imdb_id": "tt0346800"
   },
   {
     "title": "The Adjuster",
@@ -440,20 +424,20 @@
     "imdb_id": "tt0101273"
   },
   {
-    "title": "Calendar",
-    "release_year": "1993",
-    "clean_title": "/film/calendar/",
+    "title": "The Barbarian Invasions",
+    "release_year": "2003",
+    "clean_title": "/film/the-barbarian-invasions/",
     "adult": false,
-    "id": 83599,
-    "imdb_id": "tt0106504"
+    "id": 11042,
+    "imdb_id": "tt0338135"
   },
   {
-    "title": "Dream Life",
-    "release_year": "1972",
-    "clean_title": "/film/dream-life/",
+    "title": "Hard Core Logo",
+    "release_year": "1996",
+    "clean_title": "/film/hard-core-logo/",
     "adult": false,
-    "id": 281052,
-    "imdb_id": "tt0217880"
+    "id": 21589,
+    "imdb_id": "tt0116488"
   },
   {
     "title": "Jesus of Montreal",
@@ -464,28 +448,12 @@
     "imdb_id": "tt0097635"
   },
   {
-    "title": "The Barbarian Invasions",
-    "release_year": "2003",
-    "clean_title": "/film/the-barbarian-invasions/",
+    "title": "The Dog Who Stopped the War",
+    "release_year": "1984",
+    "clean_title": "/film/the-dog-who-stopped-the-war/",
     "adult": false,
-    "id": 11042,
-    "imdb_id": "tt0338135"
-  },
-  {
-    "title": "Matthias & Maxime",
-    "release_year": "2019",
-    "clean_title": "/film/matthias-maxime/",
-    "adult": false,
-    "id": 519141,
-    "imdb_id": "tt8767908"
-  },
-  {
-    "title": "A Scream from Silence",
-    "release_year": "1979",
-    "clean_title": "/film/a-scream-from-silence/",
-    "adult": false,
-    "id": 191299,
-    "imdb_id": "tt0079581"
+    "id": 37168,
+    "imdb_id": "tt0087373"
   },
   {
     "title": "Ginger Snaps",
@@ -496,20 +464,12 @@
     "imdb_id": "tt0210070"
   },
   {
-    "title": "Speaking Parts",
-    "release_year": "1989",
-    "clean_title": "/film/speaking-parts/",
+    "title": "Matthias & Maxime",
+    "release_year": "2019",
+    "clean_title": "/film/matthias-maxime/",
     "adult": false,
-    "id": 85556,
-    "imdb_id": "tt0098368"
-  },
-  {
-    "title": "You're Sleeping, Nicole",
-    "release_year": "2014",
-    "clean_title": "/film/youre-sleeping-nicole/",
-    "adult": false,
-    "id": 270886,
-    "imdb_id": "tt3483194"
+    "id": 519141,
+    "imdb_id": "tt8767908"
   },
   {
     "title": "The Red Violin",
@@ -520,12 +480,20 @@
     "imdb_id": "tt0120802"
   },
   {
-    "title": "Crash",
-    "release_year": "1996",
-    "clean_title": "/film/crash/",
+    "title": "Dream Life",
+    "release_year": "1972",
+    "clean_title": "/film/dream-life/",
     "adult": false,
-    "id": 884,
-    "imdb_id": "tt0115964"
+    "id": 281052,
+    "imdb_id": "tt0217880"
+  },
+  {
+    "title": "You're Sleeping, Nicole",
+    "release_year": "2014",
+    "clean_title": "/film/youre-sleeping-nicole/",
+    "adult": false,
+    "id": 270886,
+    "imdb_id": "tt3483194"
   },
   {
     "title": "War Witch",
@@ -534,6 +502,46 @@
     "adult": false,
     "id": 98205,
     "imdb_id": "tt1820488"
+  },
+  {
+    "title": "Calendar",
+    "release_year": "1993",
+    "clean_title": "/film/calendar/",
+    "adult": false,
+    "id": 83599,
+    "imdb_id": "tt0106504"
+  },
+  {
+    "title": "Speaking Parts",
+    "release_year": "1989",
+    "clean_title": "/film/speaking-parts/",
+    "adult": false,
+    "id": 85556,
+    "imdb_id": "tt0098368"
+  },
+  {
+    "title": "A Scream from Silence",
+    "release_year": "1979",
+    "clean_title": "/film/a-scream-from-silence/",
+    "adult": false,
+    "id": 191299,
+    "imdb_id": "tt0079581"
+  },
+  {
+    "title": "Last Night",
+    "release_year": "1998",
+    "clean_title": "/film/last-night/",
+    "adult": false,
+    "id": 16129,
+    "imdb_id": "tt0156729"
+  },
+  {
+    "title": "Crash",
+    "release_year": "1996",
+    "clean_title": "/film/crash/",
+    "adult": false,
+    "id": 884,
+    "imdb_id": "tt0115964"
   },
   {
     "title": "Outrageous!",
@@ -552,28 +560,12 @@
     "imdb_id": "tt10758534"
   },
   {
-    "title": "Last Night",
-    "release_year": "1998",
-    "clean_title": "/film/last-night/",
-    "adult": false,
-    "id": 16129,
-    "imdb_id": "tt0156729"
-  },
-  {
     "title": "Beans",
     "release_year": "2020",
     "clean_title": "/film/beans-2020/",
     "adult": false,
     "id": 726220,
     "imdb_id": "tt11735544"
-  },
-  {
-    "title": "The Merry World of Leopold Z",
-    "release_year": "1965",
-    "clean_title": "/film/the-merry-world-of-leopold-z/",
-    "adult": false,
-    "id": 264218,
-    "imdb_id": "tt0059873"
   },
   {
     "title": "A Colony",
@@ -584,6 +576,14 @@
     "imdb_id": "tt8461958"
   },
   {
+    "title": "The Merry World of Leopold Z",
+    "release_year": "1965",
+    "clean_title": "/film/the-merry-world-of-leopold-z/",
+    "adult": false,
+    "id": 264218,
+    "imdb_id": "tt0059873"
+  },
+  {
     "title": "The Brood",
     "release_year": "1979",
     "clean_title": "/film/the-brood/",
@@ -592,12 +592,12 @@
     "imdb_id": "tt0078908"
   },
   {
-    "title": "The Cat in the Bag",
-    "release_year": "1964",
-    "clean_title": "/film/the-cat-in-the-bag/",
+    "title": "Closet Monster",
+    "release_year": "2015",
+    "clean_title": "/film/closet-monster/",
     "adult": false,
-    "id": 170532,
-    "imdb_id": "tt0057937"
+    "id": 353728,
+    "imdb_id": "tt3638396"
   },
   {
     "title": "Gina",
@@ -608,28 +608,12 @@
     "imdb_id": "tt0071552"
   },
   {
-    "title": "It's Only the End of the World",
-    "release_year": "2016",
-    "clean_title": "/film/its-only-the-end-of-the-world/",
-    "adult": false,
-    "id": 338189,
-    "imdb_id": "tt4645368"
-  },
-  {
     "title": "The Changeling",
     "release_year": "1980",
     "clean_title": "/film/the-changeling/",
     "adult": false,
     "id": 13550,
     "imdb_id": "tt0080516"
-  },
-  {
-    "title": "Closet Monster",
-    "release_year": "2015",
-    "clean_title": "/film/closet-monster/",
-    "adult": false,
-    "id": 353728,
-    "imdb_id": "tt3638396"
   },
   {
     "title": "I've Heard the Mermaids Singing",
@@ -648,6 +632,14 @@
     "imdb_id": "tt0073762"
   },
   {
+    "title": "Tom at the Farm",
+    "release_year": "2013",
+    "clean_title": "/film/tom-at-the-farm/",
+    "adult": false,
+    "id": 184352,
+    "imdb_id": "tt2427892"
+  },
+  {
     "title": "The True Nature of Bernadette",
     "release_year": "1972",
     "clean_title": "/film/the-true-nature-of-bernadette/",
@@ -656,12 +648,12 @@
     "imdb_id": "tt0069477"
   },
   {
-    "title": "Tom at the Farm",
-    "release_year": "2013",
-    "clean_title": "/film/tom-at-the-farm/",
+    "title": "Nobody Waved Goodbye",
+    "release_year": "1964",
+    "clean_title": "/film/nobody-waved-goodbye/",
     "adult": false,
-    "id": 184352,
-    "imdb_id": "tt2427892"
+    "id": 119206,
+    "imdb_id": "tt0059515"
   },
   {
     "title": "New Waterford Girl",
@@ -680,20 +672,20 @@
     "imdb_id": "tt1600524"
   },
   {
+    "title": "It's Only the End of the World",
+    "release_year": "2016",
+    "clean_title": "/film/its-only-the-end-of-the-world/",
+    "adult": false,
+    "id": 338189,
+    "imdb_id": "tt4645368"
+  },
+  {
     "title": "Next of Kin",
     "release_year": "1984",
     "clean_title": "/film/next-of-kin-1984/",
     "adult": false,
     "id": 108241,
     "imdb_id": "tt0087789"
-  },
-  {
-    "title": "A Christmas Story",
-    "release_year": "1983",
-    "clean_title": "/film/a-christmas-story-1983/",
-    "adult": false,
-    "id": 850,
-    "imdb_id": "tt0085334"
   },
   {
     "title": "Winter Kept Us Warm",
@@ -720,22 +712,6 @@
     "imdb_id": "tt2316411"
   },
   {
-    "title": "Between Sweet and Salt Water",
-    "release_year": "1967",
-    "clean_title": "/film/between-sweet-and-salt-water/",
-    "adult": false,
-    "id": 259530,
-    "imdb_id": "tt0061627"
-  },
-  {
-    "title": "Nobody Waved Goodbye",
-    "release_year": "1964",
-    "clean_title": "/film/nobody-waved-goodbye/",
-    "adult": false,
-    "id": 119206,
-    "imdb_id": "tt0059515"
-  },
-  {
     "title": "Highway 61",
     "release_year": "1991",
     "clean_title": "/film/highway-61/",
@@ -744,12 +720,36 @@
     "imdb_id": "tt0102035"
   },
   {
+    "title": "A Christmas Story",
+    "release_year": "1983",
+    "clean_title": "/film/a-christmas-story-1983/",
+    "adult": false,
+    "id": 850,
+    "imdb_id": "tt0085334"
+  },
+  {
     "title": "Take It All",
     "release_year": "1963",
     "clean_title": "/film/take-it-all/",
     "adult": false,
     "id": 101984,
     "imdb_id": "tt0057725"
+  },
+  {
+    "title": "The Cat in the Bag",
+    "release_year": "1964",
+    "clean_title": "/film/the-cat-in-the-bag/",
+    "adult": false,
+    "id": 170532,
+    "imdb_id": "tt0057937"
+  },
+  {
+    "title": "Between Sweet and Salt Water",
+    "release_year": "1967",
+    "clean_title": "/film/between-sweet-and-salt-water/",
+    "adult": false,
+    "id": 259530,
+    "imdb_id": "tt0061627"
   },
   {
     "title": "Kamouraska",
@@ -768,20 +768,20 @@
     "imdb_id": "tt0366532"
   },
   {
-    "title": "Family Viewing",
-    "release_year": "1987",
-    "clean_title": "/film/family-viewing/",
-    "adult": false,
-    "id": 26964,
-    "imdb_id": "tt0093006"
-  },
-  {
     "title": "Dead of Night",
     "release_year": "1974",
     "clean_title": "/film/dead-of-night-1974/",
     "adult": false,
     "id": 38996,
     "imdb_id": "tt0068457"
+  },
+  {
+    "title": "Family Viewing",
+    "release_year": "1987",
+    "clean_title": "/film/family-viewing/",
+    "adult": false,
+    "id": 26964,
+    "imdb_id": "tt0093006"
   },
   {
     "title": "The Little Girl Who Lives Down the Lane",

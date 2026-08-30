@@ -114286,5 +114286,21 @@
     "adult": false,
     "id": 490626,
     "imdb_id": "tt0334205"
+  },
+  "bethlehem-kudumba-unit": {
+    "title": "Bethlehem Kudumba Unit",
+    "release_year": "2026",
+    "clean_title": "/film/bethlehem-kudumba-unit/",
+    "adult": false,
+    "id": 1508168,
+    "imdb_id": "tt37535100"
+  },
+  "coyote-vs-acme": {
+    "title": "Coyote vs. Acme",
+    "release_year": "2026",
+    "clean_title": "/film/coyote-vs-acme/",
+    "adult": false,
+    "id": 1204680,
+    "imdb_id": "tt1756855"
   }
 }
