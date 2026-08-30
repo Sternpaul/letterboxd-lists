@@ -39,13 +39,26 @@ async function fetchListPaginated(page) {
         const $ = cheerio.load(data);
         const posters = [];
 
-        $('.posteritem > .react-component, [data-component-class*="LazyPoster"], .poster-list [data-poster-url*="film"], .poster-grid [data-poster-url*="film"]').each((_, el) => {
-            let finalSlug = $(el).find('[data-target-link]').attr('data-target-link');
-            if (!finalSlug && $(el).attr('data-target-link')) {
-                finalSlug = $(el).attr('data-target-link');
+        // Target the actual list container to prevent picking up 5 thumbnail posters from the "Related/Similar Lists" footer
+        const listContainer = $('ul.poster-list, .poster-grid, ul.js-list-entries');
+        const items = listContainer.length ? listContainer.find('li.posteritem, .poster-container') : $('.posteritem');
+
+        items.each((_, el) => {
+            let finalSlug = $(el).find('[data-target-link]').attr('data-target-link') ||
+                            $(el).attr('data-target-link') ||
+                            $(el).find('.film-poster').attr('data-target-link') ||
+                            $(el).find('[data-film-slug]').attr('data-film-slug');
+
+            if (!finalSlug) {
+                finalSlug = $(el).find('a[href^="/film/"]').attr('href');
             }
-            if (finalSlug) {
-                posters.push(finalSlug);
+
+            if (finalSlug && typeof finalSlug === 'string') {
+                const trimmed = finalSlug.trim();
+                // Strictly accept only valid film slugs (e.g. /film/knives-out-2019/) and ignore '/' or related list previews
+                if (trimmed.startsWith('/film/') && trimmed !== '/film/' && trimmed.length > 6) {
+                    posters.push(trimmed);
+                }
             }
         });
 
@@ -157,9 +170,13 @@ async function main() {
     }
 
     // Build the radarrData array preserving original list order
-    // ZERO-DROP GUARANTEE: Every single slug from Letterboxd will have an entry in radarrData
+    // ZERO-DROP GUARANTEE: Every valid film slug from Letterboxd will have an entry in radarrData
     const radarrData = [];
     for (const slug of slugs) {
+        if (!slug || typeof slug !== 'string' || !slug.startsWith('/film/') || slug === '/film/') {
+            continue;
+        }
+
         const norm = normalizeSlug(slug);
         const movie = existingMap.get(norm) || movieCache[norm];
         if (movie && movie.title) {
@@ -178,8 +195,8 @@ async function main() {
                 payload.imdb_id = movie.imdb_id;
             }
             radarrData.push(payload);
-        } else {
-            // Fallback so no movie is ever omitted, even if Letterboxd network fails
+        } else if (norm && norm.length > 0) {
+            // Fallback so no real movie is ever omitted, even if Letterboxd network fails
             const fallbackTitle = norm
                 .split('-')
                 .map(w => w.charAt(0).toUpperCase() + w.slice(1))
