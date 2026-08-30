@@ -8,14 +8,6 @@
     "imdb_id": "tt28089784"
   },
   {
-    "title": "The Stories",
-    "release_year": "2025",
-    "clean_title": "/film/the-stories/",
-    "adult": false,
-    "id": 1329071,
-    "imdb_id": "tt37679242"
-  },
-  {
     "title": "All of a Sudden",
     "release_year": "2026",
     "clean_title": "/film/all-of-a-sudden-2026/",
@@ -24,20 +16,20 @@
     "imdb_id": "tt36834996"
   },
   {
-    "title": "A Place for Her",
+    "title": "The Stories",
     "release_year": "2025",
-    "clean_title": "/film/a-place-for-her/",
+    "clean_title": "/film/the-stories/",
     "adult": false,
-    "id": 1318417,
-    "imdb_id": "tt35455708"
+    "id": 1329071,
+    "imdb_id": "tt37679242"
   },
   {
-    "title": "Main Vaapas Aaunga",
+    "title": "Bethlehem Kudumba Unit",
     "release_year": "2026",
-    "clean_title": "/film/main-vaapas-aaunga/",
+    "clean_title": "/film/bethlehem-kudumba-unit/",
     "adult": false,
-    "id": 1431068,
-    "imdb_id": "tt37333137"
+    "id": 1508168,
+    "imdb_id": "tt37535100"
   },
   {
     "title": "Yura Was Here",
@@ -56,12 +48,28 @@
     "imdb_id": "tt41791573"
   },
   {
-    "title": "Fjord",
+    "title": "Sad Girlz",
     "release_year": "2026",
-    "clean_title": "/film/fjord-2026/",
+    "clean_title": "/film/sad-girlz/",
     "adult": false,
-    "id": 1401459,
-    "imdb_id": "tt35410859"
+    "id": 1536433,
+    "imdb_id": "tt39311354"
+  },
+  {
+    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
+    "release_year": "2026",
+    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
+    "adult": false,
+    "id": 1586876,
+    "imdb_id": "tt39026173"
+  },
+  {
+    "title": "Flies",
+    "release_year": "2026",
+    "clean_title": "/film/flies-2026/",
+    "adult": false,
+    "id": 1437703,
+    "imdb_id": "tt35854741"
   },
   {
     "title": "Bonolota Express",
@@ -104,60 +112,12 @@
     "imdb_id": "tt37537636"
   },
   {
-    "title": "Flies",
-    "release_year": "2026",
-    "clean_title": "/film/flies-2026/",
-    "adult": false,
-    "id": 1437703,
-    "imdb_id": "tt35854741"
-  },
-  {
-    "title": "Here the Whole Time",
-    "release_year": "2026",
-    "clean_title": "/film/here-the-whole-time/",
-    "adult": false,
-    "id": 1418582,
-    "imdb_id": "tt40001699"
-  },
-  {
-    "title": "Balan - The Boy",
-    "release_year": "2026",
-    "clean_title": "/film/balan-the-boy/",
-    "adult": false,
-    "id": 1410937,
-    "imdb_id": "tt35254624"
-  },
-  {
     "title": "Bouchra",
     "release_year": "2025",
     "clean_title": "/film/bouchra/",
     "adult": false,
     "id": 1517206,
     "imdb_id": "tt36543744"
-  },
-  {
-    "title": "The Beloved",
-    "release_year": "2026",
-    "clean_title": "/film/the-beloved-2026/",
-    "adult": false,
-    "id": 1074074,
-    "imdb_id": "tt33451014"
-  },
-  {
-    "title": "Effi o Blaenau",
-    "release_year": "2026",
-    "clean_title": "/film/effi-o-blaenau/",
-    "adult": false,
-    "id": 1643807,
-    "imdb_id": "tt40001182"
-  },
-  {
-    "title": "Vanilla",
-    "release_year": "2025",
-    "clean_title": "/film/vanilla-2025-1/",
-    "adult": false,
-    "id": 1327447,
-    "imdb_id": "tt29135677"
   },
   {
     "title": "This Is I",
@@ -168,12 +128,20 @@
     "imdb_id": "tt39196792"
   },
   {
-    "title": "Na Willa",
+    "title": "Effi o Blaenau",
     "release_year": "2026",
-    "clean_title": "/film/na-willa/",
+    "clean_title": "/film/effi-o-blaenau/",
     "adult": false,
-    "id": 1476928,
-    "imdb_id": "tt38607663"
+    "id": 1643807,
+    "imdb_id": "tt40001182"
+  },
+  {
+    "title": "Everytime",
+    "release_year": "2026",
+    "clean_title": "/film/everytime/",
+    "adult": false,
+    "id": 1655419,
+    "imdb_id": "tt41592057"
   },
   {
     "title": "Gohan",
@@ -184,12 +152,12 @@
     "imdb_id": "tt36958999"
   },
   {
-    "title": "Our Hero, Balthazar",
+    "title": "Vanilla",
     "release_year": "2025",
-    "clean_title": "/film/our-hero-balthazar/",
+    "clean_title": "/film/vanilla-2025-1/",
     "adult": false,
-    "id": 1465557,
-    "imdb_id": "tt36589928"
+    "id": 1327447,
+    "imdb_id": "tt29135677"
   },
   {
     "title": "Risa and the Wind Phone",
@@ -198,5 +166,37 @@
     "adult": false,
     "id": 1426451,
     "imdb_id": "tt38871399"
+  },
+  {
+    "title": "Another League",
+    "release_year": "2026",
+    "clean_title": "/film/another-league/",
+    "adult": false,
+    "id": 1444595,
+    "imdb_id": "tt36048393"
+  },
+  {
+    "title": "Straight Circle",
+    "release_year": "2025",
+    "clean_title": "/film/straight-circle/",
+    "adult": false,
+    "id": 1433601,
+    "imdb_id": "tt29630535"
+  },
+  {
+    "title": "All Wishes Come True!",
+    "release_year": "2026",
+    "clean_title": "/film/all-wishes-come-true/",
+    "adult": false,
+    "id": 1633056,
+    "imdb_id": "tt43515101"
+  },
+  {
+    "title": "Double Happiness",
+    "release_year": "2025",
+    "clean_title": "/film/double-happiness-2025/",
+    "adult": false,
+    "id": 1536559,
+    "imdb_id": "tt38067963"
   }
 ]

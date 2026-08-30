@@ -24,14 +24,6 @@
     "imdb_id": "tt0073887"
   },
   {
-    "title": "The Ballad of Sexual Dependency",
-    "release_year": "1985",
-    "clean_title": "/film/the-ballad-of-sexual-dependency/",
-    "adult": false,
-    "id": 310579,
-    "imdb_id": "tt4241938"
-  },
-  {
     "title": "Gaza Fights for Freedom",
     "release_year": "2019",
     "clean_title": "/film/gaza-fights-for-freedom/",
@@ -48,30 +40,6 @@
     "imdb_id": "tt0109285"
   },
   {
-    "title": "Near Death",
-    "release_year": "1989",
-    "clean_title": "/film/near-death-1989/",
-    "adult": false,
-    "id": 93540,
-    "imdb_id": "tt0097959"
-  },
-  {
-    "title": "Frontiers of Dreams and Fears",
-    "release_year": "2001",
-    "clean_title": "/film/frontiers-of-dreams-and-fears/",
-    "adult": false,
-    "id": 393412,
-    "imdb_id": "tt0477653"
-  },
-  {
-    "title": "The Second Night",
-    "release_year": "2016",
-    "clean_title": "/film/the-second-night-2016/",
-    "adult": false,
-    "id": 420049,
-    "imdb_id": "tt5501166"
-  },
-  {
     "title": "Belfast, Maine",
     "release_year": "1999",
     "clean_title": "/film/belfast-maine/",
@@ -80,20 +48,12 @@
     "imdb_id": "tt0211942"
   },
   {
-    "title": "Homeland: Iraq Year Zero",
-    "release_year": "2015",
-    "clean_title": "/film/homeland-iraq-year-zero/",
+    "title": "The Second Night",
+    "release_year": "2016",
+    "clean_title": "/film/the-second-night-2016/",
     "adult": false,
-    "id": 345139,
-    "imdb_id": "tt4413794"
-  },
-  {
-    "title": "Children of Shatila",
-    "release_year": "1998",
-    "clean_title": "/film/children-of-shatila/",
-    "adult": false,
-    "id": 329293,
-    "imdb_id": "tt0243174"
+    "id": 420049,
+    "imdb_id": "tt5501166"
   },
   {
     "title": "'Til Madness Do Us Part",
@@ -112,12 +72,12 @@
     "imdb_id": "tt0380275"
   },
   {
-    "title": "Kanehsatake, 270 Years of Resistance",
-    "release_year": "1993",
-    "clean_title": "/film/kanehsatake-270-years-of-resistance/",
+    "title": "Little Palestine: Diary of a Siege",
+    "release_year": "2021",
+    "clean_title": "/film/little-palestine-diary-of-a-siege/",
     "adult": false,
-    "id": 181887,
-    "imdb_id": "tt0107305"
+    "id": 810950,
+    "imdb_id": "tt14524436"
   },
   {
     "title": "Common Threads: Stories from the Quilt",
@@ -128,12 +88,12 @@
     "imdb_id": "tt0097099"
   },
   {
-    "title": "Little Palestine: Diary of a Siege",
-    "release_year": "2021",
-    "clean_title": "/film/little-palestine-diary-of-a-siege/",
+    "title": "Near Death",
+    "release_year": "1989",
+    "clean_title": "/film/near-death-1989/",
     "adult": false,
-    "id": 810950,
-    "imdb_id": "tt14524436"
+    "id": 93540,
+    "imdb_id": "tt0097959"
   },
   {
     "title": "Yintah",
@@ -144,12 +104,20 @@
     "imdb_id": "tt31841789"
   },
   {
-    "title": "Disintegration Loop 1.1",
-    "release_year": "2001",
-    "clean_title": "/film/disintegration-loop-11/",
+    "title": "Kanehsatake, 270 Years of Resistance",
+    "release_year": "1993",
+    "clean_title": "/film/kanehsatake-270-years-of-resistance/",
     "adult": false,
-    "id": 273451,
-    "imdb_id": "tt34152997"
+    "id": 181887,
+    "imdb_id": "tt0107305"
+  },
+  {
+    "title": "Children of Shatila",
+    "release_year": "1998",
+    "clean_title": "/film/children-of-shatila/",
+    "adult": false,
+    "id": 329293,
+    "imdb_id": "tt0243174"
   },
   {
     "title": "From Ground Zero",
@@ -160,36 +128,12 @@
     "imdb_id": "tt32606918"
   },
   {
-    "title": "In the Name of God",
-    "release_year": "1992",
-    "clean_title": "/film/in-the-name-of-god-1992/",
+    "title": "Disintegration Loop 1.1",
+    "release_year": "2001",
+    "clean_title": "/film/disintegration-loop-11/",
     "adult": false,
-    "id": 260669,
-    "imdb_id": "tt0105208"
-  },
-  {
-    "title": "Out-Takes from the Life of a Happy Man",
-    "release_year": "2012",
-    "clean_title": "/film/out-takes-from-the-life-of-a-happy-man/",
-    "adult": false,
-    "id": 190972,
-    "imdb_id": "tt2877528"
-  },
-  {
-    "title": "Metal and Melancholy",
-    "release_year": "1994",
-    "clean_title": "/film/metal-and-melancholy/",
-    "adult": false,
-    "id": 216095,
-    "imdb_id": "tt0107558"
-  },
-  {
-    "title": "Pictures of the Old World",
-    "release_year": "1972",
-    "clean_title": "/film/pictures-of-the-old-world/",
-    "adult": false,
-    "id": 124414,
-    "imdb_id": "tt0171587"
+    "id": 273451,
+    "imdb_id": "tt34152997"
   },
   {
     "title": "Alone in the Wilderness",
@@ -200,28 +144,28 @@
     "imdb_id": "tt0437806"
   },
   {
-    "title": "Dead Souls",
-    "release_year": "2018",
-    "clean_title": "/film/dead-souls-2018/",
-    "adult": false,
-    "id": 517772,
-    "imdb_id": "tt8296608"
-  },
-  {
-    "title": "Heima",
-    "release_year": "2007",
-    "clean_title": "/film/heima/",
-    "adult": false,
-    "id": 14793,
-    "imdb_id": "tt1094594"
-  },
-  {
     "title": "Nazi Concentration Camps",
     "release_year": "1945",
     "clean_title": "/film/nazi-concentration-camps/",
     "adult": false,
     "id": 207659,
     "imdb_id": "tt0247568"
+  },
+  {
+    "title": "Out-Takes from the Life of a Happy Man",
+    "release_year": "2012",
+    "clean_title": "/film/out-takes-from-the-life-of-a-happy-man/",
+    "adult": false,
+    "id": 190972,
+    "imdb_id": "tt2877528"
+  },
+  {
+    "title": "Frontiers of Dreams and Fears",
+    "release_year": "2001",
+    "clean_title": "/film/frontiers-of-dreams-and-fears/",
+    "adult": false,
+    "id": 393412,
+    "imdb_id": "tt0477653"
   },
   {
     "title": "Natchez",
@@ -232,28 +176,44 @@
     "imdb_id": "tt36589943"
   },
   {
-    "title": "Dressed in Blue",
-    "release_year": "1983",
-    "clean_title": "/film/dressed-in-blue/",
+    "title": "Heima",
+    "release_year": "2007",
+    "clean_title": "/film/heima/",
     "adult": false,
-    "id": 259235,
-    "imdb_id": "tt0086536"
+    "id": 14793,
+    "imdb_id": "tt1094594"
   },
   {
-    "title": "Concerning Violence",
-    "release_year": "2014",
-    "clean_title": "/film/concerning-violence/",
+    "title": "Homeland: Iraq Year Zero",
+    "release_year": "2015",
+    "clean_title": "/film/homeland-iraq-year-zero/",
     "adult": false,
-    "id": 250784,
-    "imdb_id": "tt3263690"
+    "id": 345139,
+    "imdb_id": "tt4413794"
   },
   {
-    "title": "The Hour of Liberation Has Arrived",
-    "release_year": "1974",
-    "clean_title": "/film/the-hour-of-liberation-has-arrived/",
+    "title": "Pictures of the Old World",
+    "release_year": "1972",
+    "clean_title": "/film/pictures-of-the-old-world/",
     "adult": false,
-    "id": 198540,
-    "imdb_id": "tt0222337"
+    "id": 124414,
+    "imdb_id": "tt0171587"
+  },
+  {
+    "title": "The Ballad of Sexual Dependency",
+    "release_year": "1985",
+    "clean_title": "/film/the-ballad-of-sexual-dependency/",
+    "adult": false,
+    "id": 310579,
+    "imdb_id": "tt4241938"
+  },
+  {
+    "title": "Steal This Story, Please!",
+    "release_year": "2025",
+    "clean_title": "/film/steal-this-story-please/",
+    "adult": false,
+    "id": 1492865,
+    "imdb_id": "tt36748956"
   },
   {
     "title": "The Murder of Fred Hampton",
@@ -264,12 +224,20 @@
     "imdb_id": "tt0067456"
   },
   {
-    "title": "Steal This Story, Please!",
-    "release_year": "2025",
-    "clean_title": "/film/steal-this-story-please/",
+    "title": "Dressed in Blue",
+    "release_year": "1983",
+    "clean_title": "/film/dressed-in-blue/",
     "adult": false,
-    "id": 1492865,
-    "imdb_id": "tt36748956"
+    "id": 259235,
+    "imdb_id": "tt0086536"
+  },
+  {
+    "title": "The Hour of Liberation Has Arrived",
+    "release_year": "1974",
+    "clean_title": "/film/the-hour-of-liberation-has-arrived/",
+    "adult": false,
+    "id": 198540,
+    "imdb_id": "tt0222337"
   },
   {
     "title": "A World Not Ours",
@@ -288,20 +256,12 @@
     "imdb_id": "tt8929142"
   },
   {
-    "title": "One Hundred Children Waiting for a Train",
-    "release_year": "1988",
-    "clean_title": "/film/one-hundred-children-waiting-for-a-train/",
+    "title": "Concerning Violence",
+    "release_year": "2014",
+    "clean_title": "/film/concerning-violence/",
     "adult": false,
-    "id": 130269,
-    "imdb_id": "tt0144829"
-  },
-  {
-    "title": "White Light/Black Rain: The Destruction of Hiroshima and Nagasaki",
-    "release_year": "2007",
-    "clean_title": "/film/white-light-black-rain-the-destruction-of-hiroshima-and-nagasaki/",
-    "adult": false,
-    "id": 33588,
-    "imdb_id": "tt0911010"
+    "id": 250784,
+    "imdb_id": "tt3263690"
   },
   {
     "title": "Jimi Plays Monterey",
@@ -320,20 +280,12 @@
     "imdb_id": "tt0276515"
   },
   {
-    "title": "Patrice: The Movie",
-    "release_year": "2024",
-    "clean_title": "/film/patrice-the-movie/",
+    "title": "White Light/Black Rain: The Destruction of Hiroshima and Nagasaki",
+    "release_year": "2007",
+    "clean_title": "/film/white-light-black-rain-the-destruction-of-hiroshima-and-nagasaki/",
     "adult": false,
-    "id": 1326895,
-    "imdb_id": "tt30342963"
-  },
-  {
-    "title": "A Grin Without a Cat",
-    "release_year": "1977",
-    "clean_title": "/film/a-grin-without-a-cat/",
-    "adult": false,
-    "id": 53197,
-    "imdb_id": "tt0076042"
+    "id": 33588,
+    "imdb_id": "tt0911010"
   },
   {
     "title": "Bray Wyatt: Becoming Immortal",
@@ -344,6 +296,22 @@
     "imdb_id": "tt31823836"
   },
   {
+    "title": "Juvenile Court",
+    "release_year": "1973",
+    "clean_title": "/film/juvenile-court/",
+    "adult": false,
+    "id": 114395,
+    "imdb_id": "tt0070258"
+  },
+  {
+    "title": "Patrice: The Movie",
+    "release_year": "2024",
+    "clean_title": "/film/patrice-the-movie/",
+    "adult": false,
+    "id": 1326895,
+    "imdb_id": "tt30342963"
+  },
+  {
     "title": "The Battle of Chile: Part III",
     "release_year": "1979",
     "clean_title": "/film/the-battle-of-chile-part-iii/",
@@ -352,20 +320,12 @@
     "imdb_id": "tt0078831"
   },
   {
-    "title": "Diaries, Notes, and Sketches",
-    "release_year": "1968",
-    "clean_title": "/film/diaries-notes-and-sketches/",
+    "title": "A Grin Without a Cat",
+    "release_year": "1977",
+    "clean_title": "/film/a-grin-without-a-cat/",
     "adult": false,
-    "id": 105583,
-    "imdb_id": "tt0196499"
-  },
-  {
-    "title": "Flavors of Iraq",
-    "release_year": "2024",
-    "clean_title": "/film/flavors-of-iraq/",
-    "adult": false,
-    "id": 698780,
-    "imdb_id": "tt15029528"
+    "id": 53197,
+    "imdb_id": "tt0076042"
   },
   {
     "title": "Mr. Bachmann and His Class",
@@ -376,60 +336,12 @@
     "imdb_id": "tt14035048"
   },
   {
-    "title": "The Social Life of Small Urban Spaces",
-    "release_year": "1980",
-    "clean_title": "/film/the-social-life-of-small-urban-spaces/",
+    "title": "Metal and Melancholy",
+    "release_year": "1994",
+    "clean_title": "/film/metal-and-melancholy/",
     "adult": false,
-    "id": 177599,
-    "imdb_id": "tt1778327"
-  },
-  {
-    "title": "Juvenile Court",
-    "release_year": "1973",
-    "clean_title": "/film/juvenile-court/",
-    "adult": false,
-    "id": 114395,
-    "imdb_id": "tt0070258"
-  },
-  {
-    "title": "See Know Evil",
-    "release_year": "2018",
-    "clean_title": "/film/see-know-evil/",
-    "adult": false,
-    "id": 576885,
-    "imdb_id": "tt8755156"
-  },
-  {
-    "title": "The Lovely Month of May",
-    "release_year": "1963",
-    "clean_title": "/film/the-lovely-month-of-may/",
-    "adult": false,
-    "id": 128779,
-    "imdb_id": "tt0057202"
-  },
-  {
-    "title": "Everybody to Kenmure Street",
-    "release_year": "2026",
-    "clean_title": "/film/everybody-to-kenmure-street/",
-    "adult": false,
-    "id": 1484620,
-    "imdb_id": "tt36966956"
-  },
-  {
-    "title": "Roger Waters: The Wall",
-    "release_year": "2014",
-    "clean_title": "/film/roger-waters-the-wall/",
-    "adult": false,
-    "id": 290382,
-    "imdb_id": "tt3970482"
-  },
-  {
-    "title": "Depeche Mode 101",
-    "release_year": "1989",
-    "clean_title": "/film/depeche-mode-101/",
-    "adult": false,
-    "id": 26360,
-    "imdb_id": "tt0094590"
+    "id": 216095,
+    "imdb_id": "tt0107558"
   },
   {
     "title": "Triumph Over Violence",
@@ -440,12 +352,20 @@
     "imdb_id": "tt0059529"
   },
   {
-    "title": "The Blue Planet",
-    "release_year": "1982",
-    "clean_title": "/film/the-blue-planet-1982/",
+    "title": "Dead Souls",
+    "release_year": "2018",
+    "clean_title": "/film/dead-souls-2018/",
     "adult": false,
-    "id": 96300,
-    "imdb_id": "tt0194234"
+    "id": 517772,
+    "imdb_id": "tt8296608"
+  },
+  {
+    "title": "See Know Evil",
+    "release_year": "2018",
+    "clean_title": "/film/see-know-evil/",
+    "adult": false,
+    "id": 576885,
+    "imdb_id": "tt8755156"
   },
   {
     "title": "My Undesirable Friends: Part I - Last Air in Moscow",
@@ -456,28 +376,28 @@
     "imdb_id": "tt33075192"
   },
   {
+    "title": "Roger Waters: The Wall",
+    "release_year": "2014",
+    "clean_title": "/film/roger-waters-the-wall/",
+    "adult": false,
+    "id": 290382,
+    "imdb_id": "tt3970482"
+  },
+  {
+    "title": "Diaries, Notes, and Sketches",
+    "release_year": "1968",
+    "clean_title": "/film/diaries-notes-and-sketches/",
+    "adult": false,
+    "id": 105583,
+    "imdb_id": "tt0196499"
+  },
+  {
     "title": "Deaf President Now!",
     "release_year": "2025",
     "clean_title": "/film/deaf-president-now/",
     "adult": false,
     "id": 1400288,
     "imdb_id": "tt34965967"
-  },
-  {
-    "title": "The Amazonian Angel",
-    "release_year": "1992",
-    "clean_title": "/film/the-amazonian-angel/",
-    "adult": false,
-    "id": 500960,
-    "imdb_id": "tt10622192"
-  },
-  {
-    "title": "102 Minutes That Changed America",
-    "release_year": "2008",
-    "clean_title": "/film/102-minutes-that-changed-america/",
-    "adult": false,
-    "id": 36130,
-    "imdb_id": "tt1312203"
   },
   {
     "title": "Revolution of Our Times",
@@ -488,60 +408,20 @@
     "imdb_id": "tt15049118"
   },
   {
-    "title": "The Work",
-    "release_year": "2017",
-    "clean_title": "/film/the-work/",
+    "title": "Depeche Mode 101",
+    "release_year": "1989",
+    "clean_title": "/film/depeche-mode-101/",
     "adult": false,
-    "id": 438449,
-    "imdb_id": "tt5836866"
+    "id": 26360,
+    "imdb_id": "tt0094590"
   },
   {
-    "title": "Roger Waters: Us + Them",
-    "release_year": "2019",
-    "clean_title": "/film/roger-waters-us-them/",
+    "title": "Everybody to Kenmure Street",
+    "release_year": "2026",
+    "clean_title": "/film/everybody-to-kenmure-street/",
     "adult": false,
-    "id": 617924,
-    "imdb_id": "tt10121372"
-  },
-  {
-    "title": "Safe Journey",
-    "release_year": "1993",
-    "clean_title": "/film/safe-journey-1993/",
-    "adult": false,
-    "id": 47105,
-    "imdb_id": "tt0107376"
-  },
-  {
-    "title": "28 Up",
-    "release_year": "1984",
-    "clean_title": "/film/28-up/",
-    "adult": false,
-    "id": 20561,
-    "imdb_id": "tt0088650"
-  },
-  {
-    "title": "Public Housing",
-    "release_year": "1997",
-    "clean_title": "/film/public-housing/",
-    "adult": false,
-    "id": 114412,
-    "imdb_id": "tt0130200"
-  },
-  {
-    "title": "Woman",
-    "release_year": "2019",
-    "clean_title": "/film/woman-2019/",
-    "adult": false,
-    "id": 618260,
-    "imdb_id": "tt7419466"
-  },
-  {
-    "title": "Lost, Lost, Lost",
-    "release_year": "1976",
-    "clean_title": "/film/lost-lost-lost/",
-    "adult": false,
-    "id": 148807,
-    "imdb_id": "tt0209110"
+    "id": 1484620,
+    "imdb_id": "tt36966956"
   },
   {
     "title": "Which Way Home",
@@ -552,44 +432,60 @@
     "imdb_id": "tt0489342"
   },
   {
-    "title": "Tom Petty and the Heartbreakers: Runnin' Down a Dream",
-    "release_year": "2007",
-    "clean_title": "/film/tom-petty-and-the-heartbreakers-runnin-down-a-dream/",
+    "title": "The Amazonian Angel",
+    "release_year": "1992",
+    "clean_title": "/film/the-amazonian-angel/",
     "adult": false,
-    "id": 31147,
-    "imdb_id": "tt0965382"
+    "id": 500960,
+    "imdb_id": "tt10622192"
   },
   {
-    "title": "American Doctor",
-    "release_year": "2026",
-    "clean_title": "/film/american-doctor/",
+    "title": "The Lovely Month of May",
+    "release_year": "1963",
+    "clean_title": "/film/the-lovely-month-of-may/",
     "adult": false,
-    "id": 1596332,
-    "imdb_id": "tt39149951"
+    "id": 128779,
+    "imdb_id": "tt0057202"
   },
   {
-    "title": "McCullin",
-    "release_year": "2012",
-    "clean_title": "/film/mccullin/",
+    "title": "102 Minutes That Changed America",
+    "release_year": "2008",
+    "clean_title": "/film/102-minutes-that-changed-america/",
     "adult": false,
-    "id": 151044,
-    "imdb_id": "tt2354205"
+    "id": 36130,
+    "imdb_id": "tt1312203"
   },
   {
-    "title": "Hospital",
-    "release_year": "1970",
-    "clean_title": "/film/hospital-1970/",
+    "title": "The Social Life of Small Urban Spaces",
+    "release_year": "1980",
+    "clean_title": "/film/the-social-life-of-small-urban-spaces/",
     "adult": false,
-    "id": 114390,
-    "imdb_id": "tt0065853"
+    "id": 177599,
+    "imdb_id": "tt1778327"
   },
   {
-    "title": "How to Die in Oregon",
-    "release_year": "2011",
-    "clean_title": "/film/how-to-die-in-oregon/",
+    "title": "Roger Waters: Us + Them",
+    "release_year": "2019",
+    "clean_title": "/film/roger-waters-us-them/",
     "adult": false,
-    "id": 65992,
-    "imdb_id": "tt1715802"
+    "id": 617924,
+    "imdb_id": "tt10121372"
+  },
+  {
+    "title": "The Blue Planet",
+    "release_year": "1982",
+    "clean_title": "/film/the-blue-planet-1982/",
+    "adult": false,
+    "id": 96300,
+    "imdb_id": "tt0194234"
+  },
+  {
+    "title": "The Work",
+    "release_year": "2017",
+    "clean_title": "/film/the-work/",
+    "adult": false,
+    "id": 438449,
+    "imdb_id": "tt5836866"
   },
   {
     "title": "The Revolution Will Not Be Televised",
@@ -600,6 +496,22 @@
     "imdb_id": "tt0363510"
   },
   {
+    "title": "28 Up",
+    "release_year": "1984",
+    "clean_title": "/film/28-up/",
+    "adult": false,
+    "id": 20561,
+    "imdb_id": "tt0088650"
+  },
+  {
+    "title": "Hospital",
+    "release_year": "1970",
+    "clean_title": "/film/hospital-1970/",
+    "adult": false,
+    "id": 114390,
+    "imdb_id": "tt0065853"
+  },
+  {
     "title": "Butterfly in the Sky",
     "release_year": "2022",
     "clean_title": "/film/butterfly-in-the-sky/",
@@ -608,28 +520,28 @@
     "imdb_id": "tt15358498"
   },
   {
-    "title": "Tom Waits: Big Time",
-    "release_year": "1988",
-    "clean_title": "/film/tom-waits-big-time/",
+    "title": "Tom Petty and the Heartbreakers: Runnin' Down a Dream",
+    "release_year": "2007",
+    "clean_title": "/film/tom-petty-and-the-heartbreakers-runnin-down-a-dream/",
     "adult": false,
-    "id": 44694,
-    "imdb_id": "tt0094743"
+    "id": 31147,
+    "imdb_id": "tt0965382"
   },
   {
-    "title": "White Scripts and Black Supermen: Black Masculinities in Comic Books",
-    "release_year": "2010",
-    "clean_title": "/film/white-scripts-and-black-supermen-black-masculinities-in-comic-books/",
+    "title": "Woman",
+    "release_year": "2019",
+    "clean_title": "/film/woman-2019/",
     "adult": false,
-    "id": 183055,
-    "imdb_id": "tt12517594"
+    "id": 618260,
+    "imdb_id": "tt7419466"
   },
   {
-    "title": "Where Does Your Hidden Smile Lie?",
-    "release_year": "2001",
-    "clean_title": "/film/where-does-your-hidden-smile-lie/",
+    "title": "Safe Journey",
+    "release_year": "1993",
+    "clean_title": "/film/safe-journey-1993/",
     "adult": false,
-    "id": 95533,
-    "imdb_id": "tt0342866"
+    "id": 47105,
+    "imdb_id": "tt0107376"
   },
   {
     "title": "Central Park",
@@ -640,6 +552,22 @@
     "imdb_id": "tt0097033"
   },
   {
+    "title": "Tom Waits: Big Time",
+    "release_year": "1988",
+    "clean_title": "/film/tom-waits-big-time/",
+    "adult": false,
+    "id": 44694,
+    "imdb_id": "tt0094743"
+  },
+  {
+    "title": "How to Die in Oregon",
+    "release_year": "2011",
+    "clean_title": "/film/how-to-die-in-oregon/",
+    "adult": false,
+    "id": 65992,
+    "imdb_id": "tt1715802"
+  },
+  {
     "title": "From the Notebook of...",
     "release_year": "1972",
     "clean_title": "/film/from-the-notebook-of/",
@@ -648,28 +576,12 @@
     "imdb_id": "tt0297901"
   },
   {
-    "title": "José & Pilar",
-    "release_year": "2010",
-    "clean_title": "/film/jose-pilar/",
+    "title": "Gleason",
+    "release_year": "2016",
+    "clean_title": "/film/gleason-2016/",
     "adult": false,
-    "id": 94639,
-    "imdb_id": "tt1789810"
-  },
-  {
-    "title": "Long Strange Trip",
-    "release_year": "2017",
-    "clean_title": "/film/long-strange-trip/",
-    "adult": false,
-    "id": 431714,
-    "imdb_id": "tt4143508"
-  },
-  {
-    "title": "42 Up",
-    "release_year": "1998",
-    "clean_title": "/film/42-up/",
-    "adult": false,
-    "id": 20565,
-    "imdb_id": "tt0164312"
+    "id": 373446,
+    "imdb_id": "tt4632316"
   },
   {
     "title": "Sick: The Life and Death of Bob Flanagan, Supermasochist",
@@ -680,20 +592,12 @@
     "imdb_id": "tt0120126"
   },
   {
-    "title": "Children Underground",
-    "release_year": "2001",
-    "clean_title": "/film/children-underground/",
+    "title": "In the Name of God",
+    "release_year": "1992",
+    "clean_title": "/film/in-the-name-of-god-1992/",
     "adult": false,
-    "id": 51722,
-    "imdb_id": "tt0264476"
-  },
-  {
-    "title": "Our Body",
-    "release_year": "2023",
-    "clean_title": "/film/our-body-2023/",
-    "adult": false,
-    "id": 1000495,
-    "imdb_id": "tt26347358"
+    "id": 260669,
+    "imdb_id": "tt0105208"
   },
   {
     "title": "Nitrate Kisses",
@@ -704,12 +608,36 @@
     "imdb_id": "tt0107693"
   },
   {
-    "title": "Foragers",
-    "release_year": "2022",
-    "clean_title": "/film/foragers/",
+    "title": "Where Does Your Hidden Smile Lie?",
+    "release_year": "2001",
+    "clean_title": "/film/where-does-your-hidden-smile-lie/",
     "adult": false,
-    "id": 951184,
-    "imdb_id": "tt20866632"
+    "id": 95533,
+    "imdb_id": "tt0342866"
+  },
+  {
+    "title": "Flavors of Iraq",
+    "release_year": "2024",
+    "clean_title": "/film/flavors-of-iraq/",
+    "adult": false,
+    "id": 698780,
+    "imdb_id": "tt15029528"
+  },
+  {
+    "title": "42 Up",
+    "release_year": "1998",
+    "clean_title": "/film/42-up/",
+    "adult": false,
+    "id": 20565,
+    "imdb_id": "tt0164312"
+  },
+  {
+    "title": "Hours for Jerome",
+    "release_year": "1982",
+    "clean_title": "/film/hours-for-jerome/",
+    "adult": false,
+    "id": 151223,
+    "imdb_id": "tt2137966"
   },
   {
     "title": "The Aggressives",
@@ -720,6 +648,14 @@
     "imdb_id": "tt0462757"
   },
   {
+    "title": "Long Strange Trip",
+    "release_year": "2017",
+    "clean_title": "/film/long-strange-trip/",
+    "adult": false,
+    "id": 431714,
+    "imdb_id": "tt4143508"
+  },
+  {
     "title": "We Stand Alone Together: The Men of Easy Company",
     "release_year": "2001",
     "clean_title": "/film/we-stand-alone-together-the-men-of-easy-company/",
@@ -728,20 +664,36 @@
     "imdb_id": "tt0302022"
   },
   {
-    "title": "Lesbian Avengers Eat Fire Too",
-    "release_year": "1993",
-    "clean_title": "/film/lesbian-avengers-eat-fire-too/",
+    "title": "Youth (Hard Times)",
+    "release_year": "2024",
+    "clean_title": "/film/youth-hard-times/",
     "adult": false,
-    "id": 377364,
-    "imdb_id": "tt7870278"
+    "id": 1315054,
+    "imdb_id": "tt33029373"
   },
   {
-    "title": "Gleason",
-    "release_year": "2016",
-    "clean_title": "/film/gleason-2016/",
+    "title": "Four Women of Egypt",
+    "release_year": "1997",
+    "clean_title": "/film/four-women-of-egypt/",
     "adult": false,
-    "id": 373446,
-    "imdb_id": "tt4632316"
+    "id": 382111,
+    "imdb_id": "tt0155987"
+  },
+  {
+    "title": "Our Body",
+    "release_year": "2023",
+    "clean_title": "/film/our-body-2023/",
+    "adult": false,
+    "id": 1000495,
+    "imdb_id": "tt26347358"
+  },
+  {
+    "title": "American Doctor",
+    "release_year": "2026",
+    "clean_title": "/film/american-doctor/",
+    "adult": false,
+    "id": 1596332,
+    "imdb_id": "tt39149951"
   },
   {
     "title": "49 Up",
@@ -760,36 +712,60 @@
     "imdb_id": "tt1590078"
   },
   {
-    "title": "A Fox Under a Pink Moon",
+    "title": "Lost, Lost, Lost",
+    "release_year": "1976",
+    "clean_title": "/film/lost-lost-lost/",
+    "adult": false,
+    "id": 148807,
+    "imdb_id": "tt0209110"
+  },
+  {
+    "title": "Foragers",
+    "release_year": "2022",
+    "clean_title": "/film/foragers/",
+    "adult": false,
+    "id": 951184,
+    "imdb_id": "tt20866632"
+  },
+  {
+    "title": "Earth's Greatest Enemy",
     "release_year": "2025",
-    "clean_title": "/film/a-fox-under-a-pink-moon/",
+    "clean_title": "/film/earths-greatest-enemy/",
     "adult": false,
-    "id": 951018,
-    "imdb_id": "tt18163224"
+    "id": 862476,
+    "imdb_id": "tt37547719"
   },
   {
-    "title": "Pixo",
-    "release_year": "2009",
-    "clean_title": "/film/pixo/",
-    "adult": false,
-    "id": 174409,
-    "imdb_id": "tt3135326"
-  },
-  {
-    "title": "Fifi Howls from Happiness",
-    "release_year": "2013",
-    "clean_title": "/film/fifi-howls-from-happiness/",
-    "adult": false,
-    "id": 169448,
-    "imdb_id": "tt2731398"
-  },
-  {
-    "title": "Youth (Hard Times)",
+    "title": "Where Olive Trees Weep",
     "release_year": "2024",
-    "clean_title": "/film/youth-hard-times/",
+    "clean_title": "/film/where-olive-trees-weep/",
     "adult": false,
-    "id": 1315054,
-    "imdb_id": "tt33029373"
+    "id": 1299956,
+    "imdb_id": "tt32316068"
+  },
+  {
+    "title": "Domestic Violence",
+    "release_year": "2001",
+    "clean_title": "/film/domestic-violence/",
+    "adult": false,
+    "id": 114427,
+    "imdb_id": "tt0305489"
+  },
+  {
+    "title": "Public Housing",
+    "release_year": "1997",
+    "clean_title": "/film/public-housing/",
+    "adult": false,
+    "id": 114412,
+    "imdb_id": "tt0130200"
+  },
+  {
+    "title": "How to Save a Dead Friend",
+    "release_year": "2022",
+    "clean_title": "/film/how-to-save-a-dead-friend/",
+    "adult": false,
+    "id": 951164,
+    "imdb_id": "tt19747800"
   },
   {
     "title": "KIX",
@@ -798,5 +774,29 @@
     "adult": false,
     "id": 1161396,
     "imdb_id": "tt32034405"
+  },
+  {
+    "title": "BloodSisters: Leather, Dykes, and Sadomasochism",
+    "release_year": "1995",
+    "clean_title": "/film/bloodsisters-leather-dykes-and-sadomasochism/",
+    "adult": false,
+    "id": 606142,
+    "imdb_id": "tt0112532"
+  },
+  {
+    "title": "Lakota Nation vs. United States",
+    "release_year": "2022",
+    "clean_title": "/film/lakota-nation-vs-united-states/",
+    "adult": false,
+    "id": 965219,
+    "imdb_id": "tt15468586"
+  },
+  {
+    "title": "One Hundred Children Waiting for a Train",
+    "release_year": "1988",
+    "clean_title": "/film/one-hundred-children-waiting-for-a-train/",
+    "adult": false,
+    "id": 130269,
+    "imdb_id": "tt0144829"
   }
 ]

@@ -800,6 +800,41 @@
     "imdb_id": "tt0077711"
   },
   {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
     "title": "Bicycle Thieves",
     "release_year": "1948",
     "clean_title": "/film/bicycle-thieves/",
@@ -1465,8 +1500,8 @@
   },
   {
     "title": "War and Peace",
-    "release_year": "1965",
-    "clean_title": "/film/war-and-peace-1965/",
+    "release_year": "1967",
+    "clean_title": "/film/war-and-peace-1967/",
     "adult": false,
     "id": 29266,
     "imdb_id": "tt0063794"
@@ -1598,6 +1633,41 @@
     "adult": false,
     "id": 25364,
     "imdb_id": "tt0043338"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   },
   {
     "title": "Pan's Labyrinth",
@@ -1998,5 +2068,40 @@
     "adult": false,
     "id": 419430,
     "imdb_id": "tt5052448"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   }
 ]

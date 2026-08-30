@@ -625,8 +625,8 @@
   },
   {
     "title": "War and Peace",
-    "release_year": "1965",
-    "clean_title": "/film/war-and-peace-1965/",
+    "release_year": "1967",
+    "clean_title": "/film/war-and-peace-1967/",
     "adult": false,
     "id": 29266,
     "imdb_id": "tt0063794"
@@ -798,6 +798,41 @@
     "adult": false,
     "id": 20530,
     "imdb_id": "tt0041154"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   },
   {
     "title": "No Country for Old Men",
@@ -1600,6 +1635,41 @@
     "imdb_id": "tt0038733"
   },
   {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
     "title": "An Autumn Afternoon",
     "release_year": "1962",
     "clean_title": "/film/an-autumn-afternoon/",
@@ -1998,5 +2068,40 @@
     "adult": false,
     "id": 20123,
     "imdb_id": "tt0097223"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   }
 ]

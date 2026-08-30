@@ -40,14 +40,6 @@
     "imdb_id": "tt0083275"
   },
   {
-    "title": "Despite the Night",
-    "release_year": "2015",
-    "clean_title": "/film/despite-the-night/",
-    "adult": false,
-    "id": 330385,
-    "imdb_id": "tt4315174"
-  },
-  {
     "title": "Under the Blossoming Cherry Trees",
     "release_year": "1975",
     "clean_title": "/film/under-the-blossoming-cherry-trees/",
@@ -56,20 +48,28 @@
     "imdb_id": "tt0073841"
   },
   {
-    "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
-    "release_year": "2015",
-    "clean_title": "/film/senritsu-kaiki-file-kowasugi-final-chapter/",
-    "adult": false,
-    "id": 854953,
-    "imdb_id": "tt14764558"
-  },
-  {
     "title": "Excitation",
     "release_year": "1977",
     "clean_title": "/film/excitation/",
     "adult": false,
     "id": 195165,
     "imdb_id": "tt0260893"
+  },
+  {
+    "title": "Despite the Night",
+    "release_year": "2015",
+    "clean_title": "/film/despite-the-night/",
+    "adult": false,
+    "id": 330385,
+    "imdb_id": "tt4315174"
+  },
+  {
+    "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
+    "release_year": "2015",
+    "clean_title": "/film/senritsu-kaiki-file-kowasugi-final-chapter/",
+    "adult": false,
+    "id": 854953,
+    "imdb_id": "tt14764558"
   },
   {
     "title": "I, the Executioner",
@@ -96,6 +96,14 @@
     "imdb_id": "tt2351177"
   },
   {
+    "title": "Chronovisor",
+    "release_year": "2026",
+    "clean_title": "/film/chronovisor/",
+    "adult": false,
+    "id": 1599181,
+    "imdb_id": "tt39196981"
+  },
+  {
     "title": "Dogra Magra",
     "release_year": "1988",
     "clean_title": "/film/dogra-magra/",
@@ -110,6 +118,14 @@
     "adult": false,
     "id": 667944,
     "imdb_id": "tt11777298"
+  },
+  {
+    "title": "The Girl from Nowhere",
+    "release_year": "2012",
+    "clean_title": "/film/the-girl-from-nowhere/",
+    "adult": false,
+    "id": 153820,
+    "imdb_id": "tt2332514"
   },
   {
     "title": "Lunacy",
@@ -142,14 +158,6 @@
     "adult": false,
     "id": 76715,
     "imdb_id": "tt0074691"
-  },
-  {
-    "title": "The Girl from Nowhere",
-    "release_year": "2012",
-    "clean_title": "/film/the-girl-from-nowhere/",
-    "adult": false,
-    "id": 153820,
-    "imdb_id": "tt2332514"
   },
   {
     "title": "In the Dark",
@@ -200,14 +208,6 @@
     "imdb_id": "tt0073806"
   },
   {
-    "title": "Hair High",
-    "release_year": "2004",
-    "clean_title": "/film/hair-high/",
-    "adult": false,
-    "id": 27300,
-    "imdb_id": "tt0365296"
-  },
-  {
     "title": "Rapine",
     "release_year": "1975",
     "clean_title": "/film/rapine/",
@@ -216,36 +216,12 @@
     "imdb_id": "tt0302961"
   },
   {
-    "title": "Daughters of Fire",
-    "release_year": "1978",
-    "clean_title": "/film/daughters-of-fire/",
+    "title": "Hair High",
+    "release_year": "2004",
+    "clean_title": "/film/hair-high/",
     "adult": false,
-    "id": 195471,
-    "imdb_id": "tt0236215"
-  },
-  {
-    "title": "The Bride from Hades",
-    "release_year": "1968",
-    "clean_title": "/film/the-bride-from-hades/",
-    "adult": false,
-    "id": 108648,
-    "imdb_id": "tt0163985"
-  },
-  {
-    "title": "The Long Walk",
-    "release_year": "2019",
-    "clean_title": "/film/the-long-walk-2019/",
-    "adult": false,
-    "id": 575224,
-    "imdb_id": "tt6800268"
-  },
-  {
-    "title": "Love Massacre",
-    "release_year": "1981",
-    "clean_title": "/film/love-massacre/",
-    "adult": false,
-    "id": 182227,
-    "imdb_id": "tt0081992"
+    "id": 27300,
+    "imdb_id": "tt0365296"
   },
   {
     "title": "Entrei em Pânico ao Saber o que Vocês Fizeram na Sexta-feira 13 do Verão Passado",
@@ -256,12 +232,36 @@
     "imdb_id": "tt2756880"
   },
   {
-    "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
-    "release_year": "2014",
-    "clean_title": "/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
+    "title": "Daughters of Fire",
+    "release_year": "1978",
+    "clean_title": "/film/daughters-of-fire/",
     "adult": false,
-    "id": 854932,
-    "imdb_id": "tt14752818"
+    "id": 195471,
+    "imdb_id": "tt0236215"
+  },
+  {
+    "title": "The Long Walk",
+    "release_year": "2019",
+    "clean_title": "/film/the-long-walk-2019/",
+    "adult": false,
+    "id": 575224,
+    "imdb_id": "tt6800268"
+  },
+  {
+    "title": "The Bride from Hades",
+    "release_year": "1968",
+    "clean_title": "/film/the-bride-from-hades/",
+    "adult": false,
+    "id": 108648,
+    "imdb_id": "tt0163985"
+  },
+  {
+    "title": "Love Massacre",
+    "release_year": "1981",
+    "clean_title": "/film/love-massacre/",
+    "adult": false,
+    "id": 182227,
+    "imdb_id": "tt0081992"
   },
   {
     "title": "Pure Blood",
@@ -272,12 +272,12 @@
     "imdb_id": "tt0193438"
   },
   {
-    "title": "Pisaasu",
+    "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
     "release_year": "2014",
-    "clean_title": "/film/pisaasu/",
+    "clean_title": "/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
     "adult": false,
-    "id": 311155,
-    "imdb_id": "tt4290746"
+    "id": 854932,
+    "imdb_id": "tt14752818"
   },
   {
     "title": "The Embryo Hunts in Secret",
@@ -286,6 +286,14 @@
     "adult": false,
     "id": 31319,
     "imdb_id": "tt0061059"
+  },
+  {
+    "title": "Pisaasu",
+    "release_year": "2014",
+    "clean_title": "/film/pisaasu/",
+    "adult": false,
+    "id": 311155,
+    "imdb_id": "tt4290746"
   },
   {
     "title": "The Story of Southern Islet",
@@ -304,28 +312,12 @@
     "imdb_id": "tt0112257"
   },
   {
-    "title": "The Blood of Wolves",
-    "release_year": "2018",
-    "clean_title": "/film/the-blood-of-wolves/",
+    "title": "Arundhati",
+    "release_year": "2009",
+    "clean_title": "/film/arundhati/",
     "adult": false,
-    "id": 474538,
-    "imdb_id": "tt6622902"
-  },
-  {
-    "title": "Sextool",
-    "release_year": "1975",
-    "clean_title": "/film/sextool/",
-    "adult": false,
-    "id": 486966,
-    "imdb_id": "tt0257158"
-  },
-  {
-    "title": "The Queen of Spades",
-    "release_year": "1949",
-    "clean_title": "/film/the-queen-of-spades/",
-    "adult": false,
-    "id": 77546,
-    "imdb_id": "tt0041776"
+    "id": 31629,
+    "imdb_id": "tt1361809"
   },
   {
     "title": "Muscle",
@@ -336,6 +328,22 @@
     "imdb_id": "tt0095472"
   },
   {
+    "title": "The Blood of Wolves",
+    "release_year": "2018",
+    "clean_title": "/film/the-blood-of-wolves/",
+    "adult": false,
+    "id": 474538,
+    "imdb_id": "tt6622902"
+  },
+  {
+    "title": "The Queen of Spades",
+    "release_year": "1949",
+    "clean_title": "/film/the-queen-of-spades/",
+    "adult": false,
+    "id": 77546,
+    "imdb_id": "tt0041776"
+  },
+  {
     "title": "Mister Designer",
     "release_year": "1987",
     "clean_title": "/film/mister-designer/",
@@ -344,28 +352,12 @@
     "imdb_id": "tt0157713"
   },
   {
-    "title": "Violated Angels",
-    "release_year": "1967",
-    "clean_title": "/film/violated-angels/",
+    "title": "Sextool",
+    "release_year": "1975",
+    "clean_title": "/film/sextool/",
     "adult": false,
-    "id": 55711,
-    "imdb_id": "tt0062069"
-  },
-  {
-    "title": "Arundhati",
-    "release_year": "2009",
-    "clean_title": "/film/arundhati/",
-    "adult": false,
-    "id": 31629,
-    "imdb_id": "tt1361809"
-  },
-  {
-    "title": "Zana",
-    "release_year": "2019",
-    "clean_title": "/film/zana/",
-    "adult": false,
-    "id": 621746,
-    "imdb_id": "tt6463320"
+    "id": 486966,
+    "imdb_id": "tt0257158"
   },
   {
     "title": "Turtle Vision",
@@ -376,14 +368,6 @@
     "imdb_id": "tt0103142"
   },
   {
-    "title": "Portrait in Crystal",
-    "release_year": "1983",
-    "clean_title": "/film/portrait-in-crystal/",
-    "adult": false,
-    "id": 104595,
-    "imdb_id": "tt0084678"
-  },
-  {
     "title": "The Bloody Exorcism of Coffin Joe",
     "release_year": "1974",
     "clean_title": "/film/the-bloody-exorcism-of-coffin-joe/",
@@ -392,11 +376,26 @@
     "imdb_id": "tt0071479"
   },
   {
-    "title": "After Death",
-    "release_year": "1915",
-    "clean_title": "/film/after-death/",
+    "title": "Violated Angels",
+    "release_year": "1967",
+    "clean_title": "/film/violated-angels/",
     "adult": false,
-    "id": 132397,
-    "imdb_id": "tt0005916"
+    "id": 55711,
+    "imdb_id": "tt0062069"
+  },
+  {
+    "title": "Zana",
+    "release_year": "2019",
+    "clean_title": "/film/zana/",
+    "adult": false,
+    "id": 621746,
+    "imdb_id": "tt6463320"
+  },
+  {
+    "title": "The Mothering",
+    "release_year": "2026",
+    "clean_title": "/film/the-mothering/",
+    "adult": false,
+    "id": 1561345
   }
 ]

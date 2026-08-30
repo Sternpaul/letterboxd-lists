@@ -48,20 +48,12 @@
     "imdb_id": "tt0064451"
   },
   {
-    "title": "What Time Is It There?",
-    "release_year": "2001",
-    "clean_title": "/film/what-time-is-it-there/",
+    "title": "18x2 Beyond Youthful Days",
+    "release_year": "2024",
+    "clean_title": "/film/18x2-beyond-youthful-days/",
     "adult": false,
-    "id": 24166,
-    "imdb_id": "tt0269746"
-  },
-  {
-    "title": "Vive L'Amour",
-    "release_year": "1994",
-    "clean_title": "/film/vive-lamour/",
-    "adult": false,
-    "id": 11985,
-    "imdb_id": "tt0109066"
+    "id": 1188258,
+    "imdb_id": "tt31039829"
   },
   {
     "title": "Crouching Tiger, Hidden Dragon",
@@ -72,12 +64,28 @@
     "imdb_id": "tt0190332"
   },
   {
-    "title": "Hill of No Return",
-    "release_year": "1992",
-    "clean_title": "/film/hill-of-no-return/",
+    "title": "Your Name Engraved Herein",
+    "release_year": "2020",
+    "clean_title": "/film/your-name-engraved-herein/",
     "adult": false,
-    "id": 176668,
-    "imdb_id": "tt0108602"
+    "id": 719410,
+    "imdb_id": "tt10329134"
+  },
+  {
+    "title": "Vive L'Amour",
+    "release_year": "1994",
+    "clean_title": "/film/vive-lamour/",
+    "adult": false,
+    "id": 11985,
+    "imdb_id": "tt0109066"
+  },
+  {
+    "title": "What Time Is It There?",
+    "release_year": "2001",
+    "clean_title": "/film/what-time-is-it-there/",
+    "adult": false,
+    "id": 24166,
+    "imdb_id": "tt0269746"
   },
   {
     "title": "Taipei Story",
@@ -88,22 +96,6 @@
     "imdb_id": "tt0089866"
   },
   {
-    "title": "That Day, on the Beach",
-    "release_year": "1983",
-    "clean_title": "/film/that-day-on-the-beach/",
-    "adult": false,
-    "id": 106373,
-    "imdb_id": "tt0085635"
-  },
-  {
-    "title": "Your Name Engraved Herein",
-    "release_year": "2020",
-    "clean_title": "/film/your-name-engraved-herein/",
-    "adult": false,
-    "id": 719410,
-    "imdb_id": "tt10329134"
-  },
-  {
     "title": "The Time to Live and the Time to Die",
     "release_year": "1985",
     "clean_title": "/film/the-time-to-live-and-the-time-to-die/",
@@ -112,12 +104,12 @@
     "imdb_id": "tt0090185"
   },
   {
-    "title": "18x2 Beyond Youthful Days",
-    "release_year": "2024",
-    "clean_title": "/film/18x2-beyond-youthful-days/",
+    "title": "That Day, on the Beach",
+    "release_year": "1983",
+    "clean_title": "/film/that-day-on-the-beach/",
     "adult": false,
-    "id": 1188258,
-    "imdb_id": "tt31039829"
+    "id": 106373,
+    "imdb_id": "tt0085635"
   },
   {
     "title": "Dragon Inn",
@@ -128,6 +120,14 @@
     "imdb_id": "tt0060635"
   },
   {
+    "title": "Mahjong",
+    "release_year": "1996",
+    "clean_title": "/film/mahjong/",
+    "adult": false,
+    "id": 54421,
+    "imdb_id": "tt0116962"
+  },
+  {
     "title": "The Hole",
     "release_year": "1998",
     "clean_title": "/film/the-hole/",
@@ -136,12 +136,20 @@
     "imdb_id": "tt0156610"
   },
   {
-    "title": "Mahjong",
-    "release_year": "1996",
-    "clean_title": "/film/mahjong/",
+    "title": "Tropical Fish",
+    "release_year": "1995",
+    "clean_title": "/film/tropical-fish/",
     "adult": false,
-    "id": 54421,
-    "imdb_id": "tt0116962"
+    "id": 83195,
+    "imdb_id": "tt0117970"
+  },
+  {
+    "title": "Legend of the Mountain",
+    "release_year": "1979",
+    "clean_title": "/film/legend-of-the-mountain/",
+    "adult": false,
+    "id": 191531,
+    "imdb_id": "tt0079886"
   },
   {
     "title": "Lust, Caution",
@@ -160,12 +168,12 @@
     "imdb_id": "tt0109685"
   },
   {
-    "title": "Tropical Fish",
-    "release_year": "1995",
-    "clean_title": "/film/tropical-fish/",
+    "title": "Hill of No Return",
+    "release_year": "1992",
+    "clean_title": "/film/hill-of-no-return/",
     "adult": false,
-    "id": 83195,
-    "imdb_id": "tt0117970"
+    "id": 176668,
+    "imdb_id": "tt0108602"
   },
   {
     "title": "Rebels of the Neon God",
@@ -176,28 +184,12 @@
     "imdb_id": "tt0103935"
   },
   {
-    "title": "Legend of the Mountain",
-    "release_year": "1979",
-    "clean_title": "/film/legend-of-the-mountain/",
-    "adult": false,
-    "id": 191531,
-    "imdb_id": "tt0079886"
-  },
-  {
     "title": "Goodbye, Dragon Inn",
     "release_year": "2003",
     "clean_title": "/film/goodbye-dragon-inn/",
     "adult": false,
     "id": 56616,
     "imdb_id": "tt0377556"
-  },
-  {
-    "title": "Dust in the Wind",
-    "release_year": "1986",
-    "clean_title": "/film/dust-in-the-wind/",
-    "adult": false,
-    "id": 45996,
-    "imdb_id": "tt0091406"
   },
   {
     "title": "A Sun",
@@ -208,20 +200,20 @@
     "imdb_id": "tt10883506"
   },
   {
+    "title": "Dust in the Wind",
+    "release_year": "1986",
+    "clean_title": "/film/dust-in-the-wind/",
+    "adult": false,
+    "id": 45996,
+    "imdb_id": "tt0091406"
+  },
+  {
     "title": "The Great Buddha+",
     "release_year": "2017",
     "clean_title": "/film/the-great-buddha-2017/",
     "adult": false,
     "id": 475149,
     "imdb_id": "tt7010412"
-  },
-  {
-    "title": "The River",
-    "release_year": "1997",
-    "clean_title": "/film/the-river-1997/",
-    "adult": false,
-    "id": 54291,
-    "imdb_id": "tt0119263"
   },
   {
     "title": "A Summer at Grandpa's",
@@ -232,22 +224,6 @@
     "imdb_id": "tt0087164"
   },
   {
-    "title": "The Puppetmaster",
-    "release_year": "1993",
-    "clean_title": "/film/the-puppetmaster/",
-    "adult": false,
-    "id": 96712,
-    "imdb_id": "tt0107157"
-  },
-  {
-    "title": "Flowers of Shanghai",
-    "release_year": "1998",
-    "clean_title": "/film/flowers-of-shanghai/",
-    "adult": false,
-    "id": 45935,
-    "imdb_id": "tt0156587"
-  },
-  {
     "title": "Taipei Suicide Story",
     "release_year": "2020",
     "clean_title": "/film/taipei-suicide-story/",
@@ -256,12 +232,12 @@
     "imdb_id": "tt11232334"
   },
   {
-    "title": "Goodbye South, Goodbye",
-    "release_year": "1996",
-    "clean_title": "/film/goodbye-south-goodbye/",
+    "title": "The River",
+    "release_year": "1997",
+    "clean_title": "/film/the-river-1997/",
     "adult": false,
-    "id": 88811,
-    "imdb_id": "tt0117151"
+    "id": 54291,
+    "imdb_id": "tt0119263"
   },
   {
     "title": "Left-Handed Girl",
@@ -272,20 +248,12 @@
     "imdb_id": "tt27722618"
   },
   {
-    "title": "Stray Dogs",
-    "release_year": "2013",
-    "clean_title": "/film/stray-dogs-2013/",
+    "title": "Goodbye South, Goodbye",
+    "release_year": "1996",
+    "clean_title": "/film/goodbye-south-goodbye/",
     "adult": false,
-    "id": 209840,
-    "imdb_id": "tt3119416"
-  },
-  {
-    "title": "Raining in the Mountain",
-    "release_year": "1979",
-    "clean_title": "/film/raining-in-the-mountain/",
-    "adult": false,
-    "id": 76294,
-    "imdb_id": "tt0192213"
+    "id": 88811,
+    "imdb_id": "tt0117151"
   },
   {
     "title": "Dear Ex",
@@ -296,20 +264,44 @@
     "imdb_id": "tt8443704"
   },
   {
+    "title": "Flowers of Shanghai",
+    "release_year": "1998",
+    "clean_title": "/film/flowers-of-shanghai/",
+    "adult": false,
+    "id": 45935,
+    "imdb_id": "tt0156587"
+  },
+  {
+    "title": "Raining in the Mountain",
+    "release_year": "1979",
+    "clean_title": "/film/raining-in-the-mountain/",
+    "adult": false,
+    "id": 76294,
+    "imdb_id": "tt0192213"
+  },
+  {
+    "title": "Stray Dogs",
+    "release_year": "2013",
+    "clean_title": "/film/stray-dogs-2013/",
+    "adult": false,
+    "id": 209840,
+    "imdb_id": "tt3119416"
+  },
+  {
+    "title": "The Puppetmaster",
+    "release_year": "1993",
+    "clean_title": "/film/the-puppetmaster/",
+    "adult": false,
+    "id": 96712,
+    "imdb_id": "tt0107157"
+  },
+  {
     "title": "The Fate of Lee Khan",
     "release_year": "1973",
     "clean_title": "/film/the-fate-of-lee-khan/",
     "adult": false,
     "id": 192871,
     "imdb_id": "tt0070942"
-  },
-  {
-    "title": "I Don't Want to Sleep Alone",
-    "release_year": "2006",
-    "clean_title": "/film/i-dont-want-to-sleep-alone/",
-    "adult": false,
-    "id": 12130,
-    "imdb_id": "tt0855824"
   },
   {
     "title": "Dead Talents Society",
@@ -320,14 +312,6 @@
     "imdb_id": "tt17079606"
   },
   {
-    "title": "Blue Gate Crossing",
-    "release_year": "2002",
-    "clean_title": "/film/blue-gate-crossing/",
-    "adult": false,
-    "id": 44708,
-    "imdb_id": "tt0333764"
-  },
-  {
     "title": "Three Times",
     "release_year": "2005",
     "clean_title": "/film/three-times/",
@@ -336,12 +320,28 @@
     "imdb_id": "tt0459666"
   },
   {
-    "title": "A Borrowed Life",
-    "release_year": "1994",
-    "clean_title": "/film/a-borrowed-life/",
+    "title": "Blue Gate Crossing",
+    "release_year": "2002",
+    "clean_title": "/film/blue-gate-crossing/",
     "adult": false,
-    "id": 163202,
-    "imdb_id": "tt0109691"
+    "id": 44708,
+    "imdb_id": "tt0333764"
+  },
+  {
+    "title": "Our Times",
+    "release_year": "2015",
+    "clean_title": "/film/our-times-2015/",
+    "adult": false,
+    "id": 354072,
+    "imdb_id": "tt4967094"
+  },
+  {
+    "title": "I Don't Want to Sleep Alone",
+    "release_year": "2006",
+    "clean_title": "/film/i-dont-want-to-sleep-alone/",
+    "adult": false,
+    "id": 12130,
+    "imdb_id": "tt0855824"
   },
   {
     "title": "Millennium Mambo",
@@ -376,28 +376,12 @@
     "imdb_id": "tt0071324"
   },
   {
-    "title": "The End of the Track",
-    "release_year": "1970",
-    "clean_title": "/film/the-end-of-the-track/",
+    "title": "A Borrowed Life",
+    "release_year": "1994",
+    "clean_title": "/film/a-borrowed-life/",
     "adult": false,
-    "id": 523349,
-    "imdb_id": "tt11193012"
-  },
-  {
-    "title": "Our Times",
-    "release_year": "2015",
-    "clean_title": "/film/our-times-2015/",
-    "adult": false,
-    "id": 354072,
-    "imdb_id": "tt4967094"
-  },
-  {
-    "title": "Dust of Angels",
-    "release_year": "1992",
-    "clean_title": "/film/dust-of-angels/",
-    "adult": false,
-    "id": 205464,
-    "imdb_id": "tt0105382"
+    "id": 163202,
+    "imdb_id": "tt0109691"
   },
   {
     "title": "Days",
@@ -408,6 +392,14 @@
     "imdb_id": "tt11697820"
   },
   {
+    "title": "Dust of Angels",
+    "release_year": "1992",
+    "clean_title": "/film/dust-of-angels/",
+    "adult": false,
+    "id": 205464,
+    "imdb_id": "tt0105382"
+  },
+  {
     "title": "The Boys from Fengkuei",
     "release_year": "1983",
     "clean_title": "/film/the-boys-from-fengkuei/",
@@ -416,28 +408,20 @@
     "imdb_id": "tt0085533"
   },
   {
-    "title": "Grandma and Her Ghosts",
-    "release_year": "1998",
-    "clean_title": "/film/grandma-and-her-ghosts/",
+    "title": "American Girl",
+    "release_year": "2021",
+    "clean_title": "/film/american-girl-2021/",
     "adult": false,
-    "id": 232468,
-    "imdb_id": "tt0223391"
+    "id": 878987,
+    "imdb_id": "tt15620158"
   },
   {
-    "title": "Murmur of Youth",
-    "release_year": "1997",
-    "clean_title": "/film/murmur-of-youth/",
+    "title": "The End of the Track",
+    "release_year": "1970",
+    "clean_title": "/film/the-end-of-the-track/",
     "adult": false,
-    "id": 125085,
-    "imdb_id": "tt0119733"
-  },
-  {
-    "title": "The Wayward Cloud",
-    "release_year": "2005",
-    "clean_title": "/film/the-wayward-cloud/",
-    "adult": false,
-    "id": 36253,
-    "imdb_id": "tt0445760"
+    "id": 523349,
+    "imdb_id": "tt11193012"
   },
   {
     "title": "Daughter of the Nile",
@@ -448,12 +432,20 @@
     "imdb_id": "tt0093633"
   },
   {
-    "title": "American Girl",
-    "release_year": "2021",
-    "clean_title": "/film/american-girl-2021/",
+    "title": "Murmur of Youth",
+    "release_year": "1997",
+    "clean_title": "/film/murmur-of-youth/",
     "adult": false,
-    "id": 878987,
-    "imdb_id": "tt15620158"
+    "id": 125085,
+    "imdb_id": "tt0119733"
+  },
+  {
+    "title": "Man in Love",
+    "release_year": "2021",
+    "clean_title": "/film/man-in-love-2021/",
+    "adult": false,
+    "id": 797787,
+    "imdb_id": "tt14428606"
   },
   {
     "title": "Good Men, Good Women",
@@ -472,36 +464,20 @@
     "imdb_id": "tt0072913"
   },
   {
-    "title": "Growing Up",
-    "release_year": "1983",
-    "clean_title": "/film/growing-up/",
+    "title": "The Wayward Cloud",
+    "release_year": "2005",
+    "clean_title": "/film/the-wayward-cloud/",
     "adult": false,
-    "id": 176656,
-    "imdb_id": "tt0085695"
+    "id": 36253,
+    "imdb_id": "tt0445760"
   },
   {
-    "title": "Dear Tenant",
-    "release_year": "2020",
-    "clean_title": "/film/dear-tenant/",
+    "title": "Grandma and Her Ghosts",
+    "release_year": "1998",
+    "clean_title": "/film/grandma-and-her-ghosts/",
     "adult": false,
-    "id": 721482,
-    "imdb_id": "tt12359272"
-  },
-  {
-    "title": "Help Me, Eros",
-    "release_year": "2007",
-    "clean_title": "/film/help-me-eros/",
-    "adult": false,
-    "id": 54326,
-    "imdb_id": "tt1076251"
-  },
-  {
-    "title": "Man in Love",
-    "release_year": "2021",
-    "clean_title": "/film/man-in-love-2021/",
-    "adult": false,
-    "id": 797787,
-    "imdb_id": "tt14428606"
+    "id": 232468,
+    "imdb_id": "tt0223391"
   },
   {
     "title": "The Dull-Ice Flower",
@@ -512,44 +488,12 @@
     "imdb_id": "tt0097791"
   },
   {
-    "title": "Yen and Ai-Lee",
-    "release_year": "2024",
-    "clean_title": "/film/yen-and-ai-lee/",
+    "title": "Dear Tenant",
+    "release_year": "2020",
+    "clean_title": "/film/dear-tenant/",
     "adult": false,
-    "id": 1084740,
-    "imdb_id": "tt33290581"
-  },
-  {
-    "title": "Café Lumière",
-    "release_year": "2003",
-    "clean_title": "/film/cafe-lumiere/",
-    "adult": false,
-    "id": 52512,
-    "imdb_id": "tt0412596"
-  },
-  {
-    "title": "Strawman",
-    "release_year": "1987",
-    "clean_title": "/film/strawman/",
-    "adult": false,
-    "id": 176664,
-    "imdb_id": "tt0092829"
-  },
-  {
-    "title": "Thunderbolt Fantasy: Bewitching Melody of the West",
-    "release_year": "2019",
-    "clean_title": "/film/thunderbolt-fantasy-bewitching-melody-of-the-west/",
-    "adult": false,
-    "id": 642586,
-    "imdb_id": "tt12072206"
-  },
-  {
-    "title": "The Bold, the Corrupt and the Beautiful",
-    "release_year": "2017",
-    "clean_title": "/film/the-bold-the-corrupt-and-the-beautiful/",
-    "adult": false,
-    "id": 478804,
-    "imdb_id": "tt7479784"
+    "id": 721482,
+    "imdb_id": "tt12359272"
   },
   {
     "title": "A Foggy Tale",
@@ -560,12 +504,68 @@
     "imdb_id": "tt32080855"
   },
   {
+    "title": "Thunderbolt Fantasy: Bewitching Melody of the West",
+    "release_year": "2019",
+    "clean_title": "/film/thunderbolt-fantasy-bewitching-melody-of-the-west/",
+    "adult": false,
+    "id": 642586,
+    "imdb_id": "tt12072206"
+  },
+  {
+    "title": "Help Me, Eros",
+    "release_year": "2007",
+    "clean_title": "/film/help-me-eros/",
+    "adult": false,
+    "id": 54326,
+    "imdb_id": "tt1076251"
+  },
+  {
+    "title": "Café Lumière",
+    "release_year": "2003",
+    "clean_title": "/film/cafe-lumiere/",
+    "adult": false,
+    "id": 52512,
+    "imdb_id": "tt0412596"
+  },
+  {
+    "title": "Yen and Ai-Lee",
+    "release_year": "2024",
+    "clean_title": "/film/yen-and-ai-lee/",
+    "adult": false,
+    "id": 1084740,
+    "imdb_id": "tt33290581"
+  },
+  {
+    "title": "Growing Up",
+    "release_year": "1983",
+    "clean_title": "/film/growing-up/",
+    "adult": false,
+    "id": 176656,
+    "imdb_id": "tt0085695"
+  },
+  {
+    "title": "The Bold, the Corrupt and the Beautiful",
+    "release_year": "2017",
+    "clean_title": "/film/the-bold-the-corrupt-and-the-beautiful/",
+    "adult": false,
+    "id": 478804,
+    "imdb_id": "tt7479784"
+  },
+  {
     "title": "Double Happiness",
     "release_year": "2025",
     "clean_title": "/film/double-happiness-2025/",
     "adult": false,
     "id": 1536559,
     "imdb_id": "tt38067963"
+  },
+  {
+    "title": "Strawman",
+    "release_year": "1987",
+    "clean_title": "/film/strawman/",
+    "adult": false,
+    "id": 176664,
+    "imdb_id": "tt0092829"
   },
   {
     "title": "Red Persimmon",
@@ -576,14 +576,6 @@
     "imdb_id": "tt0116558"
   },
   {
-    "title": "Darkness and Light",
-    "release_year": "1999",
-    "clean_title": "/film/darkness-and-light/",
-    "adult": false,
-    "id": 176651,
-    "imdb_id": "tt0200689"
-  },
-  {
     "title": "Little Big Women",
     "release_year": "2020",
     "clean_title": "/film/little-big-women/",
@@ -592,20 +584,20 @@
     "imdb_id": "tt12397078"
   },
   {
-    "title": "GAGA",
-    "release_year": "2022",
-    "clean_title": "/film/gaga/",
-    "adult": false,
-    "id": 975812,
-    "imdb_id": "tt22370990"
-  },
-  {
     "title": "You Are the Apple of My Eye",
     "release_year": "2011",
     "clean_title": "/film/you-are-the-apple-of-my-eye/",
     "adult": false,
     "id": 84111,
     "imdb_id": "tt2036416"
+  },
+  {
+    "title": "Darkness and Light",
+    "release_year": "1999",
+    "clean_title": "/film/darkness-and-light/",
+    "adult": false,
+    "id": 176651,
+    "imdb_id": "tt0200689"
   },
   {
     "title": "Secret Love in Peach Blossom Land",
@@ -624,20 +616,12 @@
     "imdb_id": "tt2007993"
   },
   {
-    "title": "Love Go Go",
-    "release_year": "1997",
-    "clean_title": "/film/love-go-go/",
+    "title": "A Balloon's Landing",
+    "release_year": "2024",
+    "clean_title": "/film/a-balloons-landing/",
     "adult": false,
-    "id": 476545,
-    "imdb_id": "tt0168973"
-  },
-  {
-    "title": "The Deserted",
-    "release_year": "2017",
-    "clean_title": "/film/the-deserted/",
-    "adult": false,
-    "id": 476896,
-    "imdb_id": "tt7448726"
+    "id": 1214266,
+    "imdb_id": "tt31843865"
   },
   {
     "title": "Boys on the Bridge",
@@ -648,12 +632,60 @@
     "imdb_id": "tt27687641"
   },
   {
+    "title": "GAGA",
+    "release_year": "2022",
+    "clean_title": "/film/gaga/",
+    "adult": false,
+    "id": 975812,
+    "imdb_id": "tt22370990"
+  },
+  {
+    "title": "The Sandwich Man",
+    "release_year": "1983",
+    "clean_title": "/film/the-sandwich-man-1983/",
+    "adult": false,
+    "id": 176650,
+    "imdb_id": "tt0085503"
+  },
+  {
+    "title": "The Deserted",
+    "release_year": "2017",
+    "clean_title": "/film/the-deserted/",
+    "adult": false,
+    "id": 476896,
+    "imdb_id": "tt7448726"
+  },
+  {
+    "title": "Love Go Go",
+    "release_year": "1997",
+    "clean_title": "/film/love-go-go/",
+    "adult": false,
+    "id": 476545,
+    "imdb_id": "tt0168973"
+  },
+  {
     "title": "KANO",
     "release_year": "2014",
     "clean_title": "/film/kano-2014/",
     "adult": false,
     "id": 256930,
     "imdb_id": "tt2247566"
+  },
+  {
+    "title": "Kuei-mei, a Woman",
+    "release_year": "1985",
+    "clean_title": "/film/kuei-mei-a-woman/",
+    "adult": false,
+    "id": 256133,
+    "imdb_id": "tt0092231"
+  },
+  {
+    "title": "Old Fox",
+    "release_year": "2023",
+    "clean_title": "/film/old-fox/",
+    "adult": false,
+    "id": 1006012,
+    "imdb_id": "tt29452517"
   },
   {
     "title": "Super Citizen Ko",
@@ -664,20 +696,12 @@
     "imdb_id": "tt0112659"
   },
   {
-    "title": "Banana Paradise",
-    "release_year": "1989",
-    "clean_title": "/film/banana-paradise/",
+    "title": "Hear Me",
+    "release_year": "2009",
+    "clean_title": "/film/hear-me/",
     "adult": false,
-    "id": 262831,
-    "imdb_id": "tt0490518"
-  },
-  {
-    "title": "Kuei-mei, a Woman",
-    "release_year": "1985",
-    "clean_title": "/film/kuei-mei-a-woman/",
-    "adult": false,
-    "id": 256133,
-    "imdb_id": "tt0092231"
+    "id": 41531,
+    "imdb_id": "tt1562328"
   },
   {
     "title": "Thrilling Bloody Sword",
@@ -696,20 +720,12 @@
     "imdb_id": "tt4164468"
   },
   {
-    "title": "The Sandwich Man",
-    "release_year": "1983",
-    "clean_title": "/film/the-sandwich-man-1983/",
+    "title": "The Pig, the Snake and the Pigeon",
+    "release_year": "2023",
+    "clean_title": "/film/the-pig-the-snake-and-the-pigeon/",
     "adult": false,
-    "id": 176650,
-    "imdb_id": "tt0085503"
-  },
-  {
-    "title": "Hear Me",
-    "release_year": "2009",
-    "clean_title": "/film/hear-me/",
-    "adult": false,
-    "id": 41531,
-    "imdb_id": "tt1562328"
+    "id": 1046090,
+    "imdb_id": "tt29319990"
   },
   {
     "title": "Visage",
@@ -720,28 +736,20 @@
     "imdb_id": "tt1262420"
   },
   {
+    "title": "Banana Paradise",
+    "release_year": "1989",
+    "clean_title": "/film/banana-paradise/",
+    "adult": false,
+    "id": 262831,
+    "imdb_id": "tt0490518"
+  },
+  {
     "title": "Execution in Autumn",
     "release_year": "1972",
     "clean_title": "/film/execution-in-autumn/",
     "adult": false,
     "id": 176633,
     "imdb_id": "tt1033618"
-  },
-  {
-    "title": "A Balloon's Landing",
-    "release_year": "2024",
-    "clean_title": "/film/a-balloons-landing/",
-    "adult": false,
-    "id": 1214266,
-    "imdb_id": "tt31843865"
-  },
-  {
-    "title": "The Personals",
-    "release_year": "1998",
-    "clean_title": "/film/the-personals/",
-    "adult": false,
-    "id": 77825,
-    "imdb_id": "tt0212423"
   },
   {
     "title": "One-Armed Boxer",
@@ -752,6 +760,14 @@
     "imdb_id": "tt0067009"
   },
   {
+    "title": "In Our Time",
+    "release_year": "1982",
+    "clean_title": "/film/in-our-time-1982/",
+    "adult": false,
+    "id": 130922,
+    "imdb_id": "tt0085626"
+  },
+  {
     "title": "A Heroic Fight",
     "release_year": "1986",
     "clean_title": "/film/a-heroic-fight/",
@@ -760,28 +776,12 @@
     "imdb_id": "tt0099766"
   },
   {
-    "title": "Old Fox",
-    "release_year": "2023",
-    "clean_title": "/film/old-fox/",
+    "title": "Lovesick",
+    "release_year": "2025",
+    "clean_title": "/film/lovesick-2025/",
     "adult": false,
-    "id": 1006012,
-    "imdb_id": "tt29452517"
-  },
-  {
-    "title": "Ah Fei",
-    "release_year": "1983",
-    "clean_title": "/film/ah-fei/",
-    "adult": false,
-    "id": 272122,
-    "imdb_id": "tt0337507"
-  },
-  {
-    "title": "In Our Time",
-    "release_year": "1982",
-    "clean_title": "/film/in-our-time-1982/",
-    "adult": false,
-    "id": 130922,
-    "imdb_id": "tt0085626"
+    "id": 1321139,
+    "imdb_id": "tt35933611"
   },
   {
     "title": "Thunderbolt Fantasy: The Sword of Life and Death",

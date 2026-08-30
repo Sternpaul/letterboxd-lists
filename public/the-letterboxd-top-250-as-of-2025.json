@@ -689,8 +689,8 @@
   },
   {
     "title": "War and Peace",
-    "release_year": "1965",
-    "clean_title": "/film/war-and-peace-1965/",
+    "release_year": "1967",
+    "clean_title": "/film/war-and-peace-1967/",
     "adult": false,
     "id": 29266,
     "imdb_id": "tt0063794"
@@ -798,6 +798,41 @@
     "adult": false,
     "id": 705,
     "imdb_id": "tt0042192"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   },
   {
     "title": "Ordet",
@@ -1600,6 +1635,41 @@
     "imdb_id": "tt0053779"
   },
   {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
     "title": "Who's Afraid of Virginia Woolf?",
     "release_year": "1966",
     "clean_title": "/film/whos-afraid-of-virginia-woolf/",
@@ -1998,5 +2068,40 @@
     "adult": false,
     "id": 41077,
     "imdb_id": "tt0083931"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   }
 ]

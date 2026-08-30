@@ -800,6 +800,41 @@
     "imdb_id": "tt0064040"
   },
   {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
     "title": "Poor Things",
     "release_year": "2023",
     "clean_title": "/film/poor-things-2023/",
@@ -1201,8 +1236,8 @@
   },
   {
     "title": "War and Peace",
-    "release_year": "1965",
-    "clean_title": "/film/war-and-peace-1965/",
+    "release_year": "1967",
+    "clean_title": "/film/war-and-peace-1967/",
     "adult": false,
     "id": 29266,
     "imdb_id": "tt0063794"
@@ -1598,6 +1633,41 @@
     "adult": false,
     "id": 548,
     "imdb_id": "tt0042876"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   },
   {
     "title": "Cure",
@@ -1998,5 +2068,40 @@
     "adult": false,
     "id": 497,
     "imdb_id": "tt0120689"
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "",
+    "release_year": "",
+    "clean_title": "/",
+    "adult": false,
+    "id": 0
   }
 ]
