@@ -1972,5 +1972,19 @@
     "rating": 2,
     "id": 1315772,
     "imdb_id": "tt32890033"
+  },
+  {
+    "title": "Bruce Almighty",
+    "clean_title": "/film/bruce-almighty/",
+    "rating": 2.5,
+    "id": 310,
+    "imdb_id": "tt0315327"
+  },
+  {
+    "title": "Wall Street",
+    "clean_title": "/film/wall-street/",
+    "rating": 3,
+    "id": 10673,
+    "imdb_id": "tt0094291"
   }
 ]
