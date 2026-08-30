@@ -77,9 +77,10 @@ jobs:
           git add -f public/*.json
           git add -f index.html
           git add src/scraper/last_scraped.json
+          git add src/scraper/movie_cache.json
           git add lists_directory.md
           git commit -m "Manual scrape: update non-daily lists (${{ inputs.category }})" || echo "No changes to commit"
-          git pull --rebase origin master
+          git pull --rebase --autostash origin master
           git push origin master
 
       - name: Notify Discord on completion

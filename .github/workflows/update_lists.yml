@@ -107,9 +107,10 @@ jobs:
           git add -f public/*.json
           git add -f index.html
           git add src/scraper/last_scraped.json
+          git add src/scraper/movie_cache.json
           git add lists_directory.md
           git commit -m "Update movie lists" || exit 0
-          git pull --rebase
+          git pull --rebase --autostash
           git push
 
       - name: Upload artifact
