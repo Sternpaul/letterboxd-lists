@@ -10,7 +10,8 @@ import {
     NEXT_PAGE_REGEX,
     normalizeSlug,
     loadMovieCache,
-    saveMovieCache
+    saveMovieCache,
+    isCacheStale
 } from './utils.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -108,24 +109,22 @@ async function main() {
     const movieCache = loadMovieCache();
     let cacheUpdated = false;
 
-    // Identify slugs that are genuinely missing from both existing list file and global cache
+    // Identify slugs that are missing from cache or need fresh verification (e.g. new, missing TMDb, tentative name)
     const toFetchSlugs = [];
     for (const slug of slugs) {
         const norm = normalizeSlug(slug);
         const inExisting = existingMap.get(norm);
         const inCache = movieCache[norm];
+        const movie = (inExisting || inCache) ? { ...(inExisting || {}), ...(inCache || {}) } : null;
 
-        const hasValidData = (inExisting && inExisting.title && inExisting.id !== undefined) ||
-                             (inCache && inCache.title && inCache.id !== undefined);
-
-        if (!hasValidData) {
+        if (!movie || isCacheStale(movie)) {
             toFetchSlugs.push(slug);
         }
     }
 
     const cachedCount = slugs.length - toFetchSlugs.length;
     if (toFetchSlugs.length > 0) {
-        console.log(`Found ${slugs.length} movies (${cachedCount} cached, ${toFetchSlugs.length} new). Fetching details...`);
+        console.log(`Found ${slugs.length} movies (${cachedCount} cached, ${toFetchSlugs.length} new/refreshed). Fetching details...`);
         const limit = pLimit(3);
         await Promise.all(
             toFetchSlugs.map(slug => limit(async () => {
@@ -140,7 +139,8 @@ async function main() {
                         clean_title: slug.startsWith('/') ? slug : `/${slug}`,
                         adult: false,
                         id: tmdbId,
-                        imdb_id: detail.imdb || null
+                        imdb_id: detail.imdb || null,
+                        cached_at: new Date().toISOString()
                     };
                     movieCache[norm] = record;
                     existingMap.set(norm, record);
@@ -157,11 +157,12 @@ async function main() {
     }
 
     // Build the radarrData array preserving original list order
+    // ZERO-DROP GUARANTEE: Every single slug from Letterboxd will have an entry in radarrData
     const radarrData = [];
     for (const slug of slugs) {
         const norm = normalizeSlug(slug);
         const movie = existingMap.get(norm) || movieCache[norm];
-        if (movie) {
+        if (movie && movie.title) {
             const formattedSlug = movie.clean_title
                 ? (movie.clean_title.startsWith('/') ? movie.clean_title : `/${movie.clean_title}`)
                 : (slug.startsWith('/') ? slug : `/${slug}`);
@@ -177,6 +178,19 @@ async function main() {
                 payload.imdb_id = movie.imdb_id;
             }
             radarrData.push(payload);
+        } else {
+            // Fallback so no movie is ever omitted, even if Letterboxd network fails
+            const fallbackTitle = norm
+                .split('-')
+                .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+                .join(' ');
+            radarrData.push({
+                title: fallbackTitle,
+                release_year: '',
+                clean_title: slug.startsWith('/') ? slug : `/${slug}`,
+                adult: false,
+                id: 0
+            });
         }
     }
     

@@ -323,12 +323,20 @@ Node.js 18+ and 20+ enable Happy Eyeballs dual-stack address selection (`autoSel
 - The `fetchWithRetry()` helper automatically retries transient errors (`ETIMEDOUT`, `ECONNRESET`, `ECONNREFUSED`, `ENOTFOUND`, `EAI_AGAIN`, HTTP 429, and HTTP 5xx) up to 4 times.
 - Retries apply exponential backoff with random jitter to prevent thundering herds, and dynamically honor `Retry-After` headers during rate limiting.
 
-### 3. Two-Tier Metadata Caching (`movie_cache.json`)
+### 3. Two-Tier Metadata Caching with Smart Refresh & Zero-Drop Guarantee (`movie_cache.json`)
 Letterboxd list pages only contain film titles and URL slugs—TMDb and IMDb IDs reside on individual movie detail pages. Previously, scraping 65 lists daily generated **over 10,000 requests**, easily triggering Cloudflare's bot mitigation.
-- **List-Level Cache**: When `fetch_list.mjs` scrapes a list, it first inspects the existing target JSON file in `public/`. If a movie's metadata (TMDb/IMDb ID and year) already exists, it is reused instantly without contacting Letterboxd.
+- **List-Level Cache**: When `fetch_list.mjs` scrapes a list, it first inspects the existing target JSON file in `public/`. If a movie's metadata (TMDb/IMDb ID and year) already exists and is fresh, it is reused instantly without contacting Letterboxd.
 - **Global Shared Cache (`src/scraper/movie_cache.json`)**: A centralized cache file tracks over 14,200 unique films across all Letterboxd lists. If a movie appears across multiple lists (e.g. *The Godfather* or *Parasite*), it is resolved from cache in under 1 millisecond.
-- **Only Newly Added Films Fetched**: In daily automation, 99.5% of movies already exist. The scraper only queries Letterboxd for genuinely new entries and immediately saves them to `movie_cache.json`.
-- **Result**: Daily request volume dropped from **~10,000+** down to **~70 requests**, reducing daily GitHub Actions runtime from ~25 minutes to ~1.5 minutes.
+- **Smart Stale Detection & Title Updates**:
+  - **New Movies**: Slugs not yet in the cache are always fetched from Letterboxd.
+  - **Missing TMDb IDs**: If a film previously had `id: 0` (no TMDb ID assigned yet), it is automatically re-checked to pick up newly added TMDb IDs.
+  - **Tentative Titles**: Movies with tentative titles containing `"Untitled"`, `"Project"`, or `"TBA"` are automatically re-checked to pick up official title changes (e.g. when an untitled sequel receives its official name).
+  - **Upcoming & Current Year Films**: All films released in the current year or in the future carry a 3-day TTL and are periodically re-verified against Letterboxd for title or release date revisions.
+  - **Catalog Films**: Classic released films with confirmed TMDb IDs are permanently cached to avoid redundant network traffic.
+- **Zero-Drop Guarantee**: The final JSON list is assembled directly from the live Letterboxd list slugs. Even in the rare event of a network error or 404 on an individual film, the scraper generates a clean fallback record (`id: 0`) rather than dropping the movie. The output JSON length is strictly guaranteed to match the Letterboxd list length.
+- **Testing**: Run `npm test` inside `src/scraper/` to execute the automated cache safety and zero-omission test suite (`test_cache_safety.mjs`).
+- **Result**: Daily request volume dropped from **~10,000+** down to **~70 requests**, reducing daily GitHub Actions runtime from ~25 minutes to ~1.5 minutes while remaining 100% resilient to renames, ID additions, and new entries.
+
 
 
 

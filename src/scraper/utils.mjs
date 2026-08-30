@@ -137,6 +137,48 @@ export function normalizeSlug(slug) {
 }
 
 /**
+ * Evaluates whether a cached movie record should be refreshed from Letterboxd.
+ * - Missing TMDb ID (id === 0 or missing): needs refresh to attempt finding TMDb ID.
+ * - Missing title: needs refresh.
+ * - Tentative titles ("untitled", "project", "tba", "tbd"): needs refresh for official title updates.
+ * - Recent or upcoming movies (current year or future, or no release year):
+ *   refresh if cached more than 3 days ago.
+ */
+export function isCacheStale(movie) {
+    if (!movie || !movie.title) return true;
+    
+    // 1. If TMDb ID is missing (0), retry to see if Letterboxd linked TMDb
+    if (!movie.id || movie.id === 0) return true;
+
+    // 2. If title contains tentative keywords like "Untitled", "Project", "TBA"
+    const lowerTitle = movie.title.toLowerCase();
+    if (
+        lowerTitle.includes('untitled') ||
+        lowerTitle.includes('project') ||
+        lowerTitle.includes('tba') ||
+        lowerTitle.includes('tbd')
+    ) {
+        return true;
+    }
+
+    // 3. If upcoming or current year film, check TTL (refresh every 3 days)
+    const currentYear = new Date().getFullYear();
+    const movieYear = parseInt(movie.release_year, 10);
+    const isUpcomingOrCurrent = !movieYear || isNaN(movieYear) || movieYear >= (currentYear - 1);
+
+    if (isUpcomingOrCurrent) {
+        if (!movie.cached_at) return true;
+        const cachedDate = new Date(movie.cached_at);
+        const ageInDays = (Date.now() - cachedDate.getTime()) / (1000 * 60 * 60 * 24);
+        if (ageInDays >= 3) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
+/**
  * Loads the shared movie cache from disk.
  */
 export function loadMovieCache() {

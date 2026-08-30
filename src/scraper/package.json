@@ -4,6 +4,9 @@
   "description": "Scrape Letterboxd lists for Radarr",
   "main": "fetch_list.mjs",
   "type": "module",
+  "scripts": {
+    "test": "node test_cache_safety.mjs"
+  },
   "dependencies": {
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
