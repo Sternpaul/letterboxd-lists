@@ -2,14 +2,14 @@
   {
     "title": "AVATAR",
     "release_year": "2009",
-    "clean_title": "film/avatar-2009/",
+    "clean_title": "/film/avatar-2009/",
     "adult": false,
     "id": 1632524
   },
   {
     "title": "Avengers: Endgame",
     "release_year": "2019",
-    "clean_title": "film/avengers-endgame/",
+    "clean_title": "/film/avengers-endgame/",
     "adult": false,
     "id": 299534,
     "imdb_id": "tt4154796"
@@ -17,31 +17,31 @@
   {
     "title": "Avatar: The Way of Water",
     "release_year": "2022",
-    "clean_title": "film/avatar-the-way-of-water/",
+    "clean_title": "/film/avatar-the-way-of-water/",
     "adult": false,
     "id": 76600,
     "imdb_id": "tt1630029"
   },
   {
-    "title": "Titanic",
-    "release_year": "1997",
-    "clean_title": "film/titanic-1997/",
-    "adult": false,
-    "id": 597,
-    "imdb_id": "tt0120338"
-  },
-  {
     "title": "Spider-Man: Brand New Day",
     "release_year": "2026",
-    "clean_title": "film/spider-man-brand-new-day/",
+    "clean_title": "/film/spider-man-brand-new-day/",
     "adult": false,
     "id": 969681,
     "imdb_id": "tt22084616"
   },
   {
+    "title": "Titanic",
+    "release_year": "1997",
+    "clean_title": "/film/titanic-1997/",
+    "adult": false,
+    "id": 597,
+    "imdb_id": "tt0120338"
+  },
+  {
     "title": "Star Wars: The Force Awakens",
     "release_year": "2015",
-    "clean_title": "film/star-wars-the-force-awakens/",
+    "clean_title": "/film/star-wars-the-force-awakens/",
     "adult": false,
     "id": 140607,
     "imdb_id": "tt2488496"
@@ -49,7 +49,7 @@
   {
     "title": "Avengers: Infinity War",
     "release_year": "2018",
-    "clean_title": "film/avengers-infinity-war/",
+    "clean_title": "/film/avengers-infinity-war/",
     "adult": false,
     "id": 299536,
     "imdb_id": "tt4154756"
@@ -57,7 +57,7 @@
   {
     "title": "Ne Zha 2",
     "release_year": "2025",
-    "clean_title": "film/ne-zha-2/",
+    "clean_title": "/film/ne-zha-2/",
     "adult": false,
     "id": 980477,
     "imdb_id": "tt34956443"
@@ -65,7 +65,7 @@
   {
     "title": "Spider-Man: No Way Home",
     "release_year": "2021",
-    "clean_title": "film/spider-man-no-way-home/",
+    "clean_title": "/film/spider-man-no-way-home/",
     "adult": false,
     "id": 634649,
     "imdb_id": "tt10872600"
@@ -73,7 +73,7 @@
   {
     "title": "Zootopia 2",
     "release_year": "2025",
-    "clean_title": "film/zootopia-2/",
+    "clean_title": "/film/zootopia-2/",
     "adult": false,
     "id": 1084242,
     "imdb_id": "tt26443597"
@@ -81,7 +81,7 @@
   {
     "title": "Inside Out 2",
     "release_year": "2024",
-    "clean_title": "film/inside-out-2-2024/",
+    "clean_title": "/film/inside-out-2-2024/",
     "adult": false,
     "id": 1022789,
     "imdb_id": "tt22022452"
@@ -89,7 +89,7 @@
   {
     "title": "Jurassic World",
     "release_year": "2015",
-    "clean_title": "film/jurassic-world/",
+    "clean_title": "/film/jurassic-world/",
     "adult": false,
     "id": 135397,
     "imdb_id": "tt0369610"
@@ -97,7 +97,7 @@
   {
     "title": "The Lion King",
     "release_year": "2019",
-    "clean_title": "film/the-lion-king-2019/",
+    "clean_title": "/film/the-lion-king-2019/",
     "adult": false,
     "id": 420818,
     "imdb_id": "tt6105098"
@@ -105,7 +105,7 @@
   {
     "title": "The Avengers",
     "release_year": "2012",
-    "clean_title": "film/the-avengers-2012/",
+    "clean_title": "/film/the-avengers-2012/",
     "adult": false,
     "id": 24428,
     "imdb_id": "tt0848228"
@@ -113,7 +113,7 @@
   {
     "title": "Furious 7",
     "release_year": "2015",
-    "clean_title": "film/furious-7/",
+    "clean_title": "/film/furious-7/",
     "adult": false,
     "id": 168259,
     "imdb_id": "tt2820852"
@@ -121,15 +121,23 @@
   {
     "title": "Avatar: Fire and Ash",
     "release_year": "2025",
-    "clean_title": "film/avatar-fire-and-ash/",
+    "clean_title": "/film/avatar-fire-and-ash/",
     "adult": false,
     "id": 83533,
     "imdb_id": "tt1757678"
   },
   {
+    "title": "The Odyssey",
+    "release_year": "2026",
+    "clean_title": "/film/the-odyssey-2026/",
+    "adult": false,
+    "id": 1368337,
+    "imdb_id": "tt33764258"
+  },
+  {
     "title": "Top Gun: Maverick",
     "release_year": "2022",
-    "clean_title": "film/top-gun-maverick-2022/",
+    "clean_title": "/film/top-gun-maverick-2022/",
     "adult": false,
     "id": 361743,
     "imdb_id": "tt1745960"
@@ -137,7 +145,7 @@
   {
     "title": "Frozen II",
     "release_year": "2019",
-    "clean_title": "film/frozen-2/",
+    "clean_title": "/film/frozen-2/",
     "adult": false,
     "id": 330457,
     "imdb_id": "tt4520988"
@@ -145,7 +153,7 @@
   {
     "title": "Barbie",
     "release_year": "2023",
-    "clean_title": "film/barbie/",
+    "clean_title": "/film/barbie/",
     "adult": false,
     "id": 346698,
     "imdb_id": "tt1517268"
@@ -153,23 +161,15 @@
   {
     "title": "Avengers: Age of Ultron",
     "release_year": "2015",
-    "clean_title": "film/avengers-age-of-ultron/",
+    "clean_title": "/film/avengers-age-of-ultron/",
     "adult": false,
     "id": 99861,
     "imdb_id": "tt2395427"
   },
   {
-    "title": "The Odyssey",
-    "release_year": "2026",
-    "clean_title": "film/the-odyssey-2026/",
-    "adult": false,
-    "id": 1368337,
-    "imdb_id": "tt33764258"
-  },
-  {
     "title": "The Super Mario Bros. Movie",
     "release_year": "2023",
-    "clean_title": "film/the-super-mario-bros-movie/",
+    "clean_title": "/film/the-super-mario-bros-movie/",
     "adult": false,
     "id": 502356,
     "imdb_id": "tt6718170"
@@ -177,7 +177,7 @@
   {
     "title": "Deadpool & Wolverine",
     "release_year": "2024",
-    "clean_title": "film/deadpool-wolverine/",
+    "clean_title": "/film/deadpool-wolverine/",
     "adult": false,
     "id": 533535,
     "imdb_id": "tt6263850"
@@ -185,7 +185,7 @@
   {
     "title": "Black Panther",
     "release_year": "2018",
-    "clean_title": "film/black-panther-2018/",
+    "clean_title": "/film/black-panther-2018/",
     "adult": false,
     "id": 284054,
     "imdb_id": "tt1825683"
@@ -193,7 +193,7 @@
   {
     "title": "Star Wars: The Last Jedi",
     "release_year": "2017",
-    "clean_title": "film/star-wars-the-last-jedi/",
+    "clean_title": "/film/star-wars-the-last-jedi/",
     "adult": false,
     "id": 181808,
     "imdb_id": "tt2527336"
@@ -201,7 +201,7 @@
   {
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "release_year": "2011",
-    "clean_title": "film/harry-potter-and-the-deathly-hallows-part-2/",
+    "clean_title": "/film/harry-potter-and-the-deathly-hallows-part-2/",
     "adult": false,
     "id": 12445,
     "imdb_id": "tt1201607"
@@ -209,7 +209,7 @@
   {
     "title": "Jurassic World: Fallen Kingdom",
     "release_year": "2018",
-    "clean_title": "film/jurassic-world-fallen-kingdom/",
+    "clean_title": "/film/jurassic-world-fallen-kingdom/",
     "adult": false,
     "id": 351286,
     "imdb_id": "tt4881806"
@@ -217,7 +217,7 @@
   {
     "title": "Frozen",
     "release_year": "2013",
-    "clean_title": "film/frozen-2013/",
+    "clean_title": "/film/frozen-2013/",
     "adult": false,
     "id": 109445,
     "imdb_id": "tt2294629"
@@ -225,7 +225,7 @@
   {
     "title": "Beauty and the Beast",
     "release_year": "2017",
-    "clean_title": "film/beauty-and-the-beast-2017/",
+    "clean_title": "/film/beauty-and-the-beast-2017/",
     "adult": false,
     "id": 321612,
     "imdb_id": "tt2771200"
@@ -233,7 +233,7 @@
   {
     "title": "Incredibles 2",
     "release_year": "2018",
-    "clean_title": "film/incredibles-2/",
+    "clean_title": "/film/incredibles-2/",
     "adult": false,
     "id": 260513,
     "imdb_id": "tt3606756"
@@ -241,7 +241,7 @@
   {
     "title": "Iron Man 3",
     "release_year": "2013",
-    "clean_title": "film/iron-man-3/",
+    "clean_title": "/film/iron-man-3/",
     "adult": false,
     "id": 68721,
     "imdb_id": "tt1300854"
@@ -249,7 +249,7 @@
   {
     "title": "The Fate of the Furious",
     "release_year": "2017",
-    "clean_title": "film/the-fate-of-the-furious/",
+    "clean_title": "/film/the-fate-of-the-furious/",
     "adult": false,
     "id": 337339,
     "imdb_id": "tt4630562"
@@ -257,7 +257,7 @@
   {
     "title": "Minions",
     "release_year": "2015",
-    "clean_title": "film/minions/",
+    "clean_title": "/film/minions/",
     "adult": false,
     "id": 211672,
     "imdb_id": "tt2293640"
@@ -265,7 +265,7 @@
   {
     "title": "Captain America: Civil War",
     "release_year": "2016",
-    "clean_title": "film/captain-america-civil-war/",
+    "clean_title": "/film/captain-america-civil-war/",
     "adult": false,
     "id": 271110,
     "imdb_id": "tt3498820"
@@ -273,7 +273,7 @@
   {
     "title": "Aquaman",
     "release_year": "2018",
-    "clean_title": "film/aquaman-2018/",
+    "clean_title": "/film/aquaman-2018/",
     "adult": false,
     "id": 297802,
     "imdb_id": "tt1477834"
@@ -281,7 +281,7 @@
   {
     "title": "Spider-Man: Far From Home",
     "release_year": "2019",
-    "clean_title": "film/spider-man-far-from-home/",
+    "clean_title": "/film/spider-man-far-from-home/",
     "adult": false,
     "id": 429617,
     "imdb_id": "tt6320628"
@@ -289,15 +289,23 @@
   {
     "title": "Captain Marvel",
     "release_year": "2019",
-    "clean_title": "film/captain-marvel-2019/",
+    "clean_title": "/film/captain-marvel-2019/",
     "adult": false,
     "id": 299537,
     "imdb_id": "tt4154664"
   },
   {
+    "title": "Toy Story 5",
+    "release_year": "2026",
+    "clean_title": "/film/toy-story-5/",
+    "adult": false,
+    "id": 1084244,
+    "imdb_id": "tt29355505"
+  },
+  {
     "title": "The Lord of the Rings: The Return of the King",
     "release_year": "2003",
-    "clean_title": "film/the-lord-of-the-rings-the-return-of-the-king/",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
     "adult": false,
     "id": 122,
     "imdb_id": "tt0167260"
@@ -305,23 +313,15 @@
   {
     "title": "Transformers: Dark of the Moon",
     "release_year": "2011",
-    "clean_title": "film/transformers-dark-of-the-moon/",
+    "clean_title": "/film/transformers-dark-of-the-moon/",
     "adult": false,
     "id": 38356,
     "imdb_id": "tt1399103"
   },
   {
-    "title": "Toy Story 5",
-    "release_year": "2026",
-    "clean_title": "film/toy-story-5/",
-    "adult": false,
-    "id": 1084244,
-    "imdb_id": "tt29355505"
-  },
-  {
     "title": "Skyfall",
     "release_year": "2012",
-    "clean_title": "film/skyfall/",
+    "clean_title": "/film/skyfall/",
     "adult": false,
     "id": 37724,
     "imdb_id": "tt1074638"
@@ -329,7 +329,7 @@
   {
     "title": "Transformers: Age of Extinction",
     "release_year": "2014",
-    "clean_title": "film/transformers-age-of-extinction/",
+    "clean_title": "/film/transformers-age-of-extinction/",
     "adult": false,
     "id": 91314,
     "imdb_id": "tt2109248"
@@ -337,7 +337,7 @@
   {
     "title": "The Dark Knight Rises",
     "release_year": "2012",
-    "clean_title": "film/the-dark-knight-rises/",
+    "clean_title": "/film/the-dark-knight-rises/",
     "adult": false,
     "id": 49026,
     "imdb_id": "tt1345836"
@@ -345,7 +345,7 @@
   {
     "title": "Joker",
     "release_year": "2019",
-    "clean_title": "film/joker-2019/",
+    "clean_title": "/film/joker-2019/",
     "adult": false,
     "id": 475557,
     "imdb_id": "tt7286456"
@@ -353,7 +353,7 @@
   {
     "title": "Toy Story 4",
     "release_year": "2019",
-    "clean_title": "film/toy-story-4/",
+    "clean_title": "/film/toy-story-4/",
     "adult": false,
     "id": 301528,
     "imdb_id": "tt1979376"
@@ -361,7 +361,7 @@
   {
     "title": "Star Wars: The Rise of Skywalker",
     "release_year": "2019",
-    "clean_title": "film/star-wars-the-rise-of-skywalker/",
+    "clean_title": "/film/star-wars-the-rise-of-skywalker/",
     "adult": false,
     "id": 181812,
     "imdb_id": "tt2527338"
@@ -369,7 +369,7 @@
   {
     "title": "Toy Story 3",
     "release_year": "2010",
-    "clean_title": "film/toy-story-3/",
+    "clean_title": "/film/toy-story-3/",
     "adult": false,
     "id": 10193,
     "imdb_id": "tt0435761"
@@ -377,7 +377,7 @@
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
     "release_year": "2006",
-    "clean_title": "film/pirates-of-the-caribbean-dead-mans-chest/",
+    "clean_title": "/film/pirates-of-the-caribbean-dead-mans-chest/",
     "adult": false,
     "id": 58,
     "imdb_id": "tt0383574"
@@ -385,7 +385,7 @@
   {
     "title": "Moana 2",
     "release_year": "2024",
-    "clean_title": "film/moana-2/",
+    "clean_title": "/film/moana-2/",
     "adult": false,
     "id": 1241982,
     "imdb_id": "tt13622970"
@@ -393,7 +393,7 @@
   {
     "title": "Jurassic Park",
     "release_year": "1993",
-    "clean_title": "film/jurassic-park/",
+    "clean_title": "/film/jurassic-park/",
     "adult": false,
     "id": 329,
     "imdb_id": "tt0107290"
@@ -401,7 +401,7 @@
   {
     "title": "Rogue One: A Star Wars Story",
     "release_year": "2016",
-    "clean_title": "film/rogue-one-a-star-wars-story/",
+    "clean_title": "/film/rogue-one-a-star-wars-story/",
     "adult": false,
     "id": 330459,
     "imdb_id": "tt3748528"
@@ -409,7 +409,7 @@
   {
     "title": "Star Wars: Episode I – The Phantom Menace",
     "release_year": "1999",
-    "clean_title": "film/star-wars-episode-i-the-phantom-menace/",
+    "clean_title": "/film/star-wars-episode-i-the-phantom-menace/",
     "adult": false,
     "id": 1893,
     "imdb_id": "tt0120915"
@@ -417,7 +417,7 @@
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
     "release_year": "2011",
-    "clean_title": "film/pirates-of-the-caribbean-on-stranger-tides/",
+    "clean_title": "/film/pirates-of-the-caribbean-on-stranger-tides/",
     "adult": false,
     "id": 1865,
     "imdb_id": "tt1298650"
@@ -425,7 +425,7 @@
   {
     "title": "Aladdin",
     "release_year": "2019",
-    "clean_title": "film/aladdin-2019/",
+    "clean_title": "/film/aladdin-2019/",
     "adult": false,
     "id": 420817,
     "imdb_id": "tt6139732"
@@ -433,7 +433,7 @@
   {
     "title": "Lilo & Stitch",
     "release_year": "2025",
-    "clean_title": "film/lilo-stitch-2025/",
+    "clean_title": "/film/lilo-stitch-2025/",
     "adult": false,
     "id": 552524,
     "imdb_id": "tt11655566"
@@ -441,7 +441,7 @@
   {
     "title": "Despicable Me 3",
     "release_year": "2017",
-    "clean_title": "film/despicable-me-3/",
+    "clean_title": "/film/despicable-me-3/",
     "adult": false,
     "id": 324852,
     "imdb_id": "tt3469046"
@@ -449,7 +449,7 @@
   {
     "title": "Alice in Wonderland",
     "release_year": "2010",
-    "clean_title": "film/alice-in-wonderland-2010/",
+    "clean_title": "/film/alice-in-wonderland-2010/",
     "adult": false,
     "id": 12155,
     "imdb_id": "tt1014759"
@@ -457,7 +457,7 @@
   {
     "title": "Finding Dory",
     "release_year": "2016",
-    "clean_title": "film/finding-dory/",
+    "clean_title": "/film/finding-dory/",
     "adult": false,
     "id": 127380,
     "imdb_id": "tt2277860"
@@ -465,7 +465,7 @@
   {
     "title": "Michael",
     "release_year": "2026",
-    "clean_title": "film/michael-2026/",
+    "clean_title": "/film/michael-2026/",
     "adult": false,
     "id": 936075,
     "imdb_id": "tt11378946"
@@ -473,7 +473,7 @@
   {
     "title": "Zootopia",
     "release_year": "2016",
-    "clean_title": "film/zootopia/",
+    "clean_title": "/film/zootopia/",
     "adult": false,
     "id": 269149,
     "imdb_id": "tt2948356"
@@ -481,7 +481,7 @@
   {
     "title": "The Hobbit: An Unexpected Journey",
     "release_year": "2012",
-    "clean_title": "film/the-hobbit-an-unexpected-journey/",
+    "clean_title": "/film/the-hobbit-an-unexpected-journey/",
     "adult": false,
     "id": 49051,
     "imdb_id": "tt0903624"
@@ -489,7 +489,7 @@
   {
     "title": "The Super Mario Galaxy Movie",
     "release_year": "2026",
-    "clean_title": "film/the-super-mario-galaxy-movie/",
+    "clean_title": "/film/the-super-mario-galaxy-movie/",
     "adult": false,
     "id": 1226863,
     "imdb_id": "tt28650488"
@@ -497,7 +497,7 @@
   {
     "title": "The Dark Knight",
     "release_year": "2008",
-    "clean_title": "film/the-dark-knight/",
+    "clean_title": "/film/the-dark-knight/",
     "adult": false,
     "id": 155,
     "imdb_id": "tt0468569"
@@ -505,7 +505,7 @@
   {
     "title": "Jurassic World Dominion",
     "release_year": "2022",
-    "clean_title": "film/jurassic-world-dominion/",
+    "clean_title": "/film/jurassic-world-dominion/",
     "adult": false,
     "id": 507086,
     "imdb_id": "tt8041270"
@@ -513,7 +513,7 @@
   {
     "title": "The Lion King",
     "release_year": "1994",
-    "clean_title": "film/the-lion-king-1994/",
+    "clean_title": "/film/the-lion-king-1994/",
     "adult": false,
     "id": 8587,
     "imdb_id": "tt0110357"
@@ -521,7 +521,7 @@
   {
     "title": "Despicable Me 4",
     "release_year": "2024",
-    "clean_title": "film/despicable-me-4/",
+    "clean_title": "/film/despicable-me-4/",
     "adult": false,
     "id": 519182,
     "imdb_id": "tt7510222"
@@ -529,7 +529,7 @@
   {
     "title": "Oppenheimer",
     "release_year": "2023",
-    "clean_title": "film/oppenheimer-2023/",
+    "clean_title": "/film/oppenheimer-2023/",
     "adult": false,
     "id": 872585,
     "imdb_id": "tt15398776"
@@ -537,7 +537,7 @@
   {
     "title": "Despicable Me 2",
     "release_year": "2013",
-    "clean_title": "film/despicable-me-2/",
+    "clean_title": "/film/despicable-me-2/",
     "adult": false,
     "id": 93456,
     "imdb_id": "tt1690953"
@@ -545,7 +545,7 @@
   {
     "title": "Harry Potter and the Philosopher's Stone",
     "release_year": "2001",
-    "clean_title": "film/harry-potter-and-the-sorcerers-stone/",
+    "clean_title": "/film/harry-potter-and-the-sorcerers-stone/",
     "adult": false,
     "id": 671,
     "imdb_id": "tt0241527"
@@ -553,7 +553,7 @@
   {
     "title": "Jumanji: Welcome to the Jungle",
     "release_year": "2017",
-    "clean_title": "film/jumanji-welcome-to-the-jungle/",
+    "clean_title": "/film/jumanji-welcome-to-the-jungle/",
     "adult": false,
     "id": 353486,
     "imdb_id": "tt2283362"
@@ -561,7 +561,7 @@
   {
     "title": "A Minecraft Movie",
     "release_year": "2025",
-    "clean_title": "film/a-minecraft-movie/",
+    "clean_title": "/film/a-minecraft-movie/",
     "adult": false,
     "id": 950387,
     "imdb_id": "tt3566834"
@@ -569,7 +569,7 @@
   {
     "title": "Pirates of the Caribbean: At World's End",
     "release_year": "2007",
-    "clean_title": "film/pirates-of-the-caribbean-at-worlds-end/",
+    "clean_title": "/film/pirates-of-the-caribbean-at-worlds-end/",
     "adult": false,
     "id": 285,
     "imdb_id": "tt0449088"
@@ -577,7 +577,7 @@
   {
     "title": "The Hobbit: The Desolation of Smaug",
     "release_year": "2013",
-    "clean_title": "film/the-hobbit-the-desolation-of-smaug/",
+    "clean_title": "/film/the-hobbit-the-desolation-of-smaug/",
     "adult": false,
     "id": 57158,
     "imdb_id": "tt1170358"
@@ -585,7 +585,7 @@
   {
     "title": "Doctor Strange in the Multiverse of Madness",
     "release_year": "2022",
-    "clean_title": "film/doctor-strange-in-the-multiverse-of-madness/",
+    "clean_title": "/film/doctor-strange-in-the-multiverse-of-madness/",
     "adult": false,
     "id": 453395,
     "imdb_id": "tt9419884"
@@ -593,7 +593,7 @@
   {
     "title": "The Jungle Book",
     "release_year": "2016",
-    "clean_title": "film/the-jungle-book-2016/",
+    "clean_title": "/film/the-jungle-book-2016/",
     "adult": false,
     "id": 278927,
     "imdb_id": "tt3040964"
@@ -601,7 +601,7 @@
   {
     "title": "Harry Potter and the Deathly Hallows: Part 1",
     "release_year": "2010",
-    "clean_title": "film/harry-potter-and-the-deathly-hallows-part-i/",
+    "clean_title": "/film/harry-potter-and-the-deathly-hallows-part-i/",
     "adult": false,
     "id": 12444,
     "imdb_id": "tt0926084"
@@ -609,7 +609,7 @@
   {
     "title": "The Hobbit: The Battle of the Five Armies",
     "release_year": "2014",
-    "clean_title": "film/the-hobbit-the-battle-of-the-five-armies/",
+    "clean_title": "/film/the-hobbit-the-battle-of-the-five-armies/",
     "adult": false,
     "id": 122917,
     "imdb_id": "tt2310332"
@@ -617,7 +617,7 @@
   {
     "title": "Minions: The Rise of Gru",
     "release_year": "2022",
-    "clean_title": "film/minions-the-rise-of-gru/",
+    "clean_title": "/film/minions-the-rise-of-gru/",
     "adult": false,
     "id": 438148,
     "imdb_id": "tt5113044"
@@ -625,7 +625,7 @@
   {
     "title": "Harry Potter and the Order of the Phoenix",
     "release_year": "2007",
-    "clean_title": "film/harry-potter-and-the-order-of-the-phoenix/",
+    "clean_title": "/film/harry-potter-and-the-order-of-the-phoenix/",
     "adult": false,
     "id": 675,
     "imdb_id": "tt0373889"
@@ -633,7 +633,7 @@
   {
     "title": "Finding Nemo",
     "release_year": "2003",
-    "clean_title": "film/finding-nemo/",
+    "clean_title": "/film/finding-nemo/",
     "adult": false,
     "id": 12,
     "imdb_id": "tt0266543"
@@ -641,7 +641,7 @@
   {
     "title": "Shrek 2",
     "release_year": "2004",
-    "clean_title": "film/shrek-2/",
+    "clean_title": "/film/shrek-2/",
     "adult": false,
     "id": 809,
     "imdb_id": "tt0298148"
@@ -649,7 +649,7 @@
   {
     "title": "The Lord of the Rings: The Two Towers",
     "release_year": "2002",
-    "clean_title": "film/the-lord-of-the-rings-the-two-towers/",
+    "clean_title": "/film/the-lord-of-the-rings-the-two-towers/",
     "adult": false,
     "id": 121,
     "imdb_id": "tt0167261"
@@ -657,7 +657,7 @@
   {
     "title": "Harry Potter and the Half-Blood Prince",
     "release_year": "2009",
-    "clean_title": "film/harry-potter-and-the-half-blood-prince/",
+    "clean_title": "/film/harry-potter-and-the-half-blood-prince/",
     "adult": false,
     "id": 767,
     "imdb_id": "tt0417741"
@@ -665,7 +665,7 @@
   {
     "title": "Star Wars: Episode III – Revenge of the Sith",
     "release_year": "2005",
-    "clean_title": "film/star-wars-episode-iii-revenge-of-the-sith/",
+    "clean_title": "/film/star-wars-episode-iii-revenge-of-the-sith/",
     "adult": false,
     "id": 1895,
     "imdb_id": "tt0121766"
@@ -673,7 +673,7 @@
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "release_year": "2001",
-    "clean_title": "film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
     "adult": false,
     "id": 120,
     "imdb_id": "tt0120737"
@@ -681,7 +681,7 @@
   {
     "title": "Spider-Man 3",
     "release_year": "2007",
-    "clean_title": "film/spider-man-3/",
+    "clean_title": "/film/spider-man-3/",
     "adult": false,
     "id": 559,
     "imdb_id": "tt0413300"
@@ -689,7 +689,7 @@
   {
     "title": "Harry Potter and the Goblet of Fire",
     "release_year": "2005",
-    "clean_title": "film/harry-potter-and-the-goblet-of-fire/",
+    "clean_title": "/film/harry-potter-and-the-goblet-of-fire/",
     "adult": false,
     "id": 674,
     "imdb_id": "tt0330373"
@@ -697,7 +697,7 @@
   {
     "title": "Ice Age: Dawn of the Dinosaurs",
     "release_year": "2009",
-    "clean_title": "film/ice-age-dawn-of-the-dinosaurs/",
+    "clean_title": "/film/ice-age-dawn-of-the-dinosaurs/",
     "adult": false,
     "id": 8355,
     "imdb_id": "tt1080016"
@@ -705,7 +705,7 @@
   {
     "title": "The Secret Life of Pets",
     "release_year": "2016",
-    "clean_title": "film/the-secret-life-of-pets/",
+    "clean_title": "/film/the-secret-life-of-pets/",
     "adult": false,
     "id": 328111,
     "imdb_id": "tt2709768"
@@ -713,7 +713,7 @@
   {
     "title": "Ice Age: Continental Drift",
     "release_year": "2012",
-    "clean_title": "film/ice-age-continental-drift/",
+    "clean_title": "/film/ice-age-continental-drift/",
     "adult": false,
     "id": 57800,
     "imdb_id": "tt1667889"
@@ -721,7 +721,7 @@
   {
     "title": "Bohemian Rhapsody",
     "release_year": "2018",
-    "clean_title": "film/bohemian-rhapsody/",
+    "clean_title": "/film/bohemian-rhapsody/",
     "adult": false,
     "id": 424694,
     "imdb_id": "tt1727824"
@@ -729,7 +729,7 @@
   {
     "title": "Spectre",
     "release_year": "1977",
-    "clean_title": "film/spectre/",
+    "clean_title": "/film/spectre/",
     "adult": false,
     "id": 62433,
     "imdb_id": "tt0076745"
@@ -737,7 +737,7 @@
   {
     "title": "Spider-Man: Homecoming",
     "release_year": "2017",
-    "clean_title": "film/spider-man-homecoming/",
+    "clean_title": "/film/spider-man-homecoming/",
     "adult": false,
     "id": 315635,
     "imdb_id": "tt2250912"
@@ -745,7 +745,7 @@
   {
     "title": "Harry Potter and the Chamber of Secrets",
     "release_year": "2002",
-    "clean_title": "film/harry-potter-and-the-chamber-of-secrets/",
+    "clean_title": "/film/harry-potter-and-the-chamber-of-secrets/",
     "adult": false,
     "id": 672,
     "imdb_id": "tt0295297"
@@ -753,7 +753,7 @@
   {
     "title": "Batman v Superman: Dawn of Justice",
     "release_year": "2016",
-    "clean_title": "film/batman-v-superman-dawn-of-justice/",
+    "clean_title": "/film/batman-v-superman-dawn-of-justice/",
     "adult": false,
     "id": 209112,
     "imdb_id": "tt2975590"
@@ -761,7 +761,7 @@
   {
     "title": "Jurassic World Rebirth",
     "release_year": "2025",
-    "clean_title": "film/jurassic-world-rebirth/",
+    "clean_title": "/film/jurassic-world-rebirth/",
     "adult": false,
     "id": 1234821,
     "imdb_id": "tt31036941"
@@ -769,7 +769,7 @@
   {
     "title": "Guardians of the Galaxy Vol. 2",
     "release_year": "2017",
-    "clean_title": "film/guardians-of-the-galaxy-vol-2/",
+    "clean_title": "/film/guardians-of-the-galaxy-vol-2/",
     "adult": false,
     "id": 283995,
     "imdb_id": "tt3896198"
@@ -777,7 +777,7 @@
   {
     "title": "The Hunger Games: Catching Fire",
     "release_year": "2013",
-    "clean_title": "film/the-hunger-games-catching-fire/",
+    "clean_title": "/film/the-hunger-games-catching-fire/",
     "adult": false,
     "id": 101299,
     "imdb_id": "tt1951264"
@@ -785,7 +785,7 @@
   {
     "title": "Black Panther: Wakanda Forever",
     "release_year": "2022",
-    "clean_title": "film/black-panther-wakanda-forever-2022/",
+    "clean_title": "/film/black-panther-wakanda-forever-2022/",
     "adult": false,
     "id": 505642,
     "imdb_id": "tt9114286"
@@ -793,7 +793,7 @@
   {
     "title": "Venom",
     "release_year": "2018",
-    "clean_title": "film/venom-2018/",
+    "clean_title": "/film/venom-2018/",
     "adult": false,
     "id": 335983,
     "imdb_id": "tt1270797"

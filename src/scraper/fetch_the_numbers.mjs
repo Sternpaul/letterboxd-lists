@@ -3,9 +3,16 @@ import * as cheerio from 'cheerio';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { getMovieDetail } from './utils.mjs';
+import {
+    getMovieDetail,
+    fetchWithRetry,
+    normalizeSlug,
+    loadMovieCache,
+    saveMovieCache
+} from './utils.mjs';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const lastScrapedPath = path.join(__dirname, 'last_scraped.json');
 const defaultOutput = path.resolve(__dirname, '../../public/the-numbers-all-time-worldwide-box-office.json');
 const outputFile = process.argv[2] || defaultOutput;
@@ -156,7 +163,7 @@ async function scrapeTheNumbers() {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
     };
 
-    const { data } = await axios.get(url, { headers });
+    const { data } = await fetchWithRetry(url, {}, 4);
     const $ = cheerio.load(data);
     const rawMovies = [];
 
@@ -183,36 +190,82 @@ async function scrapeTheNumbers() {
 
     console.log(`Extracted ${rawMovies.length} movies from The Numbers. Resolving TMDb/IMDb IDs...`);
 
+    let existingData = [];
+    if (fs.existsSync(outputFile)) {
+        try { existingData = JSON.parse(fs.readFileSync(outputFile, 'utf8')); } catch (e) {}
+    }
+    const existingMap = new Map();
+    for (const item of existingData) {
+        if (item && item.clean_title) {
+            existingMap.set(normalizeSlug(item.clean_title), item);
+        }
+    }
+
+    const movieCache = loadMovieCache();
+    let cacheUpdated = false;
+
     const radarrData = [];
     for (const m of rawMovies) {
         const candidates = getCandidateSlugs(m.title, m.rawHref, m.year);
         let detail = null;
+
+        // Check local file cache and global movie cache first
         for (const slug of candidates) {
-            const res = await getMovieDetail(`film/${slug}/`);
-            if (res) {
-                // If year is known, verify that the found movie is from that year or +/- 1 year
-                if (m.year && res.published) {
-                    const diff = Math.abs(parseInt(res.published, 10) - parseInt(m.year, 10));
-                    if (diff <= 1) {
-                        detail = res;
-                        break;
-                    }
-                } else {
-                    detail = res;
-                    break;
-                }
+            const norm = normalizeSlug(slug);
+            const cached = existingMap.get(norm) || movieCache[norm];
+            if (cached && cached.title && cached.id !== undefined) {
+                detail = {
+                    name: cached.title,
+                    published: cached.release_year,
+                    slug: cached.clean_title.startsWith('/') ? cached.clean_title : `/${cached.clean_title}`,
+                    tmdb: cached.id,
+                    imdb: cached.imdb_id
+                };
+                break;
             }
-            await new Promise(r => setTimeout(r, 80));
         }
 
-        // If strict year match didn't find anything, try first match
+        // If not cached, query Letterboxd with retry
         if (!detail) {
             for (const slug of candidates) {
                 const res = await getMovieDetail(`film/${slug}/`);
                 if (res) {
-                    detail = res;
-                    break;
+                    if (m.year && res.published) {
+                        const diff = Math.abs(parseInt(res.published, 10) - parseInt(m.year, 10));
+                        if (diff <= 1) {
+                            detail = res;
+                            break;
+                        }
+                    } else {
+                        detail = res;
+                        break;
+                    }
                 }
+                await new Promise(r => setTimeout(r, 100));
+            }
+
+            if (!detail) {
+                for (const slug of candidates) {
+                    const res = await getMovieDetail(`film/${slug}/`);
+                    if (res) {
+                        detail = res;
+                        break;
+                    }
+                }
+            }
+
+            if (detail) {
+                const norm = normalizeSlug(detail.slug);
+                const tmdbId = detail.tmdb ? parseInt(detail.tmdb, 10) : 0;
+                movieCache[norm] = {
+                    title: detail.name || m.title,
+                    release_year: detail.published || m.year,
+                    clean_title: detail.slug.startsWith('/') ? detail.slug : `/${detail.slug}`,
+                    adult: false,
+                    id: tmdbId,
+                    imdb_id: detail.imdb || null
+                };
+                cacheUpdated = true;
             }
         }
 
@@ -220,7 +273,7 @@ async function scrapeTheNumbers() {
             radarrData.push({
                 title: detail.name || m.title,
                 release_year: detail.published || m.year,
-                clean_title: detail.slug,
+                clean_title: detail.slug.startsWith('/') ? detail.slug : `/${detail.slug}`,
                 adult: false,
                 id: detail.tmdb ? parseInt(detail.tmdb, 10) : 0,
                 ...(detail.imdb ? { imdb_id: detail.imdb } : {})
@@ -236,7 +289,10 @@ async function scrapeTheNumbers() {
                 id: 0
             });
         }
-        await new Promise(r => setTimeout(r, 200));
+    }
+
+    if (cacheUpdated) {
+        saveMovieCache(movieCache);
     }
 
     const outDir = path.dirname(outputFile);

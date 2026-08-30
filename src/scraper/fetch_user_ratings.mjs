@@ -4,7 +4,7 @@ import pLimit from 'p-limit';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { getMovieDetail } from './utils.mjs';
+import { getMovieDetail, fetchWithRetry } from './utils.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const lastScrapedPath = path.join(__dirname, 'last_scraped.json');
@@ -43,11 +43,7 @@ async function main() {
     const url = `https://letterboxd.com/${username}/rss/`;
     let rssData;
     try {
-        const response = await axios.get(url, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-            }
-        });
+        const response = await fetchWithRetry(url, {}, 4);
         rssData = response.data;
     } catch (err) {
         console.error('Failed to fetch RSS feed:', err.message);

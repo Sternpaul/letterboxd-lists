@@ -1,12 +1,20 @@
-import axios from 'axios';
 import * as cheerio from 'cheerio';
 import pLimit from 'p-limit';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { getMovieDetail, LETTERBOXD_ORIGIN, NEXT_PAGE_REGEX } from './utils.mjs';
+import {
+    getMovieDetail,
+    fetchWithRetry,
+    LETTERBOXD_ORIGIN,
+    NEXT_PAGE_REGEX,
+    normalizeSlug,
+    loadMovieCache,
+    saveMovieCache
+} from './utils.mjs';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const lastScrapedPath = path.join(__dirname, 'last_scraped.json');
 
 const listSlug = process.argv[2];
@@ -18,37 +26,22 @@ if (!listSlug || !outputFile) {
     process.exit(1);
 }
 
-// Ensure slug starts and ends with a slash if needed, but usually it's passed as `official/list/.../`.
-// We will just construct `${LETTERBOXD_ORIGIN}${slug.replace(/^\//, '')}`
+// Ensure slug starts and ends with a slash if needed
 const cleanListSlug = listSlug.replace(/^\//, '');
 
 async function fetchListPaginated(page) {
     const url = `${LETTERBOXD_ORIGIN}${cleanListSlug}page/${page}/`;
     console.log(`Fetching list page: ${url}`);
-    
-    // Set a User-Agent to prevent 403s
-    const headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    };
 
     try {
-        const { data } = await axios.get(url, { headers });
+        const { data } = await fetchWithRetry(url, {}, 4);
         const $ = cheerio.load(data);
         const posters = [];
 
         $('.posteritem > .react-component, [data-component-class*="LazyPoster"], .poster-list [data-poster-url*="film"], .poster-grid [data-poster-url*="film"]').each((_, el) => {
-            const slug = $(el).find('[data-target-link]').attr('data-target-link') || $(el).attr('data-target-link');
-            // Sometimes it's directly on the `.posteritem` child, so try both.
-            // On a standard list page, `.poster-container > div` has `data-film-slug` and `data-target-link`.
-            // Let's attempt to replicate exactly:
-            let finalSlug = slug;
-            if (!finalSlug) {
-                // Kanpai query was `[data-target-link]` on the elements matched.
-                // Cheerio:
-                finalSlug = $(el).find('[data-target-link]').attr('data-target-link');
-                if (!finalSlug && $(el).attr('data-target-link')) {
-                    finalSlug = $(el).attr('data-target-link');
-                }
+            let finalSlug = $(el).find('[data-target-link]').attr('data-target-link');
+            if (!finalSlug && $(el).attr('data-target-link')) {
+                finalSlug = $(el).attr('data-target-link');
             }
             if (finalSlug) {
                 posters.push(finalSlug);
@@ -86,6 +79,10 @@ async function main() {
         }
         
         next = result.nextPage;
+        if (next) {
+            // Polite pacing between list page requests
+            await new Promise(r => setTimeout(r, 200));
+        }
     }
     
     // Trim the list down to exactly the limit before fetching heavy details
@@ -93,41 +90,95 @@ async function main() {
         slugs.splice(limitArg);
     }
     
-    console.log(`Found ${slugs.length} movies. Fetching details...`);
+    // --- LOAD EXISTING DATA & SHARED CACHE ---
+    let existingData = [];
+    if (fs.existsSync(outputFile)) {
+        try {
+            existingData = JSON.parse(fs.readFileSync(outputFile, 'utf8'));
+        } catch (e) {}
+    }
     
-    // Lowered concurrency to prevent rate limits from Letterboxd
-    const limit = pLimit(3);
-    
-    const movies = await Promise.all(
-        slugs.map(slug => limit(async () => {
-            const detail = await getMovieDetail(slug);
-            // Rate limit pause to avoid getting blocked
-            await new Promise(r => setTimeout(r, 300));
-            return detail;
-        }))
-    );
-    
-    const validMovies = movies.filter(m => m !== null);
-    
-    const radarrData = validMovies.map(movie => {
-        const payload = {
-            title: movie.name,
-            release_year: movie.published, // sometimes empty
-            clean_title: movie.slug,
-            adult: false
-        };
-        
-        // Radarr's C# backend strictly expects an integer (Int32) for the ID field.
-        // If TMDB is missing, passing explicit `null` throws a JSON format InvalidCastException.
-        // We set 0 as a fallback integer so Radarr can smoothly fallback to IMDb matching.
-        payload.id = movie.tmdb ? parseInt(movie.tmdb, 10) : 0;
-        
-        if (movie.imdb) {
-            payload.imdb_id = movie.imdb;
+    const existingMap = new Map();
+    for (const m of existingData) {
+        if (m && m.clean_title) {
+            existingMap.set(normalizeSlug(m.clean_title), m);
         }
+    }
+
+    const movieCache = loadMovieCache();
+    let cacheUpdated = false;
+
+    // Identify slugs that are genuinely missing from both existing list file and global cache
+    const toFetchSlugs = [];
+    for (const slug of slugs) {
+        const norm = normalizeSlug(slug);
+        const inExisting = existingMap.get(norm);
+        const inCache = movieCache[norm];
+
+        const hasValidData = (inExisting && inExisting.title && inExisting.id !== undefined) ||
+                             (inCache && inCache.title && inCache.id !== undefined);
+
+        if (!hasValidData) {
+            toFetchSlugs.push(slug);
+        }
+    }
+
+    const cachedCount = slugs.length - toFetchSlugs.length;
+    if (toFetchSlugs.length > 0) {
+        console.log(`Found ${slugs.length} movies (${cachedCount} cached, ${toFetchSlugs.length} new). Fetching details...`);
+        const limit = pLimit(3);
+        await Promise.all(
+            toFetchSlugs.map(slug => limit(async () => {
+                const detail = await getMovieDetail(slug);
+                await new Promise(r => setTimeout(r, 250)); // Rate limit pause
+                if (detail) {
+                    const norm = normalizeSlug(slug);
+                    const tmdbId = detail.tmdb ? parseInt(detail.tmdb, 10) : 0;
+                    const record = {
+                        title: detail.name,
+                        release_year: detail.published || '',
+                        clean_title: slug.startsWith('/') ? slug : `/${slug}`,
+                        adult: false,
+                        id: tmdbId,
+                        imdb_id: detail.imdb || null
+                    };
+                    movieCache[norm] = record;
+                    existingMap.set(norm, record);
+                    cacheUpdated = true;
+                }
+            }))
+        );
         
-        return payload;
-    });
+        if (cacheUpdated) {
+            saveMovieCache(movieCache);
+        }
+    } else {
+        console.log(`Found ${slugs.length} movies (all ${slugs.length} loaded from cache).`);
+    }
+
+    // Build the radarrData array preserving original list order
+    const radarrData = [];
+    for (const slug of slugs) {
+        const norm = normalizeSlug(slug);
+        const movie = existingMap.get(norm) || movieCache[norm];
+        if (movie) {
+            const formattedSlug = movie.clean_title
+                ? (movie.clean_title.startsWith('/') ? movie.clean_title : `/${movie.clean_title}`)
+                : (slug.startsWith('/') ? slug : `/${slug}`);
+
+            const payload = {
+                title: movie.title,
+                release_year: movie.release_year || '',
+                clean_title: formattedSlug,
+                adult: false,
+                id: movie.id !== undefined ? (parseInt(movie.id, 10) || 0) : 0
+            };
+            if (movie.imdb_id) {
+                payload.imdb_id = movie.imdb_id;
+            }
+            radarrData.push(payload);
+        }
+    }
     
     const outDir = path.dirname(outputFile);
     if (!fs.existsSync(outDir)) {
@@ -135,16 +186,11 @@ async function main() {
     }
     
     // --- DIFF LOGIC FOR DISCORD NOTIFICATION ---
-    let existingData = [];
-    if (fs.existsSync(outputFile)) {
-        try { existingData = JSON.parse(fs.readFileSync(outputFile, 'utf8')); } catch (e) {}
-    }
-    
-    const existingMap = new Map(existingData.map(m => [m.clean_title, m]));
-    const newMap = new Map(radarrData.map(m => [m.clean_title, m]));
-    
-    const added = radarrData.filter(m => !existingMap.has(m.clean_title));
-    const removed = existingData.filter(m => !newMap.has(m.clean_title));
+    const existingSlugSet = new Set(existingData.map(m => normalizeSlug(m.clean_title)));
+    const newSlugSet = new Set(radarrData.map(m => normalizeSlug(m.clean_title)));
+
+    const added = radarrData.filter(m => !existingSlugSet.has(normalizeSlug(m.clean_title)));
+    const removed = existingData.filter(m => !newSlugSet.has(normalizeSlug(m.clean_title)));
     
     const summaryPath = path.join(process.cwd(), 'summary.json');
     let summary = {};
