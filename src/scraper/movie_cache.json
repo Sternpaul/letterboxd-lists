@@ -45,7 +45,8 @@
     "clean_title": "/film/1883/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13991232"
+    "imdb_id": "tt13991232",
+    "cached_at": "2026-08-31T01:52:50.152Z"
   },
   "1900": {
     "title": "1900",
@@ -93,7 +94,8 @@
     "clean_title": "/film/3670/",
     "adult": false,
     "id": 1425485,
-    "imdb_id": "tt36733209"
+    "imdb_id": "tt36733209",
+    "cached_at": "2026-08-31T01:54:28.875Z"
   },
   "7500": {
     "title": "7500",
@@ -4270,7 +4272,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0066904",
-    "cached_at": "2026-08-30T11:02:09.822Z"
+    "cached_at": "2026-08-31T01:53:16.744Z"
   },
   "butch-cassidy-and-the-sundance-kid": {
     "title": "Butch Cassidy and the Sundance Kid",
@@ -6881,7 +6883,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0092337",
-    "cached_at": "2026-08-30T11:02:29.147Z"
+    "cached_at": "2026-08-31T01:52:34.260Z"
   },
   "glory": {
     "title": "Glory",
@@ -11643,7 +11645,7 @@
     "adult": false,
     "id": 394117,
     "imdb_id": "tt5649144",
-    "cached_at": "2026-08-30T11:02:48.757Z"
+    "cached_at": "2026-08-31T01:54:40.604Z"
   },
   "dunkirk-2017": {
     "title": "Dunkirk",
@@ -15563,7 +15565,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt4093826",
-    "cached_at": "2026-08-30T11:03:49.257Z"
+    "cached_at": "2026-08-31T01:52:33.894Z"
   },
   "angst": {
     "title": "Angst",
@@ -17172,7 +17174,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt7366338",
-    "cached_at": "2026-08-30T11:03:44.649Z"
+    "cached_at": "2026-08-31T01:52:33.850Z"
   },
   "she-dies-tomorrow": {
     "title": "She Dies Tomorrow",
@@ -17304,7 +17306,7 @@
     "adult": false,
     "id": 687163,
     "imdb_id": "tt12042730",
-    "cached_at": "2026-08-30T11:02:46.097Z"
+    "cached_at": "2026-08-31T01:54:41.745Z"
   },
   "a-place-for-her": {
     "title": "A Place for Her",
@@ -19042,7 +19044,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt3718778",
-    "cached_at": "2026-08-30T11:03:29.647Z"
+    "cached_at": "2026-08-31T01:52:33.823Z"
   },
   "a-little-princess-1995": {
     "title": "A Little Princess",
@@ -19627,7 +19629,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0139776",
-    "cached_at": "2026-08-30T11:03:08.305Z"
+    "cached_at": "2026-08-31T01:53:18.278Z"
   },
   "lord-of-the-flies": {
     "title": "Lord of the Flies",
@@ -21685,7 +21687,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0080196",
-    "cached_at": "2026-08-30T11:02:28.770Z"
+    "cached_at": "2026-08-31T01:52:52.653Z"
   },
   "berlin-alexanderplatz-the-story-of-franz-biberkopf": {
     "title": "Berlin-Alexanderplatz: The Story of Franz Biberkopf",
@@ -26336,7 +26338,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0068028",
-    "cached_at": "2026-08-30T11:02:29.493Z"
+    "cached_at": "2026-08-31T01:52:43.192Z"
   },
   "shampoo": {
     "title": "Shampoo",
@@ -27409,7 +27411,7 @@
     "adult": false,
     "id": 14736,
     "imdb_id": "tt0199725",
-    "cached_at": "2026-08-30T11:02:44.233Z"
+    "cached_at": "2026-08-31T01:54:11.150Z"
   },
   "the-damned": {
     "title": "The Damned",
@@ -28051,7 +28053,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt3464896",
-    "cached_at": "2026-08-30T11:02:29.953Z"
+    "cached_at": "2026-08-31T01:53:01.192Z"
   },
   "alex-wheatle": {
     "title": "Alex Wheatle",
@@ -28573,7 +28575,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt6704972",
-    "cached_at": "2026-08-30T11:02:30.291Z"
+    "cached_at": "2026-08-31T01:53:03.101Z"
   },
   "the-gaze-2021-1": {
     "title": "The Gaze",
@@ -29767,7 +29769,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt2125012",
-    "cached_at": "2026-08-30T11:02:30.541Z"
+    "cached_at": "2026-08-31T01:53:21.218Z"
   },
   "the-beaches-of-agnes": {
     "title": "The Beaches of Agnès",
@@ -32160,7 +32162,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0112120",
-    "cached_at": "2026-08-30T11:02:31.239Z"
+    "cached_at": "2026-08-31T01:53:15.649Z"
   },
   "police-story-3-super-cop": {
     "title": "Police Story 3: Super Cop",
@@ -32209,7 +32211,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt9059760",
-    "cached_at": "2026-08-30T11:03:46.106Z"
+    "cached_at": "2026-08-31T01:52:37.831Z"
   },
   "one-day-2011": {
     "title": "One Day",
@@ -38192,7 +38194,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt10048342",
-    "cached_at": "2026-08-30T11:03:29.261Z"
+    "cached_at": "2026-08-31T01:52:49.409Z"
   },
   "maleficent": {
     "title": "Maleficent",
@@ -45825,7 +45827,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0112159",
-    "cached_at": "2026-08-30T11:03:28.339Z"
+    "cached_at": "2026-08-31T01:52:34.651Z"
   },
   "imprint-2006": {
     "title": "Imprint",
@@ -46050,7 +46052,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0213338",
-    "cached_at": "2026-08-30T11:03:04.922Z"
+    "cached_at": "2026-08-31T01:52:33.394Z"
   },
   "the-blood-on-satans-claw": {
     "title": "The Blood on Satan's Claw",
@@ -46443,7 +46445,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0500092",
-    "cached_at": "2026-08-30T11:03:49.789Z"
+    "cached_at": "2026-08-31T01:52:37.088Z"
   },
   "texhnolyze": {
     "title": "Texhnolyze",
@@ -46452,7 +46454,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0409630",
-    "cached_at": "2026-08-30T11:03:05.279Z"
+    "cached_at": "2026-08-31T01:52:55.482Z"
   },
   "monster-2004": {
     "title": "Monster",
@@ -46461,7 +46463,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0434706",
-    "cached_at": "2026-08-30T11:03:05.308Z"
+    "cached_at": "2026-08-31T01:52:33.143Z"
   },
   "paranoia-agent": {
     "title": "Paranoia Agent",
@@ -46470,7 +46472,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0433722",
-    "cached_at": "2026-08-30T11:03:27.996Z"
+    "cached_at": "2026-08-31T01:52:46.875Z"
   },
   "mushi-shi": {
     "title": "Mushi-Shi",
@@ -46479,7 +46481,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0807832",
-    "cached_at": "2026-08-30T11:03:05.727Z"
+    "cached_at": "2026-08-31T01:52:40.507Z"
   },
   "death-note-2006": {
     "title": "Death Note",
@@ -46488,7 +46490,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0877057",
-    "cached_at": "2026-08-30T11:03:05.643Z"
+    "cached_at": "2026-08-31T01:52:38.306Z"
   },
   "kemonozume": {
     "title": "Kemonozume",
@@ -46515,7 +46517,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt1910272",
-    "cached_at": "2026-08-30T11:03:06.117Z"
+    "cached_at": "2026-08-31T01:52:36.256Z"
   },
   "pom-poko": {
     "title": "Pom Poko",
@@ -46557,7 +46559,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt3655448",
-    "cached_at": "2026-08-30T11:03:06.444Z"
+    "cached_at": "2026-08-31T01:52:57.513Z"
   },
   "time-masters": {
     "title": "Time Masters",
@@ -46598,7 +46600,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt11204260",
-    "cached_at": "2026-08-30T11:03:31.669Z"
+    "cached_at": "2026-08-31T01:52:35.836Z"
   },
   "tom-at-the-farm": {
     "title": "Tom at the Farm",
@@ -49144,7 +49146,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0397150",
-    "cached_at": "2026-08-30T11:03:07.960Z"
+    "cached_at": "2026-08-31T01:52:37.391Z"
   },
   "inside-deep-throat": {
     "title": "Inside Deep Throat",
@@ -50797,7 +50799,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0112065",
-    "cached_at": "2026-08-30T11:03:08.657Z"
+    "cached_at": "2026-08-31T01:53:01.386Z"
   },
   "orgies-of-edo": {
     "title": "Orgies of Edo",
@@ -51022,7 +51024,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt6660498",
-    "cached_at": "2026-08-30T11:03:08.889Z"
+    "cached_at": "2026-08-31T01:53:05.655Z"
   },
   "the-daughters-of-fire": {
     "title": "The Daughters of Fire",
@@ -51543,7 +51545,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0279077",
-    "cached_at": "2026-08-30T11:03:50.033Z"
+    "cached_at": "2026-08-31T01:52:40.709Z"
   },
   "fritz-the-cat": {
     "title": "Fritz the Cat",
@@ -51664,7 +51666,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0081846",
-    "cached_at": "2026-08-30T11:03:09.298Z"
+    "cached_at": "2026-08-31T01:53:08.509Z"
   },
   "the-similars": {
     "title": "The Similars",
@@ -51874,7 +51876,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt1209386",
-    "cached_at": "2026-08-30T11:03:09.642Z"
+    "cached_at": "2026-08-31T01:52:45.175Z"
   },
   "thursday": {
     "title": "Thursday",
@@ -53735,7 +53737,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt11639414",
-    "cached_at": "2026-08-30T11:03:34.365Z"
+    "cached_at": "2026-08-31T01:52:37.872Z"
   },
   "bijou": {
     "title": "Bijou",
@@ -55328,7 +55330,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt13623608",
-    "cached_at": "2026-08-30T11:03:11.476Z"
+    "cached_at": "2026-08-31T01:52:52.549Z"
   },
   "confessions": {
     "title": "Confessions",
@@ -55841,7 +55843,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0240273",
-    "cached_at": "2026-08-30T11:03:11.649Z"
+    "cached_at": "2026-08-31T01:52:39.896Z"
   },
   "zebra-girl": {
     "title": "Zebra Girl",
@@ -57257,7 +57259,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt13616990",
-    "cached_at": "2026-08-30T11:03:12.940Z"
+    "cached_at": "2026-08-31T01:53:00.600Z"
   },
   "panty-stocking-with-garterbelt": {
     "title": "Panty & Stocking with Garterbelt",
@@ -57325,7 +57327,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0857297",
-    "cached_at": "2026-08-30T11:03:13.370Z"
+    "cached_at": "2026-08-31T01:52:49.259Z"
   },
   "meeting-place": {
     "title": "Meeting Place",
@@ -57499,7 +57501,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0061287",
-    "cached_at": "2026-08-30T11:03:14.210Z"
+    "cached_at": "2026-08-31T01:52:43.669Z"
   },
   "islands-2017": {
     "title": "Islands",
@@ -57640,7 +57642,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt14932528",
-    "cached_at": "2026-08-30T11:03:14.616Z"
+    "cached_at": "2026-08-31T01:52:46.454Z"
   },
   "jesus-2": {
     "title": "Jesus 2",
@@ -57859,11 +57861,12 @@
   },
   "weathering-with-you": {
     "title": "Weathering with You",
-    "release_year": "",
+    "release_year": "2019",
     "clean_title": "/film/weathering-with-you/",
     "adult": false,
     "id": 568160,
-    "imdb_id": "tt9426210"
+    "imdb_id": "tt9426210",
+    "cached_at": "2026-08-31T01:52:27.477Z"
   },
   "profile-2018": {
     "title": "Profile",
@@ -57909,11 +57912,12 @@
   },
   "doubt": {
     "title": "Doubt",
-    "release_year": "",
+    "release_year": "2008",
     "clean_title": "/film/doubt/",
     "adult": false,
     "id": 14359,
-    "imdb_id": "tt0918927"
+    "imdb_id": "tt0918927",
+    "cached_at": "2026-08-31T01:53:40.889Z"
   },
   "awake": {
     "title": "Awake",
@@ -57925,11 +57929,12 @@
   },
   "munich": {
     "title": "Munich",
-    "release_year": "",
+    "release_year": "2005",
     "clean_title": "/film/munich/",
     "adult": false,
     "id": 612,
-    "imdb_id": "tt0408306"
+    "imdb_id": "tt0408306",
+    "cached_at": "2026-08-31T01:54:18.346Z"
   },
   "master-and-commander-the-far-side-of-the-world": {
     "title": "Master and Commander: The Far Side of the World",
@@ -58071,7 +58076,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt6677224",
-    "cached_at": "2026-08-30T11:02:09.447Z"
+    "cached_at": "2026-08-31T01:53:17.170Z"
   },
   "tropical-malady": {
     "title": "Tropical Malady",
@@ -58327,7 +58332,8 @@
     "clean_title": "/film/band-of-brothers/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0185906"
+    "imdb_id": "tt0185906",
+    "cached_at": "2026-08-31T01:52:32.975Z"
   },
   "the-cotton-club": {
     "title": "The Cotton Club",
@@ -59969,7 +59975,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt7049682",
-    "cached_at": "2026-08-30T11:03:49.612Z"
+    "cached_at": "2026-08-31T01:52:49.027Z"
   },
   "running-on-karma": {
     "title": "Running on Karma",
@@ -60202,7 +60208,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt1847445",
-    "cached_at": "2026-08-30T11:03:50.006Z"
+    "cached_at": "2026-08-31T01:52:35.462Z"
   },
   "comet": {
     "title": "Comet",
@@ -62949,7 +62955,8 @@
     "clean_title": "/film/dan-and-phil-terrible-influence/",
     "adult": false,
     "id": 1442369,
-    "imdb_id": null
+    "imdb_id": null,
+    "cached_at": "2026-08-31T01:53:26.488Z"
   },
   "daniel-sloss-x": {
     "title": "Daniel Sloss: X",
@@ -62965,7 +62972,8 @@
     "clean_title": "/film/deniz-goktas-olu-deniz/",
     "adult": false,
     "id": 1720261,
-    "imdb_id": "tt43617492"
+    "imdb_id": "tt43617492",
+    "cached_at": "2026-08-31T01:53:26.561Z"
   },
   "dave-chappelle-killin-them-softly": {
     "title": "Dave Chappelle: Killin' Them Softly",
@@ -63005,7 +63013,8 @@
     "clean_title": "/film/color-theories-by-julio-torres-a-guide-to/",
     "adult": false,
     "id": 1573688,
-    "imdb_id": "tt38641367"
+    "imdb_id": "tt38641367",
+    "cached_at": "2026-08-31T01:53:26.525Z"
   },
   "jerrod-carmichael-rothaniel": {
     "title": "Jerrod Carmichael: Rothaniel",
@@ -63293,7 +63302,8 @@
     "clean_title": "/film/gianmarco-soresi-thief-of-joy/",
     "adult": false,
     "id": 1547831,
-    "imdb_id": "tt37961407"
+    "imdb_id": "tt37961407",
+    "cached_at": "2026-08-31T01:53:26.887Z"
   },
   "chris-rock-bring-the-pain": {
     "title": "Chris Rock: Bring the Pain",
@@ -63317,7 +63327,8 @@
     "clean_title": "/film/chris-fleming-live-at-the-palace/",
     "adult": false,
     "id": 1632879,
-    "imdb_id": "tt39765131"
+    "imdb_id": "tt39765131",
+    "cached_at": "2026-08-31T01:53:26.928Z"
   },
   "louis-ck-live-at-the-beacon-theater": {
     "title": "Louis C.K.: Live at the Beacon Theater",
@@ -63421,7 +63432,8 @@
     "clean_title": "/film/samay-raina-still-alive/",
     "adult": false,
     "id": 1664894,
-    "imdb_id": "tt41542920"
+    "imdb_id": "tt41542920",
+    "cached_at": "2026-08-31T01:53:27.274Z"
   },
   "gary-gulman-the-great-depresh": {
     "title": "Gary Gulman: The Great Depresh",
@@ -63493,7 +63505,8 @@
     "clean_title": "/film/demi-adejuyigbe-is-going-to-do-one-1-backflip/",
     "adult": false,
     "id": 1564460,
-    "imdb_id": "tt38711469"
+    "imdb_id": "tt38711469",
+    "cached_at": "2026-08-31T01:53:27.314Z"
   },
   "bill-hicks-sane-man": {
     "title": "Bill Hicks: Sane Man",
@@ -63733,7 +63746,8 @@
     "clean_title": "/film/caleb-hearon-model-comedian/",
     "adult": false,
     "id": 1541013,
-    "imdb_id": "tt37245594"
+    "imdb_id": "tt37245594",
+    "cached_at": "2026-08-31T01:53:27.358Z"
   },
   "radiohead-in-rainbows-from-the-basement": {
     "title": "Radiohead: In Rainbows - From the Basement",
@@ -63749,7 +63763,8 @@
     "clean_title": "/film/lady-gaga-mayhem-on-the-beach/",
     "adult": false,
     "id": 1437787,
-    "imdb_id": "tt31013163"
+    "imdb_id": "tt31013163",
+    "cached_at": "2026-08-31T01:53:23.468Z"
   },
   "nirvana-unplugged-in-new-york": {
     "title": "Nirvana: Unplugged In New York",
@@ -63789,7 +63804,8 @@
     "clean_title": "/film/harry-styles-one-night-in-manchester/",
     "adult": false,
     "id": 1644807,
-    "imdb_id": "tt40341984"
+    "imdb_id": "tt40341984",
+    "cached_at": "2026-08-31T01:53:23.538Z"
   },
   "daft-punk-alive-2007-live-album-concert-in-paris": {
     "title": "Daft Punk - Alive 2007 - Live Album Concert in Paris",
@@ -63821,7 +63837,8 @@
     "clean_title": "/film/taylor-swift-the-eras-tour-the-final-show/",
     "adult": false,
     "id": 1562010,
-    "imdb_id": "tt38673135"
+    "imdb_id": "tt38673135",
+    "cached_at": "2026-08-31T01:53:23.588Z"
   },
   "the-strokes-mtv-2-bill-concert": {
     "title": "The Strokes: MTV $2 Bill Concert",
@@ -63877,7 +63894,8 @@
     "clean_title": "/film/twenty-one-pilots-more-than-we-ever-imagined/",
     "adult": false,
     "id": 1612063,
-    "imdb_id": "tt39315536"
+    "imdb_id": "tt39315536",
+    "cached_at": "2026-08-31T01:53:23.853Z"
   },
   "kendrick-lamar-live-the-big-steppers-tour": {
     "title": "Kendrick Lamar Live: The Big Steppers Tour",
@@ -63949,7 +63967,8 @@
     "clean_title": "/film/ateez-world-tour-towards-the-light-will-to/",
     "adult": false,
     "id": 1465180,
-    "imdb_id": "tt35571591"
+    "imdb_id": "tt35571591",
+    "cached_at": "2026-08-31T01:53:23.931Z"
   },
   "fleetwood-mac-the-dance": {
     "title": "Fleetwood Mac: The Dance",
@@ -63981,7 +64000,8 @@
     "clean_title": "/film/bring-me-the-horizon-live-in-sao-paulo/",
     "adult": false,
     "id": 1621113,
-    "imdb_id": "tt39634490"
+    "imdb_id": "tt39634490",
+    "cached_at": "2026-08-31T01:53:24.016Z"
   },
   "nirvana-live-at-the-paramount": {
     "title": "Nirvana: Live at the Paramount",
@@ -64005,7 +64025,8 @@
     "clean_title": "/film/bts-the-comeback-live-arirang/",
     "adult": false,
     "id": 1628123,
-    "imdb_id": "tt39578533"
+    "imdb_id": "tt39578533",
+    "cached_at": "2026-08-31T01:53:24.505Z"
   },
   "homecoming-a-film-by-beyonce": {
     "title": "HOMECOMING: A film by Beyoncé",
@@ -64085,7 +64106,8 @@
     "clean_title": "/film/apple-music-live-lady-gaga-mayhem-requiem/",
     "adult": false,
     "id": 1693346,
-    "imdb_id": "tt42615436"
+    "imdb_id": "tt42615436",
+    "cached_at": "2026-08-31T01:53:24.318Z"
   },
   "lady-gaga-presents-the-monster-ball-tour-at-madison-square-garden": {
     "title": "Lady Gaga Presents: The Monster Ball Tour at Madison Square Garden",
@@ -64101,7 +64123,8 @@
     "clean_title": "/film/mitski-the-land/",
     "adult": false,
     "id": 1543360,
-    "imdb_id": "tt38207459"
+    "imdb_id": "tt38207459",
+    "cached_at": "2026-08-31T01:53:24.411Z"
   },
   "ariana-grande-at-the-bbc": {
     "title": "Ariana Grande at the BBC",
@@ -64189,7 +64212,8 @@
     "clean_title": "/film/stray-kids-the-dominate-experience/",
     "adult": false,
     "id": 1600421,
-    "imdb_id": "tt39216314"
+    "imdb_id": "tt39216314",
+    "cached_at": "2026-08-31T01:53:24.751Z"
   },
   "nirvana-live-at-reading": {
     "title": "Nirvana: Live at Reading",
@@ -64213,7 +64237,8 @@
     "clean_title": "/film/billie-eilish-hit-me-hard-and-soft-the-tour/",
     "adult": false,
     "id": 1515899,
-    "imdb_id": "tt39018643"
+    "imdb_id": "tt39018643",
+    "cached_at": "2026-08-31T01:53:24.843Z"
   },
   "one-love-manchester": {
     "title": "One Love Manchester",
@@ -64309,7 +64334,8 @@
     "clean_title": "/film/bjork-cornucopia/",
     "adult": false,
     "id": 1201149,
-    "imdb_id": "tt35534649"
+    "imdb_id": "tt35534649",
+    "cached_at": "2026-08-31T01:53:24.932Z"
   },
   "elvis-the-68-comeback-special": {
     "title": "Elvis: The '68 Comeback Special",
@@ -64405,7 +64431,8 @@
     "clean_title": "/film/wicked-one-wonderful-night/",
     "adult": false,
     "id": 1479945,
-    "imdb_id": "tt36963991"
+    "imdb_id": "tt36963991",
+    "cached_at": "2026-08-31T01:53:25.216Z"
   },
   "springsteen-on-broadway": {
     "title": "Springsteen on Broadway",
@@ -64429,7 +64456,8 @@
     "clean_title": "/film/hans-zimmer-friends-diamond-in-the-desert/",
     "adult": false,
     "id": 1425725,
-    "imdb_id": "tt35616060"
+    "imdb_id": "tt35616060",
+    "cached_at": "2026-08-31T01:53:25.272Z"
   },
   "superturne-the-first-and-last-night": {
     "title": "SuperTurnê: The First and Last Night",
@@ -64437,7 +64465,8 @@
     "clean_title": "/film/superturne-the-first-and-last-night/",
     "adult": false,
     "id": 1446252,
-    "imdb_id": null
+    "imdb_id": null,
+    "cached_at": "2026-08-31T01:53:25.328Z"
   },
   "an-audience-with-adele": {
     "title": "An Audience with Adele",
@@ -65142,7 +65171,8 @@
     "clean_title": "/film/second-victims/",
     "adult": false,
     "id": 1395177,
-    "imdb_id": "tt32210485"
+    "imdb_id": "tt32210485",
+    "cached_at": "2026-08-31T01:54:24.425Z"
   },
   "a-royal-affair": {
     "title": "A Royal Affair",
@@ -65198,7 +65228,8 @@
     "clean_title": "/film/home-sweet-home-2025/",
     "adult": false,
     "id": 1404175,
-    "imdb_id": "tt33308903"
+    "imdb_id": "tt33308903",
+    "cached_at": "2026-08-31T01:54:24.787Z"
   },
   "the-olsen-gang-sees-red": {
     "title": "The Olsen Gang Sees Red",
@@ -65214,7 +65245,8 @@
     "clean_title": "/film/the-last-viking-2025/",
     "adult": false,
     "id": 1295400,
-    "imdb_id": "tt27817389"
+    "imdb_id": "tt27817389",
+    "cached_at": "2026-08-31T01:54:24.470Z"
   },
   "unruly-2022": {
     "title": "Unruly",
@@ -65326,7 +65358,8 @@
     "clean_title": "/film/home-2026/",
     "adult": false,
     "id": 1600168,
-    "imdb_id": "tt39379299"
+    "imdb_id": "tt39379299",
+    "cached_at": "2026-08-31T01:54:24.849Z"
   },
   "italian-for-beginners": {
     "title": "Italian for Beginners",
@@ -65486,7 +65519,8 @@
     "clean_title": "/film/a-love-like-no-other-2025/",
     "adult": false,
     "id": 1424785,
-    "imdb_id": "tt34807878"
+    "imdb_id": "tt34807878",
+    "cached_at": "2026-08-31T01:54:24.903Z"
   },
   "pain-of-love": {
     "title": "Pain of Love",
@@ -65943,7 +65977,8 @@
     "clean_title": "/film/planet-earth-ii/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5491994"
+    "imdb_id": "tt5491994",
+    "cached_at": "2026-08-31T01:53:08.394Z"
   },
   "planet-earth-2006": {
     "title": "Planet Earth",
@@ -65951,7 +65986,8 @@
     "clean_title": "/film/planet-earth-2006/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0795176"
+    "imdb_id": "tt0795176",
+    "cached_at": "2026-08-31T01:53:08.092Z"
   },
   "blue-planet-ii": {
     "title": "Blue Planet II",
@@ -65959,7 +65995,8 @@
     "clean_title": "/film/blue-planet-ii/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6769208"
+    "imdb_id": "tt6769208",
+    "cached_at": "2026-08-31T01:53:08.118Z"
   },
   "the-beatles-get-back": {
     "title": "The Beatles: Get Back",
@@ -65967,7 +66004,8 @@
     "clean_title": "/film/the-beatles-get-back/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9735318"
+    "imdb_id": "tt9735318",
+    "cached_at": "2026-08-31T01:53:08.452Z"
   },
   "dj-mehdi-made-in-france": {
     "title": "DJ Mehdi: Made in France",
@@ -65975,7 +66013,8 @@
     "clean_title": "/film/dj-mehdi-made-in-france/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33396904"
+    "imdb_id": "tt33396904",
+    "cached_at": "2026-08-31T01:53:08.815Z"
   },
   "our-planet": {
     "title": "Our Planet",
@@ -65983,7 +66022,8 @@
     "clean_title": "/film/our-planet/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9253866"
+    "imdb_id": "tt9253866",
+    "cached_at": "2026-08-31T01:53:08.848Z"
   },
   "the-world-at-war": {
     "title": "The World at War",
@@ -65991,7 +66031,8 @@
     "clean_title": "/film/the-world-at-war/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0071075"
+    "imdb_id": "tt0071075",
+    "cached_at": "2026-08-31T01:53:09.509Z"
   },
   "the-vietnam-war": {
     "title": "The Vietnam War",
@@ -65999,7 +66040,8 @@
     "clean_title": "/film/the-vietnam-war/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1877514"
+    "imdb_id": "tt1877514",
+    "cached_at": "2026-08-31T01:53:09.171Z"
   },
   "the-beatles-anthology": {
     "title": "The Beatles Anthology",
@@ -66007,7 +66049,8 @@
     "clean_title": "/film/the-beatles-anthology/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0111893"
+    "imdb_id": "tt0111893",
+    "cached_at": "2026-08-31T01:53:09.226Z"
   },
   "planet-earth-iii": {
     "title": "Planet Earth III",
@@ -66015,7 +66058,8 @@
     "clean_title": "/film/planet-earth-iii/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9805674"
+    "imdb_id": "tt9805674",
+    "cached_at": "2026-08-31T01:53:09.621Z"
   },
   "the-last-dance-2020": {
     "title": "The Last Dance",
@@ -66023,7 +66067,8 @@
     "clean_title": "/film/the-last-dance-2020/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8420184"
+    "imdb_id": "tt8420184",
+    "cached_at": "2026-08-31T01:53:09.586Z"
   },
   "baseball": {
     "title": "Baseball",
@@ -66031,7 +66076,8 @@
     "clean_title": "/film/baseball/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0108700"
+    "imdb_id": "tt0108700",
+    "cached_at": "2026-08-31T01:53:10.020Z"
   },
   "the-blue-planet": {
     "title": "The Blue Planet",
@@ -66039,7 +66085,8 @@
     "clean_title": "/film/the-blue-planet/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0296310"
+    "imdb_id": "tt0296310",
+    "cached_at": "2026-08-31T01:53:09.995Z"
   },
   "cosmos-2014": {
     "title": "Cosmos",
@@ -66047,7 +66094,8 @@
     "clean_title": "/film/cosmos-2014/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2395695"
+    "imdb_id": "tt2395695",
+    "cached_at": "2026-08-31T01:53:10.703Z"
   },
   "seven-worlds-one-planet": {
     "title": "Seven Worlds, One Planet",
@@ -66055,7 +66103,8 @@
     "clean_title": "/film/seven-worlds-one-planet/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9805708"
+    "imdb_id": "tt9805708",
+    "cached_at": "2026-08-31T01:53:10.345Z"
   },
   "the-green-planet-2022": {
     "title": "The Green Planet",
@@ -66063,7 +66112,8 @@
     "clean_title": "/film/the-green-planet-2022/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt16986646"
+    "imdb_id": "tt16986646",
+    "cached_at": "2026-08-31T01:53:10.405Z"
   },
   "life-2009": {
     "title": "Life",
@@ -66071,7 +66121,8 @@
     "clean_title": "/film/life-2009/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1533395"
+    "imdb_id": "tt1533395",
+    "cached_at": "2026-08-31T01:53:10.758Z"
   },
   "bts-monuments-beyond-the-star-2023": {
     "title": "BTS Monuments: Beyond the Star",
@@ -66079,7 +66130,8 @@
     "clean_title": "/film/bts-monuments-beyond-the-star-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt23871680"
+    "imdb_id": "tt23871680",
+    "cached_at": "2026-08-31T01:53:10.813Z"
   },
   "when-the-levees-broke-a-requiem-in-four-acts": {
     "title": "When the Levees Broke: A Requiem in Four Acts",
@@ -66087,7 +66139,8 @@
     "clean_title": "/film/when-the-levees-broke-a-requiem-in-four-acts/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0783612"
+    "imdb_id": "tt0783612",
+    "cached_at": "2026-08-31T01:53:11.133Z"
   },
   "russia-1985-1999-traumazone": {
     "title": "Russia 1985-1999: TraumaZone",
@@ -66095,7 +66148,8 @@
     "clean_title": "/film/russia-1985-1999-traumazone/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt22059224"
+    "imdb_id": "tt22059224",
+    "cached_at": "2026-08-31T01:53:11.109Z"
   },
   "the-civil-war": {
     "title": "The Civil War",
@@ -66103,7 +66157,8 @@
     "clean_title": "/film/the-civil-war/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0098769"
+    "imdb_id": "tt0098769",
+    "cached_at": "2026-08-31T01:53:11.911Z"
   },
   "frozen-planet": {
     "title": "Frozen Planet",
@@ -66111,7 +66166,8 @@
     "clean_title": "/film/frozen-planet/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2092588"
+    "imdb_id": "tt2092588",
+    "cached_at": "2026-08-31T01:53:11.508Z"
   },
   "the-end-of-an-era-2025": {
     "title": "Taylor Swift | The End of an Era",
@@ -66119,7 +66175,8 @@
     "clean_title": "/film/the-end-of-an-era-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt38673133"
+    "imdb_id": "tt38673133",
+    "cached_at": "2026-08-31T01:53:11.553Z"
   },
   "ways-of-seeing": {
     "title": "Ways of Seeing",
@@ -66127,7 +66184,8 @@
     "clean_title": "/film/ways-of-seeing/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1302546"
+    "imdb_id": "tt1302546",
+    "cached_at": "2026-08-31T01:53:11.891Z"
   },
   "apocalypse-the-second-world-war": {
     "title": "Apocalypse: The Second World War",
@@ -66135,7 +66193,8 @@
     "clean_title": "/film/apocalypse-the-second-world-war/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1508238"
+    "imdb_id": "tt1508238",
+    "cached_at": "2026-08-31T01:53:12.012Z"
   },
   "the-hunt-2015": {
     "title": "The Hunt",
@@ -66143,7 +66202,8 @@
     "clean_title": "/film/the-hunt-2015/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5167198"
+    "imdb_id": "tt5167198",
+    "cached_at": "2026-08-31T01:53:12.283Z"
   },
   "human-planet-2011": {
     "title": "Human Planet",
@@ -66151,7 +66211,8 @@
     "clean_title": "/film/human-planet-2011/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1806234"
+    "imdb_id": "tt1806234",
+    "cached_at": "2026-08-31T01:53:12.937Z"
   },
   "the-dark-wizard": {
     "title": "The Dark Wizard",
@@ -66159,7 +66220,8 @@
     "clean_title": "/film/the-dark-wizard/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt39656291"
+    "imdb_id": "tt39656291",
+    "cached_at": "2026-08-31T01:53:12.448Z"
   },
   "once-upon-a-time-in-northern-ireland": {
     "title": "Once Upon a Time in Northern Ireland",
@@ -66167,7 +66229,8 @@
     "clean_title": "/film/once-upon-a-time-in-northern-ireland/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27837209"
+    "imdb_id": "tt27837209",
+    "cached_at": "2026-08-31T01:53:12.693Z"
   },
   "9-11-one-day-in-america": {
     "title": "9/11: One Day in America",
@@ -66175,7 +66238,8 @@
     "clean_title": "/film/9-11-one-day-in-america/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14734548"
+    "imdb_id": "tt14734548",
+    "cached_at": "2026-08-31T01:53:12.841Z"
   },
   "dynasties": {
     "title": "Dynasties",
@@ -66183,7 +66247,8 @@
     "clean_title": "/film/dynasties/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9130692"
+    "imdb_id": "tt9130692",
+    "cached_at": "2026-08-31T01:53:13.766Z"
   },
   "once-upon-a-time-in-iraq": {
     "title": "Once Upon a Time in Iraq",
@@ -66191,7 +66256,8 @@
     "clean_title": "/film/once-upon-a-time-in-iraq/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12747876"
+    "imdb_id": "tt12747876",
+    "cached_at": "2026-08-31T01:53:13.234Z"
   },
   "africa-2013": {
     "title": "Africa",
@@ -66199,7 +66265,8 @@
     "clean_title": "/film/africa-2013/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2571774"
+    "imdb_id": "tt2571774",
+    "cached_at": "2026-08-31T01:53:13.329Z"
   },
   "the-us-and-the-holocaust": {
     "title": "The U.S. and the Holocaust",
@@ -66207,7 +66274,8 @@
     "clean_title": "/film/the-us-and-the-holocaust/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt20863280"
+    "imdb_id": "tt20863280",
+    "cached_at": "2026-08-31T01:53:13.632Z"
   },
   "the-century-of-the-self": {
     "title": "The Century of the Self",
@@ -66215,7 +66283,8 @@
     "clean_title": "/film/the-century-of-the-self/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0432232"
+    "imdb_id": "tt0432232",
+    "cached_at": "2026-08-31T01:53:13.672Z"
   },
   "frozen-planet-ii": {
     "title": "Frozen Planet II",
@@ -66223,7 +66292,8 @@
     "clean_title": "/film/frozen-planet-ii/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9805678"
+    "imdb_id": "tt9805678",
+    "cached_at": "2026-08-31T01:53:14.731Z"
   },
   "cant-get-you-out-of-my-head": {
     "title": "Can't Get You Out of My Head",
@@ -66231,7 +66301,8 @@
     "clean_title": "/film/cant-get-you-out-of-my-head/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13973190"
+    "imdb_id": "tt13973190",
+    "cached_at": "2026-08-31T01:53:14.017Z"
   },
   "the-american-revolution-2025": {
     "title": "The American Revolution",
@@ -66239,7 +66310,8 @@
     "clean_title": "/film/the-american-revolution-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35328184"
+    "imdb_id": "tt35328184",
+    "cached_at": "2026-08-31T01:53:14.175Z"
   },
   "the-war-2007": {
     "title": "The War",
@@ -66247,7 +66319,8 @@
     "clean_title": "/film/the-war-2007/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0996994"
+    "imdb_id": "tt0996994",
+    "cached_at": "2026-08-31T01:53:14.420Z"
   },
   "bts-burn-the-stage": {
     "title": "BTS: Burn the Stage",
@@ -66255,7 +66328,8 @@
     "clean_title": "/film/bts-burn-the-stage/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8139230"
+    "imdb_id": "tt8139230",
+    "cached_at": "2026-08-31T01:53:14.569Z"
   },
   "bring-the-soul-docu-series": {
     "title": "Bring The Soul: Docu-Series",
@@ -66263,7 +66337,8 @@
     "clean_title": "/film/bring-the-soul-docu-series/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10850838"
+    "imdb_id": "tt10850838",
+    "cached_at": "2026-08-31T01:53:14.798Z"
   },
   "the-story-of-film-an-odyssey-2011": {
     "title": "The Story of Film: An Odyssey",
@@ -66271,7 +66346,8 @@
     "clean_title": "/film/the-story-of-film-an-odyssey-2011/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2044056"
+    "imdb_id": "tt2044056",
+    "cached_at": "2026-08-31T01:53:14.919Z"
   },
   "ariana-grande-dangerous-woman-diaries": {
     "title": "Ariana Grande: Dangerous Woman Diaries",
@@ -66279,7 +66355,8 @@
     "clean_title": "/film/ariana-grande-dangerous-woman-diaries/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9353628"
+    "imdb_id": "tt9353628",
+    "cached_at": "2026-08-31T01:53:15.123Z"
   },
   "walking-with-dinosaurs": {
     "title": "Walking with Dinosaurs",
@@ -66287,7 +66364,8 @@
     "clean_title": "/film/walking-with-dinosaurs/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0214382"
+    "imdb_id": "tt0214382",
+    "cached_at": "2026-08-31T01:53:15.962Z"
   },
   "mr-scorsese": {
     "title": "Mr. Scorsese",
@@ -66295,7 +66373,8 @@
     "clean_title": "/film/mr-scorsese/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt36998986"
+    "imdb_id": "tt36998986",
+    "cached_at": "2026-08-31T01:53:15.306Z"
   },
   "the-death-of-yugoslavia-1995": {
     "title": "The Death of Yugoslavia",
@@ -66303,7 +66382,8 @@
     "clean_title": "/film/the-death-of-yugoslavia-1995/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0283181"
+    "imdb_id": "tt0283181",
+    "cached_at": "2026-08-31T01:53:15.514Z"
   },
   "the-making-of-a-song": {
     "title": "The Making of a Song",
@@ -66311,7 +66391,8 @@
     "clean_title": "/film/the-making-of-a-song/",
     "adult": false,
     "id": 0,
-    "imdb_id": null
+    "imdb_id": null,
+    "cached_at": "2026-08-31T01:53:15.899Z"
   },
   "taylor-swift-journey-to-fearless": {
     "title": "Taylor Swift: Journey to Fearless",
@@ -66319,7 +66400,8 @@
     "clean_title": "/film/taylor-swift-journey-to-fearless/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1785129"
+    "imdb_id": "tt1785129",
+    "cached_at": "2026-08-31T01:53:16.031Z"
   },
   "country-music": {
     "title": "Country Music",
@@ -66327,7 +66409,8 @@
     "clean_title": "/film/country-music/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9708550"
+    "imdb_id": "tt9708550",
+    "cached_at": "2026-08-31T01:53:16.301Z"
   },
   "jeen-yuhs-a-kanye-trilogy": {
     "title": "jeen-yuhs: A Kanye Trilogy",
@@ -66335,7 +66418,8 @@
     "clean_title": "/film/jeen-yuhs-a-kanye-trilogy/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14599438"
+    "imdb_id": "tt14599438",
+    "cached_at": "2026-08-31T01:53:17.145Z"
   },
   "time-the-kalief-browder-story": {
     "title": "Time: The Kalief Browder Story",
@@ -66343,7 +66427,8 @@
     "clean_title": "/film/time-the-kalief-browder-story/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6133034"
+    "imdb_id": "tt6133034",
+    "cached_at": "2026-08-31T01:53:16.446Z"
   },
   "the-roosevelts-an-intimate-history": {
     "title": "The Roosevelts: An Intimate History",
@@ -66351,7 +66436,8 @@
     "clean_title": "/film/the-roosevelts-an-intimate-history/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt3400010"
+    "imdb_id": "tt3400010",
+    "cached_at": "2026-08-31T01:53:16.852Z"
   },
   "mccartney-3-2-1": {
     "title": "McCartney 3, 2, 1",
@@ -66359,7 +66445,8 @@
     "clean_title": "/film/mccartney-3-2-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13679628"
+    "imdb_id": "tt13679628",
+    "cached_at": "2026-08-31T01:53:17.316Z"
   },
   "dear-mama-2023": {
     "title": "Dear Mama",
@@ -66367,7 +66454,8 @@
     "clean_title": "/film/dear-mama-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6871344"
+    "imdb_id": "tt6871344",
+    "cached_at": "2026-08-31T01:53:17.549Z"
   },
   "the-imagineering-story": {
     "title": "The Imagineering Story",
@@ -66375,7 +66463,8 @@
     "clean_title": "/film/the-imagineering-story/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9331982"
+    "imdb_id": "tt9331982",
+    "cached_at": "2026-08-31T01:53:17.566Z"
   },
   "long-way-round": {
     "title": "Long Way Round",
@@ -66383,7 +66472,8 @@
     "clean_title": "/film/long-way-round/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0403778"
+    "imdb_id": "tt0403778",
+    "cached_at": "2026-08-31T01:53:17.699Z"
   },
   "apocalypse-world-war-i": {
     "title": "Apocalypse: World War I",
@@ -66391,7 +66481,8 @@
     "clean_title": "/film/apocalypse-world-war-i/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt3638584"
+    "imdb_id": "tt3638584",
+    "cached_at": "2026-08-31T01:53:17.938Z"
   },
   "the-national-parks-americas-best-idea": {
     "title": "The National Parks: America's Best Idea",
@@ -66399,7 +66490,8 @@
     "clean_title": "/film/the-national-parks-americas-best-idea/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1464482"
+    "imdb_id": "tt1464482",
+    "cached_at": "2026-08-31T01:53:17.979Z"
   },
   "muhammad-ali": {
     "title": "Muhammad Ali",
@@ -66407,7 +66499,8 @@
     "clean_title": "/film/muhammad-ali/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6719950"
+    "imdb_id": "tt6719950",
+    "cached_at": "2026-08-31T01:53:18.100Z"
   },
   "pee-wee-as-himself-1": {
     "title": "Pee-wee as Himself",
@@ -66415,7 +66508,8 @@
     "clean_title": "/film/pee-wee-as-himself-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14419140"
+    "imdb_id": "tt14419140",
+    "cached_at": "2026-08-31T01:53:18.388Z"
   },
   "secrets-of-the-whales": {
     "title": "Secrets of the Whales",
@@ -66423,7 +66517,8 @@
     "clean_title": "/film/secrets-of-the-whales/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12824750"
+    "imdb_id": "tt12824750",
+    "cached_at": "2026-08-31T01:53:18.487Z"
   },
   "the-last-movie-stars": {
     "title": "The Last Movie Stars",
@@ -66431,7 +66526,8 @@
     "clean_title": "/film/the-last-movie-stars/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13101040"
+    "imdb_id": "tt13101040",
+    "cached_at": "2026-08-31T01:53:18.683Z"
   },
   "63-up": {
     "title": "63 Up",
@@ -66447,7 +66543,8 @@
     "clean_title": "/film/chimp-empire/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27205918"
+    "imdb_id": "tt27205918",
+    "cached_at": "2026-08-31T01:53:18.798Z"
   },
   "juan-gabriel-i-must-i-can-i-will": {
     "title": "Juan Gabriel: I Must, I Can, I Will",
@@ -66455,7 +66552,8 @@
     "clean_title": "/film/juan-gabriel-i-must-i-can-i-will/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28235034"
+    "imdb_id": "tt28235034",
+    "cached_at": "2026-08-31T01:53:18.889Z"
   },
   "the-power-of-nightmares": {
     "title": "The Power of Nightmares",
@@ -66463,7 +66561,8 @@
     "clean_title": "/film/the-power-of-nightmares/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0430484"
+    "imdb_id": "tt0430484",
+    "cached_at": "2026-08-31T01:53:19.079Z"
   },
   "greatest-events-of-world-war-ii-in-colour-2019": {
     "title": "Greatest Events of World War II in Colour",
@@ -66471,7 +66570,8 @@
     "clean_title": "/film/greatest-events-of-world-war-ii-in-colour-2019/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9103932"
+    "imdb_id": "tt9103932",
+    "cached_at": "2026-08-31T01:53:19.201Z"
   },
   "shifty-2025-1": {
     "title": "Shifty",
@@ -66479,7 +66579,8 @@
     "clean_title": "/film/shifty-2025-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt37303446"
+    "imdb_id": "tt37303446",
+    "cached_at": "2026-08-31T01:53:19.284Z"
   },
   "all-watched-over-by-machines-of-loving-grace": {
     "title": "All Watched Over by Machines of Loving Grace",
@@ -66487,7 +66588,8 @@
     "clean_title": "/film/all-watched-over-by-machines-of-loving-grace/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1955162"
+    "imdb_id": "tt1955162",
+    "cached_at": "2026-08-31T01:53:19.465Z"
   },
   "robodoc-the-creation-of-robocop-2023": {
     "title": "RoboDoc: The Creation of RoboCop",
@@ -66495,7 +66597,8 @@
     "clean_title": "/film/robodoc-the-creation-of-robocop-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5759360"
+    "imdb_id": "tt5759360",
+    "cached_at": "2026-08-31T01:53:19.611Z"
   },
   "jazz": {
     "title": "Jazz",
@@ -66503,7 +66606,8 @@
     "clean_title": "/film/jazz/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0221300"
+    "imdb_id": "tt0221300",
+    "cached_at": "2026-08-31T01:53:19.726Z"
   },
   "real-madrid-until-the-end": {
     "title": "Real Madrid: Until the End",
@@ -66511,7 +66615,8 @@
     "clean_title": "/film/real-madrid-until-the-end/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26924816"
+    "imdb_id": "tt26924816",
+    "cached_at": "2026-08-31T01:53:19.854Z"
   },
   "our-oceans-2024": {
     "title": "Our Oceans",
@@ -66519,7 +66624,8 @@
     "clean_title": "/film/our-oceans-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt23181400"
+    "imdb_id": "tt23181400",
+    "cached_at": "2026-08-31T01:53:20.025Z"
   },
   "10-years-with-hayao-miyazaki": {
     "title": "10 Years with Hayao Miyazaki",
@@ -66527,7 +66633,8 @@
     "clean_title": "/film/10-years-with-hayao-miyazaki/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12221602"
+    "imdb_id": "tt12221602",
+    "cached_at": "2026-08-31T01:53:20.184Z"
   },
   "queen-days-of-our-lives-2011": {
     "title": "Queen: Days of Our Lives",
@@ -66543,7 +66650,8 @@
     "clean_title": "/film/the-trap-what-happened-to-our-dream-of-freedom/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0979263"
+    "imdb_id": "tt0979263",
+    "cached_at": "2026-08-31T01:53:20.246Z"
   },
   "28-up": {
     "title": "28 Up",
@@ -66559,7 +66667,8 @@
     "clean_title": "/film/walking-with-beasts/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0286285"
+    "imdb_id": "tt0286285",
+    "cached_at": "2026-08-31T01:53:20.463Z"
   },
   "the-west-1996": {
     "title": "The West",
@@ -66567,7 +66676,8 @@
     "clean_title": "/film/the-west-1996/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0115418"
+    "imdb_id": "tt0115418",
+    "cached_at": "2026-08-31T01:53:20.584Z"
   },
   "self-portrait-as-a-coffee-pot-2024": {
     "title": "Self-Portrait as a Coffee Pot",
@@ -66575,7 +66685,8 @@
     "clean_title": "/film/self-portrait-as-a-coffee-pot-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15129458"
+    "imdb_id": "tt15129458",
+    "cached_at": "2026-08-31T01:53:20.665Z"
   },
   "hurricane-katrina-race-against-time": {
     "title": "Hurricane Katrina: Race Against Time",
@@ -66583,7 +66694,8 @@
     "clean_title": "/film/hurricane-katrina-race-against-time/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt37458027"
+    "imdb_id": "tt37458027",
+    "cached_at": "2026-08-31T01:53:20.872Z"
   },
   "world-war-ii-from-the-frontlines": {
     "title": "World War II: From the Frontlines",
@@ -66591,7 +66703,8 @@
     "clean_title": "/film/world-war-ii-from-the-frontlines/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28756878"
+    "imdb_id": "tt28756878",
+    "cached_at": "2026-08-31T01:53:20.987Z"
   },
   "the-tragically-hip-no-dress-rehearsal": {
     "title": "The Tragically Hip: No Dress Rehearsal",
@@ -66599,7 +66712,8 @@
     "clean_title": "/film/the-tragically-hip-no-dress-rehearsal/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33312360"
+    "imdb_id": "tt33312360",
+    "cached_at": "2026-08-31T01:53:21.097Z"
   },
   "exterminate-all-the-brutes-2021": {
     "title": "Exterminate All the Brutes",
@@ -66607,7 +66721,8 @@
     "clean_title": "/film/exterminate-all-the-brutes-2021/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8396314"
+    "imdb_id": "tt8396314",
+    "cached_at": "2026-08-31T01:53:21.418Z"
   },
   "42-up": {
     "title": "42 Up",
@@ -66623,7 +66738,8 @@
     "clean_title": "/film/sea-monsters/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0469006"
+    "imdb_id": "tt0469006",
+    "cached_at": "2026-08-31T01:53:21.487Z"
   },
   "attenboroughs-life-in-colour": {
     "title": "Attenborough's Life in Colour",
@@ -66631,7 +66747,8 @@
     "clean_title": "/film/attenboroughs-life-in-colour/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt11053426"
+    "imdb_id": "tt11053426",
+    "cached_at": "2026-08-31T01:53:21.612Z"
   },
   "kylie-2026": {
     "title": "Kylie",
@@ -66639,7 +66756,8 @@
     "clean_title": "/film/kylie-2026/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt41993588"
+    "imdb_id": "tt41993588",
+    "cached_at": "2026-08-31T01:53:21.800Z"
   },
   "the-evandro-case-a-devilish-plot": {
     "title": "The Evandro Case: A Devilish Plot",
@@ -66647,7 +66765,8 @@
     "clean_title": "/film/the-evandro-case-a-devilish-plot/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12402000"
+    "imdb_id": "tt12402000",
+    "cached_at": "2026-08-31T01:53:21.880Z"
   },
   "the-dinosaurs-2026": {
     "title": "The Dinosaurs",
@@ -66655,7 +66774,8 @@
     "clean_title": "/film/the-dinosaurs-2026/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32493765"
+    "imdb_id": "tt32493765",
+    "cached_at": "2026-08-31T01:53:21.999Z"
   },
   "49-up": {
     "title": "49 Up",
@@ -66671,7 +66791,8 @@
     "clean_title": "/film/99-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27859721"
+    "imdb_id": "tt27859721",
+    "cached_at": "2026-08-31T01:53:22.220Z"
   },
   "the-zen-diaries-of-garry-shandling": {
     "title": "The Zen Diaries of Garry Shandling",
@@ -66679,7 +66800,8 @@
     "clean_title": "/film/the-zen-diaries-of-garry-shandling/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7860890"
+    "imdb_id": "tt7860890",
+    "cached_at": "2026-08-31T01:53:22.296Z"
   },
   "black-book": {
     "title": "Black Book",
@@ -66719,7 +66841,8 @@
     "clean_title": "/film/porte-bagage/",
     "adult": false,
     "id": 1498556,
-    "imdb_id": "tt37308391"
+    "imdb_id": "tt37308391",
+    "cached_at": "2026-08-31T01:54:26.111Z"
   },
   "nothing-personal": {
     "title": "Nothing Personal",
@@ -66935,7 +67058,8 @@
     "clean_title": "/film/nuclear-boy/",
     "adult": false,
     "id": 1621159,
-    "imdb_id": "tt39371749"
+    "imdb_id": "tt39371749",
+    "cached_at": "2026-08-31T01:54:26.188Z"
   },
   "when-we-lost-to-the-germans": {
     "title": "When We Lost to the Germans",
@@ -67015,7 +67139,8 @@
     "clean_title": "/film/treat-her-like-a-lady/",
     "adult": false,
     "id": 1599438,
-    "imdb_id": "tt39131581"
+    "imdb_id": "tt39131581",
+    "cached_at": "2026-08-31T01:54:26.157Z"
   },
   "yes-nurse-no-nurse": {
     "title": "Yes Nurse! No Nurse!",
@@ -67151,7 +67276,8 @@
     "clean_title": "/film/the-pupil-2025/",
     "adult": false,
     "id": 1514822,
-    "imdb_id": "tt35944967"
+    "imdb_id": "tt35944967",
+    "cached_at": "2026-08-31T01:54:26.547Z"
   },
   "the-last-days-of-emma-blank": {
     "title": "The Last Days of Emma Blank",
@@ -67167,7 +67293,8 @@
     "clean_title": "/film/joe-speedboot/",
     "adult": false,
     "id": 1484183,
-    "imdb_id": "tt32525017"
+    "imdb_id": "tt32525017",
+    "cached_at": "2026-08-31T01:54:26.582Z"
   },
   "afterlife-2019": {
     "title": "Afterlife",
@@ -67199,7 +67326,8 @@
     "clean_title": "/film/a-family-2026/",
     "adult": false,
     "id": 1359694,
-    "imdb_id": "tt33412851"
+    "imdb_id": "tt33412851",
+    "cached_at": "2026-08-31T01:54:26.600Z"
   },
   "the-polish-bride": {
     "title": "The Polish Bride",
@@ -67255,7 +67383,8 @@
     "clean_title": "/film/champagne-2026/",
     "adult": false,
     "id": 1603145,
-    "imdb_id": "tt38816122"
+    "imdb_id": "tt38816122",
+    "cached_at": "2026-08-31T01:54:26.953Z"
   },
   "boys-2014": {
     "title": "Boys",
@@ -67271,7 +67400,8 @@
     "clean_title": "/film/our-girls-2025/",
     "adult": false,
     "id": 1457705,
-    "imdb_id": "tt36474012"
+    "imdb_id": "tt36474012",
+    "cached_at": "2026-08-31T01:54:27.013Z"
   },
   "pluk-and-his-tow-truck": {
     "title": "Pluk and His Tow Truck",
@@ -67375,7 +67505,8 @@
     "clean_title": "/film/honestly-im-fine-2026/",
     "adult": false,
     "id": 1600502,
-    "imdb_id": "tt35520399"
+    "imdb_id": "tt35520399",
+    "cached_at": "2026-08-31T01:54:27.033Z"
   },
   "the-marriage-escape": {
     "title": "The Marriage Escape",
@@ -74143,7 +74274,8 @@
     "clean_title": "/film/next-to-normal/",
     "adult": false,
     "id": 1228596,
-    "imdb_id": "tt35619700"
+    "imdb_id": "tt35619700",
+    "cached_at": "2026-08-31T01:53:28.512Z"
   },
   "hadestown-the-musical": {
     "title": "Hadestown: The Musical",
@@ -74151,7 +74283,8 @@
     "clean_title": "/film/hadestown-the-musical/",
     "adult": false,
     "id": 1439808,
-    "imdb_id": "tt36307021"
+    "imdb_id": "tt36307021",
+    "cached_at": "2026-08-31T01:53:28.651Z"
   },
   "national-theatre-live-angels-in-america-part-two-perestroika": {
     "title": "National Theatre Live: Angels In America — Part Two: Perestroika",
@@ -74207,7 +74340,8 @@
     "clean_title": "/film/national-theatre-live-inter-alia/",
     "adult": false,
     "id": 1454209,
-    "imdb_id": "tt36364878"
+    "imdb_id": "tt36364878",
+    "cached_at": "2026-08-31T01:53:28.621Z"
   },
   "into-the-woods": {
     "title": "Into the Woods",
@@ -74223,7 +74357,8 @@
     "clean_title": "/film/national-theatre-live-the-importance-of-being/",
     "adult": false,
     "id": 1352026,
-    "imdb_id": "tt35396916"
+    "imdb_id": "tt35396916",
+    "cached_at": "2026-08-31T01:53:28.925Z"
   },
   "company-a-musical-comedy": {
     "title": "Company: A Musical Comedy",
@@ -74439,7 +74574,8 @@
     "clean_title": "/film/merrily-we-roll-along-2025/",
     "adult": false,
     "id": 1306400,
-    "imdb_id": "tt32641442"
+    "imdb_id": "tt32641442",
+    "cached_at": "2026-08-31T01:53:29.085Z"
   },
   "national-theatre-live-all-my-sons-2026": {
     "title": "National Theatre Live: All My Sons",
@@ -74447,7 +74583,8 @@
     "clean_title": "/film/national-theatre-live-all-my-sons-2026/",
     "adult": false,
     "id": 1620001,
-    "imdb_id": "tt39544163"
+    "imdb_id": "tt39544163",
+    "cached_at": "2026-08-31T01:53:29.087Z"
   },
   "macbeth-2025": {
     "title": "Macbeth",
@@ -74455,7 +74592,8 @@
     "clean_title": "/film/macbeth-2025/",
     "adult": false,
     "id": 1368487,
-    "imdb_id": "tt34729082"
+    "imdb_id": "tt34729082",
+    "cached_at": "2026-08-31T01:53:29.335Z"
   },
   "a-west-wing-special-to-benefit-when-we-all-vote": {
     "title": "A West Wing Special to Benefit When We All Vote",
@@ -74535,7 +74673,8 @@
     "clean_title": "/film/six-the-musical-live/",
     "adult": false,
     "id": 1417019,
-    "imdb_id": "tt35391146"
+    "imdb_id": "tt35391146",
+    "cached_at": "2026-08-31T01:53:29.508Z"
   },
   "national-theatre-live-coriolanus-2014": {
     "title": "National Theatre Live: Coriolanus",
@@ -74639,7 +74778,8 @@
     "clean_title": "/film/national-theatre-live-the-fifth-step/",
     "adult": false,
     "id": 1507573,
-    "imdb_id": "tt37511177"
+    "imdb_id": "tt37511177",
+    "cached_at": "2026-08-31T01:53:29.490Z"
   },
   "passing-strange": {
     "title": "Passing Strange",
@@ -74687,7 +74827,8 @@
     "clean_title": "/film/national-theatre-live-the-other-place/",
     "adult": false,
     "id": 1434672,
-    "imdb_id": "tt36267556"
+    "imdb_id": "tt36267556",
+    "cached_at": "2026-08-31T01:53:29.739Z"
   },
   "company-2011": {
     "title": "Company",
@@ -74743,7 +74884,8 @@
     "clean_title": "/film/twelfth-night-2025/",
     "adult": false,
     "id": 1576770,
-    "imdb_id": "tt38947560"
+    "imdb_id": "tt38947560",
+    "cached_at": "2026-08-31T01:53:29.948Z"
   },
   "kinky-boots-the-musical": {
     "title": "Kinky Boots: The Musical",
@@ -74799,7 +74941,8 @@
     "clean_title": "/film/national-theatre-live-dr-strangelove/",
     "adult": false,
     "id": 1401957,
-    "imdb_id": "tt35396958"
+    "imdb_id": "tt35396958",
+    "cached_at": "2026-08-31T01:53:29.923Z"
   },
   "suffs": {
     "title": "Suffs",
@@ -74807,7 +74950,8 @@
     "clean_title": "/film/suffs/",
     "adult": false,
     "id": 1638171,
-    "imdb_id": "tt41946617"
+    "imdb_id": "tt41946617",
+    "cached_at": "2026-08-31T01:53:30.159Z"
   },
   "anything-goes-2021": {
     "title": "Anything Goes",
@@ -76413,7 +76557,8 @@
     "clean_title": "/film/good-news-2025/",
     "adult": false,
     "id": 1296404,
-    "imdb_id": "tt33550069"
+    "imdb_id": "tt33550069",
+    "cached_at": "2026-08-31T01:54:29.019Z"
   },
   "miracle-letters-to-the-president": {
     "title": "Miracle: Letters to the President",
@@ -76453,7 +76598,8 @@
     "clean_title": "/film/la-bola-negra/",
     "adult": false,
     "id": 1422041,
-    "imdb_id": "tt35511966"
+    "imdb_id": "tt35511966",
+    "cached_at": "2026-08-31T01:54:30.194Z"
   },
   "the-teacher-who-promised-the-sea": {
     "title": "The Teacher Who Promised the Sea",
@@ -76677,7 +76823,8 @@
     "clean_title": "/film/the-beloved-2026/",
     "adult": false,
     "id": 1074074,
-    "imdb_id": "tt33451014"
+    "imdb_id": "tt33451014",
+    "cached_at": "2026-08-31T01:54:30.230Z"
   },
   "broken-embraces": {
     "title": "Broken Embraces",
@@ -77389,7 +77536,8 @@
     "clean_title": "/film/dhurandhar/",
     "adult": false,
     "id": 1291608,
-    "imdb_id": "tt33014583"
+    "imdb_id": "tt33014583",
+    "cached_at": "2026-08-31T01:54:18.381Z"
   },
   "official-secrets": {
     "title": "Official Secrets",
@@ -78436,7 +78584,8 @@
     "clean_title": "/film/kevlar-soul/",
     "adult": false,
     "id": 1414081,
-    "imdb_id": "tt28301231"
+    "imdb_id": "tt28301231",
+    "cached_at": "2026-08-31T01:54:31.408Z"
   },
   "emil-and-the-piglet": {
     "title": "Emil and the Piglet",
@@ -80271,7 +80420,8 @@
     "clean_title": "/film/blades-of-the-guardians/",
     "adult": false,
     "id": 1305781,
-    "imdb_id": "tt32649961"
+    "imdb_id": "tt32649961",
+    "cached_at": "2026-08-31T01:54:19.584Z"
   },
   "the-sentimental-swordsman": {
     "title": "The Sentimental Swordsman",
@@ -87212,7 +87362,8 @@
     "clean_title": "/film/balan-the-boy/",
     "adult": false,
     "id": 1410937,
-    "imdb_id": "tt35254624"
+    "imdb_id": "tt35254624",
+    "cached_at": "2026-08-31T01:53:36.830Z"
   },
   "bouchra": {
     "title": "Bouchra",
@@ -87923,7 +88074,8 @@
     "clean_title": "/film/in-waves/",
     "adult": false,
     "id": 947502,
-    "imdb_id": "tt27672817"
+    "imdb_id": "tt27672817",
+    "cached_at": "2026-08-31T01:52:27.389Z"
   },
   "kirikou-and-the-men-and-women": {
     "title": "Kirikou and the Men and Women",
@@ -88211,7 +88363,8 @@
     "clean_title": "/film/the-basketball-diaries/",
     "adult": false,
     "id": 10474,
-    "imdb_id": "tt0112461"
+    "imdb_id": "tt0112461",
+    "cached_at": "2026-08-31T01:53:59.191Z"
   },
   "stuart-a-life-backwards": {
     "title": "Stuart: A Life Backwards",
@@ -90020,7 +90173,8 @@
     "clean_title": "/film/ocean-with-david-attenborough/",
     "adult": false,
     "id": 1448497,
-    "imdb_id": "tt33022710"
+    "imdb_id": "tt33022710",
+    "cached_at": "2026-08-31T01:52:20.432Z"
   },
   "2000-meters-to-andriivka": {
     "title": "2000 Meters to Andriivka",
@@ -90028,7 +90182,8 @@
     "clean_title": "/film/2000-meters-to-andriivka/",
     "adult": false,
     "id": 1400789,
-    "imdb_id": "tt34964205"
+    "imdb_id": "tt34964205",
+    "cached_at": "2026-08-31T01:52:20.236Z"
   },
   "life-of-crime-1984-2020": {
     "title": "Life of Crime: 1984-2020",
@@ -90044,7 +90199,8 @@
     "clean_title": "/film/noah-kahan-out-of-body/",
     "adult": false,
     "id": 1492341,
-    "imdb_id": "tt37172278"
+    "imdb_id": "tt37172278",
+    "cached_at": "2026-08-31T01:52:20.205Z"
   },
   "dominion-2018": {
     "title": "Dominion",
@@ -90068,7 +90224,8 @@
     "clean_title": "/film/the-encampments/",
     "adult": false,
     "id": 1418174,
-    "imdb_id": "tt35423402"
+    "imdb_id": "tt35423402",
+    "cached_at": "2026-08-31T01:52:20.977Z"
   },
   "hayao-miyazaki-and-the-heron": {
     "title": "Hayao Miyazaki and the Heron",
@@ -90084,7 +90241,8 @@
     "clean_title": "/film/louis-theroux-the-settlers/",
     "adult": false,
     "id": 1466013,
-    "imdb_id": "tt36640622"
+    "imdb_id": "tt36640622",
+    "cached_at": "2026-08-31T01:52:20.662Z"
   },
   "human-2015": {
     "title": "Human",
@@ -90164,7 +90322,8 @@
     "clean_title": "/film/the-alabama-solution/",
     "adult": false,
     "id": 1413805,
-    "imdb_id": "tt35307139"
+    "imdb_id": "tt35307139",
+    "cached_at": "2026-08-31T01:52:20.856Z"
   },
   "riverboom": {
     "title": "Riverboom",
@@ -90228,7 +90387,8 @@
     "clean_title": "/film/the-golden-spurtle/",
     "adult": false,
     "id": 1425373,
-    "imdb_id": "tt35932869"
+    "imdb_id": "tt35932869",
+    "cached_at": "2026-08-31T01:52:21.080Z"
   },
   "ennio": {
     "title": "Ennio",
@@ -90244,7 +90404,8 @@
     "clean_title": "/film/a-gorilla-story-told-by-david-attenborough/",
     "adult": false,
     "id": 1623125,
-    "imdb_id": "tt39314348"
+    "imdb_id": "tt39314348",
+    "cached_at": "2026-08-31T01:52:21.350Z"
   },
   "instrument-1999": {
     "title": "Instrument",
@@ -90404,7 +90565,8 @@
     "clean_title": "/film/my-mom-jayne/",
     "adult": false,
     "id": 1461714,
-    "imdb_id": "tt36464353"
+    "imdb_id": "tt36464353",
+    "cached_at": "2026-08-31T01:52:21.867Z"
   },
   "style-wars": {
     "title": "Style Wars",
@@ -90500,7 +90662,8 @@
     "clean_title": "/film/lilith-fair-building-a-mystery/",
     "adult": false,
     "id": 1314862,
-    "imdb_id": "tt32915874"
+    "imdb_id": "tt32915874",
+    "cached_at": "2026-08-31T01:52:21.624Z"
   },
   "pearl-jam-twenty": {
     "title": "Pearl Jam Twenty",
@@ -90540,7 +90703,8 @@
     "clean_title": "/film/selena-y-los-dinos/",
     "adult": false,
     "id": 1400784,
-    "imdb_id": "tt34963797"
+    "imdb_id": "tt34963797",
+    "cached_at": "2026-08-31T01:52:21.778Z"
   },
   "flucht-aus-nordkorea": {
     "title": "Beyond Utopia",
@@ -90575,12 +90739,13 @@
     "imdb_id": "tt0116481"
   },
   "fiume-o-morte": {
-    "title": "Fiume o Morte!",
+    "title": "Fiume o morte!",
     "release_year": "2025",
     "clean_title": "/film/fiume-o-morte/",
     "adult": false,
     "id": 1403843,
-    "imdb_id": "tt34383611"
+    "imdb_id": "tt34383611",
+    "cached_at": "2026-08-31T01:52:25.679Z"
   },
   "welcome-to-chechnya": {
     "title": "Welcome to Chechnya",
@@ -90596,7 +90761,8 @@
     "clean_title": "/film/sally-2025/",
     "adult": false,
     "id": 1242382,
-    "imdb_id": "tt31193771"
+    "imdb_id": "tt31193771",
+    "cached_at": "2026-08-31T01:52:22.177Z"
   },
   "put-your-soul-on-your-hand-and-walk": {
     "title": "Put Your Soul on Your Hand and Walk",
@@ -90604,7 +90770,8 @@
     "clean_title": "/film/put-your-soul-on-your-hand-and-walk/",
     "adult": false,
     "id": 1465560,
-    "imdb_id": "tt36598711"
+    "imdb_id": "tt36598711",
+    "cached_at": "2026-08-31T01:52:22.292Z"
   },
   "ex-libris-the-new-york-public-library": {
     "title": "Ex Libris: The New York Public Library",
@@ -90676,7 +90843,8 @@
     "clean_title": "/film/epic-elvis-presley-in-concert/",
     "adult": false,
     "id": 1445363,
-    "imdb_id": "tt35003538"
+    "imdb_id": "tt35003538",
+    "cached_at": "2026-08-31T01:52:22.598Z"
   },
   "amazing-grace-2018": {
     "title": "Amazing Grace",
@@ -90700,7 +90868,8 @@
     "clean_title": "/film/john-candy-i-like-me/",
     "adult": false,
     "id": 1492608,
-    "imdb_id": "tt26683420"
+    "imdb_id": "tt26683420",
+    "cached_at": "2026-08-31T01:52:22.770Z"
   },
   "the-barkley-marathons-the-race-that-eats-its-young": {
     "title": "The Barkley Marathons: The Race That Eats Its Young",
@@ -90724,7 +90893,8 @@
     "clean_title": "/film/marty-life-is-short/",
     "adult": false,
     "id": 1620034,
-    "imdb_id": "tt39382052"
+    "imdb_id": "tt39382052",
+    "cached_at": "2026-08-31T01:52:23.105Z"
   },
   "lots-of-kids-a-monkey-and-a-castle": {
     "title": "Lots of Kids, a Monkey and a Castle",
@@ -90828,7 +90998,8 @@
     "clean_title": "/film/man-on-the-run-2025/",
     "adult": false,
     "id": 1260643,
-    "imdb_id": "tt26931594"
+    "imdb_id": "tt26931594",
+    "cached_at": "2026-08-31T01:52:23.196Z"
   },
   "depeche-mode-m": {
     "title": "Depeche Mode: M",
@@ -90836,7 +91007,8 @@
     "clean_title": "/film/depeche-mode-m/",
     "adult": false,
     "id": 1465711,
-    "imdb_id": "tt36590288"
+    "imdb_id": "tt36590288",
+    "cached_at": "2026-08-31T01:52:23.502Z"
   },
   "will-harper": {
     "title": "Will & Harper",
@@ -90884,7 +91056,8 @@
     "clean_title": "/film/come-see-me-in-the-good-light/",
     "adult": false,
     "id": 1400780,
-    "imdb_id": "tt34966013"
+    "imdb_id": "tt34966013",
+    "cached_at": "2026-08-31T01:52:23.699Z"
   },
   "ritas": {
     "title": "Ritas",
@@ -90892,7 +91065,8 @@
     "clean_title": "/film/ritas/",
     "adult": false,
     "id": 1444695,
-    "imdb_id": "tt36261475"
+    "imdb_id": "tt36261475",
+    "cached_at": "2026-08-31T01:52:23.920Z"
   },
   "the-square-2013": {
     "title": "The Square",
@@ -92071,7 +92245,8 @@
     "clean_title": "/film/sirai-2025/",
     "adult": false,
     "id": 1487142,
-    "imdb_id": "tt35684868"
+    "imdb_id": "tt35684868",
+    "cached_at": "2026-08-31T01:52:16.198Z"
   },
   "real-women-have-curves": {
     "title": "Real Women Have Curves",
@@ -94355,7 +94530,8 @@
     "clean_title": "/film/the-presidents-cake/",
     "adult": false,
     "id": 1464883,
-    "imdb_id": "tt36580119"
+    "imdb_id": "tt36580119",
+    "cached_at": "2026-08-31T01:53:36.487Z"
   },
   "great-freedom": {
     "title": "Great Freedom",
@@ -96350,7 +96526,8 @@
     "clean_title": "/film/fullmetal-alchemist-brotherhood/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1355642"
+    "imdb_id": "tt1355642",
+    "cached_at": "2026-08-31T01:52:33.078Z"
   },
   "when-life-gives-you-tangerines-2025": {
     "title": "When Life Gives You Tangerines",
@@ -96358,7 +96535,8 @@
     "clean_title": "/film/when-life-gives-you-tangerines-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26471411"
+    "imdb_id": "tt26471411",
+    "cached_at": "2026-08-31T01:52:33.486Z"
   },
   "samuel-2024": {
     "title": "Samuel",
@@ -96366,7 +96544,8 @@
     "clean_title": "/film/samuel-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15498808"
+    "imdb_id": "tt15498808",
+    "cached_at": "2026-08-31T01:52:33.533Z"
   },
   "ping-pong-the-animation": {
     "title": "Ping Pong the Animation",
@@ -96374,7 +96553,8 @@
     "clean_title": "/film/ping-pong-the-animation/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt3592032"
+    "imdb_id": "tt3592032",
+    "cached_at": "2026-08-31T01:52:34.226Z"
   },
   "berserk-1997": {
     "title": "Berserk",
@@ -96382,7 +96562,8 @@
     "clean_title": "/film/berserk-1997/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0318871"
+    "imdb_id": "tt0318871",
+    "cached_at": "2026-08-31T01:52:34.281Z"
   },
   "when-they-see-us": {
     "title": "When They See Us",
@@ -96390,7 +96571,8 @@
     "clean_title": "/film/when-they-see-us/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7137906"
+    "imdb_id": "tt7137906",
+    "cached_at": "2026-08-31T01:52:34.685Z"
   },
   "scavengers-reign": {
     "title": "Scavengers Reign",
@@ -96398,7 +96580,8 @@
     "clean_title": "/film/scavengers-reign/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt21056886"
+    "imdb_id": "tt21056886",
+    "cached_at": "2026-08-31T01:52:34.710Z"
   },
   "nana-2006": {
     "title": "NANA",
@@ -96406,7 +96589,8 @@
     "clean_title": "/film/nana-2006/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0810705"
+    "imdb_id": "tt0810705",
+    "cached_at": "2026-08-31T01:52:35.041Z"
   },
   "reply-1988": {
     "title": "Reply 1988",
@@ -96414,7 +96598,8 @@
     "clean_title": "/film/reply-1988/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5182866"
+    "imdb_id": "tt5182866",
+    "cached_at": "2026-08-31T01:52:35.081Z"
   },
   "samurai-champloo": {
     "title": "Samurai Champloo",
@@ -96422,7 +96607,8 @@
     "clean_title": "/film/samurai-champloo/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0423731"
+    "imdb_id": "tt0423731",
+    "cached_at": "2026-08-31T01:52:35.141Z"
   },
   "fanny-and-alexander-1984": {
     "title": "Fanny and Alexander",
@@ -96430,7 +96616,8 @@
     "clean_title": "/film/fanny-and-alexander-1984/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6725158"
+    "imdb_id": "tt6725158",
+    "cached_at": "2026-08-31T01:52:35.383Z"
   },
   "the-penguin-2024": {
     "title": "The Penguin",
@@ -96438,7 +96625,8 @@
     "clean_title": "/film/the-penguin-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15435876"
+    "imdb_id": "tt15435876",
+    "cached_at": "2026-08-31T01:52:35.494Z"
   },
   "twinkling-watermelon": {
     "title": "Twinkling Watermelon",
@@ -96446,7 +96634,8 @@
     "clean_title": "/film/twinkling-watermelon/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27446493"
+    "imdb_id": "tt27446493",
+    "cached_at": "2026-08-31T01:52:35.817Z"
   },
   "okupas": {
     "title": "Okupas",
@@ -96454,7 +96643,8 @@
     "clean_title": "/film/okupas/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0289649"
+    "imdb_id": "tt0289649",
+    "cached_at": "2026-08-31T01:52:35.855Z"
   },
   "mario-puzos-the-godfather-the-complete-novel-for-television": {
     "title": "Mario Puzo's The Godfather: The Complete Novel for Television",
@@ -96462,7 +96652,8 @@
     "clean_title": "/film/mario-puzos-the-godfather-the-complete-novel-for-television/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0809488"
+    "imdb_id": "tt0809488",
+    "cached_at": "2026-08-31T01:52:36.206Z"
   },
   "veneno-2020": {
     "title": "Veneno",
@@ -96470,7 +96661,8 @@
     "clean_title": "/film/veneno-2020/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10383046"
+    "imdb_id": "tt10383046",
+    "cached_at": "2026-08-31T01:52:36.294Z"
   },
   "move-to-heaven": {
     "title": "Move to Heaven",
@@ -96479,7 +96671,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt11052470",
-    "cached_at": "2026-08-30T11:03:29.731Z"
+    "cached_at": "2026-08-31T01:52:36.600Z"
   },
   "revolutionary-girl-utena": {
     "title": "Revolutionary Girl Utena",
@@ -96487,7 +96679,8 @@
     "clean_title": "/film/revolutionary-girl-utena/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0205410"
+    "imdb_id": "tt0205410",
+    "cached_at": "2026-08-31T01:52:36.614Z"
   },
   "weak-hero": {
     "title": "Weak Hero",
@@ -96495,7 +96688,8 @@
     "clean_title": "/film/weak-hero/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt20234568",
+    "cached_at": "2026-08-31T01:52:36.685Z"
   },
   "brass-eye": {
     "title": "Brass Eye",
@@ -96503,7 +96697,8 @@
     "clean_title": "/film/brass-eye/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0118273"
+    "imdb_id": "tt0118273",
+    "cached_at": "2026-08-31T01:52:37.014Z"
   },
   "tear-along-the-dotted-line": {
     "title": "Tear Along the Dotted Line",
@@ -96512,7 +96707,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt15614372",
-    "cached_at": "2026-08-30T11:03:32.877Z"
+    "cached_at": "2026-08-31T01:52:37.003Z"
   },
   "banana-fish": {
     "title": "Banana Fish",
@@ -96520,7 +96715,8 @@
     "clean_title": "/film/banana-fish/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8515016"
+    "imdb_id": "tt8515016",
+    "cached_at": "2026-08-31T01:52:37.468Z"
   },
   "scenes-from-a-marriage-1973-1": {
     "title": "Scenes from a Marriage",
@@ -96528,7 +96724,8 @@
     "clean_title": "/film/scenes-from-a-marriage-1973-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0070644"
+    "imdb_id": "tt0070644",
+    "cached_at": "2026-08-31T01:52:37.479Z"
   },
   "sassy-the-sasquatch-2022": {
     "title": "Sassy the Sasquatch",
@@ -96536,7 +96733,8 @@
     "clean_title": "/film/sassy-the-sasquatch-2022/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt21209936"
+    "imdb_id": "tt21209936",
+    "cached_at": "2026-08-31T01:52:37.790Z"
   },
   "jojos-bizarre-adventure-golden-wind": {
     "title": "JoJo's Bizarre Adventure: Golden Wind",
@@ -96552,7 +96750,8 @@
     "clean_title": "/film/nirvana-the-band-the-show/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt21048596"
+    "imdb_id": "tt21048596",
+    "cached_at": "2026-08-31T01:52:38.133Z"
   },
   "jojos-bizarre-adventure-diamond-is-unbreakable": {
     "title": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
@@ -96568,7 +96767,8 @@
     "clean_title": "/film/ticket-to-heaven-2026/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34930106"
+    "imdb_id": "tt34930106",
+    "cached_at": "2026-08-31T01:52:38.294Z"
   },
   "puella-magi-madoka-magica": {
     "title": "Puella Magi Madoka Magica",
@@ -96576,7 +96776,8 @@
     "clean_title": "/film/puella-magi-madoka-magica/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1773185"
+    "imdb_id": "tt1773185",
+    "cached_at": "2026-08-31T01:52:38.533Z"
   },
   "my-dearest-2023": {
     "title": "My Dearest",
@@ -96584,7 +96785,8 @@
     "clean_title": "/film/my-dearest-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26228190"
+    "imdb_id": "tt26228190",
+    "cached_at": "2026-08-31T01:52:38.707Z"
   },
   "nyan-neko-sugar-girls-2010": {
     "title": "Nyan~ Neko Sugar Girls",
@@ -96592,7 +96794,8 @@
     "clean_title": "/film/nyan-neko-sugar-girls-2010/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34379533"
+    "imdb_id": "tt34379533",
+    "cached_at": "2026-08-31T01:52:38.688Z"
   },
   "adventure-time-distant-lands": {
     "title": "Adventure Time: Distant Lands",
@@ -96600,7 +96803,8 @@
     "clean_title": "/film/adventure-time-distant-lands/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt11165358"
+    "imdb_id": "tt11165358",
+    "cached_at": "2026-08-31T01:52:38.911Z"
   },
   "cyberpunk-edgerunners": {
     "title": "Cyberpunk: Edgerunners",
@@ -96608,7 +96812,8 @@
     "clean_title": "/film/cyberpunk-edgerunners/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12590266"
+    "imdb_id": "tt12590266",
+    "cached_at": "2026-08-31T01:52:39.106Z"
   },
   "orb-on-the-movements-of-the-earth": {
     "title": "Orb: On the Movements of the Earth",
@@ -96616,7 +96821,8 @@
     "clean_title": "/film/orb-on-the-movements-of-the-earth/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33044444"
+    "imdb_id": "tt33044444",
+    "cached_at": "2026-08-31T01:52:39.148Z"
   },
   "this-is-going-to-hurt": {
     "title": "This Is Going to Hurt",
@@ -96625,7 +96831,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt8681148",
-    "cached_at": "2026-08-30T11:03:33.573Z"
+    "cached_at": "2026-08-31T01:52:39.295Z"
   },
   "o-auto-da-compadecida": {
     "title": "O Auto da Compadecida",
@@ -96633,7 +96839,8 @@
     "clean_title": "/film/o-auto-da-compadecida/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0197139"
+    "imdb_id": "tt0197139",
+    "cached_at": "2026-08-31T01:52:39.485Z"
   },
   "my-mister": {
     "title": "My Mister",
@@ -96641,7 +96848,8 @@
     "clean_title": "/film/my-mister/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7923710"
+    "imdb_id": "tt7923710",
+    "cached_at": "2026-08-31T01:52:39.563Z"
   },
   "the-day-today": {
     "title": "The Day Today",
@@ -96649,7 +96857,8 @@
     "clean_title": "/film/the-day-today/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0108740"
+    "imdb_id": "tt0108740",
+    "cached_at": "2026-08-31T01:52:39.677Z"
   },
   "mouse-2021-1": {
     "title": "Mouse",
@@ -96657,7 +96866,8 @@
     "clean_title": "/film/mouse-2021-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13634792"
+    "imdb_id": "tt13634792",
+    "cached_at": "2026-08-31T01:52:39.975Z"
   },
   "gurren-lagann": {
     "title": "Gurren Lagann",
@@ -96665,7 +96875,8 @@
     "clean_title": "/film/gurren-lagann/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0948103"
+    "imdb_id": "tt0948103",
+    "cached_at": "2026-08-31T01:52:40.087Z"
   },
   "moving-2023-1": {
     "title": "Moving",
@@ -96673,7 +96884,8 @@
     "clean_title": "/film/moving-2023-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt24640580",
+    "cached_at": "2026-08-31T01:52:40.313Z"
   },
   "the-haunting-2018": {
     "title": "The Haunting of Hill House",
@@ -96681,7 +96893,8 @@
     "clean_title": "/film/the-haunting-2018/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6763664"
+    "imdb_id": "tt6763664",
+    "cached_at": "2026-08-31T01:52:40.329Z"
   },
   "pluto-2023-1": {
     "title": "PLUTO",
@@ -96689,7 +96902,8 @@
     "clean_title": "/film/pluto-2023-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26737616"
+    "imdb_id": "tt26737616",
+    "cached_at": "2026-08-31T01:52:40.735Z"
   },
   "ikebukuro-west-gate-park": {
     "title": "Ikebukuro West Gate Park",
@@ -96697,7 +96911,8 @@
     "clean_title": "/film/ikebukuro-west-gate-park/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0331389"
+    "imdb_id": "tt0331389",
+    "cached_at": "2026-08-31T01:52:40.916Z"
   },
   "takopis-original-sin": {
     "title": "Takopi's Original Sin",
@@ -96705,7 +96920,8 @@
     "clean_title": "/film/takopis-original-sin/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt36988358",
+    "cached_at": "2026-08-31T01:52:41.103Z"
   },
   "my-2-cents": {
     "title": "My 2 Cents",
@@ -96713,7 +96929,8 @@
     "clean_title": "/film/my-2-cents/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt38821531"
+    "imdb_id": "tt38821531",
+    "cached_at": "2026-08-31T01:52:41.119Z"
   },
   "heimat-1984": {
     "title": "Heimat",
@@ -96721,7 +96938,8 @@
     "clean_title": "/film/heimat-1984/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0087400"
+    "imdb_id": "tt0087400",
+    "cached_at": "2026-08-31T01:52:41.329Z"
   },
   "its-a-sin-2021": {
     "title": "It's a Sin",
@@ -96729,7 +96947,8 @@
     "clean_title": "/film/its-a-sin-2021/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9140342"
+    "imdb_id": "tt9140342",
+    "cached_at": "2026-08-31T01:52:41.567Z"
   },
   "the-messiah-2023": {
     "title": "The Messiah",
@@ -96737,7 +96956,8 @@
     "clean_title": "/film/the-messiah-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt20096840"
+    "imdb_id": "tt20096840",
+    "cached_at": "2026-08-31T01:52:41.544Z"
   },
   "when-i-fly-towards-you": {
     "title": "When I Fly Towards You",
@@ -96745,7 +96965,8 @@
     "clean_title": "/film/when-i-fly-towards-you/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28036189"
+    "imdb_id": "tt28036189",
+    "cached_at": "2026-08-31T01:52:41.750Z"
   },
   "sonny-boy-2021": {
     "title": "Sonny Boy",
@@ -96753,7 +96974,8 @@
     "clean_title": "/film/sonny-boy-2021/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14642342"
+    "imdb_id": "tt14642342",
+    "cached_at": "2026-08-31T01:52:41.969Z"
   },
   "we-are-all-trying-here": {
     "title": "We Are All Trying Here",
@@ -96761,7 +96983,8 @@
     "clean_title": "/film/we-are-all-trying-here/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt36732944"
+    "imdb_id": "tt36732944",
+    "cached_at": "2026-08-31T01:52:41.985Z"
   },
   "das-boot-1985": {
     "title": "Das Boot",
@@ -96769,7 +96992,8 @@
     "clean_title": "/film/das-boot-1985/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0081834"
+    "imdb_id": "tt0081834",
+    "cached_at": "2026-08-31T01:52:42.152Z"
   },
   "twenty-five-twenty-one": {
     "title": "Twenty Five Twenty One",
@@ -96777,7 +97001,8 @@
     "clean_title": "/film/twenty-five-twenty-one/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt17513352"
+    "imdb_id": "tt17513352",
+    "cached_at": "2026-08-31T01:52:42.432Z"
   },
   "the-untamed-2019": {
     "title": "The Untamed",
@@ -96785,7 +97010,8 @@
     "clean_title": "/film/the-untamed-2019/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10554898"
+    "imdb_id": "tt10554898",
+    "cached_at": "2026-08-31T01:52:42.442Z"
   },
   "mussolini-son-of-the-century": {
     "title": "Mussolini: Son of the Century",
@@ -96793,7 +97019,8 @@
     "clean_title": "/film/mussolini-son-of-the-century/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt19386538"
+    "imdb_id": "tt19386538",
+    "cached_at": "2026-08-31T01:52:42.545Z"
   },
   "pride-and-prejudice-1995": {
     "title": "Pride and Prejudice",
@@ -96801,7 +97028,8 @@
     "clean_title": "/film/pride-and-prejudice-1995/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0112130"
+    "imdb_id": "tt0112130",
+    "cached_at": "2026-08-31T01:52:42.835Z"
   },
   "sharp-objects": {
     "title": "Sharp Objects",
@@ -96810,7 +97038,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt2649356",
-    "cached_at": "2026-08-30T11:03:36.646Z"
+    "cached_at": "2026-08-31T01:52:42.787Z"
   },
   "azumanga-daioh": {
     "title": "Azumanga Daioh",
@@ -96818,7 +97046,8 @@
     "clean_title": "/film/azumanga-daioh/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0339955"
+    "imdb_id": "tt0339955",
+    "cached_at": "2026-08-31T01:52:42.950Z"
   },
   "violet-evergarden": {
     "title": "Violet Evergarden",
@@ -96826,7 +97055,8 @@
     "clean_title": "/film/violet-evergarden/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7078180"
+    "imdb_id": "tt7078180",
+    "cached_at": "2026-08-31T01:52:43.246Z"
   },
   "maid-2021": {
     "title": "Maid",
@@ -96834,7 +97064,8 @@
     "clean_title": "/film/maid-2021/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt11337908"
+    "imdb_id": "tt11337908",
+    "cached_at": "2026-08-31T01:52:43.299Z"
   },
   "daily-dose-of-sunshine": {
     "title": "Daily Dose of Sunshine",
@@ -96842,7 +97073,8 @@
     "clean_title": "/film/daily-dose-of-sunshine/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26258202"
+    "imdb_id": "tt26258202",
+    "cached_at": "2026-08-31T01:52:43.586Z"
   },
   "the-new-years": {
     "title": "The New Years",
@@ -96850,7 +97082,8 @@
     "clean_title": "/film/the-new-years/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt29615330"
+    "imdb_id": "tt29615330",
+    "cached_at": "2026-08-31T01:52:43.723Z"
   },
   "persona-2018": {
     "title": "Persona",
@@ -96858,7 +97091,8 @@
     "clean_title": "/film/persona-2018/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7920978"
+    "imdb_id": "tt7920978",
+    "cached_at": "2026-08-31T01:52:43.992Z"
   },
   "i-claudius": {
     "title": "I, Claudius",
@@ -96866,7 +97100,8 @@
     "clean_title": "/film/i-claudius/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0074006"
+    "imdb_id": "tt0074006",
+    "cached_at": "2026-08-31T01:52:44.061Z"
   },
   "generation-kill": {
     "title": "Generation Kill",
@@ -96874,7 +97109,8 @@
     "clean_title": "/film/generation-kill/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0995832"
+    "imdb_id": "tt0995832",
+    "cached_at": "2026-08-31T01:52:44.151Z"
   },
   "nichijou-my-ordinary-life": {
     "title": "Nichijou: My Ordinary Life",
@@ -96882,7 +97118,8 @@
     "clean_title": "/film/nichijou-my-ordinary-life/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2098308"
+    "imdb_id": "tt2098308",
+    "cached_at": "2026-08-31T01:52:44.396Z"
   },
   "fellow-travelers-2023": {
     "title": "Fellow Travelers",
@@ -96890,7 +97127,8 @@
     "clean_title": "/film/fellow-travelers-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15384586"
+    "imdb_id": "tt15384586",
+    "cached_at": "2026-08-31T01:52:44.474Z"
   },
   "mononoke": {
     "title": "Mononoke",
@@ -96898,7 +97136,8 @@
     "clean_title": "/film/mononoke/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1992935"
+    "imdb_id": "tt1992935",
+    "cached_at": "2026-08-31T01:52:44.532Z"
   },
   "the-glory": {
     "title": "The Glory",
@@ -96906,7 +97145,8 @@
     "clean_title": "/film/the-glory/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt21344706"
+    "imdb_id": "tt21344706",
+    "cached_at": "2026-08-31T01:52:44.818Z"
   },
   "rebooting": {
     "title": "Rebooting",
@@ -96914,7 +97154,8 @@
     "clean_title": "/film/rebooting/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26134148"
+    "imdb_id": "tt26134148",
+    "cached_at": "2026-08-31T01:52:44.880Z"
   },
   "cunk-on-earth": {
     "title": "Cunk on Earth",
@@ -96930,7 +97171,8 @@
     "clean_title": "/film/love-in-the-big-city-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt30143510"
+    "imdb_id": "tt30143510",
+    "cached_at": "2026-08-31T01:52:44.927Z"
   },
   "no-one-will-miss-us-2024": {
     "title": "No One Will Miss Us",
@@ -96938,7 +97180,8 @@
     "clean_title": "/film/no-one-will-miss-us-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32896333"
+    "imdb_id": "tt32896333",
+    "cached_at": "2026-08-31T01:52:45.273Z"
   },
   "great-teacher-onizuka": {
     "title": "Great Teacher Onizuka",
@@ -96946,7 +97189,8 @@
     "clean_title": "/film/great-teacher-onizuka/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0315008"
+    "imdb_id": "tt0315008",
+    "cached_at": "2026-08-31T01:52:45.340Z"
   },
   "the-trauma-code-heroes-on-call-2025": {
     "title": "The Trauma Code: Heroes on Call",
@@ -96954,7 +97198,8 @@
     "clean_title": "/film/the-trauma-code-heroes-on-call-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28106730"
+    "imdb_id": "tt28106730",
+    "cached_at": "2026-08-31T01:52:45.575Z"
   },
   "crash-landing-on-you": {
     "title": "Crash Landing on You",
@@ -96963,7 +97208,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt10850932",
-    "cached_at": "2026-08-30T11:03:33.725Z"
+    "cached_at": "2026-08-31T01:52:45.692Z"
   },
   "horace-and-pete": {
     "title": "Horace and Pete",
@@ -96971,7 +97216,8 @@
     "clean_title": "/film/horace-and-pete/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5425186"
+    "imdb_id": "tt5425186",
+    "cached_at": "2026-08-31T01:52:45.746Z"
   },
   "love-through-a-prism": {
     "title": "Love Through a Prism",
@@ -96979,7 +97225,8 @@
     "clean_title": "/film/love-through-a-prism/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt39050141"
+    "imdb_id": "tt39050141",
+    "cached_at": "2026-08-31T01:52:46.041Z"
   },
   "my-liberation-notes": {
     "title": "My Liberation Notes",
@@ -96987,7 +97234,8 @@
     "clean_title": "/film/my-liberation-notes/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15146130"
+    "imdb_id": "tt15146130",
+    "cached_at": "2026-08-31T01:52:46.125Z"
   },
   "hal-harper": {
     "title": "Hal & Harper",
@@ -96995,7 +97243,8 @@
     "clean_title": "/film/hal-harper/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt30895499"
+    "imdb_id": "tt30895499",
+    "cached_at": "2026-08-31T01:52:46.142Z"
   },
   "oddtaxi": {
     "title": "ODDTAXI",
@@ -97003,7 +97252,8 @@
     "clean_title": "/film/oddtaxi/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14134550"
+    "imdb_id": "tt14134550",
+    "cached_at": "2026-08-31T01:52:46.550Z"
   },
   "mr-sunshine-2018": {
     "title": "Mr. Sunshine",
@@ -97011,7 +97261,8 @@
     "clean_title": "/film/mr-sunshine-2018/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7094780"
+    "imdb_id": "tt7094780",
+    "cached_at": "2026-08-31T01:52:46.586Z"
   },
   "strangers-from-hell": {
     "title": "Strangers from Hell",
@@ -97019,7 +97270,8 @@
     "clean_title": "/film/strangers-from-hell/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10613844"
+    "imdb_id": "tt10613844",
+    "cached_at": "2026-08-31T01:52:46.950Z"
   },
   "not-me-2021-2": {
     "title": "Not Me",
@@ -97027,7 +97279,8 @@
     "clean_title": "/film/not-me-2021-2/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13661118"
+    "imdb_id": "tt13661118",
+    "cached_at": "2026-08-31T01:52:46.991Z"
   },
   "haibane-renmei-2002": {
     "title": "Haibane Renmei",
@@ -97035,7 +97288,8 @@
     "clean_title": "/film/haibane-renmei-2002/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0380113"
+    "imdb_id": "tt0380113",
+    "cached_at": "2026-08-31T01:52:47.268Z"
   },
   "weightlifting-fairy-kim-bok-joo": {
     "title": "Weightlifting Fairy Kim Bok-joo",
@@ -97043,7 +97297,8 @@
     "clean_title": "/film/weightlifting-fairy-kim-bok-joo/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt6157148"
+    "imdb_id": "tt6157148",
+    "cached_at": "2026-08-31T01:52:47.350Z"
   },
   "angels-in-america": {
     "title": "Angels in America",
@@ -97051,7 +97306,8 @@
     "clean_title": "/film/angels-in-america/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0318997"
+    "imdb_id": "tt0318997",
+    "cached_at": "2026-08-31T01:52:47.396Z"
   },
   "clairebell": {
     "title": "ClaireBell",
@@ -97059,7 +97315,8 @@
     "clean_title": "/film/clairebell/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35996416"
+    "imdb_id": "tt35996416",
+    "cached_at": "2026-08-31T01:52:47.667Z"
   },
   "princess-tutu": {
     "title": "Princess Tutu",
@@ -97067,7 +97324,8 @@
     "clean_title": "/film/princess-tutu/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0444745"
+    "imdb_id": "tt0444745",
+    "cached_at": "2026-08-31T01:52:47.750Z"
   },
   "the-other-bennet-sister": {
     "title": "The Other Bennet Sister",
@@ -97075,7 +97333,8 @@
     "clean_title": "/film/the-other-bennet-sister/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt37022512"
+    "imdb_id": "tt37022512",
+    "cached_at": "2026-08-31T01:52:47.736Z"
   },
   "the-night-of": {
     "title": "The Night Of",
@@ -97083,7 +97342,8 @@
     "clean_title": "/film/the-night-of/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2401256"
+    "imdb_id": "tt2401256",
+    "cached_at": "2026-08-31T01:52:48.071Z"
   },
   "mobile-suit-gundam-0080-war-in-the-pocket": {
     "title": "Mobile Suit Gundam 0080: War in the Pocket",
@@ -97091,7 +97351,8 @@
     "clean_title": "/film/mobile-suit-gundam-0080-war-in-the-pocket/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0097661"
+    "imdb_id": "tt0097661",
+    "cached_at": "2026-08-31T01:52:48.139Z"
   },
   "pursuit-of-jade": {
     "title": "Pursuit of Jade",
@@ -97099,7 +97360,8 @@
     "clean_title": "/film/pursuit-of-jade/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35316225"
+    "imdb_id": "tt35316225",
+    "cached_at": "2026-08-31T01:52:48.169Z"
   },
   "the-gay-and-wondrous-life-of-caleb-gallo": {
     "title": "The Gay and Wondrous Life of Caleb Gallo",
@@ -97107,7 +97369,8 @@
     "clean_title": "/film/the-gay-and-wondrous-life-of-caleb-gallo/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5496184"
+    "imdb_id": "tt5496184",
+    "cached_at": "2026-08-31T01:52:48.458Z"
   },
   "jeongnyeon-the-star-is-born": {
     "title": "Jeongnyeon: The Star is Born",
@@ -97115,7 +97378,8 @@
     "clean_title": "/film/jeongnyeon-the-star-is-born/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28197611"
+    "imdb_id": "tt28197611",
+    "cached_at": "2026-08-31T01:52:48.556Z"
   },
   "your-lie-in-april-2014": {
     "title": "Your Lie in April",
@@ -97123,7 +97387,8 @@
     "clean_title": "/film/your-lie-in-april-2014/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt3895150"
+    "imdb_id": "tt3895150",
+    "cached_at": "2026-08-31T01:52:48.601Z"
   },
   "hilda-hurricane": {
     "title": "Hilda Hurricane",
@@ -97131,7 +97396,8 @@
     "clean_title": "/film/hilda-hurricane/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0163450"
+    "imdb_id": "tt0163450",
+    "cached_at": "2026-08-31T01:52:48.852Z"
   },
   "lovely-runner": {
     "title": "Lovely Runner",
@@ -97139,7 +97405,8 @@
     "clean_title": "/film/lovely-runner/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt31324295"
+    "imdb_id": "tt31324295",
+    "cached_at": "2026-08-31T01:52:48.966Z"
   },
   "duang-with-you": {
     "title": "Duang with You",
@@ -97147,7 +97414,8 @@
     "clean_title": "/film/duang-with-you/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35932199"
+    "imdb_id": "tt35932199",
+    "cached_at": "2026-08-31T01:52:49.377Z"
   },
   "scarlet-heart-ryeo": {
     "title": "Scarlet Heart: Ryeo",
@@ -97155,7 +97423,8 @@
     "clean_title": "/film/scarlet-heart-ryeo/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5320412"
+    "imdb_id": "tt5320412",
+    "cached_at": "2026-08-31T01:52:49.606Z"
   },
   "youth-of-may": {
     "title": "Youth of May",
@@ -97163,7 +97432,8 @@
     "clean_title": "/film/youth-of-may/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14166666"
+    "imdb_id": "tt14166666",
+    "cached_at": "2026-08-31T01:52:49.718Z"
   },
   "rurouni-kenshin-trust-and-betrayal": {
     "title": "Samurai X: Trust & Betrayal",
@@ -97171,7 +97441,8 @@
     "clean_title": "/film/rurouni-kenshin-trust-and-betrayal/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0203082"
+    "imdb_id": "tt0203082",
+    "cached_at": "2026-08-31T01:52:49.803Z"
   },
   "anne-of-green-gables-1985-1": {
     "title": "Anne of Green Gables",
@@ -97179,7 +97450,8 @@
     "clean_title": "/film/anne-of-green-gables-1985-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0088727"
+    "imdb_id": "tt0088727",
+    "cached_at": "2026-08-31T01:52:49.997Z"
   },
   "la-maison-des-bois": {
     "title": "La Maison des bois",
@@ -97187,7 +97459,8 @@
     "clean_title": "/film/la-maison-des-bois/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0209122"
+    "imdb_id": "tt0209122",
+    "cached_at": "2026-08-31T01:52:50.121Z"
   },
   "jojos-bizarre-adventure-stardust-crusaders": {
     "title": "JoJo's Bizarre Adventure: Stardust Crusaders",
@@ -97203,7 +97476,8 @@
     "clean_title": "/film/first-love-2022-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15289042"
+    "imdb_id": "tt15289042",
+    "cached_at": "2026-08-31T01:52:50.339Z"
   },
   "daisy-jones-the-six": {
     "title": "Daisy Jones & the Six",
@@ -97211,7 +97485,8 @@
     "clean_title": "/film/daisy-jones-the-six/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8749198"
+    "imdb_id": "tt8749198",
+    "cached_at": "2026-08-31T01:52:50.537Z"
   },
   "cunk-on-britain": {
     "title": "Cunk on Britain",
@@ -97219,7 +97494,8 @@
     "clean_title": "/film/cunk-on-britain/",
     "adult": false,
     "id": 0,
-    "imdb_id": null
+    "imdb_id": null,
+    "cached_at": "2026-08-31T01:52:50.552Z"
   },
   "kinos-journey": {
     "title": "Kino's Journey",
@@ -97227,7 +97503,8 @@
     "clean_title": "/film/kinos-journey/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0433498"
+    "imdb_id": "tt0433498",
+    "cached_at": "2026-08-31T01:52:50.721Z"
   },
   "mare-of-easttown": {
     "title": "Mare of Easttown",
@@ -97235,7 +97512,8 @@
     "clean_title": "/film/mare-of-easttown/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10155688"
+    "imdb_id": "tt10155688",
+    "cached_at": "2026-08-31T01:52:50.951Z"
   },
   "1-litre-of-tears-2005": {
     "title": "1 Litre of Tears",
@@ -97243,7 +97521,8 @@
     "clean_title": "/film/1-litre-of-tears-2005/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1370332"
+    "imdb_id": "tt1370332",
+    "cached_at": "2026-08-31T01:52:50.997Z"
   },
   "the-long-long-holiday": {
     "title": "The Long, Long Holiday",
@@ -97251,7 +97530,8 @@
     "clean_title": "/film/the-long-long-holiday/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt4641870"
+    "imdb_id": "tt4641870",
+    "cached_at": "2026-08-31T01:52:51.126Z"
   },
   "beyond-evil-2021": {
     "title": "Beyond Evil",
@@ -97259,7 +97539,8 @@
     "clean_title": "/film/beyond-evil-2021/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13634872"
+    "imdb_id": "tt13634872",
+    "cached_at": "2026-08-31T01:52:51.390Z"
   },
   "brideshead-revisited-1981": {
     "title": "Brideshead Revisited",
@@ -97267,7 +97548,8 @@
     "clean_title": "/film/brideshead-revisited-1981/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0083390"
+    "imdb_id": "tt0083390",
+    "cached_at": "2026-08-31T01:52:51.406Z"
   },
   "keep-your-hands-off-eizouken-2020": {
     "title": "Keep Your Hands Off Eizouken!",
@@ -97275,7 +97557,8 @@
     "clean_title": "/film/keep-your-hands-off-eizouken-2020/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10320398"
+    "imdb_id": "tt10320398",
+    "cached_at": "2026-08-31T01:52:51.516Z"
   },
   "say-nothing-2024": {
     "title": "Say Nothing",
@@ -97283,7 +97566,8 @@
     "clean_title": "/film/say-nothing-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt31122777"
+    "imdb_id": "tt31122777",
+    "cached_at": "2026-08-31T01:52:51.733Z"
   },
   "journal-with-witch": {
     "title": "Journal with Witch",
@@ -97291,7 +97575,8 @@
     "clean_title": "/film/journal-with-witch/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32336365"
+    "imdb_id": "tt32336365",
+    "cached_at": "2026-08-31T01:52:51.832Z"
   },
   "unbelievable-2019": {
     "title": "Unbelievable",
@@ -97300,7 +97585,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt7909970",
-    "cached_at": "2026-08-30T11:03:35.592Z"
+    "cached_at": "2026-08-31T01:52:51.867Z"
   },
   "station-eleven": {
     "title": "Station Eleven",
@@ -97309,7 +97594,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt10574236",
-    "cached_at": "2026-08-30T11:03:33.173Z"
+    "cached_at": "2026-08-31T01:52:52.159Z"
   },
   "girls-last-tour": {
     "title": "Girls' Last Tour",
@@ -97317,7 +97602,8 @@
     "clean_title": "/film/girls-last-tour/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7474942"
+    "imdb_id": "tt7474942",
+    "cached_at": "2026-08-31T01:52:52.222Z"
   },
   "this-is-england-90": {
     "title": "This Is England '90",
@@ -97325,7 +97611,8 @@
     "clean_title": "/film/this-is-england-90/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2528254"
+    "imdb_id": "tt2528254",
+    "cached_at": "2026-08-31T01:52:52.268Z"
   },
   "beck-mongolian-chop-squad": {
     "title": "Beck: Mongolian Chop Squad",
@@ -97333,7 +97620,8 @@
     "clean_title": "/film/beck-mongolian-chop-squad/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0434662"
+    "imdb_id": "tt0434662",
+    "cached_at": "2026-08-31T01:52:52.633Z"
   },
   "a-small-light": {
     "title": "A Small Light",
@@ -97341,7 +97629,8 @@
     "clean_title": "/film/a-small-light/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt17921714"
+    "imdb_id": "tt17921714",
+    "cached_at": "2026-08-31T01:52:52.893Z"
   },
   "unnatural-2018": {
     "title": "Unnatural",
@@ -97349,7 +97638,8 @@
     "clean_title": "/film/unnatural-2018/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7521882"
+    "imdb_id": "tt7521882",
+    "cached_at": "2026-08-31T01:52:53.042Z"
   },
   "the-virtues": {
     "title": "The Virtues",
@@ -97357,7 +97647,8 @@
     "clean_title": "/film/the-virtues/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7186126"
+    "imdb_id": "tt7186126",
+    "cached_at": "2026-08-31T01:52:53.066Z"
   },
   "ripley": {
     "title": "Ripley",
@@ -97365,7 +97656,8 @@
     "clean_title": "/film/ripley/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt11016042"
+    "imdb_id": "tt11016042",
+    "cached_at": "2026-08-31T01:52:53.301Z"
   },
   "this-world-cant-tear-me-down": {
     "title": "This World Can't Tear Me Down",
@@ -97373,7 +97665,8 @@
     "clean_title": "/film/this-world-cant-tear-me-down/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27440006"
+    "imdb_id": "tt27440006",
+    "cached_at": "2026-08-31T01:52:53.442Z"
   },
   "last-twilight-2023": {
     "title": "Last Twilight",
@@ -97381,7 +97674,8 @@
     "clean_title": "/film/last-twilight-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt24186344"
+    "imdb_id": "tt24186344",
+    "cached_at": "2026-08-31T01:52:53.477Z"
   },
   "neighborhood-story": {
     "title": "Neighborhood Story",
@@ -97389,7 +97683,8 @@
     "clean_title": "/film/neighborhood-story/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0346285"
+    "imdb_id": "tt0346285",
+    "cached_at": "2026-08-31T01:52:53.692Z"
   },
   "the-corner": {
     "title": "The Corner",
@@ -97397,15 +97692,17 @@
     "clean_title": "/film/the-corner/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0224853"
+    "imdb_id": "tt0224853",
+    "cached_at": "2026-08-31T01:52:53.862Z"
   },
   "long-vacation": {
     "title": "Long Vacation",
-    "release_year": "",
+    "release_year": "1996",
     "clean_title": "/film/long-vacation/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0116910"
+    "imdb_id": "tt0116910",
+    "cached_at": "2026-08-31T01:52:53.879Z"
   },
   "signal-2016": {
     "title": "Signal",
@@ -97414,7 +97711,7 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt5332206",
-    "cached_at": "2026-08-30T11:03:37.065Z"
+    "cached_at": "2026-08-31T01:52:54.083Z"
   },
   "the-first-frost": {
     "title": "The First Frost",
@@ -97422,7 +97719,8 @@
     "clean_title": "/film/the-first-frost/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt31887832"
+    "imdb_id": "tt31887832",
+    "cached_at": "2026-08-31T01:52:54.260Z"
   },
   "seventeen-moments-of-spring": {
     "title": "Seventeen Moments of Spring",
@@ -97430,7 +97728,8 @@
     "clean_title": "/film/seventeen-moments-of-spring/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0069628"
+    "imdb_id": "tt0069628",
+    "cached_at": "2026-08-31T01:52:54.302Z"
   },
   "paradise-kiss-2005": {
     "title": "Paradise Kiss",
@@ -97438,7 +97737,8 @@
     "clean_title": "/film/paradise-kiss-2005/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0498443"
+    "imdb_id": "tt0498443",
+    "cached_at": "2026-08-31T01:52:54.484Z"
   },
   "lonesome-dove": {
     "title": "Lonesome Dove",
@@ -97446,7 +97746,8 @@
     "clean_title": "/film/lonesome-dove/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0096639"
+    "imdb_id": "tt0096639",
+    "cached_at": "2026-08-31T01:52:54.671Z"
   },
   "trigun": {
     "title": "TRIGUN",
@@ -97454,7 +97755,8 @@
     "clean_title": "/film/trigun/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0251439"
+    "imdb_id": "tt0251439",
+    "cached_at": "2026-08-31T01:52:54.702Z"
   },
   "olive-kitteridge": {
     "title": "Olive Kitteridge",
@@ -97462,7 +97764,8 @@
     "clean_title": "/film/olive-kitteridge/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt3012698"
+    "imdb_id": "tt3012698",
+    "cached_at": "2026-08-31T01:52:54.889Z"
   },
   "prison-playbook": {
     "title": "Prison Playbook",
@@ -97470,7 +97773,8 @@
     "clean_title": "/film/prison-playbook/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7622902"
+    "imdb_id": "tt7622902",
+    "cached_at": "2026-08-31T01:52:55.077Z"
   },
   "love-design": {
     "title": "Love Design",
@@ -97478,7 +97782,8 @@
     "clean_title": "/film/love-design/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35977295"
+    "imdb_id": "tt35977295",
+    "cached_at": "2026-08-31T01:52:55.088Z"
   },
   "i-know-this-much-is-true": {
     "title": "I Know This Much Is True",
@@ -97486,7 +97791,8 @@
     "clean_title": "/film/i-know-this-much-is-true/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0425118"
+    "imdb_id": "tt0425118",
+    "cached_at": "2026-08-31T01:52:55.394Z"
   },
   "what-it-feels-like-for-a-girl-2025": {
     "title": "What It Feels Like for a Girl",
@@ -97494,7 +97800,8 @@
     "clean_title": "/film/what-it-feels-like-for-a-girl-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28131282"
+    "imdb_id": "tt28131282",
+    "cached_at": "2026-08-31T01:52:55.498Z"
   },
   "wayne-2019-1": {
     "title": "Wayne",
@@ -97502,7 +97809,8 @@
     "clean_title": "/film/wayne-2019-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7765404"
+    "imdb_id": "tt7765404",
+    "cached_at": "2026-08-31T01:52:55.792Z"
   },
   "lessons-in-chemistry": {
     "title": "Lessons in Chemistry",
@@ -97510,7 +97818,8 @@
     "clean_title": "/film/lessons-in-chemistry/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13911628"
+    "imdb_id": "tt13911628",
+    "cached_at": "2026-08-31T01:52:55.831Z"
   },
   "the-rose-of-versailles": {
     "title": "The Rose of Versailles",
@@ -97518,7 +97827,8 @@
     "clean_title": "/film/the-rose-of-versailles/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0078570"
+    "imdb_id": "tt0078570",
+    "cached_at": "2026-08-31T01:52:55.897Z"
   },
   "dopesick": {
     "title": "Dopesick",
@@ -97526,7 +97836,8 @@
     "clean_title": "/film/dopesick/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9174558"
+    "imdb_id": "tt9174558",
+    "cached_at": "2026-08-31T01:52:56.204Z"
   },
   "the-pacific": {
     "title": "The Pacific",
@@ -97534,7 +97845,8 @@
     "clean_title": "/film/the-pacific/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0374463"
+    "imdb_id": "tt0374463",
+    "cached_at": "2026-08-31T01:52:56.292Z"
   },
   "khemjira": {
     "title": "Khemjira",
@@ -97542,7 +97854,8 @@
     "clean_title": "/film/khemjira/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33258229"
+    "imdb_id": "tt33258229",
+    "cached_at": "2026-08-31T01:52:56.324Z"
   },
   "jojos-bizarre-adventure-stone-ocean": {
     "title": "JoJo's Bizarre Adventure: Stone Ocean",
@@ -97558,7 +97871,8 @@
     "clean_title": "/film/the-storks-will-return/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1043822"
+    "imdb_id": "tt1043822",
+    "cached_at": "2026-08-31T01:52:56.624Z"
   },
   "the-good-bad-mother": {
     "title": "The Good Bad Mother",
@@ -97566,7 +97880,8 @@
     "clean_title": "/film/the-good-bad-mother/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27042206"
+    "imdb_id": "tt27042206",
+    "cached_at": "2026-08-31T01:52:56.710Z"
   },
   "our-unwritten-seoul": {
     "title": "Our Unwritten Seoul",
@@ -97574,7 +97889,8 @@
     "clean_title": "/film/our-unwritten-seoul/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt36724865"
+    "imdb_id": "tt36724865",
+    "cached_at": "2026-08-31T01:52:56.668Z"
   },
   "the-worst-of-evil": {
     "title": "The Worst of Evil",
@@ -97582,7 +97898,8 @@
     "clean_title": "/film/the-worst-of-evil/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt20600022"
+    "imdb_id": "tt20600022",
+    "cached_at": "2026-08-31T01:52:57.009Z"
   },
   "tinker-tailor-soldier-spy-1979": {
     "title": "Tinker Tailor Soldier Spy",
@@ -97590,7 +97907,8 @@
     "clean_title": "/film/tinker-tailor-soldier-spy-1979/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0080297"
+    "imdb_id": "tt0080297",
+    "cached_at": "2026-08-31T01:52:57.095Z"
   },
   "go-for-it-nakamura-kun": {
     "title": "Go for It, Nakamura-kun!!",
@@ -97598,7 +97916,8 @@
     "clean_title": "/film/go-for-it-nakamura-kun/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt37182080"
+    "imdb_id": "tt37182080",
+    "cached_at": "2026-08-31T01:52:57.125Z"
   },
   "scenes-from-a-marriage-2021": {
     "title": "Scenes from a Marriage",
@@ -97606,7 +97925,8 @@
     "clean_title": "/film/scenes-from-a-marriage-2021/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12682218"
+    "imdb_id": "tt12682218",
+    "cached_at": "2026-08-31T01:52:57.436Z"
   },
   "jack-joker-u-steal-my-heart": {
     "title": "Jack & Joker: U Steal My Heart!",
@@ -97614,7 +97934,8 @@
     "clean_title": "/film/jack-joker-u-steal-my-heart/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33348133"
+    "imdb_id": "tt33348133",
+    "cached_at": "2026-08-31T01:52:57.522Z"
   },
   "mr-plankton": {
     "title": "Mr. Plankton",
@@ -97622,7 +97943,8 @@
     "clean_title": "/film/mr-plankton/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt27539317"
+    "imdb_id": "tt27539317",
+    "cached_at": "2026-08-31T01:52:57.855Z"
   },
   "a-girl-named-zat": {
     "title": "A Girl Named Zat",
@@ -97630,7 +97952,8 @@
     "clean_title": "/film/a-girl-named-zat/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt4247702"
+    "imdb_id": "tt4247702",
+    "cached_at": "2026-08-31T01:52:57.937Z"
   },
   "under-the-queens-umbrella": {
     "title": "Under the Queen's Umbrella",
@@ -97638,7 +97961,8 @@
     "clean_title": "/film/under-the-queens-umbrella/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt22265394"
+    "imdb_id": "tt22265394",
+    "cached_at": "2026-08-31T01:52:57.948Z"
   },
   "enemies-with-benefits": {
     "title": "Enemies with Benefits",
@@ -97646,7 +97970,8 @@
     "clean_title": "/film/enemies-with-benefits/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt39044698"
+    "imdb_id": "tt39044698",
+    "cached_at": "2026-08-31T01:52:58.255Z"
   },
   "half-man": {
     "title": "Half Man",
@@ -97654,7 +97979,8 @@
     "clean_title": "/film/half-man/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32767294"
+    "imdb_id": "tt32767294",
+    "cached_at": "2026-08-31T01:52:58.343Z"
   },
   "erased-2016-1": {
     "title": "ERASED",
@@ -97662,7 +97988,8 @@
     "clean_title": "/film/erased-2016-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5249462"
+    "imdb_id": "tt5249462",
+    "cached_at": "2026-08-31T01:52:58.355Z"
   },
   "takin-over-the-asylum": {
     "title": "Takin' Over the Asylum",
@@ -97670,7 +97997,8 @@
     "clean_title": "/film/takin-over-the-asylum/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0209813"
+    "imdb_id": "tt0209813",
+    "cached_at": "2026-08-31T01:52:58.651Z"
   },
   "our-youth-2024": {
     "title": "Our Youth",
@@ -97678,7 +98006,8 @@
     "clean_title": "/film/our-youth-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34412058"
+    "imdb_id": "tt34412058",
+    "cached_at": "2026-08-31T01:52:58.735Z"
   },
   "run-with-the-wind-2018": {
     "title": "Run with the Wind",
@@ -97686,7 +98015,8 @@
     "clean_title": "/film/run-with-the-wind-2018/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9402026"
+    "imdb_id": "tt9402026",
+    "cached_at": "2026-08-31T01:52:58.771Z"
   },
   "future-boy-conan": {
     "title": "Future Boy Conan",
@@ -97694,7 +98024,8 @@
     "clean_title": "/film/future-boy-conan/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0077013"
+    "imdb_id": "tt0077013",
+    "cached_at": "2026-08-31T01:52:59.045Z"
   },
   "ouran-high-school-host-club-2006-1": {
     "title": "Ouran High School Host Club",
@@ -97702,7 +98033,8 @@
     "clean_title": "/film/ouran-high-school-host-club-2006-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0816397"
+    "imdb_id": "tt0816397",
+    "cached_at": "2026-08-31T01:52:59.151Z"
   },
   "summer-strike": {
     "title": "Summer Strike",
@@ -97710,7 +98042,8 @@
     "clean_title": "/film/summer-strike/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt23788642"
+    "imdb_id": "tt23788642",
+    "cached_at": "2026-08-31T01:52:59.182Z"
   },
   "love-in-the-clouds-2025-1": {
     "title": "Love in the Clouds",
@@ -97718,7 +98051,8 @@
     "clean_title": "/film/love-in-the-clouds-2025-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32750951"
+    "imdb_id": "tt32750951",
+    "cached_at": "2026-08-31T01:52:59.432Z"
   },
   "rainbow-2010-1": {
     "title": "Rainbow",
@@ -97726,7 +98060,8 @@
     "clean_title": "/film/rainbow-2010-1/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1610860"
+    "imdb_id": "tt1610860",
+    "cached_at": "2026-08-31T01:52:59.567Z"
   },
   "this-is-england-88": {
     "title": "This Is England '88",
@@ -97734,7 +98069,8 @@
     "clean_title": "/film/this-is-england-88/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt2126154"
+    "imdb_id": "tt2126154",
+    "cached_at": "2026-08-31T01:52:59.580Z"
   },
   "kamen-rider-kuuga": {
     "title": "Kamen Rider Kuuga",
@@ -97742,7 +98078,8 @@
     "clean_title": "/film/kamen-rider-kuuga/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0188340"
+    "imdb_id": "tt0188340",
+    "cached_at": "2026-08-31T01:52:59.828Z"
   },
   "watchmen-motion-comic": {
     "title": "Watchmen: Motion Comic",
@@ -97750,7 +98087,8 @@
     "clean_title": "/film/watchmen-motion-comic/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1322240"
+    "imdb_id": "tt1322240",
+    "cached_at": "2026-08-31T01:52:59.976Z"
   },
   "dying-for-sex": {
     "title": "Dying for Sex",
@@ -97758,7 +98096,8 @@
     "clean_title": "/film/dying-for-sex/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt30252752"
+    "imdb_id": "tt30252752",
+    "cached_at": "2026-08-31T01:52:59.925Z"
   },
   "querer-2024": {
     "title": "Querer",
@@ -97766,7 +98105,8 @@
     "clean_title": "/film/querer-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28803868"
+    "imdb_id": "tt28803868",
+    "cached_at": "2026-08-31T01:53:00.256Z"
   },
   "battlestar-galactica-2003": {
     "title": "Battlestar Galactica",
@@ -97774,7 +98114,8 @@
     "clean_title": "/film/battlestar-galactica-2003/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0314979"
+    "imdb_id": "tt0314979",
+    "cached_at": "2026-08-31T01:53:00.339Z"
   },
   "flower-of-evil-2020": {
     "title": "Flower of Evil",
@@ -97782,7 +98123,8 @@
     "clean_title": "/film/flower-of-evil-2020/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt11691684"
+    "imdb_id": "tt11691684",
+    "cached_at": "2026-08-31T01:53:00.390Z"
   },
   "love-upon-a-time": {
     "title": "Love Upon a Time",
@@ -97790,7 +98132,8 @@
     "clean_title": "/film/love-upon-a-time/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34934110"
+    "imdb_id": "tt34934110",
+    "cached_at": "2026-08-31T01:53:00.734Z"
   },
   "high-school-frenemy": {
     "title": "High School Frenemy",
@@ -97798,7 +98141,8 @@
     "clean_title": "/film/high-school-frenemy/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt30098370"
+    "imdb_id": "tt30098370",
+    "cached_at": "2026-08-31T01:53:00.804Z"
   },
   "me-and-thee": {
     "title": "Me and Thee",
@@ -97806,7 +98150,8 @@
     "clean_title": "/film/me-and-thee/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34929687"
+    "imdb_id": "tt34929687",
+    "cached_at": "2026-08-31T01:53:01.002Z"
   },
   "dear-brother-1991": {
     "title": "Dear Brother",
@@ -97814,7 +98159,8 @@
     "clean_title": "/film/dear-brother-1991/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0159901"
+    "imdb_id": "tt0159901",
+    "cached_at": "2026-08-31T01:53:01.123Z"
   },
   "rilakkuma-and-kaoru": {
     "title": "Rilakkuma and Kaoru",
@@ -97822,7 +98168,8 @@
     "clean_title": "/film/rilakkuma-and-kaoru/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9348716"
+    "imdb_id": "tt9348716",
+    "cached_at": "2026-08-31T01:53:01.520Z"
   },
   "queen-charlotte-a-bridgerton-story": {
     "title": "Queen Charlotte: A Bridgerton Story",
@@ -97830,7 +98177,8 @@
     "clean_title": "/film/queen-charlotte-a-bridgerton-story/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt14661396"
+    "imdb_id": "tt14661396",
+    "cached_at": "2026-08-31T01:53:01.588Z"
   },
   "one-day-2024": {
     "title": "One Day",
@@ -97838,7 +98186,8 @@
     "clean_title": "/film/one-day-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt16283804"
+    "imdb_id": "tt16283804",
+    "cached_at": "2026-08-31T01:53:01.746Z"
   },
   "a-place-further-than-the-universe": {
     "title": "A Place Further than the Universe",
@@ -97846,7 +98195,8 @@
     "clean_title": "/film/a-place-further-than-the-universe/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7836688"
+    "imdb_id": "tt7836688",
+    "cached_at": "2026-08-31T01:53:01.967Z"
   },
   "my-melody-kuromi": {
     "title": "My Melody & Kuromi",
@@ -97854,7 +98204,8 @@
     "clean_title": "/film/my-melody-kuromi/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35323313"
+    "imdb_id": "tt35323313",
+    "cached_at": "2026-08-31T01:53:01.992Z"
   },
   "baccano": {
     "title": "Baccano!",
@@ -97862,7 +98213,8 @@
     "clean_title": "/film/baccano/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1334722"
+    "imdb_id": "tt1334722",
+    "cached_at": "2026-08-31T01:53:02.192Z"
   },
   "sonic-x-shadow-generations-dark-beginnings": {
     "title": "Sonic x Shadow Generations: Dark Beginnings",
@@ -97870,7 +98222,8 @@
     "clean_title": "/film/sonic-x-shadow-generations-dark-beginnings/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32368267"
+    "imdb_id": "tt32368267",
+    "cached_at": "2026-08-31T01:53:02.369Z"
   },
   "twelve-letters": {
     "title": "Twelve Letters",
@@ -97878,7 +98231,8 @@
     "clean_title": "/film/twelve-letters/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32247408"
+    "imdb_id": "tt32247408",
+    "cached_at": "2026-08-31T01:53:02.470Z"
   },
   "dororo-2019": {
     "title": "Dororo",
@@ -97886,7 +98240,8 @@
     "clean_title": "/film/dororo-2019/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt9458304"
+    "imdb_id": "tt9458304",
+    "cached_at": "2026-08-31T01:53:02.618Z"
   },
   "86-eighty-six": {
     "title": "86 EIGHTY-SIX",
@@ -97894,7 +98249,8 @@
     "clean_title": "/film/86-eighty-six/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13718450"
+    "imdb_id": "tt13718450",
+    "cached_at": "2026-08-31T01:53:02.796Z"
   },
   "anne-of-green-gables-1979": {
     "title": "Anne of Green Gables",
@@ -97902,7 +98258,8 @@
     "clean_title": "/film/anne-of-green-gables-1979/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0078560"
+    "imdb_id": "tt0078560",
+    "cached_at": "2026-08-31T01:53:02.863Z"
   },
   "bakemonogatari-2009": {
     "title": "Bakemonogatari",
@@ -97910,7 +98267,8 @@
     "clean_title": "/film/bakemonogatari-2009/",
     "adult": false,
     "id": 0,
-    "imdb_id": null
+    "imdb_id": null,
+    "cached_at": "2026-08-31T01:53:03.213Z"
   },
   "light-shop-2024": {
     "title": "Light Shop",
@@ -97918,7 +98276,8 @@
     "clean_title": "/film/light-shop-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt31014115"
+    "imdb_id": "tt31014115",
+    "cached_at": "2026-08-31T01:53:03.265Z"
   },
   "this-is-england-86": {
     "title": "This Is England '86",
@@ -97926,7 +98285,8 @@
     "clean_title": "/film/this-is-england-86/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1685471"
+    "imdb_id": "tt1685471",
+    "cached_at": "2026-08-31T01:53:03.503Z"
   },
   "mobile-suit-zeta-gundam": {
     "title": "Mobile Suit Zeta Gundam",
@@ -97934,7 +98294,8 @@
     "clean_title": "/film/mobile-suit-zeta-gundam/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0159186"
+    "imdb_id": "tt0159186",
+    "cached_at": "2026-08-31T01:53:03.618Z"
   },
   "my-name": {
     "title": "My Name",
@@ -97942,7 +98303,8 @@
     "clean_title": "/film/my-name/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt12940504"
+    "imdb_id": "tt12940504",
+    "cached_at": "2026-08-31T01:53:03.687Z"
   },
   "north-south": {
     "title": "North & South",
@@ -97950,7 +98312,8 @@
     "clean_title": "/film/north-south/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0417349"
+    "imdb_id": "tt0417349",
+    "cached_at": "2026-08-31T01:53:03.857Z"
   },
   "hellsing-ultimate-v": {
     "title": "Hellsing Ultimate",
@@ -97958,7 +98321,8 @@
     "clean_title": "/film/hellsing-ultimate-v/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0495212"
+    "imdb_id": "tt0495212",
+    "cached_at": "2026-08-31T01:53:04.045Z"
   },
   "years-and-years": {
     "title": "Years and Years",
@@ -97966,7 +98330,8 @@
     "clean_title": "/film/years-and-years/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8694364"
+    "imdb_id": "tt8694364",
+    "cached_at": "2026-08-31T01:53:04.107Z"
   },
   "the-tatami-time-machine-blues-2022": {
     "title": "The Tatami Time Machine Blues",
@@ -97974,7 +98339,8 @@
     "clean_title": "/film/the-tatami-time-machine-blues-2022/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15684222"
+    "imdb_id": "tt15684222",
+    "cached_at": "2026-08-31T01:53:04.264Z"
   },
   "someday-or-one-day": {
     "title": "Someday or One Day",
@@ -97982,7 +98348,8 @@
     "clean_title": "/film/someday-or-one-day/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt11262762"
+    "imdb_id": "tt11262762",
+    "cached_at": "2026-08-31T01:53:04.445Z"
   },
   "asobi-asobase-workshop-of-fun": {
     "title": "Asobi Asobase - workshop of fun -",
@@ -97990,7 +98357,8 @@
     "clean_title": "/film/asobi-asobase-workshop-of-fun/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8515062"
+    "imdb_id": "tt8515062",
+    "cached_at": "2026-08-31T01:53:04.513Z"
   },
   "black-bird": {
     "title": "Black Bird",
@@ -97998,7 +98366,8 @@
     "clean_title": "/film/black-bird/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt4301160"
+    "imdb_id": "tt4301160",
+    "cached_at": "2026-08-31T01:53:04.667Z"
   },
   "deaths-game": {
     "title": "Death's Game",
@@ -98006,7 +98375,8 @@
     "clean_title": "/film/deaths-game/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt26225038"
+    "imdb_id": "tt26225038",
+    "cached_at": "2026-08-31T01:53:04.852Z"
   },
   "through-the-darkness-2022": {
     "title": "Through the Darkness",
@@ -98014,7 +98384,8 @@
     "clean_title": "/film/through-the-darkness-2022/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15007172"
+    "imdb_id": "tt15007172",
+    "cached_at": "2026-08-31T01:53:04.900Z"
   },
   "the-makanai-cooking-for-the-maiko-house": {
     "title": "The Makanai: Cooking for the Maiko House",
@@ -98022,7 +98393,8 @@
     "clean_title": "/film/the-makanai-cooking-for-the-maiko-house/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15964848"
+    "imdb_id": "tt15964848",
+    "cached_at": "2026-08-31T01:53:05.051Z"
   },
   "fullmetal-alchemist-2003": {
     "title": "Fullmetal Alchemist",
@@ -98030,7 +98402,8 @@
     "clean_title": "/film/fullmetal-alchemist-2003/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0421357"
+    "imdb_id": "tt0421357",
+    "cached_at": "2026-08-31T01:53:05.247Z"
   },
   "generation-war": {
     "title": "Generation War",
@@ -98038,7 +98411,8 @@
     "clean_title": "/film/generation-war/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1883092"
+    "imdb_id": "tt1883092",
+    "cached_at": "2026-08-31T01:53:05.315Z"
   },
   "the-house-of-the-spirits-2026": {
     "title": "The House of the Spirits",
@@ -98046,7 +98420,8 @@
     "clean_title": "/film/the-house-of-the-spirits-2026/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33022938"
+    "imdb_id": "tt33022938",
+    "cached_at": "2026-08-31T01:53:05.454Z"
   },
   "up-down-fragile": {
     "title": "Up, Down, Fragile",
@@ -98430,7 +98805,8 @@
     "clean_title": "/film/the-rivals-of-amziah-king/",
     "adult": false,
     "id": 1124142,
-    "imdb_id": "tt27706593"
+    "imdb_id": "tt27706593",
+    "cached_at": "2026-08-31T01:54:06.909Z"
   },
   "poohs-grand-adventure-the-search-for-christopher-robin": {
     "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
@@ -98638,7 +99014,8 @@
     "clean_title": "/film/love-untangled/",
     "adult": false,
     "id": 1355666,
-    "imdb_id": "tt33549683"
+    "imdb_id": "tt33549683",
+    "cached_at": "2026-08-31T01:54:34.960Z"
   },
   "chitty-chitty-bang-bang": {
     "title": "Chitty Chitty Bang Bang",
@@ -99038,7 +99415,8 @@
     "clean_title": "/film/johanne-sacreblu/",
     "adult": false,
     "id": 1442011,
-    "imdb_id": "tt35551642"
+    "imdb_id": "tt35551642",
+    "cached_at": "2026-08-31T01:52:29.494Z"
   },
   "emilie-muller": {
     "title": "Emilie Muller",
@@ -99174,7 +99552,8 @@
     "clean_title": "/film/gauze-2025/",
     "adult": false,
     "id": 1576988,
-    "imdb_id": "tt38651969"
+    "imdb_id": "tt38651969",
+    "cached_at": "2026-08-31T01:52:29.536Z"
   },
   "gender-troublemakers": {
     "title": "Gender Troublemakers",
@@ -99254,7 +99633,8 @@
     "clean_title": "/film/when-we-move/",
     "adult": false,
     "id": 1449557,
-    "imdb_id": "tt33164796"
+    "imdb_id": "tt33164796",
+    "cached_at": "2026-08-31T01:52:29.564Z"
   },
   "niccolo": {
     "title": "Niccolò",
@@ -99262,7 +99642,8 @@
     "clean_title": "/film/niccolo/",
     "adult": false,
     "id": 1553939,
-    "imdb_id": "tt38630268"
+    "imdb_id": "tt38630268",
+    "cached_at": "2026-08-31T01:52:29.896Z"
   },
   "rabbit-fire": {
     "title": "Rabbit Fire",
@@ -99302,7 +99683,8 @@
     "clean_title": "/film/dandelion-2025/",
     "adult": false,
     "id": 1438559,
-    "imdb_id": "tt31491806"
+    "imdb_id": "tt31491806",
+    "cached_at": "2026-08-31T01:52:29.953Z"
   },
   "katatsumori": {
     "title": "Katatsumori",
@@ -99414,7 +99796,8 @@
     "clean_title": "/film/paper-trail-2026/",
     "adult": false,
     "id": 1598822,
-    "imdb_id": "tt39183773"
+    "imdb_id": "tt39183773",
+    "cached_at": "2026-08-31T01:52:29.975Z"
   },
   "hangman-1964": {
     "title": "Hangman",
@@ -99438,7 +99821,8 @@
     "clean_title": "/film/skin-flick-2025/",
     "adult": false,
     "id": 1560511,
-    "imdb_id": "tt39061245"
+    "imdb_id": "tt39061245",
+    "cached_at": "2026-08-31T01:52:30.289Z"
   },
   "guaxuma": {
     "title": "Guaxuma",
@@ -99574,7 +99958,8 @@
     "clean_title": "/film/chere-fin-2025/",
     "adult": false,
     "id": 1686440,
-    "imdb_id": "tt39018206"
+    "imdb_id": "tt39018206",
+    "cached_at": "2026-08-31T01:52:30.360Z"
   },
   "paperman": {
     "title": "Paperman",
@@ -99686,7 +100071,8 @@
     "clean_title": "/film/god-is-shy/",
     "adult": false,
     "id": 1470480,
-    "imdb_id": "tt37675860"
+    "imdb_id": "tt37675860",
+    "cached_at": "2026-08-31T01:52:30.387Z"
   },
   "artemides-knee": {
     "title": "Artemide’s Knee",
@@ -99815,7 +100201,8 @@
     "clean_title": "/film/uncle-johnny/",
     "adult": false,
     "id": 1571671,
-    "imdb_id": "tt32552015"
+    "imdb_id": "tt32552015",
+    "cached_at": "2026-08-31T01:52:30.708Z"
   },
   "fauve": {
     "title": "Fauve",
@@ -99871,7 +100258,8 @@
     "clean_title": "/film/snooze-quest/",
     "adult": false,
     "id": 1441634,
-    "imdb_id": "tt38058371"
+    "imdb_id": "tt38058371",
+    "cached_at": "2026-08-31T01:52:30.768Z"
   },
   "the-secret-garden-1988": {
     "title": "The Secret Garden",
@@ -100095,7 +100483,8 @@
     "clean_title": "/film/homemade-gatorade/",
     "adult": false,
     "id": 1489860,
-    "imdb_id": "tt39196096"
+    "imdb_id": "tt39196096",
+    "cached_at": "2026-08-31T01:52:30.788Z"
   },
   "at-land": {
     "title": "At Land",
@@ -100327,7 +100716,8 @@
     "clean_title": "/film/the-god-man-2025/",
     "adult": false,
     "id": 1472226,
-    "imdb_id": "tt35303966"
+    "imdb_id": "tt35303966",
+    "cached_at": "2026-08-31T01:52:31.098Z"
   },
   "the-private-life-of-a-cat": {
     "title": "The Private Life of a Cat",
@@ -100703,7 +101093,8 @@
     "clean_title": "/film/if-you-dont-like-it-look-away/",
     "adult": false,
     "id": 1483921,
-    "imdb_id": "tt38715634"
+    "imdb_id": "tt38715634",
+    "cached_at": "2026-08-31T01:52:31.182Z"
   },
   "ayla-the-daughter-of-war": {
     "title": "Ayla: The Daughter of War",
@@ -100719,7 +101110,8 @@
     "clean_title": "/film/dead-to-rights-2025/",
     "adult": false,
     "id": 1500536,
-    "imdb_id": "tt36598036"
+    "imdb_id": "tt36598036",
+    "cached_at": "2026-08-31T01:54:12.885Z"
   },
   "see-you-up-there": {
     "title": "See You Up There",
@@ -101383,7 +101775,8 @@
     "clean_title": "/film/aufschneider-2010/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1391140"
+    "imdb_id": "tt1391140",
+    "cached_at": "2026-08-31T01:54:21.993Z"
   },
   "invisible-adversaries": {
     "title": "Invisible Adversaries",
@@ -114846,7 +115239,8 @@
     "clean_title": "/film/coyote-vs-acme/",
     "adult": false,
     "id": 1204680,
-    "imdb_id": "tt1756855"
+    "imdb_id": "tt1756855",
+    "cached_at": "2026-08-31T01:53:36.413Z"
   },
   "so-long-suburbia": {
     "title": "So Long Suburbia",
@@ -115522,5 +115916,23 @@
     "id": 1654086,
     "imdb_id": "tt42643242",
     "cached_at": "2026-08-30T11:03:41.454Z"
+  },
+  "mary-beth-barone-galaxy-brain": {
+    "title": "Mary Beth Barone: Galaxy Brain",
+    "release_year": "2026",
+    "clean_title": "/film/mary-beth-barone-galaxy-brain/",
+    "adult": false,
+    "id": 1723570,
+    "imdb_id": "tt38843957",
+    "cached_at": "2026-08-31T01:53:26.946Z"
+  },
+  "the-fox-2025": {
+    "title": "The Fox",
+    "release_year": "2026",
+    "clean_title": "/film/the-fox-2025/",
+    "adult": false,
+    "id": 1045968,
+    "imdb_id": "tt12525406",
+    "cached_at": "2026-08-31T01:54:20.794Z"
   }
 }
