@@ -40,12 +40,12 @@
     "imdb_id": "tt26471411"
   },
   {
-    "title": "Samuel",
-    "release_year": "2024",
-    "clean_title": "/film/samuel-2024/",
+    "title": "Chernobyl",
+    "release_year": "2019",
+    "clean_title": "/film/chernobyl/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt15498808"
+    "imdb_id": "tt7366338"
   },
   {
     "title": "Over the Garden Wall",
@@ -56,12 +56,20 @@
     "imdb_id": "tt3718778"
   },
   {
-    "title": "Chernobyl",
-    "release_year": "2019",
-    "clean_title": "/film/chernobyl/",
+    "title": "Ping Pong the Animation",
+    "release_year": "2014",
+    "clean_title": "/film/ping-pong-the-animation/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt7366338"
+    "imdb_id": "tt3592032"
+  },
+  {
+    "title": "Samuel",
+    "release_year": "2024",
+    "clean_title": "/film/samuel-2024/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt15498808"
   },
   {
     "title": "Twin Peaks: The Return",
@@ -70,14 +78,6 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt4093826"
-  },
-  {
-    "title": "Ping Pong the Animation",
-    "release_year": "2014",
-    "clean_title": "/film/ping-pong-the-animation/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt3592032"
   },
   {
     "title": "Berserk",
@@ -104,14 +104,6 @@
     "imdb_id": "tt7137906"
   },
   {
-    "title": "Neon Genesis Evangelion",
-    "release_year": "1995",
-    "clean_title": "/film/neon-genesis-evangelion/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0112159"
-  },
-  {
     "title": "Scavengers Reign",
     "release_year": "2023",
     "clean_title": "/film/scavengers-reign/",
@@ -120,12 +112,12 @@
     "imdb_id": "tt21056886"
   },
   {
-    "title": "NANA",
-    "release_year": "2006",
-    "clean_title": "/film/nana-2006/",
+    "title": "Neon Genesis Evangelion",
+    "release_year": "1995",
+    "clean_title": "/film/neon-genesis-evangelion/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0810705"
+    "imdb_id": "tt0112159"
   },
   {
     "title": "Reply 1988",
@@ -134,6 +126,14 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt5182866"
+  },
+  {
+    "title": "NANA",
+    "release_year": "2006",
+    "clean_title": "/film/nana-2006/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0810705"
   },
   {
     "title": "Samurai Champloo",
@@ -160,6 +160,14 @@
     "imdb_id": "tt1847445"
   },
   {
+    "title": "Okupas",
+    "release_year": "2000",
+    "clean_title": "/film/okupas/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0289649"
+  },
+  {
     "title": "The Penguin",
     "release_year": "2024",
     "clean_title": "/film/the-penguin-2024/",
@@ -176,20 +184,20 @@
     "imdb_id": "tt27446493"
   },
   {
-    "title": "Okupas",
-    "release_year": "2000",
-    "clean_title": "/film/okupas/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0289649"
-  },
-  {
     "title": "I May Destroy You",
     "release_year": "2020",
     "clean_title": "/film/i-may-destroy-you/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt11204260"
+  },
+  {
+    "title": "Steins;Gate",
+    "release_year": "2011",
+    "clean_title": "/film/steins-gate/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt1910272"
   },
   {
     "title": "Mario Puzo's The Godfather: The Complete Novel for Television",
@@ -200,12 +208,12 @@
     "imdb_id": "tt0809488"
   },
   {
-    "title": "Steins;Gate",
-    "release_year": "2011",
-    "clean_title": "/film/steins-gate/",
+    "title": "Revolutionary Girl Utena",
+    "release_year": "1997",
+    "clean_title": "/film/revolutionary-girl-utena/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt1910272"
+    "imdb_id": "tt0205410"
   },
   {
     "title": "Veneno",
@@ -222,14 +230,6 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt11052470"
-  },
-  {
-    "title": "Revolutionary Girl Utena",
-    "release_year": "1997",
-    "clean_title": "/film/revolutionary-girl-utena/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0205410"
   },
   {
     "title": "Weak Hero",
@@ -264,20 +264,27 @@
     "imdb_id": "tt0500092"
   },
   {
-    "title": "Garth Marenghi's Darkplace",
-    "release_year": "2004",
-    "clean_title": "/film/garth-marenghis-darkplace/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0397150"
-  },
-  {
     "title": "Banana Fish",
     "release_year": "2018",
     "clean_title": "/film/banana-fish/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt8515016"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure: Golden Wind",
+    "release_year": "2018",
+    "clean_title": "/film/jojos-bizarre-adventure-golden-wind/",
+    "adult": false,
+    "id": 1377465
+  },
+  {
+    "title": "Garth Marenghi's Darkplace",
+    "release_year": "2004",
+    "clean_title": "/film/garth-marenghis-darkplace/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0397150"
   },
   {
     "title": "Scenes from a Marriage",
@@ -296,19 +303,19 @@
     "imdb_id": "tt21209936"
   },
   {
-    "title": "JoJo's Bizarre Adventure: Golden Wind",
-    "release_year": "2018",
-    "clean_title": "/film/jojos-bizarre-adventure-golden-wind/",
-    "adult": false,
-    "id": 1377465
-  },
-  {
     "title": "The Midnight Gospel",
     "release_year": "2020",
     "clean_title": "/film/the-midnight-gospel/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt11639414"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "release_year": "2016",
+    "clean_title": "/film/jojos-bizarre-adventure-diamond-is-unbreakable/",
+    "adult": false,
+    "id": 1377464
   },
   {
     "title": "Normal People",
@@ -327,19 +334,12 @@
     "imdb_id": "tt21048596"
   },
   {
-    "title": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-    "release_year": "2016",
-    "clean_title": "/film/jojos-bizarre-adventure-diamond-is-unbreakable/",
-    "adult": false,
-    "id": 1377464
-  },
-  {
-    "title": "Ticket to Heaven",
-    "release_year": "2026",
-    "clean_title": "/film/ticket-to-heaven-2026/",
+    "title": "Puella Magi Madoka Magica",
+    "release_year": "2011",
+    "clean_title": "/film/puella-magi-madoka-magica/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34930106"
+    "imdb_id": "tt1773185"
   },
   {
     "title": "Death Note",
@@ -348,14 +348,6 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0877057"
-  },
-  {
-    "title": "Puella Magi Madoka Magica",
-    "release_year": "2011",
-    "clean_title": "/film/puella-magi-madoka-magica/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt1773185"
   },
   {
     "title": "My Dearest",
@@ -374,20 +366,20 @@
     "imdb_id": "tt34379533"
   },
   {
-    "title": "Adventure Time: Distant Lands",
-    "release_year": "2020",
-    "clean_title": "/film/adventure-time-distant-lands/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt11165358"
-  },
-  {
     "title": "Cyberpunk: Edgerunners",
     "release_year": "2022",
     "clean_title": "/film/cyberpunk-edgerunners/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt12590266"
+  },
+  {
+    "title": "Ticket to Heaven",
+    "release_year": "2026",
+    "clean_title": "/film/ticket-to-heaven-2026/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt34930106"
   },
   {
     "title": "Orb: On the Movements of the Earth",
@@ -398,12 +390,12 @@
     "imdb_id": "tt33044444"
   },
   {
-    "title": "This Is Going to Hurt",
-    "release_year": "2022",
-    "clean_title": "/film/this-is-going-to-hurt/",
+    "title": "Adventure Time: Distant Lands",
+    "release_year": "2020",
+    "clean_title": "/film/adventure-time-distant-lands/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt8681148"
+    "imdb_id": "tt11165358"
   },
   {
     "title": "O Auto da Compadecida",
@@ -412,6 +404,22 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0197139"
+  },
+  {
+    "title": "This Is Going to Hurt",
+    "release_year": "2022",
+    "clean_title": "/film/this-is-going-to-hurt/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt8681148"
+  },
+  {
+    "title": "Jam",
+    "release_year": "2000",
+    "clean_title": "/film/jam-2000/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0240273"
   },
   {
     "title": "My Mister",
@@ -428,14 +436,6 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0108740"
-  },
-  {
-    "title": "Jam",
-    "release_year": "2000",
-    "clean_title": "/film/jam-2000/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0240273"
   },
   {
     "title": "Mouse",
@@ -494,14 +494,6 @@
     "imdb_id": "tt26737616"
   },
   {
-    "title": "Ikebukuro West Gate Park",
-    "release_year": "2000",
-    "clean_title": "/film/ikebukuro-west-gate-park/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0331389"
-  },
-  {
     "title": "Takopi's Original Sin",
     "release_year": "2025",
     "clean_title": "/film/takopis-original-sin/",
@@ -510,12 +502,12 @@
     "imdb_id": "tt36988358"
   },
   {
-    "title": "My 2 Cents",
-    "release_year": "2026",
-    "clean_title": "/film/my-2-cents/",
+    "title": "Ikebukuro West Gate Park",
+    "release_year": "2000",
+    "clean_title": "/film/ikebukuro-west-gate-park/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt38821531"
+    "imdb_id": "tt0331389"
   },
   {
     "title": "Heimat",
@@ -526,28 +518,20 @@
     "imdb_id": "tt0087400"
   },
   {
+    "title": "My 2 Cents",
+    "release_year": "2026",
+    "clean_title": "/film/my-2-cents/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt38821531"
+  },
+  {
     "title": "It's a Sin",
     "release_year": "2021",
     "clean_title": "/film/its-a-sin-2021/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt9140342"
-  },
-  {
-    "title": "The Messiah",
-    "release_year": "2023",
-    "clean_title": "/film/the-messiah-2023/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt20096840"
-  },
-  {
-    "title": "When I Fly Towards You",
-    "release_year": "2023",
-    "clean_title": "/film/when-i-fly-towards-you/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt28036189"
   },
   {
     "title": "Sonny Boy",
@@ -558,36 +542,20 @@
     "imdb_id": "tt14642342"
   },
   {
-    "title": "We Are All Trying Here",
-    "release_year": "2026",
-    "clean_title": "/film/we-are-all-trying-here/",
+    "title": "When I Fly Towards You",
+    "release_year": "2023",
+    "clean_title": "/film/when-i-fly-towards-you/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt36732944"
+    "imdb_id": "tt28036189"
   },
   {
-    "title": "Das Boot",
-    "release_year": "1985",
-    "clean_title": "/film/das-boot-1985/",
+    "title": "The Messiah",
+    "release_year": "2023",
+    "clean_title": "/film/the-messiah-2023/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0081834"
-  },
-  {
-    "title": "Twenty Five Twenty One",
-    "release_year": "2022",
-    "clean_title": "/film/twenty-five-twenty-one/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt17513352"
-  },
-  {
-    "title": "The Untamed",
-    "release_year": "2019",
-    "clean_title": "/film/the-untamed-2019/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt10554898"
+    "imdb_id": "tt20096840"
   },
   {
     "title": "Mussolini: Son of the Century",
@@ -598,12 +566,52 @@
     "imdb_id": "tt19386538"
   },
   {
+    "title": "Das Boot",
+    "release_year": "1985",
+    "clean_title": "/film/das-boot-1985/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0081834"
+  },
+  {
+    "title": "The Untamed",
+    "release_year": "2019",
+    "clean_title": "/film/the-untamed-2019/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt10554898"
+  },
+  {
+    "title": "We Are All Trying Here",
+    "release_year": "2026",
+    "clean_title": "/film/we-are-all-trying-here/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt36732944"
+  },
+  {
+    "title": "Twenty Five Twenty One",
+    "release_year": "2022",
+    "clean_title": "/film/twenty-five-twenty-one/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt17513352"
+  },
+  {
     "title": "Pride and Prejudice",
     "release_year": "1995",
     "clean_title": "/film/pride-and-prejudice-1995/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt0112130"
+  },
+  {
+    "title": "Daily Dose of Sunshine",
+    "release_year": "2023",
+    "clean_title": "/film/daily-dose-of-sunshine/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt26258202"
   },
   {
     "title": "Sharp Objects",
@@ -622,44 +630,12 @@
     "imdb_id": "tt0339955"
   },
   {
-    "title": "Eight Hours Don’t Make a Day",
-    "release_year": "1972",
-    "clean_title": "/film/eight-hours-dont-make-a-day/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0068028"
-  },
-  {
     "title": "Violet Evergarden",
     "release_year": "2018",
     "clean_title": "/film/violet-evergarden/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt7078180"
-  },
-  {
-    "title": "Maid",
-    "release_year": "2021",
-    "clean_title": "/film/maid-2021/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt11337908"
-  },
-  {
-    "title": "Daily Dose of Sunshine",
-    "release_year": "2023",
-    "clean_title": "/film/daily-dose-of-sunshine/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt26258202"
-  },
-  {
-    "title": "The Prisoner",
-    "release_year": "1967",
-    "clean_title": "/film/the-prisoner-1967/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0061287"
   },
   {
     "title": "The New Years",
@@ -670,12 +646,36 @@
     "imdb_id": "tt29615330"
   },
   {
+    "title": "Eight Hours Don’t Make a Day",
+    "release_year": "1972",
+    "clean_title": "/film/eight-hours-dont-make-a-day/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0068028"
+  },
+  {
+    "title": "No One Will Miss Us",
+    "release_year": "2024",
+    "clean_title": "/film/no-one-will-miss-us-2024/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt32896333"
+  },
+  {
     "title": "Persona",
     "release_year": "2018",
     "clean_title": "/film/persona-2018/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt7920978"
+  },
+  {
+    "title": "Maid",
+    "release_year": "2021",
+    "clean_title": "/film/maid-2021/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt11337908"
   },
   {
     "title": "I, Claudius",
@@ -694,14 +694,6 @@
     "imdb_id": "tt0995832"
   },
   {
-    "title": "Nichijou: My Ordinary Life",
-    "release_year": "2011",
-    "clean_title": "/film/nichijou-my-ordinary-life/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt2098308"
-  },
-  {
     "title": "Fellow Travelers",
     "release_year": "2023",
     "clean_title": "/film/fellow-travelers-2023/",
@@ -710,12 +702,35 @@
     "imdb_id": "tt15384586"
   },
   {
+    "title": "Nichijou: My Ordinary Life",
+    "release_year": "2011",
+    "clean_title": "/film/nichijou-my-ordinary-life/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt2098308"
+  },
+  {
     "title": "Mononoke",
     "release_year": "2007",
     "clean_title": "/film/mononoke/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt1992935"
+  },
+  {
+    "title": "The Prisoner",
+    "release_year": "1967",
+    "clean_title": "/film/the-prisoner-1967/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0061287"
+  },
+  {
+    "title": "Cunk on Earth",
+    "release_year": "2022",
+    "clean_title": "/film/cunk-on-earth/",
+    "adult": false,
+    "id": 1187248
   },
   {
     "title": "The Glory",
@@ -734,19 +749,20 @@
     "imdb_id": "tt26134148"
   },
   {
-    "title": "Cunk on Earth",
-    "release_year": "2022",
-    "clean_title": "/film/cunk-on-earth/",
-    "adult": false,
-    "id": 1187248
-  },
-  {
     "title": "Love In The Big City",
     "release_year": "2024",
     "clean_title": "/film/love-in-the-big-city-2024/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt30143510"
+  },
+  {
+    "title": "Journal with Witch",
+    "release_year": "2026",
+    "clean_title": "/film/journal-with-witch/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt32336365"
   },
   {
     "title": "Kaiba",
@@ -757,12 +773,12 @@
     "imdb_id": "tt1209386"
   },
   {
-    "title": "No One Will Miss Us",
-    "release_year": "2024",
-    "clean_title": "/film/no-one-will-miss-us-2024/",
+    "title": "The Trauma Code: Heroes on Call",
+    "release_year": "2025",
+    "clean_title": "/film/the-trauma-code-heroes-on-call-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32896333"
+    "imdb_id": "tt28106730"
   },
   {
     "title": "Great Teacher Onizuka",
@@ -771,14 +787,6 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0315008"
-  },
-  {
-    "title": "The Trauma Code: Heroes on Call",
-    "release_year": "2025",
-    "clean_title": "/film/the-trauma-code-heroes-on-call-2025/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt28106730"
   },
   {
     "title": "Crash Landing on You",
@@ -813,28 +821,12 @@
     "imdb_id": "tt15146130"
   },
   {
-    "title": "Hal & Harper",
-    "release_year": "2025",
-    "clean_title": "/film/hal-harper/",
+    "title": "Teach You a Lesson",
+    "release_year": "2026",
+    "clean_title": "/film/teach-you-a-lesson-2026/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt30895499"
-  },
-  {
-    "title": "Don't Hug Me I'm Scared",
-    "release_year": "2022",
-    "clean_title": "/film/dont-hug-me-im-scared-2022/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt14932528"
-  },
-  {
-    "title": "ODDTAXI",
-    "release_year": "2021",
-    "clean_title": "/film/oddtaxi/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt14134550"
+    "imdb_id": "tt34809853"
   },
   {
     "title": "Mr. Sunshine",
@@ -845,6 +837,22 @@
     "imdb_id": "tt7094780"
   },
   {
+    "title": "Hal & Harper",
+    "release_year": "2025",
+    "clean_title": "/film/hal-harper/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt30895499"
+  },
+  {
+    "title": "ODDTAXI",
+    "release_year": "2021",
+    "clean_title": "/film/oddtaxi/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt14134550"
+  },
+  {
     "title": "Paranoia Agent",
     "release_year": "2004",
     "clean_title": "/film/paranoia-agent/",
@@ -853,12 +861,20 @@
     "imdb_id": "tt0433722"
   },
   {
-    "title": "Strangers from Hell",
-    "release_year": "2019",
-    "clean_title": "/film/strangers-from-hell/",
+    "title": "La Maison des bois",
+    "release_year": "1971",
+    "clean_title": "/film/la-maison-des-bois/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10613844"
+    "imdb_id": "tt0209122"
+  },
+  {
+    "title": "Haibane Renmei",
+    "release_year": "2002",
+    "clean_title": "/film/haibane-renmei-2002/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0380113"
   },
   {
     "title": "Not Me",
@@ -869,12 +885,28 @@
     "imdb_id": "tt13661118"
   },
   {
-    "title": "Haibane Renmei",
-    "release_year": "2002",
-    "clean_title": "/film/haibane-renmei-2002/",
+    "title": "Don't Hug Me I'm Scared",
+    "release_year": "2022",
+    "clean_title": "/film/dont-hug-me-im-scared-2022/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0380113"
+    "imdb_id": "tt14932528"
+  },
+  {
+    "title": "Strangers from Hell",
+    "release_year": "2019",
+    "clean_title": "/film/strangers-from-hell/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt10613844"
+  },
+  {
+    "title": "Pursuit of Jade",
+    "release_year": "2026",
+    "clean_title": "/film/pursuit-of-jade/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt35316225"
   },
   {
     "title": "Weightlifting Fairy Kim Bok-joo",
@@ -893,12 +925,12 @@
     "imdb_id": "tt0318997"
   },
   {
-    "title": "ClaireBell",
-    "release_year": "2025",
-    "clean_title": "/film/clairebell/",
+    "title": "The Other Bennet Sister",
+    "release_year": "2026",
+    "clean_title": "/film/the-other-bennet-sister/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35996416"
+    "imdb_id": "tt37022512"
   },
   {
     "title": "Princess Tutu",
@@ -909,20 +941,12 @@
     "imdb_id": "tt0444745"
   },
   {
-    "title": "The Other Bennet Sister",
-    "release_year": "2026",
-    "clean_title": "/film/the-other-bennet-sister/",
+    "title": "ClaireBell",
+    "release_year": "2025",
+    "clean_title": "/film/clairebell/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt37022512"
-  },
-  {
-    "title": "The Night Of",
-    "release_year": "2016",
-    "clean_title": "/film/the-night-of/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt2401256"
+    "imdb_id": "tt35996416"
   },
   {
     "title": "Mobile Suit Gundam 0080: War in the Pocket",
@@ -933,28 +957,12 @@
     "imdb_id": "tt0097661"
   },
   {
-    "title": "Pursuit of Jade",
-    "release_year": "2026",
-    "clean_title": "/film/pursuit-of-jade/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt35316225"
-  },
-  {
-    "title": "The Gay and Wondrous Life of Caleb Gallo",
+    "title": "The Night Of",
     "release_year": "2016",
-    "clean_title": "/film/the-gay-and-wondrous-life-of-caleb-gallo/",
+    "clean_title": "/film/the-night-of/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5496184"
-  },
-  {
-    "title": "Jeongnyeon: The Star is Born",
-    "release_year": "2024",
-    "clean_title": "/film/jeongnyeon-the-star-is-born/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt28197611"
+    "imdb_id": "tt2401256"
   },
   {
     "title": "Your Lie in April",
@@ -965,28 +973,28 @@
     "imdb_id": "tt3895150"
   },
   {
+    "title": "Jeongnyeon: The Star is Born",
+    "release_year": "2024",
+    "clean_title": "/film/jeongnyeon-the-star-is-born/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt28197611"
+  },
+  {
+    "title": "The Gay and Wondrous Life of Caleb Gallo",
+    "release_year": "2016",
+    "clean_title": "/film/the-gay-and-wondrous-life-of-caleb-gallo/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt5496184"
+  },
+  {
     "title": "Hilda Hurricane",
     "release_year": "1998",
     "clean_title": "/film/hilda-hurricane/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt0163450"
-  },
-  {
-    "title": "Lovely Runner",
-    "release_year": "2024",
-    "clean_title": "/film/lovely-runner/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt31324295"
-  },
-  {
-    "title": "Watchmen",
-    "release_year": "2019",
-    "clean_title": "/film/watchmen-2019/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt7049682"
   },
   {
     "title": "Welcome to the N-H-K",
@@ -997,12 +1005,20 @@
     "imdb_id": "tt0857297"
   },
   {
-    "title": "Duang with You",
-    "release_year": "2026",
-    "clean_title": "/film/duang-with-you/",
+    "title": "Watchmen",
+    "release_year": "2019",
+    "clean_title": "/film/watchmen-2019/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35932199"
+    "imdb_id": "tt7049682"
+  },
+  {
+    "title": "Youth of May",
+    "release_year": "2021",
+    "clean_title": "/film/youth-of-may/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt14166666"
   },
   {
     "title": "The Queen's Gambit",
@@ -1021,20 +1037,11 @@
     "imdb_id": "tt5320412"
   },
   {
-    "title": "Youth of May",
-    "release_year": "2021",
-    "clean_title": "/film/youth-of-may/",
+    "title": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "release_year": "2014",
+    "clean_title": "/film/jojos-bizarre-adventure-stardust-crusaders/",
     "adult": false,
-    "id": 0,
-    "imdb_id": "tt14166666"
-  },
-  {
-    "title": "Samurai X: Trust & Betrayal",
-    "release_year": "1999",
-    "clean_title": "/film/rurouni-kenshin-trust-and-betrayal/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0203082"
+    "id": 1377463
   },
   {
     "title": "Anne of Green Gables",
@@ -1045,19 +1052,20 @@
     "imdb_id": "tt0088727"
   },
   {
-    "title": "La Maison des bois",
-    "release_year": "1971",
-    "clean_title": "/film/la-maison-des-bois/",
+    "title": "Lovely Runner",
+    "release_year": "2024",
+    "clean_title": "/film/lovely-runner/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0209122"
+    "imdb_id": "tt31324295"
   },
   {
-    "title": "JoJo's Bizarre Adventure: Stardust Crusaders",
-    "release_year": "2014",
-    "clean_title": "/film/jojos-bizarre-adventure-stardust-crusaders/",
+    "title": "Samurai X: Trust & Betrayal",
+    "release_year": "1999",
+    "clean_title": "/film/rurouni-kenshin-trust-and-betrayal/",
     "adult": false,
-    "id": 1377463
+    "id": 0,
+    "imdb_id": "tt0203082"
   },
   {
     "title": "1883",
@@ -1084,11 +1092,12 @@
     "imdb_id": "tt8749198"
   },
   {
-    "title": "Cunk on Britain",
-    "release_year": "2018",
-    "clean_title": "/film/cunk-on-britain/",
+    "title": "1 Litre of Tears",
+    "release_year": "2005",
+    "clean_title": "/film/1-litre-of-tears-2005/",
     "adult": false,
-    "id": 0
+    "id": 0,
+    "imdb_id": "tt1370332"
   },
   {
     "title": "Kino's Journey",
@@ -1099,28 +1108,35 @@
     "imdb_id": "tt0433498"
   },
   {
-    "title": "Mare of Easttown",
-    "release_year": "2021",
-    "clean_title": "/film/mare-of-easttown/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt10155688"
-  },
-  {
-    "title": "1 Litre of Tears",
-    "release_year": "2005",
-    "clean_title": "/film/1-litre-of-tears-2005/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt1370332"
-  },
-  {
     "title": "The Long, Long Holiday",
     "release_year": "2015",
     "clean_title": "/film/the-long-long-holiday/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt4641870"
+  },
+  {
+    "title": "Cunk on Britain",
+    "release_year": "2018",
+    "clean_title": "/film/cunk-on-britain/",
+    "adult": false,
+    "id": 0
+  },
+  {
+    "title": "Duang with You",
+    "release_year": "2026",
+    "clean_title": "/film/duang-with-you/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt35932199"
+  },
+  {
+    "title": "Mare of Easttown",
+    "release_year": "2021",
+    "clean_title": "/film/mare-of-easttown/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt10155688"
   },
   {
     "title": "Beyond Evil",
@@ -1139,12 +1155,12 @@
     "imdb_id": "tt0083390"
   },
   {
-    "title": "Keep Your Hands Off Eizouken!",
-    "release_year": "2020",
-    "clean_title": "/film/keep-your-hands-off-eizouken-2020/",
+    "title": "Seventeen Moments of Spring",
+    "release_year": "1973",
+    "clean_title": "/film/seventeen-moments-of-spring/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt10320398"
+    "imdb_id": "tt0069628"
   },
   {
     "title": "Say Nothing",
@@ -1155,12 +1171,28 @@
     "imdb_id": "tt31122777"
   },
   {
-    "title": "Journal with Witch",
-    "release_year": "2026",
-    "clean_title": "/film/journal-with-witch/",
+    "title": "Keep Your Hands Off Eizouken!",
+    "release_year": "2020",
+    "clean_title": "/film/keep-your-hands-off-eizouken-2020/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32336365"
+    "imdb_id": "tt10320398"
+  },
+  {
+    "title": "Girls' Last Tour",
+    "release_year": "2017",
+    "clean_title": "/film/girls-last-tour/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt7474942"
+  },
+  {
+    "title": "Love Upon a Time",
+    "release_year": "2026",
+    "clean_title": "/film/love-upon-a-time/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt34934110"
   },
   {
     "title": "Unbelievable",
@@ -1179,108 +1211,12 @@
     "imdb_id": "tt0089018"
   },
   {
-    "title": "Station Eleven",
-    "release_year": "2021",
-    "clean_title": "/film/station-eleven/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt10574236"
-  },
-  {
-    "title": "Girls' Last Tour",
-    "release_year": "2017",
-    "clean_title": "/film/girls-last-tour/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt7474942"
-  },
-  {
-    "title": "This Is England '90",
-    "release_year": "2015",
-    "clean_title": "/film/this-is-england-90/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt2528254"
-  },
-  {
-    "title": "The Curse",
-    "release_year": "2023",
-    "clean_title": "/film/the-curse-2023/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt13623608"
-  },
-  {
-    "title": "Beck: Mongolian Chop Squad",
-    "release_year": "2004",
-    "clean_title": "/film/beck-mongolian-chop-squad/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0434662"
-  },
-  {
-    "title": "Berlin Alexanderplatz",
-    "release_year": "1980",
-    "clean_title": "/film/berlin-alexanderplatz/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0080196"
-  },
-  {
-    "title": "A Small Light",
-    "release_year": "2023",
-    "clean_title": "/film/a-small-light/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt17921714"
-  },
-  {
     "title": "Unnatural",
     "release_year": "2018",
     "clean_title": "/film/unnatural-2018/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt7521882"
-  },
-  {
-    "title": "The Virtues",
-    "release_year": "2019",
-    "clean_title": "/film/the-virtues/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt7186126"
-  },
-  {
-    "title": "Ripley",
-    "release_year": "2024",
-    "clean_title": "/film/ripley/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt11016042"
-  },
-  {
-    "title": "This World Can't Tear Me Down",
-    "release_year": "2023",
-    "clean_title": "/film/this-world-cant-tear-me-down/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt27440006"
-  },
-  {
-    "title": "Last Twilight",
-    "release_year": "2023",
-    "clean_title": "/film/last-twilight-2023/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt24186344"
-  },
-  {
-    "title": "Neighborhood Story",
-    "release_year": "1995",
-    "clean_title": "/film/neighborhood-story/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0346285"
   },
   {
     "title": "The Corner",
@@ -1291,6 +1227,22 @@
     "imdb_id": "tt0224853"
   },
   {
+    "title": "This Is England '90",
+    "release_year": "2015",
+    "clean_title": "/film/this-is-england-90/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt2528254"
+  },
+  {
+    "title": "Beck: Mongolian Chop Squad",
+    "release_year": "2004",
+    "clean_title": "/film/beck-mongolian-chop-squad/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0434662"
+  },
+  {
     "title": "Long Vacation",
     "release_year": "1996",
     "clean_title": "/film/long-vacation/",
@@ -1299,12 +1251,68 @@
     "imdb_id": "tt0116910"
   },
   {
-    "title": "Signal",
-    "release_year": "2016",
-    "clean_title": "/film/signal-2016/",
+    "title": "A Small Light",
+    "release_year": "2023",
+    "clean_title": "/film/a-small-light/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt5332206"
+    "imdb_id": "tt17921714"
+  },
+  {
+    "title": "Berlin Alexanderplatz",
+    "release_year": "1980",
+    "clean_title": "/film/berlin-alexanderplatz/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0080196"
+  },
+  {
+    "title": "The Curse",
+    "release_year": "2023",
+    "clean_title": "/film/the-curse-2023/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt13623608"
+  },
+  {
+    "title": "Station Eleven",
+    "release_year": "2021",
+    "clean_title": "/film/station-eleven/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt10574236"
+  },
+  {
+    "title": "Neighborhood Story",
+    "release_year": "1995",
+    "clean_title": "/film/neighborhood-story/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0346285"
+  },
+  {
+    "title": "Last Twilight",
+    "release_year": "2023",
+    "clean_title": "/film/last-twilight-2023/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt24186344"
+  },
+  {
+    "title": "Ripley",
+    "release_year": "2024",
+    "clean_title": "/film/ripley/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt11016042"
+  },
+  {
+    "title": "The Virtues",
+    "release_year": "2019",
+    "clean_title": "/film/the-virtues/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt7186126"
   },
   {
     "title": "The First Frost",
@@ -1315,12 +1323,12 @@
     "imdb_id": "tt31887832"
   },
   {
-    "title": "Seventeen Moments of Spring",
-    "release_year": "1973",
-    "clean_title": "/film/seventeen-moments-of-spring/",
+    "title": "This World Can't Tear Me Down",
+    "release_year": "2023",
+    "clean_title": "/film/this-world-cant-tear-me-down/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0069628"
+    "imdb_id": "tt27440006"
   },
   {
     "title": "Paradise Kiss",
@@ -1329,6 +1337,14 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt0498443"
+  },
+  {
+    "title": "Signal",
+    "release_year": "2016",
+    "clean_title": "/film/signal-2016/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt5332206"
   },
   {
     "title": "Lonesome Dove",
@@ -1347,14 +1363,6 @@
     "imdb_id": "tt0251439"
   },
   {
-    "title": "Olive Kitteridge",
-    "release_year": "2014",
-    "clean_title": "/film/olive-kitteridge/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt3012698"
-  },
-  {
     "title": "Prison Playbook",
     "release_year": "2017",
     "clean_title": "/film/prison-playbook/",
@@ -1363,12 +1371,19 @@
     "imdb_id": "tt7622902"
   },
   {
-    "title": "Love Design",
-    "release_year": "2025",
-    "clean_title": "/film/love-design/",
+    "title": "Olive Kitteridge",
+    "release_year": "2014",
+    "clean_title": "/film/olive-kitteridge/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt35977295"
+    "imdb_id": "tt3012698"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure: Stone Ocean",
+    "release_year": "2021",
+    "clean_title": "/film/jojos-bizarre-adventure-stone-ocean/",
+    "adult": false,
+    "id": 1377467
   },
   {
     "title": "I Know This Much Is True",
@@ -1387,12 +1402,12 @@
     "imdb_id": "tt0409630"
   },
   {
-    "title": "What It Feels Like for a Girl",
-    "release_year": "2025",
-    "clean_title": "/film/what-it-feels-like-for-a-girl-2025/",
+    "title": "Lessons in Chemistry",
+    "release_year": "2023",
+    "clean_title": "/film/lessons-in-chemistry/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28131282"
+    "imdb_id": "tt13911628"
   },
   {
     "title": "Wayne",
@@ -1403,12 +1418,12 @@
     "imdb_id": "tt7765404"
   },
   {
-    "title": "Lessons in Chemistry",
-    "release_year": "2023",
-    "clean_title": "/film/lessons-in-chemistry/",
+    "title": "Khemjira",
+    "release_year": "2025",
+    "clean_title": "/film/khemjira/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt13911628"
+    "imdb_id": "tt33258229"
   },
   {
     "title": "The Rose of Versailles",
@@ -1419,12 +1434,28 @@
     "imdb_id": "tt0078570"
   },
   {
+    "title": "Enemies with Benefits",
+    "release_year": "2026",
+    "clean_title": "/film/enemies-with-benefits/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt39044698"
+  },
+  {
     "title": "Dopesick",
     "release_year": "2021",
     "clean_title": "/film/dopesick/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt9174558"
+  },
+  {
+    "title": "Love Design",
+    "release_year": "2025",
+    "clean_title": "/film/love-design/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt35977295"
   },
   {
     "title": "The Pacific",
@@ -1435,27 +1466,12 @@
     "imdb_id": "tt0374463"
   },
   {
-    "title": "Khemjira",
+    "title": "What It Feels Like for a Girl",
     "release_year": "2025",
-    "clean_title": "/film/khemjira/",
+    "clean_title": "/film/what-it-feels-like-for-a-girl-2025/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt33258229"
-  },
-  {
-    "title": "JoJo's Bizarre Adventure: Stone Ocean",
-    "release_year": "2021",
-    "clean_title": "/film/jojos-bizarre-adventure-stone-ocean/",
-    "adult": false,
-    "id": 1377467
-  },
-  {
-    "title": "The Storks Will Return",
-    "release_year": "2007",
-    "clean_title": "/film/the-storks-will-return/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt1043822"
+    "imdb_id": "tt28131282"
   },
   {
     "title": "The Good Bad Mother",
@@ -1466,20 +1482,36 @@
     "imdb_id": "tt27042206"
   },
   {
-    "title": "Our Unwritten Seoul",
-    "release_year": "2025",
-    "clean_title": "/film/our-unwritten-seoul/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt36724865"
-  },
-  {
     "title": "The Worst of Evil",
     "release_year": "2023",
     "clean_title": "/film/the-worst-of-evil/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt20600022"
+  },
+  {
+    "title": "The Storks Will Return",
+    "release_year": "2007",
+    "clean_title": "/film/the-storks-will-return/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt1043822"
+  },
+  {
+    "title": "Kamen Rider Kuuga",
+    "release_year": "2000",
+    "clean_title": "/film/kamen-rider-kuuga/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0188340"
+  },
+  {
+    "title": "Our Unwritten Seoul",
+    "release_year": "2025",
+    "clean_title": "/film/our-unwritten-seoul/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt36724865"
   },
   {
     "title": "Tinker Tailor Soldier Spy",
@@ -1490,12 +1522,12 @@
     "imdb_id": "tt0080297"
   },
   {
-    "title": "Go for It, Nakamura-kun!!",
-    "release_year": "2026",
-    "clean_title": "/film/go-for-it-nakamura-kun/",
+    "title": "The Young Pope",
+    "release_year": "2016",
+    "clean_title": "/film/the-young-pope/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt37182080"
+    "imdb_id": "tt3655448"
   },
   {
     "title": "Scenes from a Marriage",
@@ -1506,12 +1538,12 @@
     "imdb_id": "tt12682218"
   },
   {
-    "title": "The Young Pope",
-    "release_year": "2016",
-    "clean_title": "/film/the-young-pope/",
+    "title": "A Girl Named Zat",
+    "release_year": "2013",
+    "clean_title": "/film/a-girl-named-zat/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt3655448"
+    "imdb_id": "tt4247702"
   },
   {
     "title": "Jack & Joker: U Steal My Heart!",
@@ -1522,6 +1554,22 @@
     "imdb_id": "tt33348133"
   },
   {
+    "title": "Takin' Over the Asylum",
+    "release_year": "1994",
+    "clean_title": "/film/takin-over-the-asylum/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0209813"
+  },
+  {
+    "title": "Ouran High School Host Club",
+    "release_year": "2006",
+    "clean_title": "/film/ouran-high-school-host-club-2006-1/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0816397"
+  },
+  {
     "title": "Mr. Plankton",
     "release_year": "2024",
     "clean_title": "/film/mr-plankton/",
@@ -1530,36 +1578,12 @@
     "imdb_id": "tt27539317"
   },
   {
-    "title": "A Girl Named Zat",
-    "release_year": "2013",
-    "clean_title": "/film/a-girl-named-zat/",
+    "title": "Our Youth",
+    "release_year": "2024",
+    "clean_title": "/film/our-youth-2024/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt4247702"
-  },
-  {
-    "title": "Under the Queen's Umbrella",
-    "release_year": "2022",
-    "clean_title": "/film/under-the-queens-umbrella/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt22265394"
-  },
-  {
-    "title": "Enemies with Benefits",
-    "release_year": "2026",
-    "clean_title": "/film/enemies-with-benefits/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt39044698"
-  },
-  {
-    "title": "Half Man",
-    "release_year": "2026",
-    "clean_title": "/film/half-man/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt32767294"
+    "imdb_id": "tt34412058"
   },
   {
     "title": "ERASED",
@@ -1570,20 +1594,52 @@
     "imdb_id": "tt5249462"
   },
   {
-    "title": "Takin' Over the Asylum",
-    "release_year": "1994",
-    "clean_title": "/film/takin-over-the-asylum/",
+    "title": "Under the Queen's Umbrella",
+    "release_year": "2022",
+    "clean_title": "/film/under-the-queens-umbrella/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0209813"
+    "imdb_id": "tt22265394"
   },
   {
-    "title": "Our Youth",
-    "release_year": "2024",
-    "clean_title": "/film/our-youth-2024/",
+    "title": "Summer Strike",
+    "release_year": "2022",
+    "clean_title": "/film/summer-strike/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt34412058"
+    "imdb_id": "tt23788642"
+  },
+  {
+    "title": "Querer",
+    "release_year": "2024",
+    "clean_title": "/film/querer-2024/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt28803868"
+  },
+  {
+    "title": "Love in the Clouds",
+    "release_year": "2025",
+    "clean_title": "/film/love-in-the-clouds-2025-1/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt32750951"
+  },
+  {
+    "title": "Half Man",
+    "release_year": "2026",
+    "clean_title": "/film/half-man/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt32767294"
+  },
+  {
+    "title": "Rainbow",
+    "release_year": "2010",
+    "clean_title": "/film/rainbow-2010-1/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt1610860"
   },
   {
     "title": "Run with the Wind",
@@ -1602,52 +1658,20 @@
     "imdb_id": "tt0077013"
   },
   {
-    "title": "Ouran High School Host Club",
-    "release_year": "2006",
-    "clean_title": "/film/ouran-high-school-host-club-2006-1/",
+    "title": "Dear Brother",
+    "release_year": "1991",
+    "clean_title": "/film/dear-brother-1991/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0816397"
+    "imdb_id": "tt0159901"
   },
   {
-    "title": "Summer Strike",
-    "release_year": "2022",
-    "clean_title": "/film/summer-strike/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt23788642"
-  },
-  {
-    "title": "Love in the Clouds",
+    "title": "Twelve Letters",
     "release_year": "2025",
-    "clean_title": "/film/love-in-the-clouds-2025-1/",
+    "clean_title": "/film/twelve-letters/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt32750951"
-  },
-  {
-    "title": "Rainbow",
-    "release_year": "2010",
-    "clean_title": "/film/rainbow-2010-1/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt1610860"
-  },
-  {
-    "title": "This Is England '88",
-    "release_year": "2011",
-    "clean_title": "/film/this-is-england-88/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt2126154"
-  },
-  {
-    "title": "Kamen Rider Kuuga",
-    "release_year": "2000",
-    "clean_title": "/film/kamen-rider-kuuga/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0188340"
+    "imdb_id": "tt32247408"
   },
   {
     "title": "Watchmen: Motion Comic",
@@ -1658,6 +1682,22 @@
     "imdb_id": "tt1322240"
   },
   {
+    "title": "This Is England '88",
+    "release_year": "2011",
+    "clean_title": "/film/this-is-england-88/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt2126154"
+  },
+  {
+    "title": "Go for It, Nakamura-kun!!",
+    "release_year": "2026",
+    "clean_title": "/film/go-for-it-nakamura-kun/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt37182080"
+  },
+  {
     "title": "Dying for Sex",
     "release_year": "2025",
     "clean_title": "/film/dying-for-sex/",
@@ -1666,12 +1706,28 @@
     "imdb_id": "tt30252752"
   },
   {
-    "title": "Querer",
-    "release_year": "2024",
-    "clean_title": "/film/querer-2024/",
+    "title": "When Oranges Fall",
+    "release_year": "2026",
+    "clean_title": "/film/when-oranges-fall-2026/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt28803868"
+    "imdb_id": "tt39029529"
+  },
+  {
+    "title": "The Maxx",
+    "release_year": "1995",
+    "clean_title": "/film/the-maxx/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0112065"
+  },
+  {
+    "title": "High School Frenemy",
+    "release_year": "2024",
+    "clean_title": "/film/high-school-frenemy/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt30098370"
   },
   {
     "title": "Battlestar Galactica",
@@ -1698,52 +1754,12 @@
     "imdb_id": "tt13616990"
   },
   {
-    "title": "Love Upon a Time",
-    "release_year": "2026",
-    "clean_title": "/film/love-upon-a-time/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt34934110"
-  },
-  {
-    "title": "High School Frenemy",
-    "release_year": "2024",
-    "clean_title": "/film/high-school-frenemy/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt30098370"
-  },
-  {
-    "title": "Me and Thee",
-    "release_year": "2025",
-    "clean_title": "/film/me-and-thee/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt34929687"
-  },
-  {
-    "title": "Dear Brother",
-    "release_year": "1991",
-    "clean_title": "/film/dear-brother-1991/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0159901"
-  },
-  {
     "title": "Small Axe",
     "release_year": "2020",
     "clean_title": "/film/small-axe/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt3464896"
-  },
-  {
-    "title": "The Maxx",
-    "release_year": "1995",
-    "clean_title": "/film/the-maxx/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt0112065"
   },
   {
     "title": "Rilakkuma and Kaoru",
@@ -1778,36 +1794,12 @@
     "imdb_id": "tt7836688"
   },
   {
-    "title": "My Melody & Kuromi",
-    "release_year": "2025",
-    "clean_title": "/film/my-melody-kuromi/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt35323313"
-  },
-  {
     "title": "Baccano!",
     "release_year": "2007",
     "clean_title": "/film/baccano/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt1334722"
-  },
-  {
-    "title": "Sonic x Shadow Generations: Dark Beginnings",
-    "release_year": "2024",
-    "clean_title": "/film/sonic-x-shadow-generations-dark-beginnings/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt32368267"
-  },
-  {
-    "title": "Twelve Letters",
-    "release_year": "2025",
-    "clean_title": "/film/twelve-letters/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt32247408"
   },
   {
     "title": "Dororo",
@@ -1826,12 +1818,28 @@
     "imdb_id": "tt13718450"
   },
   {
-    "title": "Anne of Green Gables",
-    "release_year": "1979",
-    "clean_title": "/film/anne-of-green-gables-1979/",
+    "title": "Me and Thee",
+    "release_year": "2025",
+    "clean_title": "/film/me-and-thee/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0078560"
+    "imdb_id": "tt34929687"
+  },
+  {
+    "title": "My Melody & Kuromi",
+    "release_year": "2025",
+    "clean_title": "/film/my-melody-kuromi/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt35323313"
+  },
+  {
+    "title": "Sonic x Shadow Generations: Dark Beginnings",
+    "release_year": "2024",
+    "clean_title": "/film/sonic-x-shadow-generations-dark-beginnings/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt32368267"
   },
   {
     "title": "The Underground Railroad",
@@ -1849,12 +1857,28 @@
     "id": 0
   },
   {
-    "title": "Light Shop",
-    "release_year": "2024",
-    "clean_title": "/film/light-shop-2024/",
+    "title": "Hellsing Ultimate",
+    "release_year": "2006",
+    "clean_title": "/film/hellsing-ultimate-v/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt31014115"
+    "imdb_id": "tt0495212"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "release_year": "1979",
+    "clean_title": "/film/anne-of-green-gables-1979/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0078560"
+  },
+  {
+    "title": "Mobile Suit Zeta Gundam",
+    "release_year": "1985",
+    "clean_title": "/film/mobile-suit-zeta-gundam/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0159186"
   },
   {
     "title": "This Is England '86",
@@ -1865,12 +1889,28 @@
     "imdb_id": "tt1685471"
   },
   {
-    "title": "Mobile Suit Zeta Gundam",
-    "release_year": "1985",
-    "clean_title": "/film/mobile-suit-zeta-gundam/",
+    "title": "Asobi Asobase - workshop of fun -",
+    "release_year": "2018",
+    "clean_title": "/film/asobi-asobase-workshop-of-fun/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0159186"
+    "imdb_id": "tt8515062"
+  },
+  {
+    "title": "The Tatami Time Machine Blues",
+    "release_year": "2022",
+    "clean_title": "/film/the-tatami-time-machine-blues-2022/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt15684222"
+  },
+  {
+    "title": "Light Shop",
+    "release_year": "2024",
+    "clean_title": "/film/light-shop-2024/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt31014115"
   },
   {
     "title": "My Name",
@@ -1889,28 +1929,12 @@
     "imdb_id": "tt0417349"
   },
   {
-    "title": "Hellsing Ultimate",
-    "release_year": "2006",
-    "clean_title": "/film/hellsing-ultimate-v/",
+    "title": "Death's Game",
+    "release_year": "2023",
+    "clean_title": "/film/deaths-game/",
     "adult": false,
     "id": 0,
-    "imdb_id": "tt0495212"
-  },
-  {
-    "title": "Years and Years",
-    "release_year": "2019",
-    "clean_title": "/film/years-and-years/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt8694364"
-  },
-  {
-    "title": "The Tatami Time Machine Blues",
-    "release_year": "2022",
-    "clean_title": "/film/the-tatami-time-machine-blues-2022/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt15684222"
+    "imdb_id": "tt26225038"
   },
   {
     "title": "Someday or One Day",
@@ -1921,28 +1945,12 @@
     "imdb_id": "tt11262762"
   },
   {
-    "title": "Asobi Asobase - workshop of fun -",
-    "release_year": "2018",
-    "clean_title": "/film/asobi-asobase-workshop-of-fun/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt8515062"
-  },
-  {
     "title": "Black Bird",
     "release_year": "2022",
     "clean_title": "/film/black-bird/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt4301160"
-  },
-  {
-    "title": "Death's Game",
-    "release_year": "2023",
-    "clean_title": "/film/deaths-game/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt26225038"
   },
   {
     "title": "Through the Darkness",
@@ -1961,35 +1969,27 @@
     "imdb_id": "tt15964848"
   },
   {
+    "title": "Years and Years",
+    "release_year": "2019",
+    "clean_title": "/film/years-and-years/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt8694364"
+  },
+  {
+    "title": "Kamen Rider Build",
+    "release_year": "2017",
+    "clean_title": "/film/kamen-rider-build-2017/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt6982472"
+  },
+  {
     "title": "Fullmetal Alchemist",
     "release_year": "2003",
     "clean_title": "/film/fullmetal-alchemist-2003/",
     "adult": false,
     "id": 0,
     "imdb_id": "tt0421357"
-  },
-  {
-    "title": "Generation War",
-    "release_year": "2013",
-    "clean_title": "/film/generation-war/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt1883092"
-  },
-  {
-    "title": "The House of the Spirits",
-    "release_year": "2026",
-    "clean_title": "/film/the-house-of-the-spirits-2026/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt33022938"
-  },
-  {
-    "title": "Devilman Crybaby",
-    "release_year": "2018",
-    "clean_title": "/film/devilman-crybaby/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt6660498"
   }
 ]
