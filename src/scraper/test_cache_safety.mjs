@@ -1,5 +1,6 @@
 import assert from 'assert';
 import { normalizeSlug, isCacheStale } from './utils.mjs';
+import { extractPostersFromHtml } from './fetch_list.mjs';
 
 console.log('\n🧪 Running Cache Safety & Zero-Omission Test Suite...\n');
 
@@ -210,6 +211,81 @@ test('Zero-Drop Guarantee: all Letterboxd slugs are preserved in exact order, ev
 
     // Verify renamed film got its updated official title!
     assert.strictEqual(radarrData[4].title, 'Official Official Title', 'Renamed movie must receive updated title');
+});
+
+// ----------------------------------------------------
+// TEST 6: Watchlist HTML grid markup parsing
+// ----------------------------------------------------
+test('Watchlist parsing: accurately extracts slugs from Letterboxd watchlist grid markup (li.griditem)', () => {
+    const mockWatchlistHtml = `
+        <div class="site-body">
+            <div class="poster-grid">
+                <ul class="grid -p125 -scaled128">
+                    <li class="griditem">
+                        <div class="react-component" data-component-class="LazyPoster" data-target-link="/film/the-witch-2015/">
+                            <div class="poster film-poster"></div>
+                        </div>
+                    </li>
+                    <li class="griditem">
+                        <div class="react-component" data-component-class="LazyPoster" data-target-link="/film/the-lighthouse-2019/">
+                            <div class="poster film-poster"></div>
+                        </div>
+                    </li>
+                    <li class="griditem">
+                        <div class="react-component" data-component-class="LazyPoster" data-target-link="/film/werwulf/">
+                            <div class="poster film-poster"></div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="paginate-nextprev">
+                <a class="next" href="/sternpaul/watchlist/page/2/">Older</a>
+            </div>
+        </div>
+    `;
+
+    const result = extractPostersFromHtml(mockWatchlistHtml);
+    assert.strictEqual(result.posters.length, 3, 'Should extract all 3 posters from watchlist grid');
+    assert.deepStrictEqual(result.posters, [
+        '/film/the-witch-2015/',
+        '/film/the-lighthouse-2019/',
+        '/film/werwulf/'
+    ]);
+    assert.strictEqual(result.nextPage, 2, 'Should extract page 2 next pagination link');
+});
+
+// ----------------------------------------------------
+// TEST 7: Regular list parsing & Sidebar/Footer preview exclusion
+// ----------------------------------------------------
+test('Regular list parsing: extracts main list items and ignores sidebar/footer preview widgets', () => {
+    const mockListHtml = `
+        <div class="site-body">
+            <ul class="poster-list -p125">
+                <li class="posteritem numbered-list-item">
+                    <div class="react-component" data-component-class="LazyPoster" data-target-link="/film/psycho/"></div>
+                </li>
+                <li class="posteritem numbered-list-item">
+                    <div class="react-component" data-component-class="LazyPoster" data-target-link="/film/the-shining/"></div>
+                </li>
+            </ul>
+            <aside class="sidebar">
+                <a class="poster-list-link">
+                    <ul class="posterlist">
+                        <li class="posteritem">
+                            <div class="react-component" data-component-class="LazyPoster" data-target-link="/"></div>
+                        </li>
+                    </ul>
+                </a>
+            </aside>
+        </div>
+    `;
+
+    const result = extractPostersFromHtml(mockListHtml);
+    assert.strictEqual(result.posters.length, 2, 'Should extract exactly 2 main list items and ignore sidebar preview item');
+    assert.deepStrictEqual(result.posters, [
+        '/film/psycho/',
+        '/film/the-shining/'
+    ]);
 });
 
 console.log(`\n🎉 All ${passedTests} tests passed successfully!\n`);

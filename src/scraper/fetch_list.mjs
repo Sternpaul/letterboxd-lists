@@ -18,73 +18,80 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const lastScrapedPath = path.join(__dirname, 'last_scraped.json');
 
-const listSlug = process.argv[2];
-const outputFile = process.argv[3];
-const limitArg = parseInt(process.argv[4], 10);
+const isMain = Boolean(process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]));
 
-if (!listSlug || !outputFile) {
-    console.error('Usage: node fetch_list.mjs <listSlug> <outputFile> [limit]');
-    process.exit(1);
+export function extractPostersFromHtml(html) {
+    const $ = cheerio.load(html);
+    const posters = [];
+
+    // Target the actual list or grid container to prevent picking up 5 thumbnail posters from the "Related/Similar Lists" footer
+    // Letterboxd standard lists use ul.poster-list or ul.js-list-entries with li.posteritem or .poster-container
+    // Letterboxd watchlists and user grids use .poster-grid or ul.grid with li.griditem
+    const listContainer = $('ul.poster-list, .poster-grid, ul.grid, ul.js-list-entries');
+    const items = listContainer.length
+        ? listContainer.find('li.posteritem, li.griditem, .poster-container')
+        : $('.posteritem, .griditem');
+
+    items.each((_, el) => {
+        // Exclude sidebar widgets or related list preview thumbnails
+        if ($(el).closest('aside, .sidebar, .poster-list-link, ul.posterlist').length > 0) {
+            return;
+        }
+
+        let finalSlug = $(el).find('[data-target-link]').attr('data-target-link') ||
+                        $(el).attr('data-target-link') ||
+                        $(el).find('[data-item-link]').attr('data-item-link') ||
+                        $(el).attr('data-item-link') ||
+                        $(el).find('.film-poster').attr('data-target-link') ||
+                        $(el).find('[data-film-slug]').attr('data-film-slug');
+
+        if (!finalSlug) {
+            finalSlug = $(el).find('a[href^="/film/"]').attr('href');
+        }
+
+        if (finalSlug && typeof finalSlug === 'string') {
+            const trimmed = finalSlug.trim();
+            // Strictly accept only valid film slugs (e.g. /film/knives-out-2019/) and ignore '/' or related list previews
+            if (trimmed.startsWith('/film/') && trimmed !== '/film/' && trimmed.length > 6) {
+                posters.push(trimmed);
+            }
+        }
+    });
+
+    const nextLink = $('.paginate-nextprev .next').attr('href');
+    let nextPage = null;
+    if (nextLink) {
+        const match = nextLink.match(NEXT_PAGE_REGEX);
+        if (match && match[1]) {
+            nextPage = parseInt(match[1], 10);
+        }
+    }
+
+    return { posters, nextPage };
 }
 
-// Ensure slug starts and ends with a slash if needed
-const cleanListSlug = listSlug.replace(/^\//, '');
-
-async function fetchListPaginated(page) {
-    const url = `${LETTERBOXD_ORIGIN}${cleanListSlug}page/${page}/`;
+async function fetchListPaginated(cleanSlug, page) {
+    const url = `${LETTERBOXD_ORIGIN}${cleanSlug}page/${page}/`;
     console.log(`Fetching list page: ${url}`);
 
     try {
         const { data } = await fetchWithRetry(url, {}, 4);
-        const $ = cheerio.load(data);
-        const posters = [];
-
-        // Target the actual list container to prevent picking up 5 thumbnail posters from the "Related/Similar Lists" footer
-        const listContainer = $('ul.poster-list, .poster-grid, ul.js-list-entries');
-        const items = listContainer.length ? listContainer.find('li.posteritem, .poster-container') : $('.posteritem');
-
-        items.each((_, el) => {
-            let finalSlug = $(el).find('[data-target-link]').attr('data-target-link') ||
-                            $(el).attr('data-target-link') ||
-                            $(el).find('.film-poster').attr('data-target-link') ||
-                            $(el).find('[data-film-slug]').attr('data-film-slug');
-
-            if (!finalSlug) {
-                finalSlug = $(el).find('a[href^="/film/"]').attr('href');
-            }
-
-            if (finalSlug && typeof finalSlug === 'string') {
-                const trimmed = finalSlug.trim();
-                // Strictly accept only valid film slugs (e.g. /film/knives-out-2019/) and ignore '/' or related list previews
-                if (trimmed.startsWith('/film/') && trimmed !== '/film/' && trimmed.length > 6) {
-                    posters.push(trimmed);
-                }
-            }
-        });
-
-        const nextLink = $('.paginate-nextprev .next').attr('href');
-        let nextPage = null;
-        if (nextLink) {
-            const match = nextLink.match(NEXT_PAGE_REGEX);
-            if (match && match[1]) {
-                nextPage = parseInt(match[1], 10);
-            }
-        }
-        
-        return { posters, nextPage };
+        return extractPostersFromHtml(data);
     } catch (err) {
         console.error(`Error fetching list page ${page}:`, err.message);
         throw err;
     }
 }
 
-async function main() {
+async function main(listSlug, outputFile, limitArg) {
+    // Ensure slug starts and ends with a slash if needed
+    const cleanListSlug = listSlug.replace(/^\//, '');
     console.log(`Starting to scrape list: ${cleanListSlug}`);
     const slugs = [];
     let next = 1;
     
     while (next) {
-        const result = await fetchListPaginated(next);
+        const result = await fetchListPaginated(cleanListSlug, next);
         slugs.push(...result.posters);
         
         // If we hit or exceed our limit, we can stop paginating early
@@ -266,7 +273,18 @@ async function main() {
     }
 }
 
-main().catch(err => {
-    console.error(err);
-    process.exit(1);
-});
+if (isMain) {
+    const listSlug = process.argv[2];
+    const outputFile = process.argv[3];
+    const limitArg = parseInt(process.argv[4], 10);
+
+    if (!listSlug || !outputFile) {
+        console.error('Usage: node fetch_list.mjs <listSlug> <outputFile> [limit]');
+        process.exit(1);
+    }
+
+    main(listSlug, outputFile, limitArg).catch(err => {
+        console.error(err);
+        process.exit(1);
+    });
+}

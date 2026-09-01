@@ -289,7 +289,7 @@ This document tracks all Official Letterboxd Lists and their sync status in this
 | [Most Divisive Films (500+ ratings) 2018](https://boxd.it/1LiPq) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/most-divisive-all-time-min-500-ratings.json) | 100 | 2026-08-30 | 2026-08-02 |
 | **Other Hardcoded Lists** | | | | | |
 | [The Bfi 100 British Films](https://letterboxd.com/gubarenko/list/the-bfi-100-british-films/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/the-bfi-100-british-films.json) | 100 | 2026-09-01 | 2026-05-26 |
-| [Watchlist](https://letterboxd.com/sternpaul/watchlist/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/sternpaul-watchlist.json) | 0 | 2026-09-01 | 2026-09-01 |
+| [Watchlist](https://letterboxd.com/sternpaul/watchlist/) | Daily Sync 🟢 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/sternpaul-watchlist.json) | 611 | 2026-09-01 | 2026-09-01 |
 | **Famous Community Lists** | | | | | |
 | [1001 Movies You Must See Before You Die](https://letterboxd.com/peterstanley/list/1001-movies-you-must-see-before-you-die/) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/1001-movies-you-must-see-before-you-die.json) | 1245 | 2026-08-30 | 2026-08-02 |
 | [IMDb Top 250](https://letterboxd.com/dave/list/imdb-top-250/) | Not actively scraped 📦 | [RAW](https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/public/imdb-top-250.json) | 250 | 2026-08-30 | 2026-08-30 |

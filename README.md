@@ -333,9 +333,10 @@ Letterboxd list pages only contain film titles and URL slugs—TMDb and IMDb IDs
   - **Tentative Titles**: Movies with tentative titles containing `"Untitled"`, `"Project"`, or `"TBA"` are automatically re-checked to pick up official title changes (e.g. when an untitled sequel receives its official name).
   - **Upcoming & Current Year Films**: All films released in the current year or in the future carry a 3-day TTL and are periodically re-verified against Letterboxd for title or release date revisions.
   - **Catalog Films**: Classic released films with confirmed TMDb IDs are permanently cached to avoid redundant network traffic.
+- **Multi-Layout HTML Parser**: The scraper supports all Letterboxd list formats seamlessly—including standard lists (`ul.poster-list`, `li.posteritem`), user watchlists (`.poster-grid`, `ul.grid`, `li.griditem`), and custom grids, while strictly excluding sidebar preview widgets and similar list recommendations.
 - **Zero-Drop Guarantee**: The final JSON list is assembled directly from the live Letterboxd list slugs. Even in the rare event of a network error or 404 on an individual film, the scraper generates a clean fallback record (`id: 0`) rather than dropping the movie. The output JSON length is strictly guaranteed to match the Letterboxd list length.
-- **Testing**: Run `npm test` inside `src/scraper/` to execute the automated cache safety and zero-omission test suite (`test_cache_safety.mjs`).
-- **Result**: Daily request volume dropped from **~10,000+** down to **~70 requests**, reducing daily GitHub Actions runtime from ~25 minutes to ~1.5 minutes while remaining 100% resilient to renames, ID additions, and new entries.
+- **Testing**: Run `npm test` inside `src/scraper/` to execute the automated cache safety, zero-omission, and watchlist HTML parsing test suite (`test_cache_safety.mjs`).
+- **Result**: Daily request volume dropped from **~10,000+** down to **~70 requests**, reducing daily GitHub Actions runtime from ~25 minutes to ~1.5 minutes while remaining 100% resilient to renames, ID additions, layout differences, and new entries.
 
 
 
