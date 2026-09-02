@@ -48,14 +48,6 @@
     "imdb_id": "tt0167261"
   },
   {
-    "title": "The Odyssey",
-    "release_year": "2026",
-    "clean_title": "/film/the-odyssey-2026/",
-    "adult": false,
-    "id": 1368337,
-    "imdb_id": "tt33764258"
-  },
-  {
     "title": "The Empire Strikes Back",
     "release_year": "1980",
     "clean_title": "/film/the-empire-strikes-back/",
@@ -102,6 +94,14 @@
     "adult": false,
     "id": 992,
     "imdb_id": "tt0015324"
+  },
+  {
+    "title": "The Odyssey",
+    "release_year": "2026",
+    "clean_title": "/film/the-odyssey-2026/",
+    "adult": false,
+    "id": 1368337,
+    "imdb_id": "tt33764258"
   },
   {
     "title": "Heat",
@@ -152,14 +152,6 @@
     "imdb_id": "tt5959980"
   },
   {
-    "title": "Everything Everywhere All at Once",
-    "release_year": "2022",
-    "clean_title": "/film/everything-everywhere-all-at-once/",
-    "adult": false,
-    "id": 545611,
-    "imdb_id": "tt6710474"
-  },
-  {
     "title": "Inception",
     "release_year": "2010",
     "clean_title": "/film/inception/",
@@ -168,12 +160,20 @@
     "imdb_id": "tt1375666"
   },
   {
-    "title": "Kill Bill: Vol. 1",
-    "release_year": "2003",
-    "clean_title": "/film/kill-bill-vol-1/",
+    "title": "Everything Everywhere All at Once",
+    "release_year": "2022",
+    "clean_title": "/film/everything-everywhere-all-at-once/",
     "adult": false,
-    "id": 24,
-    "imdb_id": "tt0266697"
+    "id": 545611,
+    "imdb_id": "tt6710474"
+  },
+  {
+    "title": "A Taxi Driver",
+    "release_year": "2017",
+    "clean_title": "/film/a-taxi-driver/",
+    "adult": false,
+    "id": 437068,
+    "imdb_id": "tt6878038"
   },
   {
     "title": "Kagemusha",
@@ -182,6 +182,14 @@
     "adult": false,
     "id": 11953,
     "imdb_id": "tt0080979"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "release_year": "2003",
+    "clean_title": "/film/kill-bill-vol-1/",
+    "adult": false,
+    "id": 24,
+    "imdb_id": "tt0266697"
   },
   {
     "title": "Virumaandi",
@@ -208,19 +216,19 @@
     "imdb_id": "tt0172495"
   },
   {
+    "title": "Gangs of Wasseypur – Part 2",
+    "release_year": "2012",
+    "clean_title": "/film/gangs-of-wasseypur-part-2/",
+    "adult": false,
+    "id": 126400
+  },
+  {
     "title": "Hard Boiled",
     "release_year": "1992",
     "clean_title": "/film/hard-boiled/",
     "adult": false,
     "id": 11782,
     "imdb_id": "tt0104684"
-  },
-  {
-    "title": "Gangs of Wasseypur – Part 2",
-    "release_year": "2012",
-    "clean_title": "/film/gangs-of-wasseypur-part-2/",
-    "adult": false,
-    "id": 126400
   },
   {
     "title": "Thalapathi",
@@ -239,28 +247,12 @@
     "imdb_id": "tt0133093"
   },
   {
-    "title": "Who Killed Captain Alex?",
-    "release_year": "2010",
-    "clean_title": "/film/who-killed-captain-alex/",
-    "adult": false,
-    "id": 316776,
-    "imdb_id": "tt1813757"
-  },
-  {
     "title": "The Killer",
     "release_year": "1989",
     "clean_title": "/film/the-killer/",
     "adult": false,
     "id": 10835,
     "imdb_id": "tt0097202"
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "release_year": "2026",
-    "clean_title": "/film/spider-man-brand-new-day/",
-    "adult": false,
-    "id": 969681,
-    "imdb_id": "tt22084616"
   },
   {
     "title": "Patlabor 2: The Movie",
@@ -271,20 +263,20 @@
     "imdb_id": "tt0124770"
   },
   {
+    "title": "Who Killed Captain Alex?",
+    "release_year": "2010",
+    "clean_title": "/film/who-killed-captain-alex/",
+    "adult": false,
+    "id": 316776,
+    "imdb_id": "tt1813757"
+  },
+  {
     "title": "Mad Max: Fury Road",
     "release_year": "2015",
     "clean_title": "/film/mad-max-fury-road/",
     "adult": false,
     "id": 76341,
     "imdb_id": "tt1392190"
-  },
-  {
-    "title": "Fallen Angels",
-    "release_year": "1995",
-    "clean_title": "/film/fallen-angels/",
-    "adult": false,
-    "id": 11220,
-    "imdb_id": "tt0112913"
   },
   {
     "title": "The Garden of Sinners: Paradox Spiral",
@@ -303,6 +295,14 @@
     "imdb_id": "tt0076759"
   },
   {
+    "title": "Fallen Angels",
+    "release_year": "1995",
+    "clean_title": "/film/fallen-angels/",
+    "adult": false,
+    "id": 11220,
+    "imdb_id": "tt0112913"
+  },
+  {
     "title": "Raiders of the Lost Ark",
     "release_year": "1981",
     "clean_title": "/film/raiders-of-the-lost-ark/",
@@ -319,14 +319,6 @@
     "imdb_id": "tt0086250"
   },
   {
-    "title": "The Hidden Fortress",
-    "release_year": "1958",
-    "clean_title": "/film/the-hidden-fortress/",
-    "adult": false,
-    "id": 1059,
-    "imdb_id": "tt0051808"
-  },
-  {
     "title": "The Legend of Hei 2",
     "release_year": "2025",
     "clean_title": "/film/the-legend-of-hei-2/",
@@ -335,12 +327,36 @@
     "imdb_id": "tt37284198"
   },
   {
+    "title": "Kireedam",
+    "release_year": "1989",
+    "clean_title": "/film/kireedam-1989/",
+    "adult": false,
+    "id": 191017,
+    "imdb_id": "tt0237376"
+  },
+  {
+    "title": "The Hidden Fortress",
+    "release_year": "1958",
+    "clean_title": "/film/the-hidden-fortress/",
+    "adult": false,
+    "id": 1059,
+    "imdb_id": "tt0051808"
+  },
+  {
     "title": "Redline",
     "release_year": "2009",
     "clean_title": "/film/redline/",
     "adult": false,
     "id": 71883,
     "imdb_id": "tt1483797"
+  },
+  {
+    "title": "The Sword of Doom",
+    "release_year": "1966",
+    "clean_title": "/film/the-sword-of-doom/",
+    "adult": false,
+    "id": 19884,
+    "imdb_id": "tt0060277"
   },
   {
     "title": "Sanjuro",
@@ -359,14 +375,6 @@
     "imdb_id": "tt12818328"
   },
   {
-    "title": "The Sword of Doom",
-    "release_year": "1966",
-    "clean_title": "/film/the-sword-of-doom/",
-    "adult": false,
-    "id": 19884,
-    "imdb_id": "tt0060277"
-  },
-  {
     "title": "Cowboy Bebop: The Movie",
     "release_year": "2001",
     "clean_title": "/film/cowboy-bebop-the-movie/",
@@ -381,14 +389,6 @@
     "adult": false,
     "id": 263115,
     "imdb_id": "tt3315342"
-  },
-  {
-    "title": "One Battle After Another",
-    "release_year": "2025",
-    "clean_title": "/film/one-battle-after-another/",
-    "adult": false,
-    "id": 1054867,
-    "imdb_id": "tt30144839"
   },
   {
     "title": "Ne Zha 2",
@@ -415,12 +415,12 @@
     "imdb_id": "tt0158714"
   },
   {
-    "title": "Kireedam",
-    "release_year": "1989",
-    "clean_title": "/film/kireedam-1989/",
+    "title": "One Battle After Another",
+    "release_year": "2025",
+    "clean_title": "/film/one-battle-after-another/",
     "adult": false,
-    "id": 191017,
-    "imdb_id": "tt0237376"
+    "id": 1054867,
+    "imdb_id": "tt30144839"
   },
   {
     "title": "A Touch of Zen",
@@ -431,20 +431,12 @@
     "imdb_id": "tt0064451"
   },
   {
-    "title": "Aliens",
-    "release_year": "1986",
-    "clean_title": "/film/aliens/",
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "release_year": "2005",
+    "clean_title": "/film/star-wars-episode-iii-revenge-of-the-sith/",
     "adult": false,
-    "id": 679,
-    "imdb_id": "tt0090605"
-  },
-  {
-    "title": "Indiana Jones and the Last Crusade",
-    "release_year": "1989",
-    "clean_title": "/film/indiana-jones-and-the-last-crusade/",
-    "adult": false,
-    "id": 89,
-    "imdb_id": "tt0097576"
+    "id": 1895,
+    "imdb_id": "tt0121766"
   },
   {
     "title": "Tekkonkinkreet",
@@ -455,12 +447,20 @@
     "imdb_id": "tt0831888"
   },
   {
-    "title": "Star Wars: Episode III – Revenge of the Sith",
-    "release_year": "2005",
-    "clean_title": "/film/star-wars-episode-iii-revenge-of-the-sith/",
+    "title": "Indiana Jones and the Last Crusade",
+    "release_year": "1989",
+    "clean_title": "/film/indiana-jones-and-the-last-crusade/",
     "adult": false,
-    "id": 1895,
-    "imdb_id": "tt0121766"
+    "id": 89,
+    "imdb_id": "tt0097576"
+  },
+  {
+    "title": "Aliens",
+    "release_year": "1986",
+    "clean_title": "/film/aliens/",
+    "adult": false,
+    "id": 679,
+    "imdb_id": "tt0090605"
   },
   {
     "title": "Kill Bill: Vol. 2",
@@ -479,20 +479,28 @@
     "imdb_id": "tt0086190"
   },
   {
-    "title": "Sinners",
-    "release_year": "2025",
-    "clean_title": "/film/sinners-2025/",
-    "adult": false,
-    "id": 1233413,
-    "imdb_id": "tt31193180"
-  },
-  {
     "title": "Pudhupettai",
     "release_year": "2006",
     "clean_title": "/film/pudhupettai/",
     "adult": false,
     "id": 69520,
     "imdb_id": "tt0459516"
+  },
+  {
+    "title": "Aaranya Kaandam",
+    "release_year": "2011",
+    "clean_title": "/film/aaranya-kaandam/",
+    "adult": false,
+    "id": 119123,
+    "imdb_id": "tt1496729"
+  },
+  {
+    "title": "Sinners",
+    "release_year": "2025",
+    "clean_title": "/film/sinners-2025/",
+    "adult": false,
+    "id": 1233413,
+    "imdb_id": "tt31193180"
   },
   {
     "title": "Ghost in the Shell",
@@ -511,12 +519,12 @@
     "imdb_id": "tt26446278"
   },
   {
-    "title": "Aaranya Kaandam",
-    "release_year": "2011",
-    "clean_title": "/film/aaranya-kaandam/",
+    "title": "Avengers: Infinity War",
+    "release_year": "2018",
+    "clean_title": "/film/avengers-infinity-war/",
     "adult": false,
-    "id": 119123,
-    "imdb_id": "tt1496729"
+    "id": 299536,
+    "imdb_id": "tt4154756"
   },
   {
     "title": "Castle in the Sky",
@@ -543,12 +551,12 @@
     "imdb_id": "tt23289160"
   },
   {
-    "title": "Avengers: Infinity War",
-    "release_year": "2018",
-    "clean_title": "/film/avengers-infinity-war/",
+    "title": "Ibrahim El-Abyad",
+    "release_year": "2009",
+    "clean_title": "/film/ibrahim-el-abyad/",
     "adult": false,
-    "id": 299536,
-    "imdb_id": "tt4154756"
+    "id": 103364,
+    "imdb_id": "tt1459040"
   },
   {
     "title": "One Piece: Baron Omatsuri and the Secret Island",
@@ -567,20 +575,20 @@
     "imdb_id": "tt0190332"
   },
   {
-    "title": "The Taking of Pelham One Two Three",
-    "release_year": "1974",
-    "clean_title": "/film/the-taking-of-pelham-one-two-three/",
-    "adult": false,
-    "id": 8333,
-    "imdb_id": "tt0072251"
-  },
-  {
     "title": "Bullet in the Head",
     "release_year": "1990",
     "clean_title": "/film/bullet-in-the-head/",
     "adult": false,
     "id": 11909,
     "imdb_id": "tt0099426"
+  },
+  {
+    "title": "The Taking of Pelham One Two Three",
+    "release_year": "1974",
+    "clean_title": "/film/the-taking-of-pelham-one-two-three/",
+    "adult": false,
+    "id": 8333,
+    "imdb_id": "tt0072251"
   },
   {
     "title": "Peking Opera Blues",
@@ -591,44 +599,12 @@
     "imdb_id": "tt0090952"
   },
   {
-    "title": "Ibrahim El-Abyad",
-    "release_year": "2009",
-    "clean_title": "/film/ibrahim-el-abyad/",
-    "adult": false,
-    "id": 103364,
-    "imdb_id": "tt1459040"
-  },
-  {
-    "title": "The Incredibles",
-    "release_year": "2004",
-    "clean_title": "/film/the-incredibles/",
-    "adult": false,
-    "id": 9806,
-    "imdb_id": "tt0317705"
-  },
-  {
-    "title": "Die Hard",
-    "release_year": "1988",
-    "clean_title": "/film/die-hard/",
-    "adult": false,
-    "id": 562,
-    "imdb_id": "tt0095016"
-  },
-  {
     "title": "Training Day",
     "release_year": "2001",
     "clean_title": "/film/training-day/",
     "adult": false,
     "id": 2034,
     "imdb_id": "tt0139654"
-  },
-  {
-    "title": "Infernal Affairs",
-    "release_year": "2002",
-    "clean_title": "/film/infernal-affairs/",
-    "adult": false,
-    "id": 10775,
-    "imdb_id": "tt0338564"
   },
   {
     "title": "Ford v Ferrari",
@@ -639,6 +615,14 @@
     "imdb_id": "tt1950186"
   },
   {
+    "title": "Infernal Affairs",
+    "release_year": "2002",
+    "clean_title": "/film/infernal-affairs/",
+    "adult": false,
+    "id": 10775,
+    "imdb_id": "tt0338564"
+  },
+  {
     "title": "Warrior",
     "release_year": "2011",
     "clean_title": "/film/warrior/",
@@ -647,12 +631,36 @@
     "imdb_id": "tt1291584"
   },
   {
+    "title": "Die Hard",
+    "release_year": "1988",
+    "clean_title": "/film/die-hard/",
+    "adult": false,
+    "id": 562,
+    "imdb_id": "tt0095016"
+  },
+  {
+    "title": "The Incredibles",
+    "release_year": "2004",
+    "clean_title": "/film/the-incredibles/",
+    "adult": false,
+    "id": 9806,
+    "imdb_id": "tt0317705"
+  },
+  {
     "title": "The 36th Chamber of Shaolin",
     "release_year": "1978",
     "clean_title": "/film/the-36th-chamber-of-shaolin/",
     "adult": false,
     "id": 11841,
     "imdb_id": "tt0078243"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "release_year": "2026",
+    "clean_title": "/film/spider-man-brand-new-day/",
+    "adult": false,
+    "id": 969681,
+    "imdb_id": "tt22084616"
   },
   {
     "title": "The Raid 2",
@@ -671,14 +679,6 @@
     "imdb_id": "tt0796212"
   },
   {
-    "title": "Gangs of Wasseypur – Part 1",
-    "release_year": "2012",
-    "clean_title": "/film/gangs-of-wasseypur-part-1/",
-    "adult": false,
-    "id": 117691,
-    "imdb_id": "tt1954470"
-  },
-  {
     "title": "Sarpatta Parambarai",
     "release_year": "2021",
     "clean_title": "/film/sarpatta-parambarai/",
@@ -687,12 +687,12 @@
     "imdb_id": "tt11580854"
   },
   {
-    "title": "The Raid",
-    "release_year": "2011",
-    "clean_title": "/film/the-raid-2011/",
+    "title": "Gangs of Wasseypur – Part 1",
+    "release_year": "2012",
+    "clean_title": "/film/gangs-of-wasseypur-part-1/",
     "adult": false,
-    "id": 94329,
-    "imdb_id": "tt1899353"
+    "id": 117691,
+    "imdb_id": "tt1954470"
   },
   {
     "title": "The 8 Diagram Pole Fighter",
@@ -703,12 +703,12 @@
     "imdb_id": "tt0086606"
   },
   {
-    "title": "Casino Royale",
-    "release_year": "2006",
-    "clean_title": "/film/casino-royale-2006/",
+    "title": "The Raid",
+    "release_year": "2011",
+    "clean_title": "/film/the-raid-2011/",
     "adult": false,
-    "id": 36557,
-    "imdb_id": "tt0381061"
+    "id": 94329,
+    "imdb_id": "tt1899353"
   },
   {
     "title": "Elite Squad",
@@ -727,36 +727,12 @@
     "imdb_id": "tt2358913"
   },
   {
-    "title": "Kung Fu Hustle",
-    "release_year": "2004",
-    "clean_title": "/film/kung-fu-hustle/",
+    "title": "Casino Royale",
+    "release_year": "2006",
+    "clean_title": "/film/casino-royale-2006/",
     "adult": false,
-    "id": 9470,
-    "imdb_id": "tt0373074"
-  },
-  {
-    "title": "Black Dynamite",
-    "release_year": "2009",
-    "clean_title": "/film/black-dynamite/",
-    "adult": false,
-    "id": 24804,
-    "imdb_id": "tt1190536"
-  },
-  {
-    "title": "Pusher II",
-    "release_year": "2004",
-    "clean_title": "/film/pusher-ii/",
-    "adult": false,
-    "id": 11328,
-    "imdb_id": "tt0396184"
-  },
-  {
-    "title": "Police Story",
-    "release_year": "1985",
-    "clean_title": "/film/police-story/",
-    "adult": false,
-    "id": 9056,
-    "imdb_id": "tt0089374"
+    "id": 36557,
+    "imdb_id": "tt0381061"
   },
   {
     "title": "Velaiyilla Pattathari",
@@ -767,20 +743,36 @@
     "imdb_id": "tt3822396"
   },
   {
-    "title": "Lone Wolf and Cub: Baby Cart at the River Styx",
-    "release_year": "1972",
-    "clean_title": "/film/lone-wolf-and-cub-baby-cart-at-the-river-styx/",
+    "title": "Kung Fu Hustle",
+    "release_year": "2004",
+    "clean_title": "/film/kung-fu-hustle/",
     "adult": false,
-    "id": 17810,
-    "imdb_id": "tt0068816"
+    "id": 9470,
+    "imdb_id": "tt0373074"
   },
   {
-    "title": "Steamboat Bill, Jr.",
-    "release_year": "1928",
-    "clean_title": "/film/steamboat-bill-jr/",
+    "title": "Pusher II",
+    "release_year": "2004",
+    "clean_title": "/film/pusher-ii/",
     "adult": false,
-    "id": 25768,
-    "imdb_id": "tt0019421"
+    "id": 11328,
+    "imdb_id": "tt0396184"
+  },
+  {
+    "title": "Black Dynamite",
+    "release_year": "2009",
+    "clean_title": "/film/black-dynamite/",
+    "adult": false,
+    "id": 24804,
+    "imdb_id": "tt1190536"
+  },
+  {
+    "title": "Police Story",
+    "release_year": "1985",
+    "clean_title": "/film/police-story/",
+    "adult": false,
+    "id": 9056,
+    "imdb_id": "tt0089374"
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -789,6 +781,14 @@
     "adult": false,
     "id": 22,
     "imdb_id": "tt0325980"
+  },
+  {
+    "title": "Lone Wolf and Cub: Baby Cart at the River Styx",
+    "release_year": "1972",
+    "clean_title": "/film/lone-wolf-and-cub-baby-cart-at-the-river-styx/",
+    "adult": false,
+    "id": 17810,
+    "imdb_id": "tt0068816"
   },
   {
     "title": "Dragon Inn",
@@ -807,6 +807,22 @@
     "imdb_id": "tt0310775"
   },
   {
+    "title": "Avengers: Endgame",
+    "release_year": "2019",
+    "clean_title": "/film/avengers-endgame/",
+    "adult": false,
+    "id": 299534,
+    "imdb_id": "tt4154796"
+  },
+  {
+    "title": "The Chaser",
+    "release_year": "2008",
+    "clean_title": "/film/the-chaser/",
+    "adult": false,
+    "id": 13855,
+    "imdb_id": "tt1190539"
+  },
+  {
     "title": "Sicario",
     "release_year": "2015",
     "clean_title": "/film/sicario-2015/",
@@ -823,28 +839,12 @@
     "imdb_id": "tt4912910"
   },
   {
-    "title": "To Live and Die in L.A.",
-    "release_year": "1985",
-    "clean_title": "/film/to-live-and-die-in-la/",
+    "title": "Athadu",
+    "release_year": "2005",
+    "clean_title": "/film/athadu/",
     "adult": false,
-    "id": 9846,
-    "imdb_id": "tt0090180"
-  },
-  {
-    "title": "The Chaser",
-    "release_year": "2008",
-    "clean_title": "/film/the-chaser/",
-    "adult": false,
-    "id": 13855,
-    "imdb_id": "tt1190539"
-  },
-  {
-    "title": "Green Snake",
-    "release_year": "1993",
-    "clean_title": "/film/green-snake/",
-    "adult": false,
-    "id": 39915,
-    "imdb_id": "tt0106559"
+    "id": 37172,
+    "imdb_id": "tt0471571"
   },
   {
     "title": "Hero",
@@ -855,52 +855,20 @@
     "imdb_id": "tt0299977"
   },
   {
-    "title": "Planet of the Apes",
-    "release_year": "1968",
-    "clean_title": "/film/planet-of-the-apes/",
+    "title": "To Live and Die in L.A.",
+    "release_year": "1985",
+    "clean_title": "/film/to-live-and-die-in-la/",
     "adult": false,
-    "id": 871,
-    "imdb_id": "tt0063442"
+    "id": 9846,
+    "imdb_id": "tt0090180"
   },
   {
-    "title": "Léon: The Professional",
-    "release_year": "1994",
-    "clean_title": "/film/leon-the-professional/",
+    "title": "Green Snake",
+    "release_year": "1993",
+    "clean_title": "/film/green-snake/",
     "adult": false,
-    "id": 101,
-    "imdb_id": "tt0110413"
-  },
-  {
-    "title": "Athadu",
-    "release_year": "2005",
-    "clean_title": "/film/athadu/",
-    "adult": false,
-    "id": 37172,
-    "imdb_id": "tt0471571"
-  },
-  {
-    "title": "Aadukalam",
-    "release_year": "2011",
-    "clean_title": "/film/aadukalam/",
-    "adult": false,
-    "id": 68016,
-    "imdb_id": "tt1821317"
-  },
-  {
-    "title": "Avengers: Endgame",
-    "release_year": "2019",
-    "clean_title": "/film/avengers-endgame/",
-    "adult": false,
-    "id": 299534,
-    "imdb_id": "tt4154796"
-  },
-  {
-    "title": "The French Connection",
-    "release_year": "1971",
-    "clean_title": "/film/the-french-connection/",
-    "adult": false,
-    "id": 1051,
-    "imdb_id": "tt0067116"
+    "id": 39915,
+    "imdb_id": "tt0106559"
   },
   {
     "title": "El Infierno",
@@ -911,12 +879,12 @@
     "imdb_id": "tt1692190"
   },
   {
-    "title": "Evangelion: 2.0 You Can (Not) Advance",
-    "release_year": "2009",
-    "clean_title": "/film/evangelion-20-you-can-not-advance/",
+    "title": "Planet of the Apes",
+    "release_year": "1968",
+    "clean_title": "/film/planet-of-the-apes/",
     "adult": false,
-    "id": 22843,
-    "imdb_id": "tt0860906"
+    "id": 871,
+    "imdb_id": "tt0063442"
   },
   {
     "title": "The Lego Batman Movie",
@@ -927,12 +895,52 @@
     "imdb_id": "tt4116284"
   },
   {
+    "title": "Léon: The Professional",
+    "release_year": "1994",
+    "clean_title": "/film/leon-the-professional/",
+    "adult": false,
+    "id": 101,
+    "imdb_id": "tt0110413"
+  },
+  {
+    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "release_year": "2009",
+    "clean_title": "/film/evangelion-20-you-can-not-advance/",
+    "adult": false,
+    "id": 22843,
+    "imdb_id": "tt0860906"
+  },
+  {
+    "title": "The French Connection",
+    "release_year": "1971",
+    "clean_title": "/film/the-french-connection/",
+    "adult": false,
+    "id": 1051,
+    "imdb_id": "tt0067116"
+  },
+  {
     "title": "Train to Busan",
     "release_year": "2016",
     "clean_title": "/film/train-to-busan/",
     "adult": false,
     "id": 396535,
     "imdb_id": "tt5700672"
+  },
+  {
+    "title": "Batman: The Dark Knight Returns, Part 2",
+    "release_year": "2013",
+    "clean_title": "/film/batman-the-dark-knight-returns-part-2/",
+    "adult": false,
+    "id": 142061,
+    "imdb_id": "tt2166834"
+  },
+  {
+    "title": "Aadukalam",
+    "release_year": "2011",
+    "clean_title": "/film/aadukalam/",
+    "adult": false,
+    "id": 68016,
+    "imdb_id": "tt1821317"
   },
   {
     "title": "The Promised Land",
@@ -943,12 +951,12 @@
     "imdb_id": "tt20561198"
   },
   {
-    "title": "Batman: The Dark Knight Returns, Part 2",
-    "release_year": "2013",
-    "clean_title": "/film/batman-the-dark-knight-returns-part-2/",
+    "title": "Kaithi",
+    "release_year": "2019",
+    "clean_title": "/film/kaithi/",
     "adult": false,
-    "id": 142061,
-    "imdb_id": "tt2166834"
+    "id": 587030,
+    "imdb_id": "tt9900782"
   },
   {
     "title": "Platoon",
@@ -967,20 +975,28 @@
     "imdb_id": "tt2409302"
   },
   {
-    "title": "Kaithi",
-    "release_year": "2019",
-    "clean_title": "/film/kaithi/",
-    "adult": false,
-    "id": 587030,
-    "imdb_id": "tt9900782"
-  },
-  {
     "title": "Jigarthanda DoubleX",
     "release_year": "2023",
     "clean_title": "/film/jigarthanda-doublex/",
     "adult": false,
     "id": 1007074,
     "imdb_id": "tt24226474"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "release_year": "2023",
+    "clean_title": "/film/guardians-of-the-galaxy-vol-3/",
+    "adult": false,
+    "id": 447365,
+    "imdb_id": "tt6791350"
+  },
+  {
+    "title": "On Probation",
+    "release_year": "2005",
+    "clean_title": "/film/on-probation/",
+    "adult": false,
+    "id": 78237,
+    "imdb_id": "tt0462570"
   },
   {
     "title": "Le Deuxième Souffle",
@@ -991,12 +1007,12 @@
     "imdb_id": "tt0060305"
   },
   {
-    "title": "Guardians of the Galaxy Vol. 3",
-    "release_year": "2023",
-    "clean_title": "/film/guardians-of-the-galaxy-vol-3/",
+    "title": "Asuran",
+    "release_year": "2019",
+    "clean_title": "/film/asuran/",
     "adult": false,
-    "id": 447365,
-    "imdb_id": "tt6791350"
+    "id": 576928,
+    "imdb_id": "tt9477520"
   },
   {
     "title": "The Spook Who Sat by the Door",
@@ -1015,36 +1031,12 @@
     "imdb_id": "tt0808357"
   },
   {
-    "title": "Asuran",
-    "release_year": "2019",
-    "clean_title": "/film/asuran/",
-    "adult": false,
-    "id": 576928,
-    "imdb_id": "tt9477520"
-  },
-  {
     "title": "Top Gun: Maverick",
     "release_year": "2022",
     "clean_title": "/film/top-gun-maverick/",
     "adult": false,
     "id": 361743,
     "imdb_id": "tt1745960"
-  },
-  {
-    "title": "On Probation",
-    "release_year": "2005",
-    "clean_title": "/film/on-probation/",
-    "adult": false,
-    "id": 78237,
-    "imdb_id": "tt0462570"
-  },
-  {
-    "title": "Ip Man",
-    "release_year": "2008",
-    "clean_title": "/film/ip-man/",
-    "adult": false,
-    "id": 14756,
-    "imdb_id": "tt1220719"
   },
   {
     "title": "Terrorism and Kebab",
@@ -1055,20 +1047,20 @@
     "imdb_id": "tt0107227"
   },
   {
+    "title": "Ip Man",
+    "release_year": "2008",
+    "clean_title": "/film/ip-man/",
+    "adult": false,
+    "id": 14756,
+    "imdb_id": "tt1220719"
+  },
+  {
     "title": "Elite Squad: The Enemy Within",
     "release_year": "2010",
     "clean_title": "/film/elite-squad-the-enemy-within/",
     "adult": false,
     "id": 47931,
     "imdb_id": "tt1555149"
-  },
-  {
-    "title": "Nimona",
-    "release_year": "2023",
-    "clean_title": "/film/nimona-2023/",
-    "adult": false,
-    "id": 961323,
-    "imdb_id": "tt19500164"
   },
   {
     "title": "The Hunger Games: Catching Fire",
@@ -1079,20 +1071,20 @@
     "imdb_id": "tt1951264"
   },
   {
+    "title": "Nimona",
+    "release_year": "2023",
+    "clean_title": "/film/nimona-2023/",
+    "adult": false,
+    "id": 961323,
+    "imdb_id": "tt19500164"
+  },
+  {
     "title": "Ghilli",
     "release_year": "2004",
     "clean_title": "/film/ghilli/",
     "adult": false,
     "id": 63647,
     "imdb_id": "tt0422320"
-  },
-  {
-    "title": "Skyfall",
-    "release_year": "2012",
-    "clean_title": "/film/skyfall/",
-    "adult": false,
-    "id": 37724,
-    "imdb_id": "tt1074638"
   },
   {
     "title": "Sholay",
@@ -1103,20 +1095,12 @@
     "imdb_id": "tt0073707"
   },
   {
-    "title": "Bring Me the Head of Alfredo Garcia",
-    "release_year": "1974",
-    "clean_title": "/film/bring-me-the-head-of-alfredo-garcia/",
+    "title": "Skyfall",
+    "release_year": "2012",
+    "clean_title": "/film/skyfall/",
     "adult": false,
-    "id": 11942,
-    "imdb_id": "tt0071249"
-  },
-  {
-    "title": "True Romance",
-    "release_year": "1993",
-    "clean_title": "/film/true-romance/",
-    "adult": false,
-    "id": 319,
-    "imdb_id": "tt0108399"
+    "id": 37724,
+    "imdb_id": "tt1074638"
   },
   {
     "title": "Drunken Master II",
@@ -1125,6 +1109,14 @@
     "adult": false,
     "id": 12207,
     "imdb_id": "tt0111512"
+  },
+  {
+    "title": "Bring Me the Head of Alfredo Garcia",
+    "release_year": "1974",
+    "clean_title": "/film/bring-me-the-head-of-alfredo-garcia/",
+    "adult": false,
+    "id": 11942,
+    "imdb_id": "tt0071249"
   },
   {
     "title": "The Message",
@@ -1143,12 +1135,12 @@
     "imdb_id": "tt0213969"
   },
   {
-    "title": "Letters from Iwo Jima",
-    "release_year": "2006",
-    "clean_title": "/film/letters-from-iwo-jima/",
+    "title": "True Romance",
+    "release_year": "1993",
+    "clean_title": "/film/true-romance/",
     "adult": false,
-    "id": 1251,
-    "imdb_id": "tt0498380"
+    "id": 319,
+    "imdb_id": "tt0108399"
   },
   {
     "title": "Knockin' on Heaven's Door",
@@ -1159,28 +1151,28 @@
     "imdb_id": "tt0119472"
   },
   {
+    "title": "Letters from Iwo Jima",
+    "release_year": "2006",
+    "clean_title": "/film/letters-from-iwo-jima/",
+    "adult": false,
+    "id": 1251,
+    "imdb_id": "tt0498380"
+  },
+  {
+    "title": "Spider-Man 2",
+    "release_year": "2004",
+    "clean_title": "/film/spider-man-2/",
+    "adult": false,
+    "id": 558,
+    "imdb_id": "tt0316654"
+  },
+  {
     "title": "A Better Tomorrow",
     "release_year": "1986",
     "clean_title": "/film/a-better-tomorrow/",
     "adult": false,
     "id": 11471,
     "imdb_id": "tt0092263"
-  },
-  {
-    "title": "Aayirathil Oruvan",
-    "release_year": "2010",
-    "clean_title": "/film/aayirathil-oruvan-2010/",
-    "adult": false,
-    "id": 69597,
-    "imdb_id": "tt1512888"
-  },
-  {
-    "title": "Star Trek II: The Wrath of Khan",
-    "release_year": "1982",
-    "clean_title": "/film/star-trek-ii-the-wrath-of-khan/",
-    "adult": false,
-    "id": 154,
-    "imdb_id": "tt0084726"
   },
   {
     "title": "Baasha",
@@ -1207,52 +1199,12 @@
     "imdb_id": "tt11396310"
   },
   {
-    "title": "A Night to Remember",
-    "release_year": "1958",
-    "clean_title": "/film/a-night-to-remember/",
+    "title": "Star Trek II: The Wrath of Khan",
+    "release_year": "1982",
+    "clean_title": "/film/star-trek-ii-the-wrath-of-khan/",
     "adult": false,
-    "id": 10971,
-    "imdb_id": "tt0051994"
-  },
-  {
-    "title": "Spider-Man 2",
-    "release_year": "2004",
-    "clean_title": "/film/spider-man-2/",
-    "adult": false,
-    "id": 558,
-    "imdb_id": "tt0316654"
-  },
-  {
-    "title": "Last Life in the Universe",
-    "release_year": "2003",
-    "clean_title": "/film/last-life-in-the-universe/",
-    "adult": false,
-    "id": 11606,
-    "imdb_id": "tt0345549"
-  },
-  {
-    "title": "Jujutsu Kaisen 0",
-    "release_year": "2021",
-    "clean_title": "/film/jujutsu-kaisen-0/",
-    "adult": false,
-    "id": 810693,
-    "imdb_id": "tt14331144"
-  },
-  {
-    "title": "The Garden of Sinners: A Study in Murder (Part 2)",
-    "release_year": "2009",
-    "clean_title": "/film/the-garden-of-sinners-a-study-in-murder-part-2/",
-    "adult": false,
-    "id": 23167,
-    "imdb_id": "tt1345776"
-  },
-  {
-    "title": "Kizumonogatari Part 1: Tekketsu",
-    "release_year": "2016",
-    "clean_title": "/film/kizumonogatari-part-1-tekketsu/",
-    "adult": false,
-    "id": 357786,
-    "imdb_id": "tt3138698"
+    "id": 154,
+    "imdb_id": "tt0084726"
   },
   {
     "title": "Vikram Vedha",
@@ -1263,12 +1215,60 @@
     "imdb_id": "tt6148156"
   },
   {
+    "title": "A Night to Remember",
+    "release_year": "1958",
+    "clean_title": "/film/a-night-to-remember/",
+    "adult": false,
+    "id": 10971,
+    "imdb_id": "tt0051994"
+  },
+  {
+    "title": "Kizumonogatari Part 1: Tekketsu",
+    "release_year": "2016",
+    "clean_title": "/film/kizumonogatari-part-1-tekketsu/",
+    "adult": false,
+    "id": 357786,
+    "imdb_id": "tt3138698"
+  },
+  {
+    "title": "The Garden of Sinners: A Study in Murder (Part 2)",
+    "release_year": "2009",
+    "clean_title": "/film/the-garden-of-sinners-a-study-in-murder-part-2/",
+    "adult": false,
+    "id": 23167,
+    "imdb_id": "tt1345776"
+  },
+  {
+    "title": "Aayirathil Oruvan",
+    "release_year": "2010",
+    "clean_title": "/film/aayirathil-oruvan-2010/",
+    "adult": false,
+    "id": 69597,
+    "imdb_id": "tt1512888"
+  },
+  {
     "title": "Kung Fu Panda",
     "release_year": "2008",
     "clean_title": "/film/kung-fu-panda/",
     "adult": false,
     "id": 9502,
     "imdb_id": "tt0441773"
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "release_year": "2021",
+    "clean_title": "/film/jujutsu-kaisen-0/",
+    "adult": false,
+    "id": 810693,
+    "imdb_id": "tt14331144"
+  },
+  {
+    "title": "Last Life in the Universe",
+    "release_year": "2003",
+    "clean_title": "/film/last-life-in-the-universe/",
+    "adult": false,
+    "id": 11606,
+    "imdb_id": "tt0345549"
   },
   {
     "title": "Braveheart",
@@ -1279,6 +1279,22 @@
     "imdb_id": "tt0112573"
   },
   {
+    "title": "Tombstone",
+    "release_year": "1993",
+    "clean_title": "/film/tombstone/",
+    "adult": false,
+    "id": 11969,
+    "imdb_id": "tt0108358"
+  },
+  {
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "release_year": "2026",
+    "clean_title": "/film/batman-knightfall-part-1-knightfall/",
+    "adult": false,
+    "id": 1560520,
+    "imdb_id": "tt32333324"
+  },
+  {
     "title": "A Bittersweet Life",
     "release_year": "2005",
     "clean_title": "/film/a-bittersweet-life/",
@@ -1287,12 +1303,12 @@
     "imdb_id": "tt0456912"
   },
   {
-    "title": "Tombstone",
-    "release_year": "1993",
-    "clean_title": "/film/tombstone/",
+    "title": "Brother",
+    "release_year": "1997",
+    "clean_title": "/film/brother-1997/",
     "adult": false,
-    "id": 11969,
-    "imdb_id": "tt0108358"
+    "id": 20992,
+    "imdb_id": "tt0118767"
   },
   {
     "title": "The Fugitive",
@@ -1311,14 +1327,6 @@
     "imdb_id": "tt0084924"
   },
   {
-    "title": "Brother",
-    "release_year": "1997",
-    "clean_title": "/film/brother-1997/",
-    "adult": false,
-    "id": 20992,
-    "imdb_id": "tt0118767"
-  },
-  {
     "title": "The Day of the Jackal",
     "release_year": "1973",
     "clean_title": "/film/the-day-of-the-jackal/",
@@ -1335,46 +1343,6 @@
     "imdb_id": "tt0058652"
   },
   {
-    "title": "Sword of the Stranger",
-    "release_year": "2007",
-    "clean_title": "/film/sword-of-the-stranger/",
-    "adult": false,
-    "id": 13980,
-    "imdb_id": "tt1121794"
-  },
-  {
-    "title": "RoboCop",
-    "release_year": "1987",
-    "clean_title": "/film/robocop/",
-    "adult": false,
-    "id": 5548,
-    "imdb_id": "tt0093870"
-  },
-  {
-    "title": "Baby Assassins 3",
-    "release_year": "2024",
-    "clean_title": "/film/baby-assassins-3/",
-    "adult": false,
-    "id": 1279752,
-    "imdb_id": "tt32382919"
-  },
-  {
-    "title": "Thuppakki",
-    "release_year": "2012",
-    "clean_title": "/film/thuppakki/",
-    "adult": false,
-    "id": 143010,
-    "imdb_id": "tt2187153"
-  },
-  {
-    "title": "Deep Cover",
-    "release_year": "1992",
-    "clean_title": "/film/deep-cover/",
-    "adult": false,
-    "id": 20676,
-    "imdb_id": "tt0104073"
-  },
-  {
     "title": "Cecil B. Demented",
     "release_year": "2000",
     "clean_title": "/film/cecil-b-demented/",
@@ -1383,20 +1351,12 @@
     "imdb_id": "tt0173716"
   },
   {
-    "title": "John Wick: Chapter 4",
-    "release_year": "2023",
-    "clean_title": "/film/john-wick-chapter-4/",
+    "title": "Sword of the Stranger",
+    "release_year": "2007",
+    "clean_title": "/film/sword-of-the-stranger/",
     "adult": false,
-    "id": 603692,
-    "imdb_id": "tt10366206"
-  },
-  {
-    "title": "13 Assassins",
-    "release_year": "2010",
-    "clean_title": "/film/13-assassins/",
-    "adult": false,
-    "id": 58857,
-    "imdb_id": "tt1436045"
+    "id": 13980,
+    "imdb_id": "tt1121794"
   },
   {
     "title": "Pokiri",
@@ -1407,12 +1367,36 @@
     "imdb_id": "tt0816258"
   },
   {
-    "title": "V for Vendetta",
-    "release_year": "2005",
-    "clean_title": "/film/v-for-vendetta/",
+    "title": "Baby Assassins 3",
+    "release_year": "2024",
+    "clean_title": "/film/baby-assassins-3/",
     "adult": false,
-    "id": 752,
-    "imdb_id": "tt0434409"
+    "id": 1279752,
+    "imdb_id": "tt32382919"
+  },
+  {
+    "title": "Deep Cover",
+    "release_year": "1992",
+    "clean_title": "/film/deep-cover/",
+    "adult": false,
+    "id": 20676,
+    "imdb_id": "tt0104073"
+  },
+  {
+    "title": "RoboCop",
+    "release_year": "1987",
+    "clean_title": "/film/robocop/",
+    "adult": false,
+    "id": 5548,
+    "imdb_id": "tt0093870"
+  },
+  {
+    "title": "Thuppakki",
+    "release_year": "2012",
+    "clean_title": "/film/thuppakki/",
+    "adult": false,
+    "id": 143010,
+    "imdb_id": "tt2187153"
   },
   {
     "title": "Thani Oruvan",
@@ -1423,20 +1407,28 @@
     "imdb_id": "tt4987556"
   },
   {
-    "title": "Dangerous Encounters of the First Kind",
-    "release_year": "1980",
-    "clean_title": "/film/dangerous-encounters-of-the-first-kind/",
+    "title": "13 Assassins",
+    "release_year": "2010",
+    "clean_title": "/film/13-assassins/",
     "adult": false,
-    "id": 104287,
-    "imdb_id": "tt0083199"
+    "id": 58857,
+    "imdb_id": "tt1436045"
   },
   {
-    "title": "Female Prisoner #701: Scorpion",
-    "release_year": "1972",
-    "clean_title": "/film/female-prisoner-701-scorpion/",
+    "title": "V for Vendetta",
+    "release_year": "2005",
+    "clean_title": "/film/v-for-vendetta/",
     "adult": false,
-    "id": 71138,
-    "imdb_id": "tt0226872"
+    "id": 752,
+    "imdb_id": "tt0434409"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "release_year": "2023",
+    "clean_title": "/film/john-wick-chapter-4/",
+    "adult": false,
+    "id": 603692,
+    "imdb_id": "tt10366206"
   },
   {
     "title": "Ramayana : The Legend of Prince Rama",
@@ -1447,12 +1439,12 @@
     "imdb_id": "tt0259534"
   },
   {
-    "title": "Mad Max 2",
-    "release_year": "1981",
-    "clean_title": "/film/mad-max-2/",
+    "title": "Female Prisoner #701: Scorpion",
+    "release_year": "1972",
+    "clean_title": "/film/female-prisoner-701-scorpion/",
     "adult": false,
-    "id": 8810,
-    "imdb_id": "tt0082694"
+    "id": 71138,
+    "imdb_id": "tt0226872"
   },
   {
     "title": "Anniyan",
@@ -1463,28 +1455,12 @@
     "imdb_id": "tt0376127"
   },
   {
-    "title": "No Man's Land",
-    "release_year": "2001",
-    "clean_title": "/film/no-mans-land-2001/",
+    "title": "Dangerous Encounters of the First Kind",
+    "release_year": "1980",
+    "clean_title": "/film/dangerous-encounters-of-the-first-kind/",
     "adult": false,
-    "id": 8342,
-    "imdb_id": "tt0283509"
-  },
-  {
-    "title": "Scott Pilgrim vs. the World",
-    "release_year": "2010",
-    "clean_title": "/film/scott-pilgrim-vs-the-world/",
-    "adult": false,
-    "id": 22538,
-    "imdb_id": "tt0446029"
-  },
-  {
-    "title": "Bad Black",
-    "release_year": "2016",
-    "clean_title": "/film/bad-black/",
-    "adult": false,
-    "id": 377729,
-    "imdb_id": "tt6044414"
+    "id": 104287,
+    "imdb_id": "tt0083199"
   },
   {
     "title": "Paid in Full",
@@ -1495,12 +1471,44 @@
     "imdb_id": "tt0259484"
   },
   {
+    "title": "Mad Max 2",
+    "release_year": "1981",
+    "clean_title": "/film/mad-max-2/",
+    "adult": false,
+    "id": 8810,
+    "imdb_id": "tt0082694"
+  },
+  {
+    "title": "No Man's Land",
+    "release_year": "2001",
+    "clean_title": "/film/no-mans-land-2001/",
+    "adult": false,
+    "id": 8342,
+    "imdb_id": "tt0283509"
+  },
+  {
+    "title": "Bad Black",
+    "release_year": "2016",
+    "clean_title": "/film/bad-black/",
+    "adult": false,
+    "id": 377729,
+    "imdb_id": "tt6044414"
+  },
+  {
     "title": "The Man from Nowhere",
     "release_year": "2010",
     "clean_title": "/film/the-man-from-nowhere/",
     "adult": false,
     "id": 51608,
     "imdb_id": "tt1527788"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "release_year": "2010",
+    "clean_title": "/film/scott-pilgrim-vs-the-world/",
+    "adult": false,
+    "id": 22538,
+    "imdb_id": "tt0446029"
   },
   {
     "title": "The Boy and the Beast",
@@ -1511,14 +1519,6 @@
     "imdb_id": "tt4272866"
   },
   {
-    "title": "Shin Godzilla",
-    "release_year": "2016",
-    "clean_title": "/film/shin-godzilla/",
-    "adult": false,
-    "id": 315011,
-    "imdb_id": "tt4262980"
-  },
-  {
     "title": "Rush",
     "release_year": "2013",
     "clean_title": "/film/rush-2013/",
@@ -1527,12 +1527,12 @@
     "imdb_id": "tt1979320"
   },
   {
-    "title": "The Terminator",
-    "release_year": "1984",
-    "clean_title": "/film/the-terminator/",
+    "title": "Shin Godzilla",
+    "release_year": "2016",
+    "clean_title": "/film/shin-godzilla/",
     "adult": false,
-    "id": 218,
-    "imdb_id": "tt0088247"
+    "id": 315011,
+    "imdb_id": "tt4262980"
   },
   {
     "title": "How to Train Your Dragon 2",
@@ -1559,6 +1559,14 @@
     "imdb_id": "tt0425379"
   },
   {
+    "title": "The Terminator",
+    "release_year": "1984",
+    "clean_title": "/film/the-terminator/",
+    "adult": false,
+    "id": 218,
+    "imdb_id": "tt0088247"
+  },
+  {
     "title": "Spider-Man",
     "release_year": "2002",
     "clean_title": "/film/spider-man/",
@@ -1573,6 +1581,14 @@
     "adult": false,
     "id": 1118224,
     "imdb_id": "tt26548265"
+  },
+  {
+    "title": "Ayan",
+    "release_year": "2009",
+    "clean_title": "/film/ayan/",
+    "adult": false,
+    "id": 20049,
+    "imdb_id": "tt1355546"
   },
   {
     "title": "Raining in the Mountain",
@@ -1591,12 +1607,12 @@
     "imdb_id": "tt0114690"
   },
   {
-    "title": "Female Prisoner Scorpion: Jailhouse 41",
-    "release_year": "1972",
-    "clean_title": "/film/female-prisoner-scorpion-jailhouse-41/",
+    "title": "The Adventures of Robin Hood",
+    "release_year": "1938",
+    "clean_title": "/film/the-adventures-of-robin-hood/",
     "adult": false,
-    "id": 39872,
-    "imdb_id": "tt0226874"
+    "id": 10907,
+    "imdb_id": "tt0029843"
   },
   {
     "title": "Apocalypto",
@@ -1607,20 +1623,28 @@
     "imdb_id": "tt0472043"
   },
   {
+    "title": "Angamaly Diaries",
+    "release_year": "2017",
+    "clean_title": "/film/angamaly-diaries/",
+    "adult": false,
+    "id": 442000,
+    "imdb_id": "tt6167894"
+  },
+  {
+    "title": "Female Prisoner Scorpion: Jailhouse 41",
+    "release_year": "1972",
+    "clean_title": "/film/female-prisoner-scorpion-jailhouse-41/",
+    "adult": false,
+    "id": 39872,
+    "imdb_id": "tt0226874"
+  },
+  {
     "title": "Eega",
     "release_year": "2012",
     "clean_title": "/film/eega/",
     "adult": false,
     "id": 148265,
     "imdb_id": "tt2258337"
-  },
-  {
-    "title": "Ayan",
-    "release_year": "2009",
-    "clean_title": "/film/ayan/",
-    "adult": false,
-    "id": 20049,
-    "imdb_id": "tt1355546"
   },
   {
     "title": "The Tale of Zatoichi",
@@ -1631,76 +1655,12 @@
     "imdb_id": "tt0056714"
   },
   {
-    "title": "Angamaly Diaries",
-    "release_year": "2017",
-    "clean_title": "/film/angamaly-diaries/",
-    "adult": false,
-    "id": 442000,
-    "imdb_id": "tt6167894"
-  },
-  {
-    "title": "Aavesham",
-    "release_year": "2024",
-    "clean_title": "/film/aavesham-2024/",
-    "adult": false,
-    "id": 1084812,
-    "imdb_id": "tt26660021"
-  },
-  {
     "title": "Bāhubali 2: The Conclusion",
     "release_year": "2017",
     "clean_title": "/film/bahubali-2-the-conclusion/",
     "adult": false,
     "id": 350312,
     "imdb_id": "tt4849438"
-  },
-  {
-    "title": "First Blood",
-    "release_year": "1982",
-    "clean_title": "/film/first-blood/",
-    "adult": false,
-    "id": 1368,
-    "imdb_id": "tt0083944"
-  },
-  {
-    "title": "Battle Royale",
-    "release_year": "2000",
-    "clean_title": "/film/battle-royale/",
-    "adult": false,
-    "id": 3176,
-    "imdb_id": "tt0266308"
-  },
-  {
-    "title": "Pedicab Driver",
-    "release_year": "1989",
-    "clean_title": "/film/pedicab-driver/",
-    "adult": false,
-    "id": 29014,
-    "imdb_id": "tt0098155"
-  },
-  {
-    "title": "Branded to Kill",
-    "release_year": "1967",
-    "clean_title": "/film/branded-to-kill/",
-    "adult": false,
-    "id": 17905,
-    "imdb_id": "tt0061882"
-  },
-  {
-    "title": "Big Hero 6",
-    "release_year": "2014",
-    "clean_title": "/film/big-hero-6/",
-    "adult": false,
-    "id": 177572,
-    "imdb_id": "tt2245084"
-  },
-  {
-    "title": "Jeremiah Johnson",
-    "release_year": "1972",
-    "clean_title": "/film/jeremiah-johnson/",
-    "adult": false,
-    "id": 11943,
-    "imdb_id": "tt0068762"
   },
   {
     "title": "Mankatha",
@@ -1711,20 +1671,68 @@
     "imdb_id": "tt1705772"
   },
   {
-    "title": "Run Lola Run",
-    "release_year": "1998",
-    "clean_title": "/film/run-lola-run/",
+    "title": "Paruthiveeran",
+    "release_year": "2007",
+    "clean_title": "/film/paruthiveeran/",
     "adult": false,
-    "id": 104,
-    "imdb_id": "tt0130827"
+    "id": 69598,
+    "imdb_id": "tt0458050"
   },
   {
-    "title": "Dawn of the Planet of the Apes",
-    "release_year": "2014",
-    "clean_title": "/film/dawn-of-the-planet-of-the-apes/",
+    "title": "First Blood",
+    "release_year": "1982",
+    "clean_title": "/film/first-blood/",
     "adult": false,
-    "id": 119450,
-    "imdb_id": "tt2103281"
+    "id": 1368,
+    "imdb_id": "tt0083944"
+  },
+  {
+    "title": "Aavesham",
+    "release_year": "2024",
+    "clean_title": "/film/aavesham-2024/",
+    "adult": false,
+    "id": 1084812,
+    "imdb_id": "tt26660021"
+  },
+  {
+    "title": "Big Hero 6",
+    "release_year": "2014",
+    "clean_title": "/film/big-hero-6/",
+    "adult": false,
+    "id": 177572,
+    "imdb_id": "tt2245084"
+  },
+  {
+    "title": "Branded to Kill",
+    "release_year": "1967",
+    "clean_title": "/film/branded-to-kill/",
+    "adult": false,
+    "id": 17905,
+    "imdb_id": "tt0061882"
+  },
+  {
+    "title": "Pedicab Driver",
+    "release_year": "1989",
+    "clean_title": "/film/pedicab-driver/",
+    "adult": false,
+    "id": 29014,
+    "imdb_id": "tt0098155"
+  },
+  {
+    "title": "Battle Royale",
+    "release_year": "2000",
+    "clean_title": "/film/battle-royale/",
+    "adult": false,
+    "id": 3176,
+    "imdb_id": "tt0266308"
+  },
+  {
+    "title": "Jeremiah Johnson",
+    "release_year": "1972",
+    "clean_title": "/film/jeremiah-johnson/",
+    "adult": false,
+    "id": 11943,
+    "imdb_id": "tt0068762"
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -1735,12 +1743,36 @@
     "imdb_id": "tt10872600"
   },
   {
+    "title": "Dawn of the Planet of the Apes",
+    "release_year": "2014",
+    "clean_title": "/film/dawn-of-the-planet-of-the-apes/",
+    "adult": false,
+    "id": 119450,
+    "imdb_id": "tt2103281"
+  },
+  {
     "title": "John Wick",
     "release_year": "2014",
     "clean_title": "/film/john-wick/",
     "adult": false,
     "id": 245891,
     "imdb_id": "tt2911666"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "release_year": "2014",
+    "clean_title": "/film/guardians-of-the-galaxy/",
+    "adult": false,
+    "id": 118340,
+    "imdb_id": "tt2015381"
+  },
+  {
+    "title": "Run Lola Run",
+    "release_year": "1998",
+    "clean_title": "/film/run-lola-run/",
+    "adult": false,
+    "id": 104,
+    "imdb_id": "tt0130827"
   },
   {
     "title": "Soorarai Pottru",
@@ -1757,14 +1789,6 @@
     "adult": false,
     "id": 12561,
     "imdb_id": "tt0113187"
-  },
-  {
-    "title": "Guardians of the Galaxy",
-    "release_year": "2014",
-    "clean_title": "/film/guardians-of-the-galaxy/",
-    "adult": false,
-    "id": 118340,
-    "imdb_id": "tt2015381"
   },
   {
     "title": "Vikram",
@@ -1799,20 +1823,20 @@
     "imdb_id": "tt0372784"
   },
   {
-    "title": "Starship Troopers",
-    "release_year": "1997",
-    "clean_title": "/film/starship-troopers/",
-    "adult": false,
-    "id": 563,
-    "imdb_id": "tt0120201"
-  },
-  {
     "title": "Riki-Oh: The Story of Ricky",
     "release_year": "1991",
     "clean_title": "/film/riki-oh-the-story-of-ricky/",
     "adult": false,
     "id": 17467,
     "imdb_id": "tt0102293"
+  },
+  {
+    "title": "Starship Troopers",
+    "release_year": "1997",
+    "clean_title": "/film/starship-troopers/",
+    "adult": false,
+    "id": 563,
+    "imdb_id": "tt0120201"
   },
   {
     "title": "The Dirty Dozen",
@@ -1839,20 +1863,28 @@
     "imdb_id": "tt0077474"
   },
   {
-    "title": "The Furious",
-    "release_year": "2025",
-    "clean_title": "/film/the-furious/",
-    "adult": false,
-    "id": 1280738,
-    "imdb_id": "tt33311069"
-  },
-  {
     "title": "Batman: The Dark Knight Returns, Part 1",
     "release_year": "2012",
     "clean_title": "/film/batman-the-dark-knight-returns-part-1/",
     "adult": false,
     "id": 123025,
     "imdb_id": "tt2313197"
+  },
+  {
+    "title": "City on Fire",
+    "release_year": "1987",
+    "clean_title": "/film/city-on-fire/",
+    "adult": false,
+    "id": 42120,
+    "imdb_id": "tt0093435"
+  },
+  {
+    "title": "Lupin the 3rd: Goemon's Blood Spray",
+    "release_year": "2017",
+    "clean_title": "/film/lupin-the-3rd-goemons-blood-spray/",
+    "adult": false,
+    "id": 456611,
+    "imdb_id": "tt6047974"
   },
   {
     "title": "Throw Down",
@@ -1871,84 +1903,12 @@
     "imdb_id": "tt0070246"
   },
   {
-    "title": "City on Fire",
-    "release_year": "1987",
-    "clean_title": "/film/city-on-fire/",
-    "adult": false,
-    "id": 42120,
-    "imdb_id": "tt0093435"
-  },
-  {
     "title": "The Magnificent Seven",
     "release_year": "1960",
     "clean_title": "/film/the-magnificent-seven/",
     "adult": false,
     "id": 966,
     "imdb_id": "tt0054047"
-  },
-  {
-    "title": "Lupin the 3rd: Goemon's Blood Spray",
-    "release_year": "2017",
-    "clean_title": "/film/lupin-the-3rd-goemons-blood-spray/",
-    "adult": false,
-    "id": 456611,
-    "imdb_id": "tt6047974"
-  },
-  {
-    "title": "Rangasthalam",
-    "release_year": "2018",
-    "clean_title": "/film/rangasthalam/",
-    "adult": false,
-    "id": 461126,
-    "imdb_id": "tt7392212"
-  },
-  {
-    "title": "Dirty Harry",
-    "release_year": "1971",
-    "clean_title": "/film/dirty-harry/",
-    "adult": false,
-    "id": 984,
-    "imdb_id": "tt0066999"
-  },
-  {
-    "title": "A Moment of Romance",
-    "release_year": "1990",
-    "clean_title": "/film/a-moment-of-romance/",
-    "adult": false,
-    "id": 81128,
-    "imdb_id": "tt0100777"
-  },
-  {
-    "title": "Superman",
-    "release_year": "2025",
-    "clean_title": "/film/superman-2025/",
-    "adult": false,
-    "id": 1061474,
-    "imdb_id": "tt5950044"
-  },
-  {
-    "title": "Iron Monkey",
-    "release_year": "1993",
-    "clean_title": "/film/iron-monkey/",
-    "adult": false,
-    "id": 12780,
-    "imdb_id": "tt0108148"
-  },
-  {
-    "title": "Ninja Scroll",
-    "release_year": "1993",
-    "clean_title": "/film/ninja-scroll/",
-    "adult": false,
-    "id": 14282,
-    "imdb_id": "tt0107692"
-  },
-  {
-    "title": "Rogue One: A Star Wars Story",
-    "release_year": "2016",
-    "clean_title": "/film/rogue-one-a-star-wars-story/",
-    "adult": false,
-    "id": 330459,
-    "imdb_id": "tt3748528"
   },
   {
     "title": "The Hunger Games",
@@ -1959,6 +1919,30 @@
     "imdb_id": "tt1392170"
   },
   {
+    "title": "Iron Monkey",
+    "release_year": "1993",
+    "clean_title": "/film/iron-monkey/",
+    "adult": false,
+    "id": 12780,
+    "imdb_id": "tt0108148"
+  },
+  {
+    "title": "New World",
+    "release_year": "2013",
+    "clean_title": "/film/new-world/",
+    "adult": false,
+    "id": 165213,
+    "imdb_id": "tt2625030"
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "release_year": "2016",
+    "clean_title": "/film/rogue-one-a-star-wars-story/",
+    "adult": false,
+    "id": 330459,
+    "imdb_id": "tt3748528"
+  },
+  {
     "title": "The Crow",
     "release_year": "1994",
     "clean_title": "/film/the-crow/",
@@ -1967,12 +1951,44 @@
     "imdb_id": "tt0109506"
   },
   {
-    "title": "The Nice Guys",
-    "release_year": "2016",
-    "clean_title": "/film/the-nice-guys/",
+    "title": "Dirty Harry",
+    "release_year": "1971",
+    "clean_title": "/film/dirty-harry/",
     "adult": false,
-    "id": 290250,
-    "imdb_id": "tt3799694"
+    "id": 984,
+    "imdb_id": "tt0066999"
+  },
+  {
+    "title": "Ninja Scroll",
+    "release_year": "1993",
+    "clean_title": "/film/ninja-scroll/",
+    "adult": false,
+    "id": 14282,
+    "imdb_id": "tt0107692"
+  },
+  {
+    "title": "Khaleja",
+    "release_year": "2010",
+    "clean_title": "/film/khaleja/",
+    "adult": false,
+    "id": 56986,
+    "imdb_id": "tt1582519"
+  },
+  {
+    "title": "A Moment of Romance",
+    "release_year": "1990",
+    "clean_title": "/film/a-moment-of-romance/",
+    "adult": false,
+    "id": 81128,
+    "imdb_id": "tt0100777"
+  },
+  {
+    "title": "Rangasthalam",
+    "release_year": "2018",
+    "clean_title": "/film/rangasthalam/",
+    "adult": false,
+    "id": 461126,
+    "imdb_id": "tt7392212"
   },
   {
     "title": "Cutie Honey",
@@ -1981,21 +1997,5 @@
     "adult": false,
     "id": 20921,
     "imdb_id": "tt0409860"
-  },
-  {
-    "title": "Electric Dragon 80000V",
-    "release_year": "2001",
-    "clean_title": "/film/electric-dragon-80000v/",
-    "adult": false,
-    "id": 27245,
-    "imdb_id": "tt0276935"
-  },
-  {
-    "title": "Red Cliff II",
-    "release_year": "2009",
-    "clean_title": "/film/red-cliff-ii/",
-    "adult": false,
-    "id": 15384,
-    "imdb_id": "tt1326972"
   }
 ]

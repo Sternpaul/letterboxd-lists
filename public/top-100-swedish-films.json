@@ -72,14 +72,6 @@
     "imdb_id": "tt0057358"
   },
   {
-    "title": "The Emigrants",
-    "release_year": "1971",
-    "clean_title": "/film/the-emigrants/",
-    "adult": false,
-    "id": 40732,
-    "imdb_id": "tt0067919"
-  },
-  {
     "title": "Shame",
     "release_year": "1968",
     "clean_title": "/film/shame/",
@@ -88,12 +80,12 @@
     "imdb_id": "tt0063611"
   },
   {
-    "title": "Cries and Whispers",
-    "release_year": "1972",
-    "clean_title": "/film/cries-and-whispers/",
+    "title": "The Emigrants",
+    "release_year": "1971",
+    "clean_title": "/film/the-emigrants/",
     "adult": false,
-    "id": 10238,
-    "imdb_id": "tt0069467"
+    "id": 40732,
+    "imdb_id": "tt0067919"
   },
   {
     "title": "Lilya 4-ever",
@@ -102,6 +94,14 @@
     "adult": false,
     "id": 12093,
     "imdb_id": "tt0300140"
+  },
+  {
+    "title": "Cries and Whispers",
+    "release_year": "1972",
+    "clean_title": "/film/cries-and-whispers/",
+    "adult": false,
+    "id": 10238,
+    "imdb_id": "tt0069467"
   },
   {
     "title": "The Virgin Spring",
@@ -128,20 +128,20 @@
     "imdb_id": "tt0012364"
   },
   {
-    "title": "Let the Right One In",
-    "release_year": "2008",
-    "clean_title": "/film/let-the-right-one-in/",
-    "adult": false,
-    "id": 13310,
-    "imdb_id": "tt1139797"
-  },
-  {
     "title": "Songs from the Second Floor",
     "release_year": "2000",
     "clean_title": "/film/songs-from-the-second-floor/",
     "adult": false,
     "id": 34070,
     "imdb_id": "tt0120263"
+  },
+  {
+    "title": "Let the Right One In",
+    "release_year": "2008",
+    "clean_title": "/film/let-the-right-one-in/",
+    "adult": false,
+    "id": 13310,
+    "imdb_id": "tt1139797"
   },
   {
     "title": "Hour of the Wolf",
@@ -208,20 +208,20 @@
     "imdb_id": "tt0048641"
   },
   {
-    "title": "My Life as a Dog",
-    "release_year": "1985",
-    "clean_title": "/film/my-life-as-a-dog/",
-    "adult": false,
-    "id": 8816,
-    "imdb_id": "tt0089606"
-  },
-  {
     "title": "Together",
     "release_year": "2000",
     "clean_title": "/film/together-2000/",
     "adult": false,
     "id": 742,
     "imdb_id": "tt0203166"
+  },
+  {
+    "title": "My Life as a Dog",
+    "release_year": "1985",
+    "clean_title": "/film/my-life-as-a-dog/",
+    "adult": false,
+    "id": 8816,
+    "imdb_id": "tt0089606"
   },
   {
     "title": "Face to Face",
@@ -312,6 +312,14 @@
     "imdb_id": "tt1883180"
   },
   {
+    "title": "Here Is Your Life",
+    "release_year": "1966",
+    "clean_title": "/film/here-is-your-life/",
+    "adult": false,
+    "id": 9646,
+    "imdb_id": "tt0060529"
+  },
+  {
     "title": "Faithless",
     "release_year": "2000",
     "clean_title": "/film/faithless-2000/",
@@ -326,14 +334,6 @@
     "adult": false,
     "id": 70800,
     "imdb_id": "tt0008879"
-  },
-  {
-    "title": "Here Is Your Life",
-    "release_year": "1966",
-    "clean_title": "/film/here-is-your-life/",
-    "adult": false,
-    "id": 9646,
-    "imdb_id": "tt0060529"
   },
   {
     "title": "Ronia: The Robber's Daughter",
@@ -408,14 +408,6 @@
     "imdb_id": "tt0052017"
   },
   {
-    "title": "Sami Blood",
-    "release_year": "2016",
-    "clean_title": "/film/sami-blood/",
-    "adult": false,
-    "id": 408435,
-    "imdb_id": "tt5287168"
-  },
-  {
     "title": "Man on the Roof",
     "release_year": "1976",
     "clean_title": "/film/man-on-the-roof/",
@@ -424,12 +416,12 @@
     "imdb_id": "tt0074857"
   },
   {
-    "title": "The Flight of the Eagle",
-    "release_year": "1982",
-    "clean_title": "/film/the-flight-of-the-eagle/",
+    "title": "Sami Blood",
+    "release_year": "2016",
+    "clean_title": "/film/sami-blood/",
     "adult": false,
-    "id": 72785,
-    "imdb_id": "tt0084136"
+    "id": 408435,
+    "imdb_id": "tt5287168"
   },
   {
     "title": "The Simple-Minded Murderer",
@@ -438,6 +430,14 @@
     "adult": false,
     "id": 24129,
     "imdb_id": "tt0083888"
+  },
+  {
+    "title": "The Flight of the Eagle",
+    "release_year": "1982",
+    "clean_title": "/film/the-flight-of-the-eagle/",
+    "adult": false,
+    "id": 72785,
+    "imdb_id": "tt0084136"
   },
   {
     "title": "Raven's End",
@@ -456,20 +456,20 @@
     "imdb_id": "tt1376717"
   },
   {
-    "title": "As It Is in Heaven",
-    "release_year": "2004",
-    "clean_title": "/film/as-it-is-in-heaven/",
-    "adult": false,
-    "id": 464,
-    "imdb_id": "tt0382330"
-  },
-  {
     "title": "Loving Couples",
     "release_year": "1964",
     "clean_title": "/film/loving-couples/",
     "adult": false,
     "id": 180971,
     "imdb_id": "tt0058780"
+  },
+  {
+    "title": "As It Is in Heaven",
+    "release_year": "2004",
+    "clean_title": "/film/as-it-is-in-heaven/",
+    "adult": false,
+    "id": 464,
+    "imdb_id": "tt0382330"
   },
   {
     "title": "Something Must Break",
@@ -512,20 +512,20 @@
     "imdb_id": "tt0073822"
   },
   {
-    "title": "The Adventures of Picasso",
-    "release_year": "1978",
-    "clean_title": "/film/the-adventures-of-picasso/",
-    "adult": false,
-    "id": 45691,
-    "imdb_id": "tt0078084"
-  },
-  {
     "title": "A Swedish Love Story",
     "release_year": "1970",
     "clean_title": "/film/a-swedish-love-story/",
     "adult": false,
     "id": 31304,
     "imdb_id": "tt0065955"
+  },
+  {
+    "title": "The Adventures of Picasso",
+    "release_year": "1978",
+    "clean_title": "/film/the-adventures-of-picasso/",
+    "adult": false,
+    "id": 45691,
+    "imdb_id": "tt0078084"
   },
   {
     "title": "Sir Arne's Treasure",
@@ -544,20 +544,20 @@
     "imdb_id": "tt0067047"
   },
   {
-    "title": "Sound of Noise",
-    "release_year": "2010",
-    "clean_title": "/film/sound-of-noise/",
-    "adult": false,
-    "id": 48392,
-    "imdb_id": "tt1278449"
-  },
-  {
     "title": "Elvira Madigan",
     "release_year": "1967",
     "clean_title": "/film/elvira-madigan/",
     "adult": false,
     "id": 42692,
     "imdb_id": "tt0061620"
+  },
+  {
+    "title": "Sound of Noise",
+    "release_year": "2010",
+    "clean_title": "/film/sound-of-noise/",
+    "adult": false,
+    "id": 48392,
+    "imdb_id": "tt1278449"
   },
   {
     "title": "Ingeborg Holm",
@@ -584,12 +584,28 @@
     "imdb_id": "tt0075790"
   },
   {
+    "title": "Adalen 31",
+    "release_year": "1969",
+    "clean_title": "/film/adalen-31/",
+    "adult": false,
+    "id": 87208,
+    "imdb_id": "tt0065261"
+  },
+  {
     "title": "The Square",
     "release_year": "2017",
     "clean_title": "/film/the-square-2017/",
     "adult": false,
     "id": 401246,
     "imdb_id": "tt4995790"
+  },
+  {
+    "title": "The Man from Majorca",
+    "release_year": "1984",
+    "clean_title": "/film/the-man-from-majorca/",
+    "adult": false,
+    "id": 52331,
+    "imdb_id": "tt0087677"
   },
   {
     "title": "You're Out of Your Mind, Madicken",
@@ -608,30 +624,6 @@
     "imdb_id": "tt0855805"
   },
   {
-    "title": "The Man from Majorca",
-    "release_year": "1984",
-    "clean_title": "/film/the-man-from-majorca/",
-    "adult": false,
-    "id": 52331,
-    "imdb_id": "tt0087677"
-  },
-  {
-    "title": "Adalen 31",
-    "release_year": "1969",
-    "clean_title": "/film/adalen-31/",
-    "adult": false,
-    "id": 87208,
-    "imdb_id": "tt0065261"
-  },
-  {
-    "title": "Screwed in Tallinn: A Small Film About Loneliness",
-    "release_year": "1999",
-    "clean_title": "/film/screwed-in-tallinn-a-small-film-about-loneliness/",
-    "adult": false,
-    "id": 16076,
-    "imdb_id": "tt0311926"
-  },
-  {
     "title": "Johan Falk: Kodnamn: Lisa",
     "release_year": "2012",
     "clean_title": "/film/johan-falk-kodnamn-lisa/",
@@ -646,6 +638,14 @@
     "adult": false,
     "id": 42090,
     "imdb_id": "tt0087193"
+  },
+  {
+    "title": "Screwed in Tallinn: A Small Film About Loneliness",
+    "release_year": "1999",
+    "clean_title": "/film/screwed-in-tallinn-a-small-film-about-loneliness/",
+    "adult": false,
+    "id": 16076,
+    "imdb_id": "tt0311926"
   },
   {
     "title": "Torment",
@@ -672,20 +672,20 @@
     "imdb_id": "tt0043567"
   },
   {
-    "title": "The Journey to Melonia",
-    "release_year": "1989",
-    "clean_title": "/film/the-journey-to-melonia/",
-    "adult": false,
-    "id": 50201,
-    "imdb_id": "tt0098189"
-  },
-  {
     "title": "Slim Susie",
     "release_year": "2003",
     "clean_title": "/film/slim-susie/",
     "adult": false,
     "id": 11466,
     "imdb_id": "tt0323998"
+  },
+  {
+    "title": "The Journey to Melonia",
+    "release_year": "1989",
+    "clean_title": "/film/the-journey-to-melonia/",
+    "adult": false,
+    "id": 50201,
+    "imdb_id": "tt0098189"
   },
   {
     "title": "Pippi in the South Seas",
@@ -696,20 +696,20 @@
     "imdb_id": "tt0066227"
   },
   {
-    "title": "Four Shades of Brown",
-    "release_year": "2004",
-    "clean_title": "/film/four-shades-of-brown/",
-    "adult": false,
-    "id": 25283,
-    "imdb_id": "tt0342636"
-  },
-  {
     "title": "The Devil's Eye",
     "release_year": "1960",
     "clean_title": "/film/the-devils-eye/",
     "adult": false,
     "id": 48145,
     "imdb_id": "tt0053772"
+  },
+  {
+    "title": "Four Shades of Brown",
+    "release_year": "2004",
+    "clean_title": "/film/four-shades-of-brown/",
+    "adult": false,
+    "id": 25283,
+    "imdb_id": "tt0342636"
   },
   {
     "title": "New Mischief by Emil",
@@ -728,14 +728,6 @@
     "imdb_id": "tt5501104"
   },
   {
-    "title": "Kevlar Soul",
-    "release_year": "2025",
-    "clean_title": "/film/kevlar-soul/",
-    "adult": false,
-    "id": 1414081,
-    "imdb_id": "tt28301231"
-  },
-  {
     "title": "The Baby Carriage",
     "release_year": "1963",
     "clean_title": "/film/the-baby-carriage-1963/",
@@ -750,14 +742,6 @@
     "adult": false,
     "id": 11947,
     "imdb_id": "tt0072931"
-  },
-  {
-    "title": "The Rite",
-    "release_year": "1969",
-    "clean_title": "/film/the-rite/",
-    "adult": false,
-    "id": 65092,
-    "imdb_id": "tt0064897"
   },
   {
     "title": "The Girl Who Kicked the Hornet's Nest",
@@ -776,6 +760,22 @@
     "imdb_id": "tt1483753"
   },
   {
+    "title": "Kevlar Soul",
+    "release_year": "2025",
+    "clean_title": "/film/kevlar-soul/",
+    "adult": false,
+    "id": 1414081,
+    "imdb_id": "tt28301231"
+  },
+  {
+    "title": "The Rite",
+    "release_year": "1969",
+    "clean_title": "/film/the-rite/",
+    "adult": false,
+    "id": 65092,
+    "imdb_id": "tt0064897"
+  },
+  {
     "title": "Aniara",
     "release_year": "2018",
     "clean_title": "/film/aniara-2018/",
@@ -792,11 +792,11 @@
     "imdb_id": "tt0043048"
   },
   {
-    "title": "Night Games",
-    "release_year": "1966",
-    "clean_title": "/film/night-games/",
+    "title": "Je m'appelle Agneta",
+    "release_year": "2026",
+    "clean_title": "/film/je-mappelle-agneta/",
     "adult": false,
-    "id": 49782,
-    "imdb_id": "tt0060740"
+    "id": 829487,
+    "imdb_id": "tt31828554"
   }
 ]
