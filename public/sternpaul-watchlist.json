@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Incomer",
+    "release_year": "2026",
+    "clean_title": "/film/the-incomer/",
+    "adult": false,
+    "id": 1554956,
+    "imdb_id": "tt36980182"
+  },
+  {
+    "title": "Yesteryear",
+    "release_year": "",
+    "clean_title": "/film/yesteryear-2/",
+    "adult": false,
+    "id": 1323678,
+    "imdb_id": "tt33089511"
+  },
+  {
+    "title": "The Curse",
+    "release_year": "2023",
+    "clean_title": "/film/the-curse-2023/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt13623608"
+  },
+  {
+    "title": "You Can See Everything",
+    "release_year": "2026",
+    "clean_title": "/film/you-can-see-everything/",
+    "adult": false,
+    "id": 1765072,
+    "imdb_id": "tt45368240"
+  },
+  {
     "title": "Insidious: Out of the Further",
     "release_year": "2026",
     "clean_title": "/film/insidious-out-of-the-further/",
@@ -12,7 +44,8 @@
     "release_year": "",
     "clean_title": "/film/the-waffle-house-index-1/",
     "adult": false,
-    "id": 1762469
+    "id": 1762469,
+    "imdb_id": "tt39163645"
   },
   {
     "title": "The Witch",
@@ -1316,14 +1349,6 @@
     "adult": false,
     "id": 59436,
     "imdb_id": "tt1605783"
-  },
-  {
-    "title": "Pressure",
-    "release_year": "2026",
-    "clean_title": "/film/pressure-2026/",
-    "adult": false,
-    "id": 1318413,
-    "imdb_id": "tt32547691"
   },
   {
     "title": "Snow White and the Seven Dwarfs",
