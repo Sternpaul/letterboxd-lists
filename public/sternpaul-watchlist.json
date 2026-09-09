@@ -1,5 +1,29 @@
 [
   {
+    "title": "Remain",
+    "release_year": "2027",
+    "clean_title": "/film/remain-2027/",
+    "adult": false,
+    "id": 1425859,
+    "imdb_id": "tt35621542"
+  },
+  {
+    "title": "Artificial",
+    "release_year": "2026",
+    "clean_title": "/film/artificial-2026-1/",
+    "adult": false,
+    "id": 1492198,
+    "imdb_id": "tt37171180"
+  },
+  {
+    "title": "The Bone Collector",
+    "release_year": "1999",
+    "clean_title": "/film/the-bone-collector/",
+    "adult": false,
+    "id": 9481,
+    "imdb_id": "tt0145681"
+  },
+  {
     "title": "The Incomer",
     "release_year": "2026",
     "clean_title": "/film/the-incomer/",
@@ -42,7 +66,7 @@
   {
     "title": "The Waffle House Index",
     "release_year": "",
-    "clean_title": "/film/the-waffle-house-index-1/",
+    "clean_title": "/film/the-waffle-house-index/",
     "adult": false,
     "id": 1762469,
     "imdb_id": "tt39163645"
