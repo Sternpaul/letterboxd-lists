@@ -1,5 +1,53 @@
 [
   {
+    "title": "Labyrinth of Lies",
+    "release_year": "2014",
+    "clean_title": "/film/labyrinth-of-lies-2014/",
+    "adult": false,
+    "id": 287495,
+    "imdb_id": "tt3825638"
+  },
+  {
+    "title": "Demolition",
+    "release_year": "2015",
+    "clean_title": "/film/demolition/",
+    "adult": false,
+    "id": 303991,
+    "imdb_id": "tt1172049"
+  },
+  {
+    "title": "The Guilty",
+    "release_year": "2021",
+    "clean_title": "/film/the-guilty-2021/",
+    "adult": false,
+    "id": 567748,
+    "imdb_id": "tt9421570"
+  },
+  {
+    "title": "Love & Other Drugs",
+    "release_year": "2010",
+    "clean_title": "/film/love-other-drugs/",
+    "adult": false,
+    "id": 43347,
+    "imdb_id": "tt0758752"
+  },
+  {
+    "title": "Nocturnal Animals",
+    "release_year": "2016",
+    "clean_title": "/film/nocturnal-animals/",
+    "adult": false,
+    "id": 340666,
+    "imdb_id": "tt4550098"
+  },
+  {
+    "title": "Brokeback Mountain",
+    "release_year": "2005",
+    "clean_title": "/film/brokeback-mountain/",
+    "adult": false,
+    "id": 142,
+    "imdb_id": "tt0388795"
+  },
+  {
     "title": "Remain",
     "release_year": "2027",
     "clean_title": "/film/remain-2027/",

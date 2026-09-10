@@ -256,20 +256,20 @@
     "imdb_id": "tt0047034"
   },
   {
-    "title": "The Phantom Carriage",
-    "release_year": "1921",
-    "clean_title": "/film/the-phantom-carriage/",
-    "adult": false,
-    "id": 58129,
-    "imdb_id": "tt0012364"
-  },
-  {
     "title": "The Rocky Horror Picture Show",
     "release_year": "1975",
     "clean_title": "/film/the-rocky-horror-picture-show/",
     "adult": false,
     "id": 36685,
     "imdb_id": "tt0073629"
+  },
+  {
+    "title": "The Phantom Carriage",
+    "release_year": "1921",
+    "clean_title": "/film/the-phantom-carriage/",
+    "adult": false,
+    "id": 58129,
+    "imdb_id": "tt0012364"
   },
   {
     "title": "Kuroneko",
@@ -520,6 +520,14 @@
     "imdb_id": "tt0063350"
   },
   {
+    "title": "Thesis",
+    "release_year": "1996",
+    "clean_title": "/film/thesis/",
+    "adult": false,
+    "id": 9299,
+    "imdb_id": "tt0117883"
+  },
+  {
     "title": "Freaks",
     "release_year": "1932",
     "clean_title": "/film/freaks/",
@@ -534,14 +542,6 @@
     "adult": false,
     "id": 747,
     "imdb_id": "tt0365748"
-  },
-  {
-    "title": "Thesis",
-    "release_year": "1996",
-    "clean_title": "/film/thesis/",
-    "adult": false,
-    "id": 9299,
-    "imdb_id": "tt0117883"
   },
   {
     "title": "Wait Until Dark",
@@ -664,14 +664,6 @@
     "imdb_id": "tt0109733"
   },
   {
-    "title": "Shin Godzilla",
-    "release_year": "2016",
-    "clean_title": "/film/shin-godzilla/",
-    "adult": false,
-    "id": 315011,
-    "imdb_id": "tt4262980"
-  },
-  {
     "title": "Witchhammer",
     "release_year": "1970",
     "clean_title": "/film/witchhammer/",
@@ -680,12 +672,12 @@
     "imdb_id": "tt0064546"
   },
   {
-    "title": "The Invisible Man",
-    "release_year": "1933",
-    "clean_title": "/film/the-invisible-man/",
+    "title": "Shin Godzilla",
+    "release_year": "2016",
+    "clean_title": "/film/shin-godzilla/",
     "adult": false,
-    "id": 10787,
-    "imdb_id": "tt0024184"
+    "id": 315011,
+    "imdb_id": "tt4262980"
   },
   {
     "title": "Kotoko",
@@ -694,6 +686,14 @@
     "adult": false,
     "id": 85032,
     "imdb_id": "tt1842532"
+  },
+  {
+    "title": "The Invisible Man",
+    "release_year": "1933",
+    "clean_title": "/film/the-invisible-man/",
+    "adult": false,
+    "id": 10787,
+    "imdb_id": "tt0024184"
   },
   {
     "title": "Jacob's Ladder",
@@ -712,20 +712,20 @@
     "imdb_id": "tt0050539"
   },
   {
-    "title": "Videodrome",
-    "release_year": "1983",
-    "clean_title": "/film/videodrome/",
-    "adult": false,
-    "id": 837,
-    "imdb_id": "tt0086541"
-  },
-  {
     "title": "Helter Skelter",
     "release_year": "2012",
     "clean_title": "/film/helter-skelter-2012/",
     "adult": false,
     "id": 104524,
     "imdb_id": "tt2147319"
+  },
+  {
+    "title": "Videodrome",
+    "release_year": "1983",
+    "clean_title": "/film/videodrome/",
+    "adult": false,
+    "id": 837,
+    "imdb_id": "tt0086541"
   },
   {
     "title": "Manhunter",
@@ -776,20 +776,20 @@
     "imdb_id": "tt0304262"
   },
   {
-    "title": "The Third Part of the Night",
-    "release_year": "1971",
-    "clean_title": "/film/the-third-part-of-the-night/",
-    "adult": false,
-    "id": 46799,
-    "imdb_id": "tt0067885"
-  },
-  {
     "title": "Morgiana",
     "release_year": "1972",
     "clean_title": "/film/morgiana/",
     "adult": false,
     "id": 53186,
     "imdb_id": "tt0124012"
+  },
+  {
+    "title": "The Third Part of the Night",
+    "release_year": "1971",
+    "clean_title": "/film/the-third-part-of-the-night/",
+    "adult": false,
+    "id": 46799,
+    "imdb_id": "tt0067885"
   },
   {
     "title": "Carrie",
@@ -864,20 +864,20 @@
     "imdb_id": "tt0184503"
   },
   {
-    "title": "The Devil's Backbone",
-    "release_year": "2001",
-    "clean_title": "/film/the-devils-backbone/",
-    "adult": false,
-    "id": 1433,
-    "imdb_id": "tt0256009"
-  },
-  {
     "title": "The Unknown",
     "release_year": "1927",
     "clean_title": "/film/the-unknown/",
     "adult": false,
     "id": 27503,
     "imdb_id": "tt0018528"
+  },
+  {
+    "title": "The Devil's Backbone",
+    "release_year": "2001",
+    "clean_title": "/film/the-devils-backbone/",
+    "adult": false,
+    "id": 1433,
+    "imdb_id": "tt0256009"
   },
   {
     "title": "Black Christmas",
@@ -1000,14 +1000,6 @@
     "imdb_id": "tt0235198"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "release_year": "2026",
-    "clean_title": "/film/teenage-sex-and-death-at-camp-miasma/",
-    "adult": false,
-    "id": 1240889,
-    "imdb_id": "tt35298123"
-  },
-  {
     "title": "The Others",
     "release_year": "2001",
     "clean_title": "/film/the-others/",
@@ -1072,12 +1064,12 @@
     "imdb_id": "tt0095088"
   },
   {
-    "title": "The Hunchback of Notre Dame",
-    "release_year": "1939",
-    "clean_title": "/film/the-hunchback-of-notre-dame-1939/",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "release_year": "2026",
+    "clean_title": "/film/teenage-sex-and-death-at-camp-miasma/",
     "adult": false,
-    "id": 31685,
-    "imdb_id": "tt0031455"
+    "id": 1240889,
+    "imdb_id": "tt35298123"
   },
   {
     "title": "Carnival of Souls",
@@ -1088,20 +1080,20 @@
     "imdb_id": "tt0055830"
   },
   {
+    "title": "The Hunchback of Notre Dame",
+    "release_year": "1939",
+    "clean_title": "/film/the-hunchback-of-notre-dame-1939/",
+    "adult": false,
+    "id": 31685,
+    "imdb_id": "tt0031455"
+  },
+  {
     "title": "The Haunting",
     "release_year": "1963",
     "clean_title": "/film/the-haunting/",
     "adult": false,
     "id": 11772,
     "imdb_id": "tt0057129"
-  },
-  {
-    "title": "Clearcut",
-    "release_year": "1991",
-    "clean_title": "/film/clearcut/",
-    "adult": false,
-    "id": 116494,
-    "imdb_id": "tt0101592"
   },
   {
     "title": "Don't Look Now",
@@ -1112,12 +1104,12 @@
     "imdb_id": "tt0069995"
   },
   {
-    "title": "The Texas Chain Saw Massacre",
-    "release_year": "1974",
-    "clean_title": "/film/the-texas-chain-saw-massacre/",
+    "title": "Clearcut",
+    "release_year": "1991",
+    "clean_title": "/film/clearcut/",
     "adult": false,
-    "id": 30497,
-    "imdb_id": "tt0072271"
+    "id": 116494,
+    "imdb_id": "tt0101592"
   },
   {
     "title": "Day of the Dead",
@@ -1126,6 +1118,14 @@
     "adult": false,
     "id": 8408,
     "imdb_id": "tt0088993"
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "release_year": "1974",
+    "clean_title": "/film/the-texas-chain-saw-massacre/",
+    "adult": false,
+    "id": 30497,
+    "imdb_id": "tt0072271"
   },
   {
     "title": "Death Becomes Her",
@@ -1272,20 +1272,20 @@
     "imdb_id": "tt0228687"
   },
   {
-    "title": "The Birds",
-    "release_year": "1963",
-    "clean_title": "/film/the-birds/",
-    "adult": false,
-    "id": 571,
-    "imdb_id": "tt0056869"
-  },
-  {
     "title": "Bram Stoker's Dracula",
     "release_year": "1992",
     "clean_title": "/film/bram-stokers-dracula/",
     "adult": false,
     "id": 6114,
     "imdb_id": "tt0103874"
+  },
+  {
+    "title": "The Birds",
+    "release_year": "1963",
+    "clean_title": "/film/the-birds/",
+    "adult": false,
+    "id": 571,
+    "imdb_id": "tt0056869"
   },
   {
     "title": "Midsommar",
@@ -1296,20 +1296,20 @@
     "imdb_id": "tt8772262"
   },
   {
-    "title": "The Demon",
-    "release_year": "1963",
-    "clean_title": "/film/the-demon-1963/",
-    "adult": false,
-    "id": 138765,
-    "imdb_id": "tt0167886"
-  },
-  {
     "title": "Dante's Inferno",
     "release_year": "1911",
     "clean_title": "/film/dantes-inferno-1911/",
     "adult": false,
     "id": 70512,
     "imdb_id": "tt0002130"
+  },
+  {
+    "title": "The Demon",
+    "release_year": "1963",
+    "clean_title": "/film/the-demon-1963/",
+    "adult": false,
+    "id": 138765,
+    "imdb_id": "tt0167886"
   },
   {
     "title": "Retribution",
@@ -1320,20 +1320,20 @@
     "imdb_id": "tt0843302"
   },
   {
-    "title": "The Substance",
-    "release_year": "2024",
-    "clean_title": "/film/the-substance/",
-    "adult": false,
-    "id": 933260,
-    "imdb_id": "tt17526714"
-  },
-  {
     "title": "Blood and Black Lace",
     "release_year": "1964",
     "clean_title": "/film/blood-and-black-lace/",
     "adult": false,
     "id": 28055,
     "imdb_id": "tt0058567"
+  },
+  {
+    "title": "The Substance",
+    "release_year": "2024",
+    "clean_title": "/film/the-substance/",
+    "adult": false,
+    "id": 933260,
+    "imdb_id": "tt17526714"
   },
   {
     "title": "Suspiria",
@@ -1352,20 +1352,20 @@
     "imdb_id": "tt0289043"
   },
   {
-    "title": "Cemetery Man",
-    "release_year": "1994",
-    "clean_title": "/film/cemetery-man/",
-    "adult": false,
-    "id": 21588,
-    "imdb_id": "tt0109592"
-  },
-  {
     "title": "Hush... Hush, Sweet Charlotte",
     "release_year": "1964",
     "clean_title": "/film/hush-hush-sweet-charlotte/",
     "adult": false,
     "id": 10299,
     "imdb_id": "tt0058213"
+  },
+  {
+    "title": "Cemetery Man",
+    "release_year": "1994",
+    "clean_title": "/film/cemetery-man/",
+    "adult": false,
+    "id": 21588,
+    "imdb_id": "tt0109592"
   },
   {
     "title": "Sick of Myself",
@@ -1504,20 +1504,20 @@
     "imdb_id": "tt0286751"
   },
   {
-    "title": "Blind Beast",
-    "release_year": "1969",
-    "clean_title": "/film/blind-beast/",
-    "adult": false,
-    "id": 27425,
-    "imdb_id": "tt0140384"
-  },
-  {
     "title": "Tumbbad",
     "release_year": "2018",
     "clean_title": "/film/tumbbad/",
     "adult": false,
     "id": 538858,
     "imdb_id": "tt8239946"
+  },
+  {
+    "title": "Blind Beast",
+    "release_year": "1969",
+    "clean_title": "/film/blind-beast/",
+    "adult": false,
+    "id": 27425,
+    "imdb_id": "tt0140384"
   },
   {
     "title": "White Dog",
@@ -1534,14 +1534,6 @@
     "adult": false,
     "id": 10842,
     "imdb_id": "tt0492784"
-  },
-  {
-    "title": "Leviticus",
-    "release_year": "2026",
-    "clean_title": "/film/leviticus-2026/",
-    "adult": false,
-    "id": 1564614,
-    "imdb_id": "tt39143902"
   },
   {
     "title": "Ghost Story of Yotsuya",
@@ -1568,6 +1560,22 @@
     "imdb_id": "tt0011237"
   },
   {
+    "title": "Leviticus",
+    "release_year": "2026",
+    "clean_title": "/film/leviticus-2026/",
+    "adult": false,
+    "id": 1564614,
+    "imdb_id": "tt39143902"
+  },
+  {
+    "title": "The Day of the Beast",
+    "release_year": "1995",
+    "clean_title": "/film/the-day-of-the-beast/",
+    "adult": false,
+    "id": 10722,
+    "imdb_id": "tt0112922"
+  },
+  {
     "title": "Poison for the Fairies",
     "release_year": "1986",
     "clean_title": "/film/poison-for-the-fairies/",
@@ -1582,14 +1590,6 @@
     "adult": false,
     "id": 8329,
     "imdb_id": "tt1038988"
-  },
-  {
-    "title": "The Day of the Beast",
-    "release_year": "1995",
-    "clean_title": "/film/the-day-of-the-beast/",
-    "adult": false,
-    "id": 10722,
-    "imdb_id": "tt0112922"
   },
   {
     "title": "Encounters of the Spooky Kind",
@@ -1656,20 +1656,20 @@
     "imdb_id": "tt0024188"
   },
   {
-    "title": "Black Sunday",
-    "release_year": "1960",
-    "clean_title": "/film/black-sunday-1960/",
-    "adult": false,
-    "id": 27632,
-    "imdb_id": "tt0054067"
-  },
-  {
     "title": "Angel Heart",
     "release_year": "1987",
     "clean_title": "/film/angel-heart/",
     "adult": false,
     "id": 635,
     "imdb_id": "tt0092563"
+  },
+  {
+    "title": "Black Sunday",
+    "release_year": "1960",
+    "clean_title": "/film/black-sunday-1960/",
+    "adult": false,
+    "id": 27632,
+    "imdb_id": "tt0054067"
   },
   {
     "title": "Tucker and Dale vs. Evil",
@@ -1680,20 +1680,20 @@
     "imdb_id": "tt1465522"
   },
   {
-    "title": "The Vourdalak",
-    "release_year": "2023",
-    "clean_title": "/film/the-vourdalak/",
-    "adult": false,
-    "id": 1047223,
-    "imdb_id": "tt28313478"
-  },
-  {
     "title": "Don't Torture a Duckling",
     "release_year": "1972",
     "clean_title": "/film/dont-torture-a-duckling/",
     "adult": false,
     "id": 49361,
     "imdb_id": "tt0069019"
+  },
+  {
+    "title": "The Vourdalak",
+    "release_year": "2023",
+    "clean_title": "/film/the-vourdalak/",
+    "adult": false,
+    "id": 1047223,
+    "imdb_id": "tt28313478"
   },
   {
     "title": "Cat People",
@@ -1728,20 +1728,20 @@
     "imdb_id": "tt0129332"
   },
   {
-    "title": "Nope",
-    "release_year": "2022",
-    "clean_title": "/film/nope/",
-    "adult": false,
-    "id": 762504,
-    "imdb_id": "tt10954984"
-  },
-  {
     "title": "Mr. Vampire",
     "release_year": "1985",
     "clean_title": "/film/mr-vampire/",
     "adult": false,
     "id": 67342,
     "imdb_id": "tt0089371"
+  },
+  {
+    "title": "Nope",
+    "release_year": "2022",
+    "clean_title": "/film/nope/",
+    "adult": false,
+    "id": 762504,
+    "imdb_id": "tt10954984"
   },
   {
     "title": "The Abominable Dr. Phibes",
@@ -1760,20 +1760,20 @@
     "imdb_id": "tt0103919"
   },
   {
-    "title": "Anguish",
-    "release_year": "1987",
-    "clean_title": "/film/anguish/",
-    "adult": false,
-    "id": 42002,
-    "imdb_id": "tt0090644"
-  },
-  {
     "title": "Ginger Snaps",
     "release_year": "2000",
     "clean_title": "/film/ginger-snaps/",
     "adult": false,
     "id": 9871,
     "imdb_id": "tt0210070"
+  },
+  {
+    "title": "Anguish",
+    "release_year": "1987",
+    "clean_title": "/film/anguish/",
+    "adult": false,
+    "id": 42002,
+    "imdb_id": "tt0090644"
   },
   {
     "title": "The Devil's Advocate",
@@ -1888,14 +1888,6 @@
     "imdb_id": "tt1457767"
   },
   {
-    "title": "A Quiet Place",
-    "release_year": "2018",
-    "clean_title": "/film/a-quiet-place-2018/",
-    "adult": false,
-    "id": 447332,
-    "imdb_id": "tt6644200"
-  },
-  {
     "title": "Ganja & Hess",
     "release_year": "1973",
     "clean_title": "/film/ganja-hess/",
@@ -1904,12 +1896,12 @@
     "imdb_id": "tt0068619"
   },
   {
-    "title": "The Spiral Staircase",
-    "release_year": "1946",
-    "clean_title": "/film/the-spiral-staircase/",
+    "title": "A Quiet Place",
+    "release_year": "2018",
+    "clean_title": "/film/a-quiet-place-2018/",
     "adult": false,
-    "id": 27452,
-    "imdb_id": "tt0038975"
+    "id": 447332,
+    "imdb_id": "tt6644200"
   },
   {
     "title": "Chandramukhi",
@@ -1918,6 +1910,14 @@
     "adult": false,
     "id": 53122,
     "imdb_id": "tt0449869"
+  },
+  {
+    "title": "The Spiral Staircase",
+    "release_year": "1946",
+    "clean_title": "/film/the-spiral-staircase/",
+    "adult": false,
+    "id": 27452,
+    "imdb_id": "tt0038975"
   },
   {
     "title": "Pizza",
@@ -1952,6 +1952,14 @@
     "imdb_id": "tt0093185"
   },
   {
+    "title": "Marrowbone",
+    "release_year": "2017",
+    "clean_title": "/film/marrowbone/",
+    "adult": false,
+    "id": 399366,
+    "imdb_id": "tt5886440"
+  },
+  {
     "title": "Dressed to Kill",
     "release_year": "1980",
     "clean_title": "/film/dressed-to-kill-1980/",
@@ -1968,12 +1976,12 @@
     "imdb_id": "tt0091209"
   },
   {
-    "title": "Marrowbone",
-    "release_year": "2017",
-    "clean_title": "/film/marrowbone/",
+    "title": "The Blob",
+    "release_year": "1988",
+    "clean_title": "/film/the-blob-1988/",
     "adult": false,
-    "id": 399366,
-    "imdb_id": "tt5886440"
+    "id": 9599,
+    "imdb_id": "tt0094761"
   },
   {
     "title": "Empire of Passion",
@@ -1982,14 +1990,6 @@
     "adult": false,
     "id": 49096,
     "imdb_id": "tt0077132"
-  },
-  {
-    "title": "The Blob",
-    "release_year": "1988",
-    "clean_title": "/film/the-blob-1988/",
-    "adult": false,
-    "id": 9599,
-    "imdb_id": "tt0094761"
   },
   {
     "title": "Phenomena",
