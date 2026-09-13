@@ -1990,7 +1990,7 @@
   {
     "title": "The Hunger Games",
     "clean_title": "/film/the-hunger-games/",
-    "rating": 3.5,
+    "rating": 3,
     "id": 70160,
     "imdb_id": "tt1392170"
   },
@@ -2007,5 +2007,19 @@
     "rating": 3,
     "id": 78,
     "imdb_id": "tt0083658"
+  },
+  {
+    "title": "The Hunger Games: Catching Fire",
+    "clean_title": "/film/the-hunger-games-catching-fire/",
+    "rating": 3.5,
+    "id": 101299,
+    "imdb_id": "tt1951264"
+  },
+  {
+    "title": "Pressure",
+    "clean_title": "/film/pressure-2026/",
+    "rating": 4.5,
+    "id": 1318413,
+    "imdb_id": "tt32547691"
   }
 ]
