@@ -1,0 +1,8001 @@
+[
+  {
+    "title": "Citizen Kane",
+    "release_year": "1941",
+    "clean_title": "/film/citizen-kane/",
+    "adult": false,
+    "id": 15,
+    "imdb_id": "tt0033467"
+  },
+  {
+    "title": "Vertigo",
+    "release_year": "1958",
+    "clean_title": "/film/vertigo/",
+    "adult": false,
+    "id": 426,
+    "imdb_id": "tt0052357"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "release_year": "1968",
+    "clean_title": "/film/2001-a-space-odyssey/",
+    "adult": false,
+    "id": 62,
+    "imdb_id": "tt0062622"
+  },
+  {
+    "title": "The Rules of the Game",
+    "release_year": "1939",
+    "clean_title": "/film/the-rules-of-the-game/",
+    "adult": false,
+    "id": 776,
+    "imdb_id": "tt0031885"
+  },
+  {
+    "title": "Tokyo Story",
+    "release_year": "1953",
+    "clean_title": "/film/tokyo-story/",
+    "adult": false,
+    "id": 18148,
+    "imdb_id": "tt0046438"
+  },
+  {
+    "title": "8½",
+    "release_year": "1963",
+    "clean_title": "/film/8-half/",
+    "adult": false,
+    "id": 422,
+    "imdb_id": "tt0056801"
+  },
+  {
+    "title": "The Godfather",
+    "release_year": "1972",
+    "clean_title": "/film/the-godfather/",
+    "adult": false,
+    "id": 238,
+    "imdb_id": "tt0068646"
+  },
+  {
+    "title": "Sunrise: A Song of Two Humans",
+    "release_year": "1927",
+    "clean_title": "/film/sunrise-a-song-of-two-humans/",
+    "adult": false,
+    "id": 631,
+    "imdb_id": "tt0018455"
+  },
+  {
+    "title": "The Searchers",
+    "release_year": "1956",
+    "clean_title": "/film/the-searchers/",
+    "adult": false,
+    "id": 3114,
+    "imdb_id": "tt0049730"
+  },
+  {
+    "title": "Seven Samurai",
+    "release_year": "1954",
+    "clean_title": "/film/seven-samurai/",
+    "adult": false,
+    "id": 346,
+    "imdb_id": "tt0047478"
+  },
+  {
+    "title": "Apocalypse Now",
+    "release_year": "1979",
+    "clean_title": "/film/apocalypse-now/",
+    "adult": false,
+    "id": 28,
+    "imdb_id": "tt0078788"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "release_year": "1952",
+    "clean_title": "/film/singin-in-the-rain/",
+    "adult": false,
+    "id": 872,
+    "imdb_id": "tt0045152"
+  },
+  {
+    "title": "Bicycle Thieves",
+    "release_year": "1948",
+    "clean_title": "/film/bicycle-thieves/",
+    "adult": false,
+    "id": 5156,
+    "imdb_id": "tt0040522"
+  },
+  {
+    "title": "Battleship Potemkin",
+    "release_year": "1925",
+    "clean_title": "/film/battleship-potemkin/",
+    "adult": false,
+    "id": 643,
+    "imdb_id": "tt0015648"
+  },
+  {
+    "title": "Taxi Driver",
+    "release_year": "1976",
+    "clean_title": "/film/taxi-driver/",
+    "adult": false,
+    "id": 103,
+    "imdb_id": "tt0075314"
+  },
+  {
+    "title": "Breathless",
+    "release_year": "1960",
+    "clean_title": "/film/breathless/",
+    "adult": false,
+    "id": 269,
+    "imdb_id": "tt0053472"
+  },
+  {
+    "title": "L'Atalante",
+    "release_year": "1934",
+    "clean_title": "/film/latalante/",
+    "adult": false,
+    "id": 43904,
+    "imdb_id": "tt0024844"
+  },
+  {
+    "title": "The Passion of Joan of Arc",
+    "release_year": "1928",
+    "clean_title": "/film/the-passion-of-joan-of-arc/",
+    "adult": false,
+    "id": 780,
+    "imdb_id": "tt0019254"
+  },
+  {
+    "title": "Persona",
+    "release_year": "1966",
+    "clean_title": "/film/persona/",
+    "adult": false,
+    "id": 797,
+    "imdb_id": "tt0060827"
+  },
+  {
+    "title": "Man with a Movie Camera",
+    "release_year": "1929",
+    "clean_title": "/film/man-with-a-movie-camera/",
+    "adult": false,
+    "id": 26317,
+    "imdb_id": "tt0019760"
+  },
+  {
+    "title": "Rashomon",
+    "release_year": "1950",
+    "clean_title": "/film/rashomon/",
+    "adult": false,
+    "id": 548,
+    "imdb_id": "tt0042876"
+  },
+  {
+    "title": "Psycho",
+    "release_year": "1960",
+    "clean_title": "/film/psycho/",
+    "adult": false,
+    "id": 539,
+    "imdb_id": "tt0054215"
+  },
+  {
+    "title": "Andrei Rublev",
+    "release_year": "1966",
+    "clean_title": "/film/andrei-rublev/",
+    "adult": false,
+    "id": 895,
+    "imdb_id": "tt0060107"
+  },
+  {
+    "title": "The 400 Blows",
+    "release_year": "1959",
+    "clean_title": "/film/the-400-blows/",
+    "adult": false,
+    "id": 147,
+    "imdb_id": "tt0053198"
+  },
+  {
+    "title": "Raging Bull",
+    "release_year": "1980",
+    "clean_title": "/film/raging-bull/",
+    "adult": false,
+    "id": 1578,
+    "imdb_id": "tt0081398"
+  },
+  {
+    "title": "The Godfather Part II",
+    "release_year": "1974",
+    "clean_title": "/film/the-godfather-part-ii/",
+    "adult": false,
+    "id": 240,
+    "imdb_id": "tt0071562"
+  },
+  {
+    "title": "City Lights",
+    "release_year": "1931",
+    "clean_title": "/film/city-lights/",
+    "adult": false,
+    "id": 901,
+    "imdb_id": "tt0021749"
+  },
+  {
+    "title": "Some Like It Hot",
+    "release_year": "1959",
+    "clean_title": "/film/some-like-it-hot/",
+    "adult": false,
+    "id": 239,
+    "imdb_id": "tt0053291"
+  },
+  {
+    "title": "Mirror",
+    "release_year": "1975",
+    "clean_title": "/film/mirror/",
+    "adult": false,
+    "id": 1396,
+    "imdb_id": "tt0072443"
+  },
+  {
+    "title": "La Dolce Vita",
+    "release_year": "1960",
+    "clean_title": "/film/la-dolce-vita/",
+    "adult": false,
+    "id": 439,
+    "imdb_id": "tt0053779"
+  },
+  {
+    "title": "Touch of Evil",
+    "release_year": "1958",
+    "clean_title": "/film/touch-of-evil/",
+    "adult": false,
+    "id": 1480,
+    "imdb_id": "tt0052311"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "release_year": "1962",
+    "clean_title": "/film/lawrence-of-arabia/",
+    "adult": false,
+    "id": 947,
+    "imdb_id": "tt0056172"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "release_year": "1950",
+    "clean_title": "/film/sunset-boulevard/",
+    "adult": false,
+    "id": 599,
+    "imdb_id": "tt0043014"
+  },
+  {
+    "title": "Au Hasard Balthazar",
+    "release_year": "1966",
+    "clean_title": "/film/au-hasard-balthazar/",
+    "adult": false,
+    "id": 20108,
+    "imdb_id": "tt0060138"
+  },
+  {
+    "title": "Ordet",
+    "release_year": "1955",
+    "clean_title": "/film/ordet/",
+    "adult": false,
+    "id": 48035,
+    "imdb_id": "tt0048452"
+  },
+  {
+    "title": "Casablanca",
+    "release_year": "1942",
+    "clean_title": "/film/casablanca/",
+    "adult": false,
+    "id": 289,
+    "imdb_id": "tt0034583"
+  },
+  {
+    "title": "L'Avventura",
+    "release_year": "1960",
+    "clean_title": "/film/lavventura/",
+    "adult": false,
+    "id": 5165,
+    "imdb_id": "tt0053619"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "The General",
+    "release_year": "1926",
+    "clean_title": "/film/the-general/",
+    "adult": false,
+    "id": 961,
+    "imdb_id": "tt0017925"
+  },
+  {
+    "title": "Contempt",
+    "release_year": "1963",
+    "clean_title": "/film/contempt/",
+    "adult": false,
+    "id": 266,
+    "imdb_id": "tt0057345"
+  },
+  {
+    "title": "Rear Window",
+    "release_year": "1954",
+    "clean_title": "/film/rear-window/",
+    "adult": false,
+    "id": 567,
+    "imdb_id": "tt0047396"
+  },
+  {
+    "title": "In the Mood for Love",
+    "release_year": "2000",
+    "clean_title": "/film/in-the-mood-for-love/",
+    "adult": false,
+    "id": 843,
+    "imdb_id": "tt0118694"
+  },
+  {
+    "title": "The Night of the Hunter",
+    "release_year": "1955",
+    "clean_title": "/film/the-night-of-the-hunter/",
+    "adult": false,
+    "id": 3112,
+    "imdb_id": "tt0048424"
+  },
+  {
+    "title": "Grand Illusion",
+    "release_year": "1937",
+    "clean_title": "/film/grand-illusion/",
+    "adult": false,
+    "id": 777,
+    "imdb_id": "tt0028950"
+  },
+  {
+    "title": "Ugetsu",
+    "release_year": "1953",
+    "clean_title": "/film/ugetsu/",
+    "adult": false,
+    "id": 14696,
+    "imdb_id": "tt0046478"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "release_year": "1964",
+    "clean_title": "/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+    "adult": false,
+    "id": 935,
+    "imdb_id": "tt0057012"
+  },
+  {
+    "title": "The Third Man",
+    "release_year": "1949",
+    "clean_title": "/film/the-third-man/",
+    "adult": false,
+    "id": 1092,
+    "imdb_id": "tt0041959"
+  },
+  {
+    "title": "Barry Lyndon",
+    "release_year": "1975",
+    "clean_title": "/film/barry-lyndon/",
+    "adult": false,
+    "id": 3175,
+    "imdb_id": "tt0072684"
+  },
+  {
+    "title": "PlayTime",
+    "release_year": "1967",
+    "clean_title": "/film/playtime/",
+    "adult": false,
+    "id": 10227,
+    "imdb_id": "tt0062136"
+  },
+  {
+    "title": "Mulholland Drive",
+    "release_year": "2001",
+    "clean_title": "/film/mulholland-drive/",
+    "adult": false,
+    "id": 1018,
+    "imdb_id": "tt0166924"
+  },
+  {
+    "title": "Modern Times",
+    "release_year": "1936",
+    "clean_title": "/film/modern-times/",
+    "adult": false,
+    "id": 3082,
+    "imdb_id": "tt0027977"
+  },
+  {
+    "title": "Stalker",
+    "release_year": "1979",
+    "clean_title": "/film/stalker/",
+    "adult": false,
+    "id": 1398,
+    "imdb_id": "tt0079944"
+  },
+  {
+    "title": "Fanny and Alexander",
+    "release_year": "1982",
+    "clean_title": "/film/fanny-and-alexander/",
+    "adult": false,
+    "id": 5961,
+    "imdb_id": "tt0083922"
+  },
+  {
+    "title": "Rio Bravo",
+    "release_year": "1959",
+    "clean_title": "/film/rio-bravo/",
+    "adult": false,
+    "id": 301,
+    "imdb_id": "tt0053221"
+  },
+  {
+    "title": "Chinatown",
+    "release_year": "1974",
+    "clean_title": "/film/chinatown/",
+    "adult": false,
+    "id": 829,
+    "imdb_id": "tt0071315"
+  },
+  {
+    "title": "M",
+    "release_year": "1931",
+    "clean_title": "/film/m/",
+    "adult": false,
+    "id": 832,
+    "imdb_id": "tt0022100"
+  },
+  {
+    "title": "Pather Panchali",
+    "release_year": "1955",
+    "clean_title": "/film/pather-panchali/",
+    "adult": false,
+    "id": 5801,
+    "imdb_id": "tt0048473"
+  },
+  {
+    "title": "North by Northwest",
+    "release_year": "1959",
+    "clean_title": "/film/north-by-northwest/",
+    "adult": false,
+    "id": 213,
+    "imdb_id": "tt0053125"
+  },
+  {
+    "title": "The Apartment",
+    "release_year": "1960",
+    "clean_title": "/film/the-apartment/",
+    "adult": false,
+    "id": 284,
+    "imdb_id": "tt0053604"
+  },
+  {
+    "title": "Metropolis",
+    "release_year": "1927",
+    "clean_title": "/film/metropolis/",
+    "adult": false,
+    "id": 19,
+    "imdb_id": "tt0017136"
+  },
+  {
+    "title": "Wild Strawberries",
+    "release_year": "1957",
+    "clean_title": "/film/wild-strawberries/",
+    "adult": false,
+    "id": 614,
+    "imdb_id": "tt0050986"
+  },
+  {
+    "title": "Children of Paradise",
+    "release_year": "1945",
+    "clean_title": "/film/children-of-paradise/",
+    "adult": false,
+    "id": 2457,
+    "imdb_id": "tt0037674"
+  },
+  {
+    "title": "Pierrot le Fou",
+    "release_year": "1965",
+    "clean_title": "/film/pierrot-le-fou/",
+    "adult": false,
+    "id": 2786,
+    "imdb_id": "tt0059592"
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_year": "1994",
+    "clean_title": "/film/pulp-fiction/",
+    "adult": false,
+    "id": 680,
+    "imdb_id": "tt0110912"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "release_year": "1968",
+    "clean_title": "/film/once-upon-a-time-in-the-west/",
+    "adult": false,
+    "id": 335,
+    "imdb_id": "tt0064116"
+  },
+  {
+    "title": "Viridiana",
+    "release_year": "1961",
+    "clean_title": "/film/viridiana/",
+    "adult": false,
+    "id": 4497,
+    "imdb_id": "tt0055601"
+  },
+  {
+    "title": "La Strada",
+    "release_year": "1954",
+    "clean_title": "/film/la-strada/",
+    "adult": false,
+    "id": 405,
+    "imdb_id": "tt0047528"
+  },
+  {
+    "title": "GoodFellas",
+    "release_year": "1990",
+    "clean_title": "/film/goodfellas/",
+    "adult": false,
+    "id": 769,
+    "imdb_id": "tt0099685"
+  },
+  {
+    "title": "The Wild Bunch",
+    "release_year": "1969",
+    "clean_title": "/film/the-wild-bunch/",
+    "adult": false,
+    "id": 576,
+    "imdb_id": "tt0065214"
+  },
+  {
+    "title": "Amarcord",
+    "release_year": "1973",
+    "clean_title": "/film/amarcord/",
+    "adult": false,
+    "id": 7857,
+    "imdb_id": "tt0071129"
+  },
+  {
+    "title": "Shoah",
+    "release_year": "1985",
+    "clean_title": "/film/shoah/",
+    "adult": false,
+    "id": 42044,
+    "imdb_id": "tt0090015"
+  },
+  {
+    "title": "The Leopard",
+    "release_year": "1963",
+    "clean_title": "/film/the-leopard/",
+    "adult": false,
+    "id": 1040,
+    "imdb_id": "tt0057091"
+  },
+  {
+    "title": "The Seventh Seal",
+    "release_year": "1957",
+    "clean_title": "/film/the-seventh-seal/",
+    "adult": false,
+    "id": 490,
+    "imdb_id": "tt0050976"
+  },
+  {
+    "title": "Journey to Italy",
+    "release_year": "1954",
+    "clean_title": "/film/journey-to-italy/",
+    "adult": false,
+    "id": 2748,
+    "imdb_id": "tt0046511"
+  },
+  {
+    "title": "The Battle of Algiers",
+    "release_year": "1966",
+    "clean_title": "/film/the-battle-of-algiers/",
+    "adult": false,
+    "id": 17295,
+    "imdb_id": "tt0058946"
+  },
+  {
+    "title": "The Gold Rush",
+    "release_year": "1925",
+    "clean_title": "/film/the-gold-rush/",
+    "adult": false,
+    "id": 962,
+    "imdb_id": "tt0015864"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "release_year": "1971",
+    "clean_title": "/film/a-clockwork-orange/",
+    "adult": false,
+    "id": 185,
+    "imdb_id": "tt0066921"
+  },
+  {
+    "title": "The Magnificent Ambersons",
+    "release_year": "1942",
+    "clean_title": "/film/the-magnificent-ambersons/",
+    "adult": false,
+    "id": 965,
+    "imdb_id": "tt0035015"
+  },
+  {
+    "title": "Pickpocket",
+    "release_year": "1959",
+    "clean_title": "/film/pickpocket/",
+    "adult": false,
+    "id": 690,
+    "imdb_id": "tt0053168"
+  },
+  {
+    "title": "Late Spring",
+    "release_year": "1949",
+    "clean_title": "/film/late-spring/",
+    "adult": false,
+    "id": 20530,
+    "imdb_id": "tt0041154"
+  },
+  {
+    "title": "Close-Up",
+    "release_year": "1990",
+    "clean_title": "/film/close-up/",
+    "adult": false,
+    "id": 30017,
+    "imdb_id": "tt0100234"
+  },
+  {
+    "title": "Jules and Jim",
+    "release_year": "1962",
+    "clean_title": "/film/jules-and-jim/",
+    "adult": false,
+    "id": 1628,
+    "imdb_id": "tt0055032"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "release_year": "1946",
+    "clean_title": "/film/its-a-wonderful-life/",
+    "adult": false,
+    "id": 1585,
+    "imdb_id": "tt0038650"
+  },
+  {
+    "title": "The Shining",
+    "release_year": "1980",
+    "clean_title": "/film/the-shining/",
+    "adult": false,
+    "id": 694,
+    "imdb_id": "tt0081505"
+  },
+  {
+    "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+    "release_year": "1975",
+    "clean_title": "/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles/",
+    "adult": false,
+    "id": 44012,
+    "imdb_id": "tt0073198"
+  },
+  {
+    "title": "Annie Hall",
+    "release_year": "1977",
+    "clean_title": "/film/annie-hall/",
+    "adult": false,
+    "id": 703,
+    "imdb_id": "tt0075686"
+  },
+  {
+    "title": "The Conformist",
+    "release_year": "1970",
+    "clean_title": "/film/the-conformist/",
+    "adult": false,
+    "id": 8416,
+    "imdb_id": "tt0065571"
+  },
+  {
+    "title": "Nashville",
+    "release_year": "1975",
+    "clean_title": "/film/nashville/",
+    "adult": false,
+    "id": 3121,
+    "imdb_id": "tt0073440"
+  },
+  {
+    "title": "Blue Velvet",
+    "release_year": "1986",
+    "clean_title": "/film/blue-velvet/",
+    "adult": false,
+    "id": 793,
+    "imdb_id": "tt0090756"
+  },
+  {
+    "title": "Gertrud",
+    "release_year": "1964",
+    "clean_title": "/film/gertrud/",
+    "adult": false,
+    "id": 34181,
+    "imdb_id": "tt0058138"
+  },
+  {
+    "title": "Sansho the Bailiff",
+    "release_year": "1954",
+    "clean_title": "/film/sansho-the-bailiff/",
+    "adult": false,
+    "id": 20532,
+    "imdb_id": "tt0047445"
+  },
+  {
+    "title": "A Man Escaped",
+    "release_year": "1956",
+    "clean_title": "/film/a-man-escaped/",
+    "adult": false,
+    "id": 15244,
+    "imdb_id": "tt0049902"
+  },
+  {
+    "title": "The Man Who Shot Liberty Valance",
+    "release_year": "1962",
+    "clean_title": "/film/the-man-who-shot-liberty-valance/",
+    "adult": false,
+    "id": 11697,
+    "imdb_id": "tt0056217"
+  },
+  {
+    "title": "Jaws",
+    "release_year": "1975",
+    "clean_title": "/film/jaws/",
+    "adult": false,
+    "id": 578,
+    "imdb_id": "tt0073195"
+  },
+  {
+    "title": "A Woman Under the Influence",
+    "release_year": "1974",
+    "clean_title": "/film/a-woman-under-the-influence/",
+    "adult": false,
+    "id": 29845,
+    "imdb_id": "tt0072417"
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "release_year": "1984",
+    "clean_title": "/film/once-upon-a-time-in-america/",
+    "adult": false,
+    "id": 311,
+    "imdb_id": "tt0087843"
+  },
+  {
+    "title": "Greed",
+    "release_year": "1924",
+    "clean_title": "/film/greed/",
+    "adult": false,
+    "id": 1405,
+    "imdb_id": "tt0015881"
+  },
+  {
+    "title": "Blow-Up",
+    "release_year": "1966",
+    "clean_title": "/film/blow-up/",
+    "adult": false,
+    "id": 1052,
+    "imdb_id": "tt0060176"
+  },
+  {
+    "title": "Last Year at Marienbad",
+    "release_year": "1961",
+    "clean_title": "/film/last-year-at-marienbad/",
+    "adult": false,
+    "id": 4024,
+    "imdb_id": "tt0054632"
+  },
+  {
+    "title": "To Be or Not to Be",
+    "release_year": "1942",
+    "clean_title": "/film/to-be-or-not-to-be/",
+    "adult": false,
+    "id": 198,
+    "imdb_id": "tt0035446"
+  },
+  {
+    "title": "Sans Soleil",
+    "release_year": "1983",
+    "clean_title": "/film/sans-soleil/",
+    "adult": false,
+    "id": 1563,
+    "imdb_id": "tt0084628"
+  },
+  {
+    "title": "Aguirre, the Wrath of God",
+    "release_year": "1972",
+    "clean_title": "/film/aguirre-the-wrath-of-god/",
+    "adult": false,
+    "id": 2000,
+    "imdb_id": "tt0068182"
+  },
+  {
+    "title": "The Mother and the Whore",
+    "release_year": "1973",
+    "clean_title": "/film/the-mother-and-the-whore/",
+    "adult": false,
+    "id": 48693,
+    "imdb_id": "tt0070359"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "release_year": "1939",
+    "clean_title": "/film/the-wizard-of-oz-1939/",
+    "adult": false,
+    "id": 630,
+    "imdb_id": "tt0032138"
+  },
+  {
+    "title": "The Spirit of the Beehive",
+    "release_year": "1973",
+    "clean_title": "/film/the-spirit-of-the-beehive/",
+    "adult": false,
+    "id": 4495,
+    "imdb_id": "tt0070040"
+  },
+  {
+    "title": "Hiroshima Mon Amour",
+    "release_year": "1959",
+    "clean_title": "/film/hiroshima-mon-amour/",
+    "adult": false,
+    "id": 5544,
+    "imdb_id": "tt0052893"
+  },
+  {
+    "title": "The Earrings of Madame de...",
+    "release_year": "1953",
+    "clean_title": "/film/the-earrings-of-madame-de/",
+    "adult": false,
+    "id": 27030,
+    "imdb_id": "tt0046022"
+  },
+  {
+    "title": "Gone with the Wind",
+    "release_year": "1939",
+    "clean_title": "/film/gone-with-the-wind/",
+    "adult": false,
+    "id": 770,
+    "imdb_id": "tt0031381"
+  },
+  {
+    "title": "Satantango",
+    "release_year": "1994",
+    "clean_title": "/film/satantango/",
+    "adult": false,
+    "id": 31414,
+    "imdb_id": "tt0111341"
+  },
+  {
+    "title": "L'Eclisse",
+    "release_year": "1962",
+    "clean_title": "/film/leclisse/",
+    "adult": false,
+    "id": 21135,
+    "imdb_id": "tt0056736"
+  },
+  {
+    "title": "Alien",
+    "release_year": "1979",
+    "clean_title": "/film/alien/",
+    "adult": false,
+    "id": 348,
+    "imdb_id": "tt0078748"
+  },
+  {
+    "title": "Intolerance: Love's Struggle Throughout the Ages",
+    "release_year": "1916",
+    "clean_title": "/film/intolerance-loves-struggle-throughout-the-ages/",
+    "adult": false,
+    "id": 3059,
+    "imdb_id": "tt0006864"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "release_year": "1975",
+    "clean_title": "/film/one-flew-over-the-cuckoos-nest/",
+    "adult": false,
+    "id": 510,
+    "imdb_id": "tt0073486"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "release_year": "1982",
+    "clean_title": "/film/et-the-extra-terrestrial/",
+    "adult": false,
+    "id": 601,
+    "imdb_id": "tt0083866"
+  },
+  {
+    "title": "Beau Travail",
+    "release_year": "1999",
+    "clean_title": "/film/beau-travail/",
+    "adult": false,
+    "id": 14626,
+    "imdb_id": "tt0209933"
+  },
+  {
+    "title": "Nosferatu",
+    "release_year": "1922",
+    "clean_title": "/film/nosferatu/",
+    "adult": false,
+    "id": 653,
+    "imdb_id": "tt0013442"
+  },
+  {
+    "title": "La Jetée",
+    "release_year": "1962",
+    "clean_title": "/film/la-jetee/",
+    "adult": false,
+    "id": 662,
+    "imdb_id": "tt0056119"
+  },
+  {
+    "title": "Yi Yi",
+    "release_year": "2000",
+    "clean_title": "/film/yi-yi/",
+    "adult": false,
+    "id": 25538,
+    "imdb_id": "tt0244316"
+  },
+  {
+    "title": "Ikiru",
+    "release_year": "1952",
+    "clean_title": "/film/ikiru/",
+    "adult": false,
+    "id": 3782,
+    "imdb_id": "tt0044741"
+  },
+  {
+    "title": "Star Wars",
+    "release_year": "1977",
+    "clean_title": "/film/star-wars/",
+    "adult": false,
+    "id": 11,
+    "imdb_id": "tt0076759"
+  },
+  {
+    "title": "Letter from an Unknown Woman",
+    "release_year": "1948",
+    "clean_title": "/film/letter-from-an-unknown-woman/",
+    "adult": false,
+    "id": 946,
+    "imdb_id": "tt0040536"
+  },
+  {
+    "title": "Sherlock Jr.",
+    "release_year": "1924",
+    "clean_title": "/film/sherlock-jr/",
+    "adult": false,
+    "id": 992,
+    "imdb_id": "tt0015324"
+  },
+  {
+    "title": "Manhattan",
+    "release_year": "1979",
+    "clean_title": "/film/manhattan/",
+    "adult": false,
+    "id": 696,
+    "imdb_id": "tt0079522"
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "release_year": "1991",
+    "clean_title": "/film/a-brighter-summer-day/",
+    "adult": false,
+    "id": 15804,
+    "imdb_id": "tt0101985"
+  },
+  {
+    "title": "Bringing Up Baby",
+    "release_year": "1938",
+    "clean_title": "/film/bringing-up-baby/",
+    "adult": false,
+    "id": 900,
+    "imdb_id": "tt0029947"
+  },
+  {
+    "title": "A Day in the Country",
+    "release_year": "1946",
+    "clean_title": "/film/a-day-in-the-country/",
+    "adult": false,
+    "id": 43878,
+    "imdb_id": "tt0028445"
+  },
+  {
+    "title": "Vivre Sa Vie",
+    "release_year": "1962",
+    "clean_title": "/film/vivre-sa-vie/",
+    "adult": false,
+    "id": 1626,
+    "imdb_id": "tt0056663"
+  },
+  {
+    "title": "Don't Look Now",
+    "release_year": "1973",
+    "clean_title": "/film/dont-look-now/",
+    "adult": false,
+    "id": 931,
+    "imdb_id": "tt0069995"
+  },
+  {
+    "title": "All About Eve",
+    "release_year": "1950",
+    "clean_title": "/film/all-about-eve/",
+    "adult": false,
+    "id": 705,
+    "imdb_id": "tt0042192"
+  },
+  {
+    "title": "Rosemary's Baby",
+    "release_year": "1968",
+    "clean_title": "/film/rosemarys-baby/",
+    "adult": false,
+    "id": 805,
+    "imdb_id": "tt0063522"
+  },
+  {
+    "title": "Rome, Open City",
+    "release_year": "1945",
+    "clean_title": "/film/rome-open-city/",
+    "adult": false,
+    "id": 307,
+    "imdb_id": "tt0038890"
+  },
+  {
+    "title": "My Darling Clementine",
+    "release_year": "1946",
+    "clean_title": "/film/my-darling-clementine/",
+    "adult": false,
+    "id": 3088,
+    "imdb_id": "tt0038762"
+  },
+  {
+    "title": "The Young and the Damned",
+    "release_year": "1950",
+    "clean_title": "/film/the-young-and-the-damned/",
+    "adult": false,
+    "id": 800,
+    "imdb_id": "tt0042804"
+  },
+  {
+    "title": "His Girl Friday",
+    "release_year": "1940",
+    "clean_title": "/film/his-girl-friday/",
+    "adult": false,
+    "id": 3085,
+    "imdb_id": "tt0032599"
+  },
+  {
+    "title": "L'Âge d'or",
+    "release_year": "1930",
+    "clean_title": "/film/lage-dor/",
+    "adult": false,
+    "id": 5729,
+    "imdb_id": "tt0021577"
+  },
+  {
+    "title": "Badlands",
+    "release_year": "1973",
+    "clean_title": "/film/badlands/",
+    "adult": false,
+    "id": 3133,
+    "imdb_id": "tt0069762"
+  },
+  {
+    "title": "Do the Right Thing",
+    "release_year": "1989",
+    "clean_title": "/film/do-the-right-thing/",
+    "adult": false,
+    "id": 925,
+    "imdb_id": "tt0097216"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "release_year": "1966",
+    "clean_title": "/film/the-good-the-bad-and-the-ugly/",
+    "adult": false,
+    "id": 429,
+    "imdb_id": "tt0060196"
+  },
+  {
+    "title": "Notorious",
+    "release_year": "1946",
+    "clean_title": "/film/notorious/",
+    "adult": false,
+    "id": 303,
+    "imdb_id": "tt0038787"
+  },
+  {
+    "title": "The Lady Eve",
+    "release_year": "1941",
+    "clean_title": "/film/the-lady-eve/",
+    "adult": false,
+    "id": 3086,
+    "imdb_id": "tt0033804"
+  },
+  {
+    "title": "Un Chien Andalou",
+    "release_year": "1929",
+    "clean_title": "/film/un-chien-andalou/",
+    "adult": false,
+    "id": 626,
+    "imdb_id": "tt0020530"
+  },
+  {
+    "title": "Ali: Fear Eats the Soul",
+    "release_year": "1974",
+    "clean_title": "/film/ali-fear-eats-the-soul/",
+    "adult": false,
+    "id": 216,
+    "imdb_id": "tt0071141"
+  },
+  {
+    "title": "Stagecoach",
+    "release_year": "1939",
+    "clean_title": "/film/stagecoach/",
+    "adult": false,
+    "id": 995,
+    "imdb_id": "tt0031971"
+  },
+  {
+    "title": "The Gospel According to St. Matthew",
+    "release_year": "1964",
+    "clean_title": "/film/the-gospel-according-to-st-matthew/",
+    "adult": false,
+    "id": 24192,
+    "imdb_id": "tt0058715"
+  },
+  {
+    "title": "Come and See",
+    "release_year": "1985",
+    "clean_title": "/film/come-and-see/",
+    "adult": false,
+    "id": 25237,
+    "imdb_id": "tt0091251"
+  },
+  {
+    "title": "Duck Soup",
+    "release_year": "1933",
+    "clean_title": "/film/duck-soup-1933/",
+    "adult": false,
+    "id": 3063,
+    "imdb_id": "tt0023969"
+  },
+  {
+    "title": "The Passenger",
+    "release_year": "1975",
+    "clean_title": "/film/the-passenger/",
+    "adult": false,
+    "id": 9652,
+    "imdb_id": "tt0073580"
+  },
+  {
+    "title": "Trouble in Paradise",
+    "release_year": "1932",
+    "clean_title": "/film/trouble-in-paradise/",
+    "adult": false,
+    "id": 195,
+    "imdb_id": "tt0023622"
+  },
+  {
+    "title": "Brief Encounter",
+    "release_year": "1945",
+    "clean_title": "/film/brief-encounter/",
+    "adult": false,
+    "id": 851,
+    "imdb_id": "tt0037558"
+  },
+  {
+    "title": "Cries and Whispers",
+    "release_year": "1972",
+    "clean_title": "/film/cries-and-whispers/",
+    "adult": false,
+    "id": 10238,
+    "imdb_id": "tt0069467"
+  },
+  {
+    "title": "The Conversation",
+    "release_year": "1974",
+    "clean_title": "/film/the-conversation/",
+    "adult": false,
+    "id": 592,
+    "imdb_id": "tt0071360"
+  },
+  {
+    "title": "Days of Heaven",
+    "release_year": "1978",
+    "clean_title": "/film/days-of-heaven/",
+    "adult": false,
+    "id": 16642,
+    "imdb_id": "tt0077405"
+  },
+  {
+    "title": "Histoire(s) du cinéma",
+    "release_year": "1989",
+    "clean_title": "/film/histoires-du-cinema-1989/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt6677224"
+  },
+  {
+    "title": "A Matter of Life and Death",
+    "release_year": "1946",
+    "clean_title": "/film/a-matter-of-life-and-death/",
+    "adult": false,
+    "id": 28162,
+    "imdb_id": "tt0038733"
+  },
+  {
+    "title": "Double Indemnity",
+    "release_year": "1944",
+    "clean_title": "/film/double-indemnity/",
+    "adult": false,
+    "id": 996,
+    "imdb_id": "tt0036775"
+  },
+  {
+    "title": "The Exterminating Angel",
+    "release_year": "1962",
+    "clean_title": "/film/the-exterminating-angel/",
+    "adult": false,
+    "id": 29264,
+    "imdb_id": "tt0056732"
+  },
+  {
+    "title": "The Umbrellas of Cherbourg",
+    "release_year": "1964",
+    "clean_title": "/film/the-umbrellas-of-cherbourg/",
+    "adult": false,
+    "id": 5967,
+    "imdb_id": "tt0058450"
+  },
+  {
+    "title": "On the Waterfront",
+    "release_year": "1954",
+    "clean_title": "/film/on-the-waterfront/",
+    "adult": false,
+    "id": 654,
+    "imdb_id": "tt0047296"
+  },
+  {
+    "title": "Spirited Away",
+    "release_year": "2001",
+    "clean_title": "/film/spirited-away/",
+    "adult": false,
+    "id": 129,
+    "imdb_id": "tt0245429"
+  },
+  {
+    "title": "The Deer Hunter",
+    "release_year": "1978",
+    "clean_title": "/film/the-deer-hunter/",
+    "adult": false,
+    "id": 11778,
+    "imdb_id": "tt0077416"
+  },
+  {
+    "title": "Spring in a Small Town",
+    "release_year": "1948",
+    "clean_title": "/film/spring-in-a-small-town/",
+    "adult": false,
+    "id": 21058,
+    "imdb_id": "tt0189219"
+  },
+  {
+    "title": "The Red Shoes",
+    "release_year": "1948",
+    "clean_title": "/film/the-red-shoes/",
+    "adult": false,
+    "id": 19542,
+    "imdb_id": "tt0040725"
+  },
+  {
+    "title": "There Will Be Blood",
+    "release_year": "2007",
+    "clean_title": "/film/there-will-be-blood/",
+    "adult": false,
+    "id": 7345,
+    "imdb_id": "tt0469494"
+  },
+  {
+    "title": "Chimes at Midnight",
+    "release_year": "1965",
+    "clean_title": "/film/chimes-at-midnight/",
+    "adult": false,
+    "id": 986,
+    "imdb_id": "tt0059012"
+  },
+  {
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "release_year": "1972",
+    "clean_title": "/film/the-discreet-charm-of-the-bourgeoisie/",
+    "adult": false,
+    "id": 4593,
+    "imdb_id": "tt0068361"
+  },
+  {
+    "title": "The Piano",
+    "release_year": "1993",
+    "clean_title": "/film/the-piano/",
+    "adult": false,
+    "id": 713,
+    "imdb_id": "tt0107822"
+  },
+  {
+    "title": "The Tree of Life",
+    "release_year": "2011",
+    "clean_title": "/film/the-tree-of-life-2011/",
+    "adult": false,
+    "id": 8967,
+    "imdb_id": "tt0478304"
+  },
+  {
+    "title": "Rocco and His Brothers",
+    "release_year": "1960",
+    "clean_title": "/film/rocco-and-his-brothers/",
+    "adult": false,
+    "id": 8422,
+    "imdb_id": "tt0054248"
+  },
+  {
+    "title": "King Kong",
+    "release_year": "1933",
+    "clean_title": "/film/king-kong/",
+    "adult": false,
+    "id": 244,
+    "imdb_id": "tt0024216"
+  },
+  {
+    "title": "Earth",
+    "release_year": "1930",
+    "clean_title": "/film/earth-1930/",
+    "adult": false,
+    "id": 46594,
+    "imdb_id": "tt0021571"
+  },
+  {
+    "title": "L'Argent",
+    "release_year": "1983",
+    "clean_title": "/film/largent-1983/",
+    "adult": false,
+    "id": 42112,
+    "imdb_id": "tt0085180"
+  },
+  {
+    "title": "The River",
+    "release_year": "1951",
+    "clean_title": "/film/the-river/",
+    "adult": false,
+    "id": 45218,
+    "imdb_id": "tt0043972"
+  },
+  {
+    "title": "Black Narcissus",
+    "release_year": "1947",
+    "clean_title": "/film/black-narcissus/",
+    "adult": false,
+    "id": 16391,
+    "imdb_id": "tt0039192"
+  },
+  {
+    "title": "The Birds",
+    "release_year": "1963",
+    "clean_title": "/film/the-birds/",
+    "adult": false,
+    "id": 571,
+    "imdb_id": "tt0056869"
+  },
+  {
+    "title": "Brazil",
+    "release_year": "1985",
+    "clean_title": "/film/brazil/",
+    "adult": false,
+    "id": 68,
+    "imdb_id": "tt0088846"
+  },
+  {
+    "title": "Napoleon",
+    "release_year": "1927",
+    "clean_title": "/film/napoleon/",
+    "adult": false,
+    "id": 42536,
+    "imdb_id": "tt0018192"
+  },
+  {
+    "title": "The Last Laugh",
+    "release_year": "1924",
+    "clean_title": "/film/the-last-laugh/",
+    "adult": false,
+    "id": 5991,
+    "imdb_id": "tt0015064"
+  },
+  {
+    "title": "Mouchette",
+    "release_year": "1967",
+    "clean_title": "/film/mouchette/",
+    "adult": false,
+    "id": 1561,
+    "imdb_id": "tt0061996"
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "release_year": "1974",
+    "clean_title": "/film/the-texas-chain-saw-massacre/",
+    "adult": false,
+    "id": 30497,
+    "imdb_id": "tt0072271"
+  },
+  {
+    "title": "The Thin Red Line",
+    "release_year": "1998",
+    "clean_title": "/film/the-thin-red-line/",
+    "adult": false,
+    "id": 8741,
+    "imdb_id": "tt0120863"
+  },
+  {
+    "title": "The Great Dictator",
+    "release_year": "1940",
+    "clean_title": "/film/the-great-dictator/",
+    "adult": false,
+    "id": 914,
+    "imdb_id": "tt0032553"
+  },
+  {
+    "title": "Imitation of Life",
+    "release_year": "1959",
+    "clean_title": "/film/imitation-of-life-1959/",
+    "adult": false,
+    "id": 34148,
+    "imdb_id": "tt0052918"
+  },
+  {
+    "title": "Kes",
+    "release_year": "1969",
+    "clean_title": "/film/kes/",
+    "adult": false,
+    "id": 13384,
+    "imdb_id": "tt0064541"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "release_year": "1940",
+    "clean_title": "/film/the-grapes-of-wrath/",
+    "adult": false,
+    "id": 596,
+    "imdb_id": "tt0032551"
+  },
+  {
+    "title": "Dekalog",
+    "release_year": "1989",
+    "clean_title": "/film/dekalog/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0092337"
+  },
+  {
+    "title": "Breaking the Waves",
+    "release_year": "1996",
+    "clean_title": "/film/breaking-the-waves/",
+    "adult": false,
+    "id": 145,
+    "imdb_id": "tt0115751"
+  },
+  {
+    "title": "Night and Fog",
+    "release_year": "1956",
+    "clean_title": "/film/night-and-fog/",
+    "adult": false,
+    "id": 803,
+    "imdb_id": "tt0048434"
+  },
+  {
+    "title": "Out of the Past",
+    "release_year": "1947",
+    "clean_title": "/film/out-of-the-past/",
+    "adult": false,
+    "id": 678,
+    "imdb_id": "tt0039689"
+  },
+  {
+    "title": "Death in Venice",
+    "release_year": "1971",
+    "clean_title": "/film/death-in-venice/",
+    "adult": false,
+    "id": 6619,
+    "imdb_id": "tt0067445"
+  },
+  {
+    "title": "Solaris",
+    "release_year": "1972",
+    "clean_title": "/film/solaris/",
+    "adult": false,
+    "id": 593,
+    "imdb_id": "tt0069293"
+  },
+  {
+    "title": "Umberto D.",
+    "release_year": "1952",
+    "clean_title": "/film/umberto-d/",
+    "adult": false,
+    "id": 833,
+    "imdb_id": "tt0045274"
+  },
+  {
+    "title": "A City of Sadness",
+    "release_year": "1989",
+    "clean_title": "/film/a-city-of-sadness/",
+    "adult": false,
+    "id": 49982,
+    "imdb_id": "tt0096908"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "release_year": "1981",
+    "clean_title": "/film/raiders-of-the-lost-ark/",
+    "adult": false,
+    "id": 85,
+    "imdb_id": "tt0082971"
+  },
+  {
+    "title": "Chungking Express",
+    "release_year": "1994",
+    "clean_title": "/film/chungking-express/",
+    "adult": false,
+    "id": 11104,
+    "imdb_id": "tt0109424"
+  },
+  {
+    "title": "Nights of Cabiria",
+    "release_year": "1957",
+    "clean_title": "/film/nights-of-cabiria/",
+    "adult": false,
+    "id": 19426,
+    "imdb_id": "tt0050783"
+  },
+  {
+    "title": "Fargo",
+    "release_year": "1996",
+    "clean_title": "/film/fargo/",
+    "adult": false,
+    "id": 275,
+    "imdb_id": "tt0116282"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "release_year": "2004",
+    "clean_title": "/film/eternal-sunshine-of-the-spotless-mind/",
+    "adult": false,
+    "id": 38,
+    "imdb_id": "tt0338013"
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "release_year": "1977",
+    "clean_title": "/film/close-encounters-of-the-third-kind/",
+    "adult": false,
+    "id": 840,
+    "imdb_id": "tt0075860"
+  },
+  {
+    "title": "Paisan",
+    "release_year": "1946",
+    "clean_title": "/film/paisan/",
+    "adult": false,
+    "id": 8429,
+    "imdb_id": "tt0038823"
+  },
+  {
+    "title": "The Life and Death of Colonel Blimp",
+    "release_year": "1943",
+    "clean_title": "/film/the-life-and-death-of-colonel-blimp/",
+    "adult": false,
+    "id": 25037,
+    "imdb_id": "tt0036112"
+  },
+  {
+    "title": "Belle de Jour",
+    "release_year": "1967",
+    "clean_title": "/film/belle-de-jour/",
+    "adult": false,
+    "id": 649,
+    "imdb_id": "tt0061395"
+  },
+  {
+    "title": "Le Samouraï",
+    "release_year": "1967",
+    "clean_title": "/film/le-samourai/",
+    "adult": false,
+    "id": 5511,
+    "imdb_id": "tt0062229"
+  },
+  {
+    "title": "Vampyr",
+    "release_year": "1932",
+    "clean_title": "/film/vampyr/",
+    "adult": false,
+    "id": 779,
+    "imdb_id": "tt0023649"
+  },
+  {
+    "title": "The Travelling Players",
+    "release_year": "1975",
+    "clean_title": "/film/the-travelling-players/",
+    "adult": false,
+    "id": 689,
+    "imdb_id": "tt0073800"
+  },
+  {
+    "title": "Salò, or the 120 Days of Sodom",
+    "release_year": "1975",
+    "clean_title": "/film/salo-or-the-120-days-of-sodom/",
+    "adult": false,
+    "id": 5336,
+    "imdb_id": "tt0073650"
+  },
+  {
+    "title": "McCabe & Mrs. Miller",
+    "release_year": "1971",
+    "clean_title": "/film/mccabe-mrs-miller/",
+    "adult": false,
+    "id": 29005,
+    "imdb_id": "tt0067411"
+  },
+  {
+    "title": "Black God, White Devil",
+    "release_year": "1964",
+    "clean_title": "/film/black-god-white-devil/",
+    "adult": false,
+    "id": 67612,
+    "imdb_id": "tt0058006"
+  },
+  {
+    "title": "The Exorcist",
+    "release_year": "1973",
+    "clean_title": "/film/the-exorcist/",
+    "adult": false,
+    "id": 9552,
+    "imdb_id": "tt0070047"
+  },
+  {
+    "title": "Unforgiven",
+    "release_year": "1992",
+    "clean_title": "/film/unforgiven/",
+    "adult": false,
+    "id": 33,
+    "imdb_id": "tt0105695"
+  },
+  {
+    "title": "The Cabinet of Dr. Caligari",
+    "release_year": "1920",
+    "clean_title": "/film/the-cabinet-of-dr-caligari-1920/",
+    "adult": false,
+    "id": 234,
+    "imdb_id": "tt0010323"
+  },
+  {
+    "title": "Red River",
+    "release_year": "1948",
+    "clean_title": "/film/red-river/",
+    "adult": false,
+    "id": 3089,
+    "imdb_id": "tt0040724"
+  },
+  {
+    "title": "The Big Lebowski",
+    "release_year": "1998",
+    "clean_title": "/film/the-big-lebowski/",
+    "adult": false,
+    "id": 115,
+    "imdb_id": "tt0118715"
+  },
+  {
+    "title": "Céline and Julie Go Boating",
+    "release_year": "1974",
+    "clean_title": "/film/celine-and-julie-go-boating/",
+    "adult": false,
+    "id": 27019,
+    "imdb_id": "tt0071381"
+  },
+  {
+    "title": "Ran",
+    "release_year": "1985",
+    "clean_title": "/film/ran/",
+    "adult": false,
+    "id": 11645,
+    "imdb_id": "tt0089881"
+  },
+  {
+    "title": "Sweet Smell of Success",
+    "release_year": "1957",
+    "clean_title": "/film/sweet-smell-of-success/",
+    "adult": false,
+    "id": 976,
+    "imdb_id": "tt0051036"
+  },
+  {
+    "title": "Caché",
+    "release_year": "2005",
+    "clean_title": "/film/cache/",
+    "adult": false,
+    "id": 445,
+    "imdb_id": "tt0387898"
+  },
+  {
+    "title": "The Graduate",
+    "release_year": "1967",
+    "clean_title": "/film/the-graduate/",
+    "adult": false,
+    "id": 37247,
+    "imdb_id": "tt0061722"
+  },
+  {
+    "title": "Wings of Desire",
+    "release_year": "1987",
+    "clean_title": "/film/wings-of-desire/",
+    "adult": false,
+    "id": 144,
+    "imdb_id": "tt0093191"
+  },
+  {
+    "title": "Performance",
+    "release_year": "1970",
+    "clean_title": "/film/performance/",
+    "adult": false,
+    "id": 26606,
+    "imdb_id": "tt0066214"
+  },
+  {
+    "title": "Ivan the Terrible, Part II: The Boyars' Plot",
+    "release_year": "1958",
+    "clean_title": "/film/ivan-the-terrible-part-ii-the-boyars-plot/",
+    "adult": false,
+    "id": 43118,
+    "imdb_id": "tt0051790"
+  },
+  {
+    "title": "Tropical Malady",
+    "release_year": "2004",
+    "clean_title": "/film/tropical-malady/",
+    "adult": false,
+    "id": 11534,
+    "imdb_id": "tt0381668"
+  },
+  {
+    "title": "The Quiet Man",
+    "release_year": "1952",
+    "clean_title": "/film/the-quiet-man/",
+    "adult": false,
+    "id": 3109,
+    "imdb_id": "tt0045061"
+  },
+  {
+    "title": "Schindler's List",
+    "release_year": "1993",
+    "clean_title": "/film/schindlers-list/",
+    "adult": false,
+    "id": 424,
+    "imdb_id": "tt0108052"
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "release_year": "1946",
+    "clean_title": "/film/the-best-years-of-our-lives/",
+    "adult": false,
+    "id": 887,
+    "imdb_id": "tt0036868"
+  },
+  {
+    "title": "Only Angels Have Wings",
+    "release_year": "1939",
+    "clean_title": "/film/only-angels-have-wings/",
+    "adult": false,
+    "id": 43832,
+    "imdb_id": "tt0031762"
+  },
+  {
+    "title": "Ashes and Diamonds",
+    "release_year": "1958",
+    "clean_title": "/film/ashes-and-diamonds/",
+    "adult": false,
+    "id": 5055,
+    "imdb_id": "tt0052080"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "release_year": "1988",
+    "clean_title": "/film/my-neighbor-totoro/",
+    "adult": false,
+    "id": 8392,
+    "imdb_id": "tt0096283"
+  },
+  {
+    "title": "Paths of Glory",
+    "release_year": "1957",
+    "clean_title": "/film/paths-of-glory/",
+    "adult": false,
+    "id": 975,
+    "imdb_id": "tt0050825"
+  },
+  {
+    "title": "La Notte",
+    "release_year": "1961",
+    "clean_title": "/film/la-notte/",
+    "adult": false,
+    "id": 41050,
+    "imdb_id": "tt0054130"
+  },
+  {
+    "title": "The Band Wagon",
+    "release_year": "1953",
+    "clean_title": "/film/the-band-wagon/",
+    "adult": false,
+    "id": 29376,
+    "imdb_id": "tt0045537"
+  },
+  {
+    "title": "Wavelength",
+    "release_year": "1967",
+    "clean_title": "/film/wavelength-1967/",
+    "adult": false,
+    "id": 88421,
+    "imdb_id": "tt0127354"
+  },
+  {
+    "title": "Groundhog Day",
+    "release_year": "1993",
+    "clean_title": "/film/groundhog-day/",
+    "adult": false,
+    "id": 137,
+    "imdb_id": "tt0107048"
+  },
+  {
+    "title": "Diary of a Country Priest",
+    "release_year": "1951",
+    "clean_title": "/film/diary-of-a-country-priest/",
+    "adult": false,
+    "id": 43376,
+    "imdb_id": "tt0042619"
+  },
+  {
+    "title": "Kind Hearts and Coronets",
+    "release_year": "1949",
+    "clean_title": "/film/kind-hearts-and-coronets/",
+    "adult": false,
+    "id": 11898,
+    "imdb_id": "tt0041546"
+  },
+  {
+    "title": "Nanook of the North",
+    "release_year": "1922",
+    "clean_title": "/film/nanook-of-the-north/",
+    "adult": false,
+    "id": 669,
+    "imdb_id": "tt0013427"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "release_year": "1948",
+    "clean_title": "/film/the-treasure-of-the-sierra-madre/",
+    "adult": false,
+    "id": 3090,
+    "imdb_id": "tt0040897"
+  },
+  {
+    "title": "Night of the Living Dead",
+    "release_year": "1968",
+    "clean_title": "/film/night-of-the-living-dead/",
+    "adult": false,
+    "id": 10331,
+    "imdb_id": "tt0063350"
+  },
+  {
+    "title": "Zero for Conduct",
+    "release_year": "1933",
+    "clean_title": "/film/zero-for-conduct-1933/",
+    "adult": false,
+    "id": 44494,
+    "imdb_id": "tt0024803"
+  },
+  {
+    "title": "Cléo from 5 to 7",
+    "release_year": "1962",
+    "clean_title": "/film/cleo-from-5-to-7/",
+    "adult": false,
+    "id": 499,
+    "imdb_id": "tt0055852"
+  },
+  {
+    "title": "Germany, Year Zero",
+    "release_year": "1948",
+    "clean_title": "/film/germany-year-zero/",
+    "adult": false,
+    "id": 8016,
+    "imdb_id": "tt0039417"
+  },
+  {
+    "title": "Paris, Texas",
+    "release_year": "1984",
+    "clean_title": "/film/paris-texas/",
+    "adult": false,
+    "id": 655,
+    "imdb_id": "tt0087884"
+  },
+  {
+    "title": "Sullivan's Travels",
+    "release_year": "1941",
+    "clean_title": "/film/sullivans-travels/",
+    "adult": false,
+    "id": 16305,
+    "imdb_id": "tt0034240"
+  },
+  {
+    "title": "Bonnie and Clyde",
+    "release_year": "1967",
+    "clean_title": "/film/bonnie-and-clyde/",
+    "adult": false,
+    "id": 475,
+    "imdb_id": "tt0061418"
+  },
+  {
+    "title": "The Thing",
+    "release_year": "1982",
+    "clean_title": "/film/the-thing/",
+    "adult": false,
+    "id": 1091,
+    "imdb_id": "tt0084787"
+  },
+  {
+    "title": "F for Fake",
+    "release_year": "1973",
+    "clean_title": "/film/f-for-fake/",
+    "adult": false,
+    "id": 43003,
+    "imdb_id": "tt0072962"
+  },
+  {
+    "title": "Johnny Guitar",
+    "release_year": "1954",
+    "clean_title": "/film/johnny-guitar/",
+    "adult": false,
+    "id": 26596,
+    "imdb_id": "tt0047136"
+  },
+  {
+    "title": "Meet Me in St. Louis",
+    "release_year": "1944",
+    "clean_title": "/film/meet-me-in-st-louis/",
+    "adult": false,
+    "id": 909,
+    "imdb_id": "tt0037059"
+  },
+  {
+    "title": "The Crowd",
+    "release_year": "1928",
+    "clean_title": "/film/the-crowd/",
+    "adult": false,
+    "id": 3061,
+    "imdb_id": "tt0018806"
+  },
+  {
+    "title": "The Color of Pomegranates",
+    "release_year": "1969",
+    "clean_title": "/film/the-color-of-pomegranates/",
+    "adult": false,
+    "id": 26302,
+    "imdb_id": "tt0063555"
+  },
+  {
+    "title": "2 or 3 Things I Know About Her",
+    "release_year": "1967",
+    "clean_title": "/film/2-or-3-things-i-know-about-her/",
+    "adult": false,
+    "id": 8074,
+    "imdb_id": "tt0060304"
+  },
+  {
+    "title": "Ivan the Terrible, Part I",
+    "release_year": "1944",
+    "clean_title": "/film/ivan-the-terrible-part-i/",
+    "adult": false,
+    "id": 9797,
+    "imdb_id": "tt0037824"
+  },
+  {
+    "title": "Magnolia",
+    "release_year": "1999",
+    "clean_title": "/film/magnolia/",
+    "adult": false,
+    "id": 334,
+    "imdb_id": "tt0175880"
+  },
+  {
+    "title": "Monsieur Hulot's Holiday",
+    "release_year": "1953",
+    "clean_title": "/film/monsieur-hulots-holiday/",
+    "adult": false,
+    "id": 778,
+    "imdb_id": "tt0046487"
+  },
+  {
+    "title": "Tabu: A Story of the South Seas",
+    "release_year": "1931",
+    "clean_title": "/film/tabu-a-story-of-the-south-seas/",
+    "adult": false,
+    "id": 977,
+    "imdb_id": "tt0022458"
+  },
+  {
+    "title": "The Shop Around the Corner",
+    "release_year": "1940",
+    "clean_title": "/film/the-shop-around-the-corner/",
+    "adult": false,
+    "id": 20334,
+    "imdb_id": "tt0033045"
+  },
+  {
+    "title": "Uncle Boonmee Who Can Recall His Past Lives",
+    "release_year": "2010",
+    "clean_title": "/film/uncle-boonmee-who-can-recall-his-past-lives/",
+    "adult": false,
+    "id": 38368,
+    "imdb_id": "tt1588895"
+  },
+  {
+    "title": "Floating Clouds",
+    "release_year": "1955",
+    "clean_title": "/film/floating-clouds/",
+    "adult": false,
+    "id": 77285,
+    "imdb_id": "tt0048757"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "release_year": "1941",
+    "clean_title": "/film/the-maltese-falcon-1941/",
+    "adult": false,
+    "id": 963,
+    "imdb_id": "tt0033870"
+  },
+  {
+    "title": "Memories of Underdevelopment",
+    "release_year": "1968",
+    "clean_title": "/film/memories-of-underdevelopment/",
+    "adult": false,
+    "id": 47576,
+    "imdb_id": "tt0063291"
+  },
+  {
+    "title": "The Life of Oharu",
+    "release_year": "1952",
+    "clean_title": "/film/the-life-of-oharu/",
+    "adult": false,
+    "id": 43364,
+    "imdb_id": "tt0045112"
+  },
+  {
+    "title": "My Night at Maud's",
+    "release_year": "1969",
+    "clean_title": "/film/my-night-at-mauds/",
+    "adult": false,
+    "id": 48831,
+    "imdb_id": "tt0064612"
+  },
+  {
+    "title": "Faces",
+    "release_year": "1968",
+    "clean_title": "/film/faces-1968/",
+    "adult": false,
+    "id": 753,
+    "imdb_id": "tt0062952"
+  },
+  {
+    "title": "The Thin Blue Line",
+    "release_year": "1988",
+    "clean_title": "/film/the-thin-blue-line/",
+    "adult": false,
+    "id": 14285,
+    "imdb_id": "tt0096257"
+  },
+  {
+    "title": "Freaks",
+    "release_year": "1932",
+    "clean_title": "/film/freaks/",
+    "adult": false,
+    "id": 136,
+    "imdb_id": "tt0022913"
+  },
+  {
+    "title": "The Executioner",
+    "release_year": "1963",
+    "clean_title": "/film/the-executioner/",
+    "adult": false,
+    "id": 4498,
+    "imdb_id": "tt0057643"
+  },
+  {
+    "title": "Day of Wrath",
+    "release_year": "1943",
+    "clean_title": "/film/day-of-wrath/",
+    "adult": false,
+    "id": 41391,
+    "imdb_id": "tt0036506"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "release_year": "1988",
+    "clean_title": "/film/cinema-paradiso/",
+    "adult": false,
+    "id": 11216,
+    "imdb_id": "tt0095765"
+  },
+  {
+    "title": "Eraserhead",
+    "release_year": "1977",
+    "clean_title": "/film/eraserhead/",
+    "adult": false,
+    "id": 985,
+    "imdb_id": "tt0074486"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "release_year": "1946",
+    "clean_title": "/film/beauty-and-the-beast/",
+    "adult": false,
+    "id": 648,
+    "imdb_id": "tt0038348"
+  },
+  {
+    "title": "Mean Streets",
+    "release_year": "1973",
+    "clean_title": "/film/mean-streets/",
+    "adult": false,
+    "id": 203,
+    "imdb_id": "tt0070379"
+  },
+  {
+    "title": "Distant Voices, Still Lives",
+    "release_year": "1988",
+    "clean_title": "/film/distant-voices-still-lives/",
+    "adult": false,
+    "id": 41799,
+    "imdb_id": "tt0095037"
+  },
+  {
+    "title": "The Story of the Last Chrysanthemum",
+    "release_year": "1939",
+    "clean_title": "/film/the-story-of-the-last-chrysanthemum/",
+    "adult": false,
+    "id": 46069,
+    "imdb_id": "tt0032156"
+  },
+  {
+    "title": "Three Colours: Red",
+    "release_year": "1994",
+    "clean_title": "/film/three-colours-red/",
+    "adult": false,
+    "id": 110,
+    "imdb_id": "tt0111495"
+  },
+  {
+    "title": "In a Lonely Place",
+    "release_year": "1950",
+    "clean_title": "/film/in-a-lonely-place/",
+    "adult": false,
+    "id": 17057,
+    "imdb_id": "tt0042593"
+  },
+  {
+    "title": "Broken Blossoms",
+    "release_year": "1919",
+    "clean_title": "/film/broken-blossoms-1919/",
+    "adult": false,
+    "id": 899,
+    "imdb_id": "tt0009968"
+  },
+  {
+    "title": "Meshes of the Afternoon",
+    "release_year": "1943",
+    "clean_title": "/film/meshes-of-the-afternoon/",
+    "adult": false,
+    "id": 27040,
+    "imdb_id": "tt0036154"
+  },
+  {
+    "title": "Kings of the Road",
+    "release_year": "1976",
+    "clean_title": "/film/kings-of-the-road/",
+    "adult": false,
+    "id": 10834,
+    "imdb_id": "tt0073152"
+  },
+  {
+    "title": "Love Streams",
+    "release_year": "1984",
+    "clean_title": "/film/love-streams/",
+    "adult": false,
+    "id": 52109,
+    "imdb_id": "tt0087644"
+  },
+  {
+    "title": "City of God",
+    "release_year": "2002",
+    "clean_title": "/film/city-of-god/",
+    "adult": false,
+    "id": 598,
+    "imdb_id": "tt0317248"
+  },
+  {
+    "title": "Throne of Blood",
+    "release_year": "1957",
+    "clean_title": "/film/throne-of-blood/",
+    "adult": false,
+    "id": 3777,
+    "imdb_id": "tt0050613"
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "release_year": "1999",
+    "clean_title": "/film/eyes-wide-shut/",
+    "adult": false,
+    "id": 345,
+    "imdb_id": "tt0120663"
+  },
+  {
+    "title": "Peeping Tom",
+    "release_year": "1960",
+    "clean_title": "/film/peeping-tom/",
+    "adult": false,
+    "id": 11167,
+    "imdb_id": "tt0054167"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "release_year": "1980",
+    "clean_title": "/film/the-empire-strikes-back/",
+    "adult": false,
+    "id": 1891,
+    "imdb_id": "tt0080684"
+  },
+  {
+    "title": "Three Colours: Blue",
+    "release_year": "1993",
+    "clean_title": "/film/three-colours-blue/",
+    "adult": false,
+    "id": 108,
+    "imdb_id": "tt0108394"
+  },
+  {
+    "title": "Holy Motors",
+    "release_year": "2012",
+    "clean_title": "/film/holy-motors/",
+    "adult": false,
+    "id": 103328,
+    "imdb_id": "tt2076220"
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "release_year": "1975",
+    "clean_title": "/film/dog-day-afternoon/",
+    "adult": false,
+    "id": 968,
+    "imdb_id": "tt0072890"
+  },
+  {
+    "title": "The Wages of Fear",
+    "release_year": "1953",
+    "clean_title": "/film/the-wages-of-fear/",
+    "adult": false,
+    "id": 204,
+    "imdb_id": "tt0046268"
+  },
+  {
+    "title": "An Autumn Afternoon",
+    "release_year": "1962",
+    "clean_title": "/film/an-autumn-afternoon/",
+    "adult": false,
+    "id": 50759,
+    "imdb_id": "tt0056444"
+  },
+  {
+    "title": "Pandora's Box",
+    "release_year": "1929",
+    "clean_title": "/film/pandoras-box/",
+    "adult": false,
+    "id": 905,
+    "imdb_id": "tt0018737"
+  },
+  {
+    "title": "Back to the Future",
+    "release_year": "1985",
+    "clean_title": "/film/back-to-the-future/",
+    "adult": false,
+    "id": 105,
+    "imdb_id": "tt0088763"
+  },
+  {
+    "title": "The Matrix",
+    "release_year": "1999",
+    "clean_title": "/film/the-matrix/",
+    "adult": false,
+    "id": 603,
+    "imdb_id": "tt0133093"
+  },
+  {
+    "title": "Daisies",
+    "release_year": "1966",
+    "clean_title": "/film/daisies/",
+    "adult": false,
+    "id": 46919,
+    "imdb_id": "tt0060959"
+  },
+  {
+    "title": "The Music Room",
+    "release_year": "1958",
+    "clean_title": "/film/the-music-room/",
+    "adult": false,
+    "id": 822,
+    "imdb_id": "tt0051792"
+  },
+  {
+    "title": "Underground",
+    "release_year": "1995",
+    "clean_title": "/film/underground-1995/",
+    "adult": false,
+    "id": 11902,
+    "imdb_id": "tt0114787"
+  },
+  {
+    "title": "Monsieur Verdoux",
+    "release_year": "1947",
+    "clean_title": "/film/monsieur-verdoux/",
+    "adult": false,
+    "id": 30588,
+    "imdb_id": "tt0039631"
+  },
+  {
+    "title": "Videodrome",
+    "release_year": "1983",
+    "clean_title": "/film/videodrome/",
+    "adult": false,
+    "id": 837,
+    "imdb_id": "tt0086541"
+  },
+  {
+    "title": "Where Is the Friend's House?",
+    "release_year": "1987",
+    "clean_title": "/film/where-is-the-friends-house/",
+    "adult": false,
+    "id": 49964,
+    "imdb_id": "tt0093342"
+  },
+  {
+    "title": "Crimes and Misdemeanors",
+    "release_year": "1989",
+    "clean_title": "/film/crimes-and-misdemeanors/",
+    "adult": false,
+    "id": 11562,
+    "imdb_id": "tt0097123"
+  },
+  {
+    "title": "Husbands",
+    "release_year": "1970",
+    "clean_title": "/film/husbands/",
+    "adult": false,
+    "id": 52105,
+    "imdb_id": "tt0065867"
+  },
+  {
+    "title": "Wanda",
+    "release_year": "1970",
+    "clean_title": "/film/wanda/",
+    "adult": false,
+    "id": 80560,
+    "imdb_id": "tt0067961"
+  },
+  {
+    "title": "Killer of Sheep",
+    "release_year": "1978",
+    "clean_title": "/film/killer-of-sheep/",
+    "adult": false,
+    "id": 27432,
+    "imdb_id": "tt0076263"
+  },
+  {
+    "title": "The Big Sleep",
+    "release_year": "1946",
+    "clean_title": "/film/the-big-sleep/",
+    "adult": false,
+    "id": 910,
+    "imdb_id": "tt0038355"
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "release_year": "1984",
+    "clean_title": "/film/this-is-spinal-tap/",
+    "adult": false,
+    "id": 11031,
+    "imdb_id": "tt0088258"
+  },
+  {
+    "title": "The Birth of a Nation",
+    "release_year": "1915",
+    "clean_title": "/film/the-birth-of-a-nation/",
+    "adult": false,
+    "id": 618,
+    "imdb_id": "tt0004972"
+  },
+  {
+    "title": "Touki Bouki",
+    "release_year": "1973",
+    "clean_title": "/film/touki-bouki/",
+    "adult": false,
+    "id": 77771,
+    "imdb_id": "tt0070820"
+  },
+  {
+    "title": "The Kid",
+    "release_year": "1921",
+    "clean_title": "/film/the-kid/",
+    "adult": false,
+    "id": 10098,
+    "imdb_id": "tt0012349"
+  },
+  {
+    "title": "Red Desert",
+    "release_year": "1964",
+    "clean_title": "/film/red-desert/",
+    "adult": false,
+    "id": 26638,
+    "imdb_id": "tt0058003"
+  },
+  {
+    "title": "Entranced Earth",
+    "release_year": "1967",
+    "clean_title": "/film/entranced-earth/",
+    "adult": false,
+    "id": 67062,
+    "imdb_id": "tt0062352"
+  },
+  {
+    "title": "The Last Picture Show",
+    "release_year": "1971",
+    "clean_title": "/film/the-last-picture-show/",
+    "adult": false,
+    "id": 25188,
+    "imdb_id": "tt0067328"
+  },
+  {
+    "title": "Dawn of the Dead",
+    "release_year": "1978",
+    "clean_title": "/film/dawn-of-the-dead/",
+    "adult": false,
+    "id": 923,
+    "imdb_id": "tt0077402"
+  },
+  {
+    "title": "Eyes Without a Face",
+    "release_year": "1960",
+    "clean_title": "/film/eyes-without-a-face/",
+    "adult": false,
+    "id": 31417,
+    "imdb_id": "tt0053459"
+  },
+  {
+    "title": "The Green Ray",
+    "release_year": "1986",
+    "clean_title": "/film/the-green-ray/",
+    "adult": false,
+    "id": 54898,
+    "imdb_id": "tt0091830"
+  },
+  {
+    "title": "All About My Mother",
+    "release_year": "1999",
+    "clean_title": "/film/all-about-my-mother/",
+    "adult": false,
+    "id": 99,
+    "imdb_id": "tt0185125"
+  },
+  {
+    "title": "Weekend",
+    "release_year": "1967",
+    "clean_title": "/film/weekend-1967/",
+    "adult": false,
+    "id": 8075,
+    "imdb_id": "tt0062480"
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "release_year": "1937",
+    "clean_title": "/film/snow-white-and-the-seven-dwarfs/",
+    "adult": false,
+    "id": 408,
+    "imdb_id": "tt0029583"
+  },
+  {
+    "title": "Stranger Than Paradise",
+    "release_year": "1984",
+    "clean_title": "/film/stranger-than-paradise/",
+    "adult": false,
+    "id": 469,
+    "imdb_id": "tt0088184"
+  },
+  {
+    "title": "Make Way for Tomorrow",
+    "release_year": "1937",
+    "clean_title": "/film/make-way-for-tomorrow/",
+    "adult": false,
+    "id": 41059,
+    "imdb_id": "tt0029192"
+  },
+  {
+    "title": "Harold and Maude",
+    "release_year": "1971",
+    "clean_title": "/film/harold-and-maude/",
+    "adult": false,
+    "id": 343,
+    "imdb_id": "tt0067185"
+  },
+  {
+    "title": "Apur Sansar",
+    "release_year": "1959",
+    "clean_title": "/film/apur-sansar/",
+    "adult": false,
+    "id": 896,
+    "imdb_id": "tt0052572"
+  },
+  {
+    "title": "West Side Story",
+    "release_year": "1961",
+    "clean_title": "/film/west-side-story/",
+    "adult": false,
+    "id": 1725,
+    "imdb_id": "tt0055614"
+  },
+  {
+    "title": "Kiss Me Deadly",
+    "release_year": "1955",
+    "clean_title": "/film/kiss-me-deadly/",
+    "adult": false,
+    "id": 18030,
+    "imdb_id": "tt0048261"
+  },
+  {
+    "title": "The Turin Horse",
+    "release_year": "2011",
+    "clean_title": "/film/the-turin-horse/",
+    "adult": false,
+    "id": 81401,
+    "imdb_id": "tt1316540"
+  },
+  {
+    "title": "Tie Xi Qu: West of the Tracks",
+    "release_year": "2002",
+    "clean_title": "/film/tie-xi-qu-west-of-the-tracks/",
+    "adult": false,
+    "id": 86282,
+    "imdb_id": "tt0389448"
+  },
+  {
+    "title": "The Sacrifice",
+    "release_year": "1986",
+    "clean_title": "/film/the-sacrifice/",
+    "adult": false,
+    "id": 24657,
+    "imdb_id": "tt0091670"
+  },
+  {
+    "title": "Heat",
+    "release_year": "1995",
+    "clean_title": "/film/heat-1995/",
+    "adult": false,
+    "id": 949,
+    "imdb_id": "tt0113277"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "release_year": "1991",
+    "clean_title": "/film/the-silence-of-the-lambs/",
+    "adult": false,
+    "id": 274,
+    "imdb_id": "tt0102926"
+  },
+  {
+    "title": "Berlin Alexanderplatz",
+    "release_year": "1980",
+    "clean_title": "/film/berlin-alexanderplatz/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0080196"
+  },
+  {
+    "title": "The Philadelphia Story",
+    "release_year": "1940",
+    "clean_title": "/film/the-philadelphia-story/",
+    "adult": false,
+    "id": 981,
+    "imdb_id": "tt0032904"
+  },
+  {
+    "title": "It Happened One Night",
+    "release_year": "1934",
+    "clean_title": "/film/it-happened-one-night/",
+    "adult": false,
+    "id": 3078,
+    "imdb_id": "tt0025316"
+  },
+  {
+    "title": "Bride of Frankenstein",
+    "release_year": "1935",
+    "clean_title": "/film/bride-of-frankenstein/",
+    "adult": false,
+    "id": 229,
+    "imdb_id": "tt0026138"
+  },
+  {
+    "title": "In the Realm of the Senses",
+    "release_year": "1976",
+    "clean_title": "/film/in-the-realm-of-the-senses/",
+    "adult": false,
+    "id": 5879,
+    "imdb_id": "tt0074102"
+  },
+  {
+    "title": "Happy Together",
+    "release_year": "1997",
+    "clean_title": "/film/happy-together-1997/",
+    "adult": false,
+    "id": 18329,
+    "imdb_id": "tt0118845"
+  },
+  {
+    "title": "The Puppetmaster",
+    "release_year": "1993",
+    "clean_title": "/film/the-puppetmaster/",
+    "adult": false,
+    "id": 96712,
+    "imdb_id": "tt0107157"
+  },
+  {
+    "title": "Dream of Light",
+    "release_year": "1992",
+    "clean_title": "/film/dream-of-light/",
+    "adult": false,
+    "id": 94706,
+    "imdb_id": "tt0105438"
+  },
+  {
+    "title": "Melancholia",
+    "release_year": "2011",
+    "clean_title": "/film/melancholia/",
+    "adult": false,
+    "id": 62215,
+    "imdb_id": "tt1527186"
+  },
+  {
+    "title": "Midnight Cowboy",
+    "release_year": "1969",
+    "clean_title": "/film/midnight-cowboy/",
+    "adult": false,
+    "id": 3116,
+    "imdb_id": "tt0064665"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "release_year": "1992",
+    "clean_title": "/film/reservoir-dogs/",
+    "adult": false,
+    "id": 500,
+    "imdb_id": "tt0105236"
+  },
+  {
+    "title": "The Innocents",
+    "release_year": "1961",
+    "clean_title": "/film/the-innocents/",
+    "adult": false,
+    "id": 16372,
+    "imdb_id": "tt0055018"
+  },
+  {
+    "title": "The Killing of a Chinese Bookie",
+    "release_year": "1976",
+    "clean_title": "/film/the-killing-of-a-chinese-bookie/",
+    "adult": false,
+    "id": 32040,
+    "imdb_id": "tt0074749"
+  },
+  {
+    "title": "A Separation",
+    "release_year": "2011",
+    "clean_title": "/film/a-separation/",
+    "adult": false,
+    "id": 60243,
+    "imdb_id": "tt1832382"
+  },
+  {
+    "title": "Days of Being Wild",
+    "release_year": "1990",
+    "clean_title": "/film/ah-fei-jing-juen/",
+    "adult": false,
+    "id": 18311,
+    "imdb_id": "tt0101258"
+  },
+  {
+    "title": "Cabaret",
+    "release_year": "1972",
+    "clean_title": "/film/cabaret/",
+    "adult": false,
+    "id": 10784,
+    "imdb_id": "tt0068327"
+  },
+  {
+    "title": "The Time to Live and the Time to Die",
+    "release_year": "1985",
+    "clean_title": "/film/the-time-to-live-and-the-time-to-die/",
+    "adult": false,
+    "id": 45999,
+    "imdb_id": "tt0090185"
+  },
+  {
+    "title": "The House Is Black",
+    "release_year": "1963",
+    "clean_title": "/film/the-house-is-black/",
+    "adult": false,
+    "id": 44065,
+    "imdb_id": "tt0336693"
+  },
+  {
+    "title": "A Canterbury Tale",
+    "release_year": "1944",
+    "clean_title": "/film/a-canterbury-tale/",
+    "adult": false,
+    "id": 15696,
+    "imdb_id": "tt0036695"
+  },
+  {
+    "title": "A Touch of Zen",
+    "release_year": "1970",
+    "clean_title": "/film/a-touch-of-zen/",
+    "adult": false,
+    "id": 44154,
+    "imdb_id": "tt0064451"
+  },
+  {
+    "title": "Aliens",
+    "release_year": "1986",
+    "clean_title": "/film/aliens/",
+    "adult": false,
+    "id": 679,
+    "imdb_id": "tt0090605"
+  },
+  {
+    "title": "Dogville",
+    "release_year": "2003",
+    "clean_title": "/film/dogville/",
+    "adult": false,
+    "id": 553,
+    "imdb_id": "tt0276919"
+  },
+  {
+    "title": "Orpheus",
+    "release_year": "1950",
+    "clean_title": "/film/orpheus/",
+    "adult": false,
+    "id": 4558,
+    "imdb_id": "tt0041719"
+  },
+  {
+    "title": "Army of Shadows",
+    "release_year": "1969",
+    "clean_title": "/film/army-of-shadows/",
+    "adult": false,
+    "id": 15383,
+    "imdb_id": "tt0064040"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "release_year": "2015",
+    "clean_title": "/film/mad-max-fury-road/",
+    "adult": false,
+    "id": 76341,
+    "imdb_id": "tt1392190"
+  },
+  {
+    "title": "Theorem",
+    "release_year": "1968",
+    "clean_title": "/film/theorem/",
+    "adult": false,
+    "id": 5335,
+    "imdb_id": "tt0063678"
+  },
+  {
+    "title": "Amadeus",
+    "release_year": "1984",
+    "clean_title": "/film/amadeus/",
+    "adult": false,
+    "id": 279,
+    "imdb_id": "tt0086879"
+  },
+  {
+    "title": "Carrie",
+    "release_year": "1976",
+    "clean_title": "/film/carrie-1976/",
+    "adult": false,
+    "id": 7340,
+    "imdb_id": "tt0074285"
+  },
+  {
+    "title": "Le Plaisir",
+    "release_year": "1952",
+    "clean_title": "/film/le-plaisir/",
+    "adult": false,
+    "id": 43360,
+    "imdb_id": "tt0045034"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "release_year": "1962",
+    "clean_title": "/film/to-kill-a-mockingbird/",
+    "adult": false,
+    "id": 595,
+    "imdb_id": "tt0056592"
+  },
+  {
+    "title": "Suspiria",
+    "release_year": "1977",
+    "clean_title": "/film/suspiria/",
+    "adult": false,
+    "id": 11906,
+    "imdb_id": "tt0076786"
+  },
+  {
+    "title": "I Was Born, But...",
+    "release_year": "1932",
+    "clean_title": "/film/i-was-born-but/",
+    "adult": false,
+    "id": 28268,
+    "imdb_id": "tt0023634"
+  },
+  {
+    "title": "The Tenant",
+    "release_year": "1976",
+    "clean_title": "/film/the-tenant/",
+    "adult": false,
+    "id": 11482,
+    "imdb_id": "tt0074811"
+  },
+  {
+    "title": "Brokeback Mountain",
+    "release_year": "2005",
+    "clean_title": "/film/brokeback-mountain/",
+    "adult": false,
+    "id": 142,
+    "imdb_id": "tt0388795"
+  },
+  {
+    "title": "I Am Cuba",
+    "release_year": "1964",
+    "clean_title": "/film/i-am-cuba/",
+    "adult": false,
+    "id": 32015,
+    "imdb_id": "tt0058604"
+  },
+  {
+    "title": "How Green Was My Valley",
+    "release_year": "1941",
+    "clean_title": "/film/how-green-was-my-valley/",
+    "adult": false,
+    "id": 43266,
+    "imdb_id": "tt0033729"
+  },
+  {
+    "title": "Toni Erdmann",
+    "release_year": "2016",
+    "clean_title": "/film/toni-erdmann/",
+    "adult": false,
+    "id": 374475,
+    "imdb_id": "tt4048272"
+  },
+  {
+    "title": "The Elephant Man",
+    "release_year": "1980",
+    "clean_title": "/film/the-elephant-man/",
+    "adult": false,
+    "id": 1955,
+    "imdb_id": "tt0080678"
+  },
+  {
+    "title": "Lola Montès",
+    "release_year": "1955",
+    "clean_title": "/film/lola-montes/",
+    "adult": false,
+    "id": 35987,
+    "imdb_id": "tt0048308"
+  },
+  {
+    "title": "WALL·E",
+    "release_year": "2008",
+    "clean_title": "/film/walle/",
+    "adult": false,
+    "id": 10681,
+    "imdb_id": "tt0910970"
+  },
+  {
+    "title": "Lost in Translation",
+    "release_year": "2003",
+    "clean_title": "/film/lost-in-translation/",
+    "adult": false,
+    "id": 153,
+    "imdb_id": "tt0335266"
+  },
+  {
+    "title": "High Noon",
+    "release_year": "1952",
+    "clean_title": "/film/high-noon/",
+    "adult": false,
+    "id": 288,
+    "imdb_id": "tt0044706"
+  },
+  {
+    "title": "Listen to Britain",
+    "release_year": "1942",
+    "clean_title": "/film/listen-to-britain/",
+    "adult": false,
+    "id": 88609,
+    "imdb_id": "tt0034978"
+  },
+  {
+    "title": "Werckmeister Harmonies",
+    "release_year": "2000",
+    "clean_title": "/film/werckmeister-harmonies/",
+    "adult": false,
+    "id": 23160,
+    "imdb_id": "tt0249241"
+  },
+  {
+    "title": "Last Tango in Paris",
+    "release_year": "1972",
+    "clean_title": "/film/last-tango-in-paris/",
+    "adult": false,
+    "id": 1643,
+    "imdb_id": "tt0070849"
+  },
+  {
+    "title": "The Young Girls of Rochefort",
+    "release_year": "1967",
+    "clean_title": "/film/the-young-girls-of-rochefort/",
+    "adult": false,
+    "id": 2433,
+    "imdb_id": "tt0062873"
+  },
+  {
+    "title": "The Gleaners and I",
+    "release_year": "2000",
+    "clean_title": "/film/the-gleaners-and-i/",
+    "adult": false,
+    "id": 44379,
+    "imdb_id": "tt0247380"
+  },
+  {
+    "title": "Talk to Her",
+    "release_year": "2002",
+    "clean_title": "/film/talk-to-her/",
+    "adult": false,
+    "id": 64,
+    "imdb_id": "tt0287467"
+  },
+  {
+    "title": "Marnie",
+    "release_year": "1964",
+    "clean_title": "/film/marnie/",
+    "adult": false,
+    "id": 506,
+    "imdb_id": "tt0058329"
+  },
+  {
+    "title": "Platform",
+    "release_year": "2000",
+    "clean_title": "/film/platform/",
+    "adult": false,
+    "id": 80427,
+    "imdb_id": "tt0258885"
+  },
+  {
+    "title": "Salvatore Giuliano",
+    "release_year": "1962",
+    "clean_title": "/film/salvatore-giuliano/",
+    "adult": false,
+    "id": 27523,
+    "imdb_id": "tt0055399"
+  },
+  {
+    "title": "All That Heaven Allows",
+    "release_year": "1955",
+    "clean_title": "/film/all-that-heaven-allows/",
+    "adult": false,
+    "id": 43316,
+    "imdb_id": "tt0047811"
+  },
+  {
+    "title": "Lost Highway",
+    "release_year": "1997",
+    "clean_title": "/film/lost-highway/",
+    "adult": false,
+    "id": 638,
+    "imdb_id": "tt0116922"
+  },
+  {
+    "title": "Stromboli",
+    "release_year": "1950",
+    "clean_title": "/film/stromboli/",
+    "adult": false,
+    "id": 4173,
+    "imdb_id": "tt0041931"
+  },
+  {
+    "title": "Written on the Wind",
+    "release_year": "1956",
+    "clean_title": "/film/written-on-the-wind/",
+    "adult": false,
+    "id": 69605,
+    "imdb_id": "tt0049966"
+  },
+  {
+    "title": "Taste of Cherry",
+    "release_year": "1997",
+    "clean_title": "/film/taste-of-cherry/",
+    "adult": false,
+    "id": 30020,
+    "imdb_id": "tt0120265"
+  },
+  {
+    "title": "Woman in the Dunes",
+    "release_year": "1964",
+    "clean_title": "/film/woman-in-the-dunes/",
+    "adult": false,
+    "id": 16672,
+    "imdb_id": "tt0058625"
+  },
+  {
+    "title": "Yellow Earth",
+    "release_year": "1984",
+    "clean_title": "/film/yellow-earth/",
+    "adult": false,
+    "id": 92990,
+    "imdb_id": "tt0087433"
+  },
+  {
+    "title": "Land Without Bread",
+    "release_year": "1933",
+    "clean_title": "/film/land-without-bread/",
+    "adult": false,
+    "id": 91,
+    "imdb_id": "tt0023037"
+  },
+  {
+    "title": "Muriel, or the Time of Return",
+    "release_year": "1963",
+    "clean_title": "/film/muriel-or-the-time-of-return/",
+    "adult": false,
+    "id": 54563,
+    "imdb_id": "tt0057336"
+  },
+  {
+    "title": "Through the Olive Trees",
+    "release_year": "1994",
+    "clean_title": "/film/through-the-olive-trees/",
+    "adult": false,
+    "id": 47104,
+    "imdb_id": "tt0111845"
+  },
+  {
+    "title": "The Palm Beach Story",
+    "release_year": "1942",
+    "clean_title": "/film/the-palm-beach-story/",
+    "adult": false,
+    "id": 32255,
+    "imdb_id": "tt0035169"
+  },
+  {
+    "title": "1900",
+    "release_year": "1976",
+    "clean_title": "/film/1900/",
+    "adult": false,
+    "id": 3870,
+    "imdb_id": "tt0074084"
+  },
+  {
+    "title": "Russian Ark",
+    "release_year": "2002",
+    "clean_title": "/film/russian-ark/",
+    "adult": false,
+    "id": 16646,
+    "imdb_id": "tt0318034"
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "release_year": "2000",
+    "clean_title": "/film/crouching-tiger-hidden-dragon/",
+    "adult": false,
+    "id": 146,
+    "imdb_id": "tt0190332"
+  },
+  {
+    "title": "High and Low",
+    "release_year": "1963",
+    "clean_title": "/film/high-and-low/",
+    "adult": false,
+    "id": 12493,
+    "imdb_id": "tt0057565"
+  },
+  {
+    "title": "Accattone",
+    "release_year": "1961",
+    "clean_title": "/film/accattone/",
+    "adult": false,
+    "id": 12491,
+    "imdb_id": "tt0054599"
+  },
+  {
+    "title": "The King of Comedy",
+    "release_year": "1982",
+    "clean_title": "/film/the-king-of-comedy/",
+    "adult": false,
+    "id": 262,
+    "imdb_id": "tt0085794"
+  },
+  {
+    "title": "if....",
+    "release_year": "1968",
+    "clean_title": "/film/if/",
+    "adult": false,
+    "id": 14794,
+    "imdb_id": "tt0063850"
+  },
+  {
+    "title": "Man of Aran",
+    "release_year": "1934",
+    "clean_title": "/film/man-of-aran/",
+    "adult": false,
+    "id": 47684,
+    "imdb_id": "tt0025456"
+  },
+  {
+    "title": "The White Ribbon",
+    "release_year": "2009",
+    "clean_title": "/film/the-white-ribbon/",
+    "adult": false,
+    "id": 37903,
+    "imdb_id": "tt1149362"
+  },
+  {
+    "title": "Barren Lives",
+    "release_year": "1963",
+    "clean_title": "/film/barren-lives/",
+    "adult": false,
+    "id": 836,
+    "imdb_id": "tt0057654"
+  },
+  {
+    "title": "Under the Skin",
+    "release_year": "2013",
+    "clean_title": "/film/under-the-skin-2013/",
+    "adult": false,
+    "id": 97370,
+    "imdb_id": "tt1441395"
+  },
+  {
+    "title": "Tristana",
+    "release_year": "1970",
+    "clean_title": "/film/tristana/",
+    "adult": false,
+    "id": 35838,
+    "imdb_id": "tt0066491"
+  },
+  {
+    "title": "A Trip to the Moon",
+    "release_year": "1902",
+    "clean_title": "/film/a-trip-to-the-moon/",
+    "adult": false,
+    "id": 775,
+    "imdb_id": "tt0000417"
+  },
+  {
+    "title": "I Know Where I'm Going!",
+    "release_year": "1945",
+    "clean_title": "/film/i-know-where-im-going/",
+    "adult": false,
+    "id": 56137,
+    "imdb_id": "tt0037800"
+  },
+  {
+    "title": "The Double Life of Véronique",
+    "release_year": "1991",
+    "clean_title": "/film/the-double-life-of-veronique/",
+    "adult": false,
+    "id": 1600,
+    "imdb_id": "tt0101765"
+  },
+  {
+    "title": "Mon Oncle",
+    "release_year": "1958",
+    "clean_title": "/film/mon-oncle/",
+    "adult": false,
+    "id": 427,
+    "imdb_id": "tt0050706"
+  },
+  {
+    "title": "Él",
+    "release_year": "1953",
+    "clean_title": "/film/el/",
+    "adult": false,
+    "id": 43344,
+    "imdb_id": "tt0045361"
+  },
+  {
+    "title": "Network",
+    "release_year": "1976",
+    "clean_title": "/film/network/",
+    "adult": false,
+    "id": 10774,
+    "imdb_id": "tt0074958"
+  },
+  {
+    "title": "Nostalgia",
+    "release_year": "1983",
+    "clean_title": "/film/nostalgia-1983/",
+    "adult": false,
+    "id": 1394,
+    "imdb_id": "tt0086022"
+  },
+  {
+    "title": "The Crime of Monsieur Lange",
+    "release_year": "1936",
+    "clean_title": "/film/the-crime-of-monsieur-lange/",
+    "adult": false,
+    "id": 52677,
+    "imdb_id": "tt0027478"
+  },
+  {
+    "title": "Elephant",
+    "release_year": "2003",
+    "clean_title": "/film/elephant-2003/",
+    "adult": false,
+    "id": 1807,
+    "imdb_id": "tt0363589"
+  },
+  {
+    "title": "The Awful Truth",
+    "release_year": "1937",
+    "clean_title": "/film/the-awful-truth/",
+    "adult": false,
+    "id": 14675,
+    "imdb_id": "tt0028597"
+  },
+  {
+    "title": "A Nos Amours",
+    "release_year": "1983",
+    "clean_title": "/film/a-nos-amours/",
+    "adult": false,
+    "id": 2282,
+    "imdb_id": "tt0086650"
+  },
+  {
+    "title": "The Long Goodbye",
+    "release_year": "1973",
+    "clean_title": "/film/the-long-goodbye/",
+    "adult": false,
+    "id": 1847,
+    "imdb_id": "tt0070334"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "release_year": "1957",
+    "clean_title": "/film/the-bridge-on-the-river-kwai/",
+    "adult": false,
+    "id": 826,
+    "imdb_id": "tt0050212"
+  },
+  {
+    "title": "Dont Look Back",
+    "release_year": "1967",
+    "clean_title": "/film/dont-look-back-1967/",
+    "adult": false,
+    "id": 135,
+    "imdb_id": "tt0061589"
+  },
+  {
+    "title": "October (Ten Days that Shook the World)",
+    "release_year": "1928",
+    "clean_title": "/film/october-ten-days-that-shook-the-world/",
+    "adult": false,
+    "id": 697,
+    "imdb_id": "tt0018217"
+  },
+  {
+    "title": "Halloween",
+    "release_year": "1978",
+    "clean_title": "/film/halloween-1978/",
+    "adult": false,
+    "id": 948,
+    "imdb_id": "tt0077651"
+  },
+  {
+    "title": "Heaven's Gate",
+    "release_year": "1980",
+    "clean_title": "/film/heavens-gate/",
+    "adult": false,
+    "id": 10935,
+    "imdb_id": "tt0080855"
+  },
+  {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "release_year": "1969",
+    "clean_title": "/film/butch-cassidy-and-the-sundance-kid/",
+    "adult": false,
+    "id": 642,
+    "imdb_id": "tt0064115"
+  },
+  {
+    "title": "Dead Man",
+    "release_year": "1995",
+    "clean_title": "/film/dead-man/",
+    "adult": false,
+    "id": 922,
+    "imdb_id": "tt0112817"
+  },
+  {
+    "title": "An Affair to Remember",
+    "release_year": "1957",
+    "clean_title": "/film/an-affair-to-remember/",
+    "adult": false,
+    "id": 8356,
+    "imdb_id": "tt0050105"
+  },
+  {
+    "title": "Yojimbo",
+    "release_year": "1961",
+    "clean_title": "/film/yojimbo/",
+    "adult": false,
+    "id": 11878,
+    "imdb_id": "tt0055630"
+  },
+  {
+    "title": "Some Came Running",
+    "release_year": "1958",
+    "clean_title": "/film/some-came-running/",
+    "adult": false,
+    "id": 38724,
+    "imdb_id": "tt0052218"
+  },
+  {
+    "title": "Boogie Nights",
+    "release_year": "1997",
+    "clean_title": "/film/boogie-nights/",
+    "adult": false,
+    "id": 4995,
+    "imdb_id": "tt0118749"
+  },
+  {
+    "title": "The Hustler",
+    "release_year": "1961",
+    "clean_title": "/film/the-hustler/",
+    "adult": false,
+    "id": 990,
+    "imdb_id": "tt0054997"
+  },
+  {
+    "title": "Fitzcarraldo",
+    "release_year": "1982",
+    "clean_title": "/film/fitzcarraldo/",
+    "adult": false,
+    "id": 9343,
+    "imdb_id": "tt0083946"
+  },
+  {
+    "title": "The Death of Mr. Lazarescu",
+    "release_year": "2005",
+    "clean_title": "/film/the-death-of-mr-lazarescu/",
+    "adult": false,
+    "id": 31032,
+    "imdb_id": "tt0456149"
+  },
+  {
+    "title": "Fight Club",
+    "release_year": "1999",
+    "clean_title": "/film/fight-club/",
+    "adult": false,
+    "id": 550,
+    "imdb_id": "tt0137523"
+  },
+  {
+    "title": "Ivan's Childhood",
+    "release_year": "1962",
+    "clean_title": "/film/ivans-childhood/",
+    "adult": false,
+    "id": 31442,
+    "imdb_id": "tt0056111"
+  },
+  {
+    "title": "Shoot the Piano Player",
+    "release_year": "1960",
+    "clean_title": "/film/shoot-the-piano-player/",
+    "adult": false,
+    "id": 1818,
+    "imdb_id": "tt0054389"
+  },
+  {
+    "title": "Five Easy Pieces",
+    "release_year": "1970",
+    "clean_title": "/film/five-easy-pieces/",
+    "adult": false,
+    "id": 26617,
+    "imdb_id": "tt0065724"
+  },
+  {
+    "title": "Shadows of Forgotten Ancestors",
+    "release_year": "1965",
+    "clean_title": "/film/shadows-of-forgotten-ancestors/",
+    "adult": false,
+    "id": 26782,
+    "imdb_id": "tt0058642"
+  },
+  {
+    "title": "Landscape in the Mist",
+    "release_year": "1988",
+    "clean_title": "/film/landscape-in-the-mist/",
+    "adult": false,
+    "id": 47795,
+    "imdb_id": "tt0096288"
+  },
+  {
+    "title": "No Country for Old Men",
+    "release_year": "2007",
+    "clean_title": "/film/no-country-for-old-men/",
+    "adult": false,
+    "id": 6977,
+    "imdb_id": "tt0477348"
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "release_year": "2002",
+    "clean_title": "/film/punch-drunk-love/",
+    "adult": false,
+    "id": 8051,
+    "imdb_id": "tt0272338"
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "release_year": "1991",
+    "clean_title": "/film/raise-the-red-lantern/",
+    "adult": false,
+    "id": 10404,
+    "imdb_id": "tt0101640"
+  },
+  {
+    "title": "The Celebration",
+    "release_year": "1998",
+    "clean_title": "/film/the-celebration/",
+    "adult": false,
+    "id": 309,
+    "imdb_id": "tt0154420"
+  },
+  {
+    "title": "The Tree of Wooden Clogs",
+    "release_year": "1978",
+    "clean_title": "/film/the-tree-of-wooden-clogs/",
+    "adult": false,
+    "id": 31542,
+    "imdb_id": "tt0077138"
+  },
+  {
+    "title": "Vagabond",
+    "release_year": "1985",
+    "clean_title": "/film/vagabond/",
+    "adult": false,
+    "id": 44018,
+    "imdb_id": "tt0089960"
+  },
+  {
+    "title": "A Star Is Born",
+    "release_year": "1954",
+    "clean_title": "/film/a-star-is-born-1954/",
+    "adult": false,
+    "id": 3111,
+    "imdb_id": "tt0047522"
+  },
+  {
+    "title": "Life of Brian",
+    "release_year": "1979",
+    "clean_title": "/film/life-of-brian/",
+    "adult": false,
+    "id": 583,
+    "imdb_id": "tt0079470"
+  },
+  {
+    "title": "Repulsion",
+    "release_year": "1965",
+    "clean_title": "/film/repulsion/",
+    "adult": false,
+    "id": 11481,
+    "imdb_id": "tt0059646"
+  },
+  {
+    "title": "The Cranes Are Flying",
+    "release_year": "1957",
+    "clean_title": "/film/the-cranes-are-flying/",
+    "adult": false,
+    "id": 38360,
+    "imdb_id": "tt0050634"
+  },
+  {
+    "title": "Dead Ringers",
+    "release_year": "1988",
+    "clean_title": "/film/dead-ringers/",
+    "adult": false,
+    "id": 9540,
+    "imdb_id": "tt0094964"
+  },
+  {
+    "title": "Hoop Dreams",
+    "release_year": "1994",
+    "clean_title": "/film/hoop-dreams/",
+    "adult": false,
+    "id": 14275,
+    "imdb_id": "tt0110057"
+  },
+  {
+    "title": "Dersu Uzala",
+    "release_year": "1975",
+    "clean_title": "/film/dersu-uzala/",
+    "adult": false,
+    "id": 9764,
+    "imdb_id": "tt0071411"
+  },
+  {
+    "title": "The Terminator",
+    "release_year": "1984",
+    "clean_title": "/film/the-terminator/",
+    "adult": false,
+    "id": 218,
+    "imdb_id": "tt0088247"
+  },
+  {
+    "title": "Safe",
+    "release_year": "1995",
+    "clean_title": "/film/safe/",
+    "adult": false,
+    "id": 32646,
+    "imdb_id": "tt0114323"
+  },
+  {
+    "title": "Withnail & I",
+    "release_year": "1987",
+    "clean_title": "/film/withnail-i/",
+    "adult": false,
+    "id": 13446,
+    "imdb_id": "tt0094336"
+  },
+  {
+    "title": "Day for Night",
+    "release_year": "1973",
+    "clean_title": "/film/day-for-night/",
+    "adult": false,
+    "id": 1675,
+    "imdb_id": "tt0070460"
+  },
+  {
+    "title": "Two-Lane Blacktop",
+    "release_year": "1971",
+    "clean_title": "/film/two-lane-blacktop/",
+    "adult": false,
+    "id": 27236,
+    "imdb_id": "tt0067893"
+  },
+  {
+    "title": "In a Year with 13 Moons",
+    "release_year": "1978",
+    "clean_title": "/film/in-a-year-with-13-moons/",
+    "adult": false,
+    "id": 42206,
+    "imdb_id": "tt0077729"
+  },
+  {
+    "title": "The Dead",
+    "release_year": "1987",
+    "clean_title": "/film/the-dead/",
+    "adult": false,
+    "id": 39507,
+    "imdb_id": "tt0092843"
+  },
+  {
+    "title": "Naked",
+    "release_year": "1993",
+    "clean_title": "/film/naked/",
+    "adult": false,
+    "id": 21450,
+    "imdb_id": "tt0107653"
+  },
+  {
+    "title": "Flowers of Shanghai",
+    "release_year": "1998",
+    "clean_title": "/film/flowers-of-shanghai/",
+    "adult": false,
+    "id": 45935,
+    "imdb_id": "tt0156587"
+  },
+  {
+    "title": "Oldboy",
+    "release_year": "2003",
+    "clean_title": "/film/oldboy/",
+    "adult": false,
+    "id": 670,
+    "imdb_id": "tt0364569"
+  },
+  {
+    "title": "Fantasia",
+    "release_year": "1940",
+    "clean_title": "/film/fantasia/",
+    "adult": false,
+    "id": 756,
+    "imdb_id": "tt0032455"
+  },
+  {
+    "title": "Scenes from a Marriage",
+    "release_year": "1974",
+    "clean_title": "/film/scenes-from-a-marriage/",
+    "adult": false,
+    "id": 133919,
+    "imdb_id": "tt6725014"
+  },
+  {
+    "title": "Amour",
+    "release_year": "2012",
+    "clean_title": "/film/amour/",
+    "adult": false,
+    "id": 86837,
+    "imdb_id": "tt1602620"
+  },
+  {
+    "title": "Pinocchio",
+    "release_year": "1940",
+    "clean_title": "/film/pinocchio/",
+    "adult": false,
+    "id": 10895,
+    "imdb_id": "tt0032910"
+  },
+  {
+    "title": "The Scarlet Empress",
+    "release_year": "1934",
+    "clean_title": "/film/the-scarlet-empress/",
+    "adult": false,
+    "id": 31527,
+    "imdb_id": "tt0025746"
+  },
+  {
+    "title": "Boyhood",
+    "release_year": "2014",
+    "clean_title": "/film/boyhood/",
+    "adult": false,
+    "id": 85350,
+    "imdb_id": "tt1065073"
+  },
+  {
+    "title": "The Sorrow and the Pity",
+    "release_year": "1969",
+    "clean_title": "/film/the-sorrow-and-the-pity-1969/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0066904"
+  },
+  {
+    "title": "Opening Night",
+    "release_year": "1977",
+    "clean_title": "/film/opening-night/",
+    "adult": false,
+    "id": 33665,
+    "imdb_id": "tt0079672"
+  },
+  {
+    "title": "Splendor in the Grass",
+    "release_year": "1961",
+    "clean_title": "/film/splendor-in-the-grass/",
+    "adult": false,
+    "id": 28569,
+    "imdb_id": "tt0055471"
+  },
+  {
+    "title": "The Flowers of St. Francis",
+    "release_year": "1950",
+    "clean_title": "/film/the-flowers-of-st-francis/",
+    "adult": false,
+    "id": 56518,
+    "imdb_id": "tt0042477"
+  },
+  {
+    "title": "Charulata",
+    "release_year": "1964",
+    "clean_title": "/film/charulata/",
+    "adult": false,
+    "id": 35790,
+    "imdb_id": "tt0057935"
+  },
+  {
+    "title": "Senso",
+    "release_year": "1954",
+    "clean_title": "/film/senso/",
+    "adult": false,
+    "id": 43195,
+    "imdb_id": "tt0047469"
+  },
+  {
+    "title": "The Cloud-Capped Star",
+    "release_year": "1960",
+    "clean_title": "/film/the-cloud-capped-star/",
+    "adult": false,
+    "id": 59239,
+    "imdb_id": "tt0054073"
+  },
+  {
+    "title": "French Cancan",
+    "release_year": "1955",
+    "clean_title": "/film/french-cancan/",
+    "adult": false,
+    "id": 45213,
+    "imdb_id": "tt0046998"
+  },
+  {
+    "title": "Easy Rider",
+    "release_year": "1969",
+    "clean_title": "/film/easy-rider/",
+    "adult": false,
+    "id": 624,
+    "imdb_id": "tt0064276"
+  },
+  {
+    "title": "Closely Watched Trains",
+    "release_year": "1966",
+    "clean_title": "/film/closely-watched-trains/",
+    "adult": false,
+    "id": 789,
+    "imdb_id": "tt0060802"
+  },
+  {
+    "title": "The Cameraman",
+    "release_year": "1928",
+    "clean_title": "/film/the-cameraman/",
+    "adult": false,
+    "id": 31411,
+    "imdb_id": "tt0018742"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "release_year": "1994",
+    "clean_title": "/film/the-shawshank-redemption/",
+    "adult": false,
+    "id": 278,
+    "imdb_id": "tt0111161"
+  },
+  {
+    "title": "All That Jazz",
+    "release_year": "1979",
+    "clean_title": "/film/all-that-jazz/",
+    "adult": false,
+    "id": 16858,
+    "imdb_id": "tt0078754"
+  },
+  {
+    "title": "Shadows",
+    "release_year": "1958",
+    "clean_title": "/film/shadows-1958/",
+    "adult": false,
+    "id": 15484,
+    "imdb_id": "tt0053270"
+  },
+  {
+    "title": "Pyaasa",
+    "release_year": "1957",
+    "clean_title": "/film/pyaasa/",
+    "adult": false,
+    "id": 41053,
+    "imdb_id": "tt0050870"
+  },
+  {
+    "title": "A Moment of Innocence",
+    "release_year": "1996",
+    "clean_title": "/film/a-moment-of-innocence/",
+    "adult": false,
+    "id": 43976,
+    "imdb_id": "tt0117214"
+  },
+  {
+    "title": "Out 1",
+    "release_year": "1971",
+    "clean_title": "/film/out-1/",
+    "adult": false,
+    "id": 94528,
+    "imdb_id": "tt0246135"
+  },
+  {
+    "title": "Limite",
+    "release_year": "1931",
+    "clean_title": "/film/limite/",
+    "adult": false,
+    "id": 8353,
+    "imdb_id": "tt0022080"
+  },
+  {
+    "title": "Chelsea Girls",
+    "release_year": "1966",
+    "clean_title": "/film/chelsea-girls/",
+    "adult": false,
+    "id": 1686,
+    "imdb_id": "tt0061465"
+  },
+  {
+    "title": "The Hour of the Furnaces",
+    "release_year": "1968",
+    "clean_title": "/film/the-hour-of-the-furnaces/",
+    "adult": false,
+    "id": 89681,
+    "imdb_id": "tt0063084"
+  },
+  {
+    "title": "Lola",
+    "release_year": "1961",
+    "clean_title": "/film/lola/",
+    "adult": false,
+    "id": 40641,
+    "imdb_id": "tt0055093"
+  },
+  {
+    "title": "Hour of the Wolf",
+    "release_year": "1968",
+    "clean_title": "/film/hour-of-the-wolf/",
+    "adult": false,
+    "id": 18333,
+    "imdb_id": "tt0063759"
+  },
+  {
+    "title": "Cat People",
+    "release_year": "1942",
+    "clean_title": "/film/cat-people/",
+    "adult": false,
+    "id": 25508,
+    "imdb_id": "tt0034587"
+  },
+  {
+    "title": "The Master",
+    "release_year": "2012",
+    "clean_title": "/film/the-master-2012/",
+    "adult": false,
+    "id": 68722,
+    "imdb_id": "tt1560747"
+  },
+  {
+    "title": "A.I. Artificial Intelligence",
+    "release_year": "2001",
+    "clean_title": "/film/ai-artificial-intelligence/",
+    "adult": false,
+    "id": 644,
+    "imdb_id": "tt0212720"
+  },
+  {
+    "title": "All the President's Men",
+    "release_year": "1976",
+    "clean_title": "/film/all-the-presidents-men/",
+    "adult": false,
+    "id": 891,
+    "imdb_id": "tt0074119"
+  },
+  {
+    "title": "The Act of Killing",
+    "release_year": "2012",
+    "clean_title": "/film/the-act-of-killing/",
+    "adult": false,
+    "id": 123678,
+    "imdb_id": "tt2375605"
+  },
+  {
+    "title": "Frankenstein",
+    "release_year": "1931",
+    "clean_title": "/film/frankenstein-1931/",
+    "adult": false,
+    "id": 3035,
+    "imdb_id": "tt0021884"
+  },
+  {
+    "title": "Miracle in Milan",
+    "release_year": "1951",
+    "clean_title": "/film/miracle-in-milan/",
+    "adult": false,
+    "id": 43379,
+    "imdb_id": "tt0043809"
+  },
+  {
+    "title": "Grizzly Man",
+    "release_year": "2005",
+    "clean_title": "/film/grizzly-man/",
+    "adult": false,
+    "id": 501,
+    "imdb_id": "tt0427312"
+  },
+  {
+    "title": "Forrest Gump",
+    "release_year": "1994",
+    "clean_title": "/film/forrest-gump/",
+    "adult": false,
+    "id": 13,
+    "imdb_id": "tt0109830"
+  },
+  {
+    "title": "The Wind",
+    "release_year": "1928",
+    "clean_title": "/film/the-wind/",
+    "adult": false,
+    "id": 31416,
+    "imdb_id": "tt0019585"
+  },
+  {
+    "title": "Strangers on a Train",
+    "release_year": "1951",
+    "clean_title": "/film/strangers-on-a-train/",
+    "adult": false,
+    "id": 845,
+    "imdb_id": "tt0044079"
+  },
+  {
+    "title": "India Song",
+    "release_year": "1975",
+    "clean_title": "/film/india-song/",
+    "adult": false,
+    "id": 85927,
+    "imdb_id": "tt0073166"
+  },
+  {
+    "title": "Grey Gardens",
+    "release_year": "1975",
+    "clean_title": "/film/grey-gardens/",
+    "adult": false,
+    "id": 17346,
+    "imdb_id": "tt0073076"
+  },
+  {
+    "title": "Barton Fink",
+    "release_year": "1991",
+    "clean_title": "/film/barton-fink/",
+    "adult": false,
+    "id": 290,
+    "imdb_id": "tt0101410"
+  },
+  {
+    "title": "Shane",
+    "release_year": "1953",
+    "clean_title": "/film/shane/",
+    "adult": false,
+    "id": 3110,
+    "imdb_id": "tt0046303"
+  },
+  {
+    "title": "The Lady from Shanghai",
+    "release_year": "1947",
+    "clean_title": "/film/the-lady-from-shanghai/",
+    "adult": false,
+    "id": 3766,
+    "imdb_id": "tt0040525"
+  },
+  {
+    "title": "Laura",
+    "release_year": "1944",
+    "clean_title": "/film/laura/",
+    "adult": false,
+    "id": 1939,
+    "imdb_id": "tt0037008"
+  },
+  {
+    "title": "Se7en",
+    "release_year": "1995",
+    "clean_title": "/film/se7en/",
+    "adult": false,
+    "id": 807,
+    "imdb_id": "tt0114369"
+  },
+  {
+    "title": "The Lives of Others",
+    "release_year": "2006",
+    "clean_title": "/film/the-lives-of-others/",
+    "adult": false,
+    "id": 582,
+    "imdb_id": "tt0405094"
+  },
+  {
+    "title": "Ninotchka",
+    "release_year": "1939",
+    "clean_title": "/film/ninotchka/",
+    "adult": false,
+    "id": 1859,
+    "imdb_id": "tt0031725"
+  },
+  {
+    "title": "Chronicle of a Summer",
+    "release_year": "1961",
+    "clean_title": "/film/chronicle-of-a-summer/",
+    "adult": false,
+    "id": 84972,
+    "imdb_id": "tt0054745"
+  },
+  {
+    "title": "Die Hard",
+    "release_year": "1988",
+    "clean_title": "/film/die-hard/",
+    "adult": false,
+    "id": 562,
+    "imdb_id": "tt0095016"
+  },
+  {
+    "title": "Mad Max 2",
+    "release_year": "1981",
+    "clean_title": "/film/mad-max-2/",
+    "adult": false,
+    "id": 8810,
+    "imdb_id": "tt0082694"
+  },
+  {
+    "title": "Triumph of the Will",
+    "release_year": "1935",
+    "clean_title": "/film/triumph-of-the-will/",
+    "adult": false,
+    "id": 39266,
+    "imdb_id": "tt0025913"
+  },
+  {
+    "title": "Winter Light",
+    "release_year": "1963",
+    "clean_title": "/film/winter-light/",
+    "adult": false,
+    "id": 29455,
+    "imdb_id": "tt0057358"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "release_year": "2006",
+    "clean_title": "/film/pans-labyrinth/",
+    "adult": false,
+    "id": 1417,
+    "imdb_id": "tt0457430"
+  },
+  {
+    "title": "To Have and Have Not",
+    "release_year": "1944",
+    "clean_title": "/film/to-have-and-have-not/",
+    "adult": false,
+    "id": 22584,
+    "imdb_id": "tt0037382"
+  },
+  {
+    "title": "Tootsie",
+    "release_year": "1982",
+    "clean_title": "/film/tootsie/",
+    "adult": false,
+    "id": 9576,
+    "imdb_id": "tt0084805"
+  },
+  {
+    "title": "Short Cuts",
+    "release_year": "1993",
+    "clean_title": "/film/short-cuts/",
+    "adult": false,
+    "id": 695,
+    "imdb_id": "tt0108122"
+  },
+  {
+    "title": "My Friend Ivan Lapshin",
+    "release_year": "1985",
+    "clean_title": "/film/my-friend-ivan-lapshin/",
+    "adult": false,
+    "id": 83491,
+    "imdb_id": "tt0084345"
+  },
+  {
+    "title": "Toy Story",
+    "release_year": "1995",
+    "clean_title": "/film/toy-story/",
+    "adult": false,
+    "id": 862,
+    "imdb_id": "tt0114709"
+  },
+  {
+    "title": "The Sound of Music",
+    "release_year": "1965",
+    "clean_title": "/film/the-sound-of-music/",
+    "adult": false,
+    "id": 15121,
+    "imdb_id": "tt0059742"
+  },
+  {
+    "title": "The Wind Will Carry Us",
+    "release_year": "1999",
+    "clean_title": "/film/the-wind-will-carry-us/",
+    "adult": false,
+    "id": 43423,
+    "imdb_id": "tt0209463"
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "release_year": "1982",
+    "clean_title": "/film/koyaanisqatsi/",
+    "adult": false,
+    "id": 11314,
+    "imdb_id": "tt0085809"
+  },
+  {
+    "title": "Farewell My Concubine",
+    "release_year": "1993",
+    "clean_title": "/film/farewell-my-concubine/",
+    "adult": false,
+    "id": 10997,
+    "imdb_id": "tt0106332"
+  },
+  {
+    "title": "12 Angry Men",
+    "release_year": "1957",
+    "clean_title": "/film/12-angry-men/",
+    "adult": false,
+    "id": 389,
+    "imdb_id": "tt0050083"
+  },
+  {
+    "title": "The Vampires or, The Arch Criminals of Paris",
+    "release_year": "1915",
+    "clean_title": "/film/the-vampires-or-the-arch-criminals-of-paris/",
+    "adult": false,
+    "id": 29082,
+    "imdb_id": "tt0006206"
+  },
+  {
+    "title": "Shadow of a Doubt",
+    "release_year": "1943",
+    "clean_title": "/film/shadow-of-a-doubt/",
+    "adult": false,
+    "id": 21734,
+    "imdb_id": "tt0036342"
+  },
+  {
+    "title": "Point Blank",
+    "release_year": "1967",
+    "clean_title": "/film/point-blank/",
+    "adult": false,
+    "id": 26039,
+    "imdb_id": "tt0062138"
+  },
+  {
+    "title": "Alphaville",
+    "release_year": "1965",
+    "clean_title": "/film/alphaville/",
+    "adult": false,
+    "id": 8072,
+    "imdb_id": "tt0058898"
+  },
+  {
+    "title": "Amélie",
+    "release_year": "2001",
+    "clean_title": "/film/amelie/",
+    "adult": false,
+    "id": 194,
+    "imdb_id": "tt0211915"
+  },
+  {
+    "title": "La Terra Trema",
+    "release_year": "1948",
+    "clean_title": "/film/la-terra-trema/",
+    "adult": false,
+    "id": 43445,
+    "imdb_id": "tt0040866"
+  },
+  {
+    "title": "Orlando",
+    "release_year": "1992",
+    "clean_title": "/film/orlando/",
+    "adult": false,
+    "id": 9300,
+    "imdb_id": "tt0107756"
+  },
+  {
+    "title": "Hannah and Her Sisters",
+    "release_year": "1986",
+    "clean_title": "/film/hannah-and-her-sisters/",
+    "adult": false,
+    "id": 5143,
+    "imdb_id": "tt0091167"
+  },
+  {
+    "title": "A Night at the Opera",
+    "release_year": "1935",
+    "clean_title": "/film/a-night-at-the-opera/",
+    "adult": false,
+    "id": 37719,
+    "imdb_id": "tt0026778"
+  },
+  {
+    "title": "Songs from the Second Floor",
+    "release_year": "2000",
+    "clean_title": "/film/songs-from-the-second-floor/",
+    "adult": false,
+    "id": 34070,
+    "imdb_id": "tt0120263"
+  },
+  {
+    "title": "Colossal Youth",
+    "release_year": "2006",
+    "clean_title": "/film/colossal-youth/",
+    "adult": false,
+    "id": 82404,
+    "imdb_id": "tt0460480"
+  },
+  {
+    "title": "Inland Empire",
+    "release_year": "2006",
+    "clean_title": "/film/inland-empire/",
+    "adult": false,
+    "id": 1730,
+    "imdb_id": "tt0460829"
+  },
+  {
+    "title": "Alexander Nevsky",
+    "release_year": "1938",
+    "clean_title": "/film/alexander-nevsky/",
+    "adult": false,
+    "id": 10235,
+    "imdb_id": "tt0029850"
+  },
+  {
+    "title": "The Damned",
+    "release_year": "1969",
+    "clean_title": "/film/the-damned/",
+    "adult": false,
+    "id": 41876,
+    "imdb_id": "tt0064118"
+  },
+  {
+    "title": "Faust",
+    "release_year": "1926",
+    "clean_title": "/film/faust-1926/",
+    "adult": false,
+    "id": 10728,
+    "imdb_id": "tt0016847"
+  },
+  {
+    "title": "The Social Network",
+    "release_year": "2010",
+    "clean_title": "/film/the-social-network/",
+    "adult": false,
+    "id": 37799,
+    "imdb_id": "tt1285016"
+  },
+  {
+    "title": "The Royal Tenenbaums",
+    "release_year": "2001",
+    "clean_title": "/film/the-royal-tenenbaums/",
+    "adult": false,
+    "id": 9428,
+    "imdb_id": "tt0265666"
+  },
+  {
+    "title": "Masculin Féminin",
+    "release_year": "1966",
+    "clean_title": "/film/masculin-feminin/",
+    "adult": false,
+    "id": 4710,
+    "imdb_id": "tt0060675"
+  },
+  {
+    "title": "Once Upon a Time in Anatolia",
+    "release_year": "2011",
+    "clean_title": "/film/once-upon-a-time-in-anatolia/",
+    "adult": false,
+    "id": 74879,
+    "imdb_id": "tt1827487"
+  },
+  {
+    "title": "Steamboat Bill, Jr.",
+    "release_year": "1928",
+    "clean_title": "/film/steamboat-bill-jr/",
+    "adult": false,
+    "id": 25768,
+    "imdb_id": "tt0019421"
+  },
+  {
+    "title": "The French Connection",
+    "release_year": "1971",
+    "clean_title": "/film/the-french-connection/",
+    "adult": false,
+    "id": 1051,
+    "imdb_id": "tt0067116"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "release_year": "1991",
+    "clean_title": "/film/terminator-2-judgment-day/",
+    "adult": false,
+    "id": 280,
+    "imdb_id": "tt0103064"
+  },
+  {
+    "title": "Pat Garrett & Billy the Kid",
+    "release_year": "1973",
+    "clean_title": "/film/pat-garrett-billy-the-kid/",
+    "adult": false,
+    "id": 11577,
+    "imdb_id": "tt0070518"
+  },
+  {
+    "title": "Casino",
+    "release_year": "1995",
+    "clean_title": "/film/casino/",
+    "adult": false,
+    "id": 524,
+    "imdb_id": "tt0112641"
+  },
+  {
+    "title": "Kagemusha",
+    "release_year": "1980",
+    "clean_title": "/film/kagemusha/",
+    "adult": false,
+    "id": 11953,
+    "imdb_id": "tt0080979"
+  },
+  {
+    "title": "Still Life",
+    "release_year": "2006",
+    "clean_title": "/film/still-life/",
+    "adult": false,
+    "id": 2346,
+    "imdb_id": "tt0859765"
+  },
+  {
+    "title": "Gimme Shelter",
+    "release_year": "1970",
+    "clean_title": "/film/gimme-shelter-1970/",
+    "adult": false,
+    "id": 132,
+    "imdb_id": "tt0065780"
+  },
+  {
+    "title": "East of Eden",
+    "release_year": "1955",
+    "clean_title": "/film/east-of-eden/",
+    "adult": false,
+    "id": 220,
+    "imdb_id": "tt0048028"
+  },
+  {
+    "title": "Zodiac",
+    "release_year": "2007",
+    "clean_title": "/film/zodiac/",
+    "adult": false,
+    "id": 1949,
+    "imdb_id": "tt0443706"
+  },
+  {
+    "title": "Trainspotting",
+    "release_year": "1996",
+    "clean_title": "/film/trainspotting/",
+    "adult": false,
+    "id": 627,
+    "imdb_id": "tt0117951"
+  },
+  {
+    "title": "Silent Light",
+    "release_year": "2007",
+    "clean_title": "/film/silent-light/",
+    "adult": false,
+    "id": 2012,
+    "imdb_id": "tt0841925"
+  },
+  {
+    "title": "The Lovers on the Bridge",
+    "release_year": "1991",
+    "clean_title": "/film/the-lovers-on-the-bridge/",
+    "adult": false,
+    "id": 2767,
+    "imdb_id": "tt0101318"
+  },
+  {
+    "title": "Doctor Zhivago",
+    "release_year": "1965",
+    "clean_title": "/film/doctor-zhivago/",
+    "adult": false,
+    "id": 907,
+    "imdb_id": "tt0059113"
+  },
+  {
+    "title": "4 Months, 3 Weeks and 2 Days",
+    "release_year": "2007",
+    "clean_title": "/film/4-months-3-weeks-and-2-days/",
+    "adult": false,
+    "id": 2009,
+    "imdb_id": "tt1032846"
+  },
+  {
+    "title": "The Enigma of Kaspar Hauser",
+    "release_year": "1974",
+    "clean_title": "/film/the-enigma-of-kaspar-hauser/",
+    "adult": false,
+    "id": 11710,
+    "imdb_id": "tt0071691"
+  },
+  {
+    "title": "The Devil, Probably",
+    "release_year": "1977",
+    "clean_title": "/film/the-devil-probably/",
+    "adult": false,
+    "id": 32097,
+    "imdb_id": "tt0075938"
+  },
+  {
+    "title": "Children of Men",
+    "release_year": "2006",
+    "clean_title": "/film/children-of-men/",
+    "adult": false,
+    "id": 9693,
+    "imdb_id": "tt0206634"
+  },
+  {
+    "title": "Evil Dead II",
+    "release_year": "1987",
+    "clean_title": "/film/evil-dead-ii/",
+    "adult": false,
+    "id": 765,
+    "imdb_id": "tt0092991"
+  },
+  {
+    "title": "Limelight",
+    "release_year": "1952",
+    "clean_title": "/film/limelight/",
+    "adult": false,
+    "id": 28971,
+    "imdb_id": "tt0044837"
+  },
+  {
+    "title": "Satyricon",
+    "release_year": "1969",
+    "clean_title": "/film/satyricon-1969/",
+    "adult": false,
+    "id": 11163,
+    "imdb_id": "tt0064940"
+  },
+  {
+    "title": "Early Summer",
+    "release_year": "1951",
+    "clean_title": "/film/early-summer/",
+    "adult": false,
+    "id": 50247,
+    "imdb_id": "tt0043313"
+  },
+  {
+    "title": "In Vanda's Room",
+    "release_year": "2000",
+    "clean_title": "/film/in-vandas-room/",
+    "adult": false,
+    "id": 87063,
+    "imdb_id": "tt0139500"
+  },
+  {
+    "title": "Top Hat",
+    "release_year": "1935",
+    "clean_title": "/film/top-hat/",
+    "adult": false,
+    "id": 3080,
+    "imdb_id": "tt0027125"
+  },
+  {
+    "title": "The Big Heat",
+    "release_year": "1953",
+    "clean_title": "/film/the-big-heat/",
+    "adult": false,
+    "id": 14580,
+    "imdb_id": "tt0045555"
+  },
+  {
+    "title": "My Own Private Idaho",
+    "release_year": "1991",
+    "clean_title": "/film/my-own-private-idaho/",
+    "adult": false,
+    "id": 468,
+    "imdb_id": "tt0102494"
+  },
+  {
+    "title": "The Servant",
+    "release_year": "1963",
+    "clean_title": "/film/the-servant/",
+    "adult": false,
+    "id": 42987,
+    "imdb_id": "tt0057490"
+  },
+  {
+    "title": "Rosetta",
+    "release_year": "1999",
+    "clean_title": "/film/rosetta/",
+    "adult": false,
+    "id": 11489,
+    "imdb_id": "tt0200071"
+  },
+  {
+    "title": "The Bitter Tears of Petra von Kant",
+    "release_year": "1972",
+    "clean_title": "/film/the-bitter-tears-of-petra-von-kant/",
+    "adult": false,
+    "id": 10310,
+    "imdb_id": "tt0068278"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "release_year": "1987",
+    "clean_title": "/film/full-metal-jacket/",
+    "adult": false,
+    "id": 600,
+    "imdb_id": "tt0093058"
+  },
+  {
+    "title": "Hatari!",
+    "release_year": "1962",
+    "clean_title": "/film/hatari/",
+    "adult": false,
+    "id": 11385,
+    "imdb_id": "tt0056059"
+  },
+  {
+    "title": "Providence",
+    "release_year": "1977",
+    "clean_title": "/film/providence/",
+    "adult": false,
+    "id": 54140,
+    "imdb_id": "tt0076574"
+  },
+  {
+    "title": "Secrets & Lies",
+    "release_year": "1996",
+    "clean_title": "/film/secrets-lies/",
+    "adult": false,
+    "id": 11159,
+    "imdb_id": "tt0117589"
+  },
+  {
+    "title": "Deliverance",
+    "release_year": "1972",
+    "clean_title": "/film/deliverance/",
+    "adult": false,
+    "id": 10669,
+    "imdb_id": "tt0068473"
+  },
+  {
+    "title": "Fireworks",
+    "release_year": "1997",
+    "clean_title": "/film/fireworks-1997/",
+    "adult": false,
+    "id": 5910,
+    "imdb_id": "tt0119250"
+  },
+  {
+    "title": "I Vitelloni",
+    "release_year": "1953",
+    "clean_title": "/film/i-vitelloni/",
+    "adult": false,
+    "id": 12548,
+    "imdb_id": "tt0046521"
+  },
+  {
+    "title": "La Région Centrale",
+    "release_year": "1971",
+    "clean_title": "/film/la-region-centrale/",
+    "adult": false,
+    "id": 90041,
+    "imdb_id": "tt0130232"
+  },
+  {
+    "title": "The 39 Steps",
+    "release_year": "1935",
+    "clean_title": "/film/the-39-steps/",
+    "adult": false,
+    "id": 260,
+    "imdb_id": "tt0026029"
+  },
+  {
+    "title": "The Taking of Power by Louis XIV",
+    "release_year": "1966",
+    "clean_title": "/film/the-taking-of-power-by-louis-xiv/",
+    "adult": false,
+    "id": 69912,
+    "imdb_id": "tt0060860"
+  },
+  {
+    "title": "Scarface",
+    "release_year": "1932",
+    "clean_title": "/film/scarface/",
+    "adult": false,
+    "id": 877,
+    "imdb_id": "tt0023427"
+  },
+  {
+    "title": "Alice in the Cities",
+    "release_year": "1974",
+    "clean_title": "/film/alice-in-the-cities/",
+    "adult": false,
+    "id": 2204,
+    "imdb_id": "tt0069687"
+  },
+  {
+    "title": "Le Cercle Rouge",
+    "release_year": "1970",
+    "clean_title": "/film/le-cercle-rouge/",
+    "adult": false,
+    "id": 11657,
+    "imdb_id": "tt0065531"
+  },
+  {
+    "title": "Boudu Saved from Drowning",
+    "release_year": "1932",
+    "clean_title": "/film/boudu-saved-from-drowning/",
+    "adult": false,
+    "id": 48365,
+    "imdb_id": "tt0022718"
+  },
+  {
+    "title": "Marketa Lazarová",
+    "release_year": "1967",
+    "clean_title": "/film/marketa-lazarova/",
+    "adult": false,
+    "id": 25904,
+    "imdb_id": "tt0063278"
+  },
+  {
+    "title": "Young Frankenstein",
+    "release_year": "1974",
+    "clean_title": "/film/young-frankenstein/",
+    "adult": false,
+    "id": 3034,
+    "imdb_id": "tt0072431"
+  },
+  {
+    "title": "The Lady Vanishes",
+    "release_year": "1938",
+    "clean_title": "/film/the-lady-vanishes/",
+    "adult": false,
+    "id": 940,
+    "imdb_id": "tt0030341"
+  },
+  {
+    "title": "The Phantom of Liberty",
+    "release_year": "1974",
+    "clean_title": "/film/the-phantom-of-liberty/",
+    "adult": false,
+    "id": 5558,
+    "imdb_id": "tt0071487"
+  },
+  {
+    "title": "The Age of Innocence",
+    "release_year": "1993",
+    "clean_title": "/film/the-age-of-innocence/",
+    "adult": false,
+    "id": 10436,
+    "imdb_id": "tt0106226"
+  },
+  {
+    "title": "Rebel Without a Cause",
+    "release_year": "1955",
+    "clean_title": "/film/rebel-without-a-cause/",
+    "adult": false,
+    "id": 221,
+    "imdb_id": "tt0048545"
+  },
+  {
+    "title": "La Belle Noiseuse",
+    "release_year": "1991",
+    "clean_title": "/film/la-belle-noiseuse/",
+    "adult": false,
+    "id": 12627,
+    "imdb_id": "tt0101428"
+  },
+  {
+    "title": "Tale of Tales",
+    "release_year": "1979",
+    "clean_title": "/film/tale-of-tales/",
+    "adult": false,
+    "id": 36079,
+    "imdb_id": "tt0079986"
+  },
+  {
+    "title": "Being There",
+    "release_year": "1979",
+    "clean_title": "/film/being-there/",
+    "adult": false,
+    "id": 10322,
+    "imdb_id": "tt0078841"
+  },
+  {
+    "title": "Rushmore",
+    "release_year": "1998",
+    "clean_title": "/film/rushmore/",
+    "adult": false,
+    "id": 11545,
+    "imdb_id": "tt0128445"
+  },
+  {
+    "title": "The Fly",
+    "release_year": "1986",
+    "clean_title": "/film/the-fly-1986/",
+    "adult": false,
+    "id": 9426,
+    "imdb_id": "tt0091064"
+  },
+  {
+    "title": "Distant",
+    "release_year": "2002",
+    "clean_title": "/film/distant/",
+    "adult": false,
+    "id": 31026,
+    "imdb_id": "tt0346094"
+  },
+  {
+    "title": "Life, and Nothing More…",
+    "release_year": "1992",
+    "clean_title": "/film/life-and-nothing-more/",
+    "adult": false,
+    "id": 83761,
+    "imdb_id": "tt0105888"
+  },
+  {
+    "title": "Shock Corridor",
+    "release_year": "1963",
+    "clean_title": "/film/shock-corridor/",
+    "adult": false,
+    "id": 25504,
+    "imdb_id": "tt0057495"
+  },
+  {
+    "title": "Salesman",
+    "release_year": "1969",
+    "clean_title": "/film/salesman/",
+    "adult": false,
+    "id": 27375,
+    "imdb_id": "tt0064921"
+  },
+  {
+    "title": "The Ascent",
+    "release_year": "1977",
+    "clean_title": "/film/the-ascent/",
+    "adult": false,
+    "id": 50183,
+    "imdb_id": "tt0075404"
+  },
+  {
+    "title": "Wagon Master",
+    "release_year": "1950",
+    "clean_title": "/film/wagon-master/",
+    "adult": false,
+    "id": 37327,
+    "imdb_id": "tt0043117"
+  },
+  {
+    "title": "Raising Arizona",
+    "release_year": "1987",
+    "clean_title": "/film/raising-arizona/",
+    "adult": false,
+    "id": 378,
+    "imdb_id": "tt0093822"
+  },
+  {
+    "title": "Harlan County U.S.A.",
+    "release_year": "1976",
+    "clean_title": "/film/harlan-county-usa/",
+    "adult": false,
+    "id": 33324,
+    "imdb_id": "tt0074605"
+  },
+  {
+    "title": "That Obscure Object of Desire",
+    "release_year": "1977",
+    "clean_title": "/film/that-obscure-object-of-desire/",
+    "adult": false,
+    "id": 5781,
+    "imdb_id": "tt0075824"
+  },
+  {
+    "title": "Possession",
+    "release_year": "1981",
+    "clean_title": "/film/possession/",
+    "adult": false,
+    "id": 21484,
+    "imdb_id": "tt0082933"
+  },
+  {
+    "title": "The Killing",
+    "release_year": "1956",
+    "clean_title": "/film/the-killing/",
+    "adult": false,
+    "id": 247,
+    "imdb_id": "tt0049406"
+  },
+  {
+    "title": "Bigger Than Life",
+    "release_year": "1956",
+    "clean_title": "/film/bigger-than-life/",
+    "adult": false,
+    "id": 26036,
+    "imdb_id": "tt0049010"
+  },
+  {
+    "title": "The Testament of Dr. Mabuse",
+    "release_year": "1933",
+    "clean_title": "/film/the-testament-of-dr-mabuse/",
+    "adult": false,
+    "id": 12206,
+    "imdb_id": "tt0023563"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": "2008",
+    "clean_title": "/film/the-dark-knight/",
+    "adult": false,
+    "id": 155,
+    "imdb_id": "tt0468569"
+  },
+  {
+    "title": "The Son",
+    "release_year": "2002",
+    "clean_title": "/film/the-son/",
+    "adult": false,
+    "id": 35172,
+    "imdb_id": "tt0291172"
+  },
+  {
+    "title": "Syndromes and a Century",
+    "release_year": "2006",
+    "clean_title": "/film/syndromes-and-a-century/",
+    "adult": false,
+    "id": 27904,
+    "imdb_id": "tt0477731"
+  },
+  {
+    "title": "Rocky",
+    "release_year": "1976",
+    "clean_title": "/film/rocky/",
+    "adult": false,
+    "id": 1366,
+    "imdb_id": "tt0075148"
+  },
+  {
+    "title": "Down by Law",
+    "release_year": "1986",
+    "clean_title": "/film/down-by-law/",
+    "adult": false,
+    "id": 1554,
+    "imdb_id": "tt0090967"
+  },
+  {
+    "title": "Band of Outsiders",
+    "release_year": "1964",
+    "clean_title": "/film/band-of-outsiders/",
+    "adult": false,
+    "id": 8073,
+    "imdb_id": "tt0057869"
+  },
+  {
+    "title": "The Devils",
+    "release_year": "1971",
+    "clean_title": "/film/the-devils/",
+    "adult": false,
+    "id": 31767,
+    "imdb_id": "tt0066993"
+  },
+  {
+    "title": "Y Tu Mamá También",
+    "release_year": "2001",
+    "clean_title": "/film/y-tu-mama-tambien/",
+    "adult": false,
+    "id": 1391,
+    "imdb_id": "tt0245574"
+  },
+  {
+    "title": "A Hard Day's Night",
+    "release_year": "1964",
+    "clean_title": "/film/a-hard-days-night/",
+    "adult": false,
+    "id": 704,
+    "imdb_id": "tt0058182"
+  },
+  {
+    "title": "La Ciénaga",
+    "release_year": "2001",
+    "clean_title": "/film/la-cienaga/",
+    "adult": false,
+    "id": 58429,
+    "imdb_id": "tt0240419"
+  },
+  {
+    "title": "Aparajito",
+    "release_year": "1956",
+    "clean_title": "/film/aparajito/",
+    "adult": false,
+    "id": 897,
+    "imdb_id": "tt0048956"
+  },
+  {
+    "title": "Roma",
+    "release_year": "1972",
+    "clean_title": "/film/roma/",
+    "adult": false,
+    "id": 11035,
+    "imdb_id": "tt0069191"
+  },
+  {
+    "title": "Before Sunset",
+    "release_year": "2004",
+    "clean_title": "/film/before-sunset/",
+    "adult": false,
+    "id": 80,
+    "imdb_id": "tt0381681"
+  },
+  {
+    "title": "After Life",
+    "release_year": "1998",
+    "clean_title": "/film/after-life/",
+    "adult": false,
+    "id": 17962,
+    "imdb_id": "tt0165078"
+  },
+  {
+    "title": "The Manchurian Candidate",
+    "release_year": "1962",
+    "clean_title": "/film/the-manchurian-candidate/",
+    "adult": false,
+    "id": 982,
+    "imdb_id": "tt0056218"
+  },
+  {
+    "title": "The Party",
+    "release_year": "1968",
+    "clean_title": "/film/the-party/",
+    "adult": false,
+    "id": 10794,
+    "imdb_id": "tt0063415"
+  },
+  {
+    "title": "An Angel at My Table",
+    "release_year": "1990",
+    "clean_title": "/film/an-angel-at-my-table/",
+    "adult": false,
+    "id": 2891,
+    "imdb_id": "tt0099040"
+  },
+  {
+    "title": "Detour",
+    "release_year": "1945",
+    "clean_title": "/film/detour/",
+    "adult": false,
+    "id": 20367,
+    "imdb_id": "tt0037638"
+  },
+  {
+    "title": "The Blue Angel",
+    "release_year": "1930",
+    "clean_title": "/film/the-blue-angel/",
+    "adult": false,
+    "id": 228,
+    "imdb_id": "tt0020697"
+  },
+  {
+    "title": "Local Hero",
+    "release_year": "1983",
+    "clean_title": "/film/local-hero/",
+    "adult": false,
+    "id": 11235,
+    "imdb_id": "tt0085859"
+  },
+  {
+    "title": "Let the Right One In",
+    "release_year": "2008",
+    "clean_title": "/film/let-the-right-one-in/",
+    "adult": false,
+    "id": 13310,
+    "imdb_id": "tt1139797"
+  },
+  {
+    "title": "The Asphalt Jungle",
+    "release_year": "1950",
+    "clean_title": "/film/the-asphalt-jungle/",
+    "adult": false,
+    "id": 16958,
+    "imdb_id": "tt0042208"
+  },
+  {
+    "title": "Picnic at Hanging Rock",
+    "release_year": "1975",
+    "clean_title": "/film/picnic-at-hanging-rock/",
+    "adult": false,
+    "id": 11020,
+    "imdb_id": "tt0073540"
+  },
+  {
+    "title": "Fat City",
+    "release_year": "1972",
+    "clean_title": "/film/fat-city/",
+    "adult": false,
+    "id": 16993,
+    "imdb_id": "tt0068575"
+  },
+  {
+    "title": "White Heat",
+    "release_year": "1949",
+    "clean_title": "/film/white-heat/",
+    "adult": false,
+    "id": 15794,
+    "imdb_id": "tt0042041"
+  },
+  {
+    "title": "Memento",
+    "release_year": "2000",
+    "clean_title": "/film/memento/",
+    "adult": false,
+    "id": 77,
+    "imdb_id": "tt0209144"
+  },
+  {
+    "title": "Invasion of the Body Snatchers",
+    "release_year": "1956",
+    "clean_title": "/film/invasion-of-the-body-snatchers/",
+    "adult": false,
+    "id": 11549,
+    "imdb_id": "tt0049366"
+  },
+  {
+    "title": "Seven Chances",
+    "release_year": "1925",
+    "clean_title": "/film/seven-chances/",
+    "adult": false,
+    "id": 32600,
+    "imdb_id": "tt0016332"
+  },
+  {
+    "title": "I Walked with a Zombie",
+    "release_year": "1943",
+    "clean_title": "/film/i-walked-with-a-zombie/",
+    "adult": false,
+    "id": 27130,
+    "imdb_id": "tt0036027"
+  },
+  {
+    "title": "Nostalgia for the Light",
+    "release_year": "2010",
+    "clean_title": "/film/nostalgia-for-the-light/",
+    "adult": false,
+    "id": 72721,
+    "imdb_id": "tt1556190"
+  },
+  {
+    "title": "Scorpio Rising",
+    "release_year": "1963",
+    "clean_title": "/film/scorpio-rising/",
+    "adult": false,
+    "id": 46787,
+    "imdb_id": "tt0058555"
+  },
+  {
+    "title": "Loves of a Blonde",
+    "release_year": "1965",
+    "clean_title": "/film/loves-of-a-blonde/",
+    "adult": false,
+    "id": 39387,
+    "imdb_id": "tt0059415"
+  },
+  {
+    "title": "The Round-Up",
+    "release_year": "1966",
+    "clean_title": "/film/the-round-up-1966/",
+    "adult": false,
+    "id": 94663,
+    "imdb_id": "tt0059776"
+  },
+  {
+    "title": "Dr. Mabuse, the Gambler",
+    "release_year": "1922",
+    "clean_title": "/film/dr-mabuse-the-gambler/",
+    "adult": false,
+    "id": 5998,
+    "imdb_id": "tt0013086"
+  },
+  {
+    "title": "Twenty Years Later",
+    "release_year": "1984",
+    "clean_title": "/film/twenty-years-later/",
+    "adult": false,
+    "id": 86320,
+    "imdb_id": "tt0134402"
+  },
+  {
+    "title": "Titanic",
+    "release_year": "1997",
+    "clean_title": "/film/titanic-1997/",
+    "adult": false,
+    "id": 597,
+    "imdb_id": "tt0120338"
+  },
+  {
+    "title": "Strike",
+    "release_year": "1925",
+    "clean_title": "/film/strike/",
+    "adult": false,
+    "id": 44967,
+    "imdb_id": "tt0015361"
+  },
+  {
+    "title": "Diabolique",
+    "release_year": "1955",
+    "clean_title": "/film/diabolique-1955/",
+    "adult": false,
+    "id": 827,
+    "imdb_id": "tt0046911"
+  },
+  {
+    "title": "Love Me Tonight",
+    "release_year": "1932",
+    "clean_title": "/film/love-me-tonight/",
+    "adult": false,
+    "id": 31532,
+    "imdb_id": "tt0023158"
+  },
+  {
+    "title": "The Wicker Man",
+    "release_year": "1973",
+    "clean_title": "/film/the-wicker-man/",
+    "adult": false,
+    "id": 16307,
+    "imdb_id": "tt0070917"
+  },
+  {
+    "title": "The Wedding March",
+    "release_year": "1928",
+    "clean_title": "/film/the-wedding-march/",
+    "adult": false,
+    "id": 42537,
+    "imdb_id": "tt0019558"
+  },
+  {
+    "title": "Casque d'Or",
+    "release_year": "1952",
+    "clean_title": "/film/casque-dor/",
+    "adult": false,
+    "id": 68822,
+    "imdb_id": "tt0043386"
+  },
+  {
+    "title": "Goodbye, Dragon Inn",
+    "release_year": "2003",
+    "clean_title": "/film/goodbye-dragon-inn/",
+    "adult": false,
+    "id": 56616,
+    "imdb_id": "tt0377556"
+  },
+  {
+    "title": "Scarface",
+    "release_year": "1983",
+    "clean_title": "/film/scarface-1983/",
+    "adult": false,
+    "id": 111,
+    "imdb_id": "tt0086250"
+  },
+  {
+    "title": "Placido",
+    "release_year": "1961",
+    "clean_title": "/film/placido/",
+    "adult": false,
+    "id": 51317,
+    "imdb_id": "tt0055310"
+  },
+  {
+    "title": "Synecdoche, New York",
+    "release_year": "2008",
+    "clean_title": "/film/synecdoche-new-york/",
+    "adult": false,
+    "id": 4960,
+    "imdb_id": "tt0383028"
+  },
+  {
+    "title": "Bambi",
+    "release_year": "1942",
+    "clean_title": "/film/bambi/",
+    "adult": false,
+    "id": 3170,
+    "imdb_id": "tt0034492"
+  },
+  {
+    "title": "Bring Me the Head of Alfredo Garcia",
+    "release_year": "1974",
+    "clean_title": "/film/bring-me-the-head-of-alfredo-garcia/",
+    "adult": false,
+    "id": 11942,
+    "imdb_id": "tt0071249"
+  },
+  {
+    "title": "The Silence",
+    "release_year": "1963",
+    "clean_title": "/film/the-silence/",
+    "adult": false,
+    "id": 11506,
+    "imdb_id": "tt0057611"
+  },
+  {
+    "title": "Song of Love",
+    "release_year": "1950",
+    "clean_title": "/film/song-of-love-1950/",
+    "adult": false,
+    "id": 87561,
+    "imdb_id": "tt0043084"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "release_year": "1975",
+    "clean_title": "/film/monty-python-and-the-holy-grail/",
+    "adult": false,
+    "id": 762,
+    "imdb_id": "tt0071853"
+  },
+  {
+    "title": "Antonio das Mortes",
+    "release_year": "1969",
+    "clean_title": "/film/antonio-das-mortes/",
+    "adult": false,
+    "id": 74349,
+    "imdb_id": "tt0064256"
+  },
+  {
+    "title": "El Sur",
+    "release_year": "1983",
+    "clean_title": "/film/el-sur/",
+    "adult": false,
+    "id": 48139,
+    "imdb_id": "tt0084740"
+  },
+  {
+    "title": "A History of Violence",
+    "release_year": "2005",
+    "clean_title": "/film/a-history-of-violence/",
+    "adult": false,
+    "id": 59,
+    "imdb_id": "tt0399146"
+  },
+  {
+    "title": "La Haine",
+    "release_year": "1995",
+    "clean_title": "/film/la-haine/",
+    "adult": false,
+    "id": 406,
+    "imdb_id": "tt0113247"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "release_year": "1939",
+    "clean_title": "/film/mr-smith-goes-to-washington/",
+    "adult": false,
+    "id": 3083,
+    "imdb_id": "tt0031679"
+  },
+  {
+    "title": "Young Mr. Lincoln",
+    "release_year": "1939",
+    "clean_title": "/film/young-mr-lincoln/",
+    "adult": false,
+    "id": 43838,
+    "imdb_id": "tt0032155"
+  },
+  {
+    "title": "Nazarín",
+    "release_year": "1959",
+    "clean_title": "/film/nazarin/",
+    "adult": false,
+    "id": 35124,
+    "imdb_id": "tt0051983"
+  },
+  {
+    "title": "The Virgin Spring",
+    "release_year": "1960",
+    "clean_title": "/film/the-virgin-spring/",
+    "adult": false,
+    "id": 11656,
+    "imdb_id": "tt0053976"
+  },
+  {
+    "title": "Van Gogh",
+    "release_year": "1991",
+    "clean_title": "/film/van-gogh/",
+    "adult": false,
+    "id": 4734,
+    "imdb_id": "tt0103190"
+  },
+  {
+    "title": "Rebecca",
+    "release_year": "1940",
+    "clean_title": "/film/rebecca/",
+    "adult": false,
+    "id": 223,
+    "imdb_id": "tt0032976"
+  },
+  {
+    "title": "Rapture",
+    "release_year": "1979",
+    "clean_title": "/film/rapture-1979/",
+    "adult": false,
+    "id": 4494,
+    "imdb_id": "tt0078797"
+  },
+  {
+    "title": "Europa '51",
+    "release_year": "1952",
+    "clean_title": "/film/europa-51/",
+    "adult": false,
+    "id": 41464,
+    "imdb_id": "tt0043511"
+  },
+  {
+    "title": "Blissfully Yours",
+    "release_year": "2002",
+    "clean_title": "/film/blissfully-yours/",
+    "adult": false,
+    "id": 47046,
+    "imdb_id": "tt0317171"
+  },
+  {
+    "title": "Our Hospitality",
+    "release_year": "1923",
+    "clean_title": "/film/our-hospitality/",
+    "adult": false,
+    "id": 701,
+    "imdb_id": "tt0014341"
+  },
+  {
+    "title": "The Purple Rose of Cairo",
+    "release_year": "1985",
+    "clean_title": "/film/the-purple-rose-of-cairo/",
+    "adult": false,
+    "id": 10849,
+    "imdb_id": "tt0089853"
+  },
+  {
+    "title": "By the Bluest of Seas",
+    "release_year": "1936",
+    "clean_title": "/film/by-the-bluest-of-seas/",
+    "adult": false,
+    "id": 110733,
+    "imdb_id": "tt0028436"
+  },
+  {
+    "title": "The Marriage of Maria Braun",
+    "release_year": "1979",
+    "clean_title": "/film/the-marriage-of-maria-braun/",
+    "adult": false,
+    "id": 661,
+    "imdb_id": "tt0079095"
+  },
+  {
+    "title": "Audition",
+    "release_year": "1999",
+    "clean_title": "/film/audition/",
+    "adult": false,
+    "id": 11075,
+    "imdb_id": "tt0235198"
+  },
+  {
+    "title": "Titicut Follies",
+    "release_year": "1967",
+    "clean_title": "/film/titicut-follies/",
+    "adult": false,
+    "id": 41212,
+    "imdb_id": "tt0062374"
+  },
+  {
+    "title": "A Streetcar Named Desire",
+    "release_year": "1951",
+    "clean_title": "/film/a-streetcar-named-desire/",
+    "adult": false,
+    "id": 702,
+    "imdb_id": "tt0044081"
+  },
+  {
+    "title": "Great Expectations",
+    "release_year": "1946",
+    "clean_title": "/film/great-expectations/",
+    "adult": false,
+    "id": 14320,
+    "imdb_id": "tt0038574"
+  },
+  {
+    "title": "Gummo",
+    "release_year": "1997",
+    "clean_title": "/film/gummo/",
+    "adult": false,
+    "id": 18415,
+    "imdb_id": "tt0119237"
+  },
+  {
+    "title": "The New World",
+    "release_year": "2005",
+    "clean_title": "/film/the-new-world/",
+    "adult": false,
+    "id": 11400,
+    "imdb_id": "tt0402399"
+  },
+  {
+    "title": "Airplane!",
+    "release_year": "1980",
+    "clean_title": "/film/airplane/",
+    "adult": false,
+    "id": 813,
+    "imdb_id": "tt0080339"
+  },
+  {
+    "title": "The Golden Coach",
+    "release_year": "1952",
+    "clean_title": "/film/the-golden-coach/",
+    "adult": false,
+    "id": 56167,
+    "imdb_id": "tt0044487"
+  },
+  {
+    "title": "Funny Games",
+    "release_year": "1997",
+    "clean_title": "/film/funny-games/",
+    "adult": false,
+    "id": 10234,
+    "imdb_id": "tt0119167"
+  },
+  {
+    "title": "The Headless Woman",
+    "release_year": "2008",
+    "clean_title": "/film/the-headless-woman/",
+    "adult": false,
+    "id": 8898,
+    "imdb_id": "tt1221141"
+  },
+  {
+    "title": "Ben-Hur",
+    "release_year": "1959",
+    "clean_title": "/film/ben-hur-1959/",
+    "adult": false,
+    "id": 665,
+    "imdb_id": "tt0052618"
+  },
+  {
+    "title": "RoboCop",
+    "release_year": "1987",
+    "clean_title": "/film/robocop/",
+    "adult": false,
+    "id": 5548,
+    "imdb_id": "tt0093870"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "release_year": "1998",
+    "clean_title": "/film/saving-private-ryan/",
+    "adult": false,
+    "id": 857,
+    "imdb_id": "tt0120815"
+  },
+  {
+    "title": "Lolita",
+    "release_year": "1962",
+    "clean_title": "/film/lolita/",
+    "adult": false,
+    "id": 802,
+    "imdb_id": "tt0056193"
+  },
+  {
+    "title": "Mother and Son",
+    "release_year": "1997",
+    "clean_title": "/film/mother-and-son/",
+    "adult": false,
+    "id": 44361,
+    "imdb_id": "tt0119711"
+  },
+  {
+    "title": "Big Deal on Madonna Street",
+    "release_year": "1958",
+    "clean_title": "/film/big-deal-on-madonna-street/",
+    "adult": false,
+    "id": 24382,
+    "imdb_id": "tt0052216"
+  },
+  {
+    "title": "Breakfast at Tiffany's",
+    "release_year": "1961",
+    "clean_title": "/film/breakfast-at-tiffanys/",
+    "adult": false,
+    "id": 164,
+    "imdb_id": "tt0054698"
+  },
+  {
+    "title": "Nouvelle Vague",
+    "release_year": "1990",
+    "clean_title": "/film/nouvelle-vague/",
+    "adult": false,
+    "id": 32691,
+    "imdb_id": "tt0100274"
+  },
+  {
+    "title": "Memories of Murder",
+    "release_year": "2003",
+    "clean_title": "/film/memories-of-murder/",
+    "adult": false,
+    "id": 11423,
+    "imdb_id": "tt0353969"
+  },
+  {
+    "title": "The Great Escape",
+    "release_year": "1963",
+    "clean_title": "/film/the-great-escape/",
+    "adult": false,
+    "id": 5925,
+    "imdb_id": "tt0057115"
+  },
+  {
+    "title": "Lancelot of the Lake",
+    "release_year": "1974",
+    "clean_title": "/film/lancelot-of-the-lake/",
+    "adult": false,
+    "id": 55848,
+    "imdb_id": "tt0071737"
+  },
+  {
+    "title": "Dancer in the Dark",
+    "release_year": "2000",
+    "clean_title": "/film/dancer-in-the-dark/",
+    "adult": false,
+    "id": 16,
+    "imdb_id": "tt0168629"
+  },
+  {
+    "title": "The Piano Teacher",
+    "release_year": "2001",
+    "clean_title": "/film/the-piano-teacher/",
+    "adult": false,
+    "id": 1791,
+    "imdb_id": "tt0254686"
+  },
+  {
+    "title": "Xala",
+    "release_year": "1975",
+    "clean_title": "/film/xala/",
+    "adult": false,
+    "id": 76636,
+    "imdb_id": "tt0073915"
+  },
+  {
+    "title": "Zelig",
+    "release_year": "1983",
+    "clean_title": "/film/zelig/",
+    "adult": false,
+    "id": 11030,
+    "imdb_id": "tt0086637"
+  },
+  {
+    "title": "JFK",
+    "release_year": "1991",
+    "clean_title": "/film/jfk/",
+    "adult": false,
+    "id": 820,
+    "imdb_id": "tt0102138"
+  },
+  {
+    "title": "The Host",
+    "release_year": "2006",
+    "clean_title": "/film/the-host/",
+    "adult": false,
+    "id": 1255,
+    "imdb_id": "tt0468492"
+  },
+  {
+    "title": "Ghostbusters",
+    "release_year": "1984",
+    "clean_title": "/film/ghostbusters/",
+    "adult": false,
+    "id": 620,
+    "imdb_id": "tt0087332"
+  },
+  {
+    "title": "A Place in the Sun",
+    "release_year": "1951",
+    "clean_title": "/film/a-place-in-the-sun/",
+    "adult": false,
+    "id": 25673,
+    "imdb_id": "tt0043924"
+  },
+  {
+    "title": "Dazed and Confused",
+    "release_year": "1993",
+    "clean_title": "/film/dazed-and-confused/",
+    "adult": false,
+    "id": 9571,
+    "imdb_id": "tt0106677"
+  },
+  {
+    "title": "Yeelen",
+    "release_year": "1987",
+    "clean_title": "/film/yeelen/",
+    "adult": false,
+    "id": 71329,
+    "imdb_id": "tt0094349"
+  },
+  {
+    "title": "Moonfleet",
+    "release_year": "1955",
+    "clean_title": "/film/moonfleet/",
+    "adult": false,
+    "id": 29967,
+    "imdb_id": "tt0048387"
+  },
+  {
+    "title": "Harakiri",
+    "release_year": "1962",
+    "clean_title": "/film/harakiri/",
+    "adult": false,
+    "id": 14537,
+    "imdb_id": "tt0056058"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "release_year": "2000",
+    "clean_title": "/film/requiem-for-a-dream/",
+    "adult": false,
+    "id": 641,
+    "imdb_id": "tt0180093"
+  },
+  {
+    "title": "The Wild Child",
+    "release_year": "1970",
+    "clean_title": "/film/the-wild-child/",
+    "adult": false,
+    "id": 1627,
+    "imdb_id": "tt0064285"
+  },
+  {
+    "title": "Crash",
+    "release_year": "1996",
+    "clean_title": "/film/crash/",
+    "adult": false,
+    "id": 884,
+    "imdb_id": "tt0115964"
+  },
+  {
+    "title": "Miller's Crossing",
+    "release_year": "1990",
+    "clean_title": "/film/millers-crossing/",
+    "adult": false,
+    "id": 379,
+    "imdb_id": "tt0100150"
+  },
+  {
+    "title": "Smiles of a Summer Night",
+    "release_year": "1955",
+    "clean_title": "/film/smiles-of-a-summer-night/",
+    "adult": false,
+    "id": 11700,
+    "imdb_id": "tt0048641"
+  },
+  {
+    "title": "Walkabout",
+    "release_year": "1971",
+    "clean_title": "/film/walkabout/",
+    "adult": false,
+    "id": 36040,
+    "imdb_id": "tt0067959"
+  },
+  {
+    "title": "The Trial",
+    "release_year": "1962",
+    "clean_title": "/film/the-trial/",
+    "adult": false,
+    "id": 3009,
+    "imdb_id": "tt0057427"
+  },
+  {
+    "title": "They Live by Night",
+    "release_year": "1948",
+    "clean_title": "/film/they-live-by-night/",
+    "adult": false,
+    "id": 44190,
+    "imdb_id": "tt0040872"
+  },
+  {
+    "title": "Certified Copy",
+    "release_year": "2010",
+    "clean_title": "/film/certified-copy/",
+    "adult": false,
+    "id": 48303,
+    "imdb_id": "tt1020773"
+  },
+  {
+    "title": "The Woman Next Door",
+    "release_year": "1981",
+    "clean_title": "/film/the-woman-next-door/",
+    "adult": false,
+    "id": 12579,
+    "imdb_id": "tt0082370"
+  },
+  {
+    "title": "Godard's Passion",
+    "release_year": "1982",
+    "clean_title": "/film/godards-passion/",
+    "adult": false,
+    "id": 32692,
+    "imdb_id": "tt0084481"
+  },
+  {
+    "title": "Irreversible",
+    "release_year": "2002",
+    "clean_title": "/film/irreversible/",
+    "adult": false,
+    "id": 979,
+    "imdb_id": "tt0290673"
+  },
+  {
+    "title": "Gun Crazy",
+    "release_year": "1950",
+    "clean_title": "/film/gun-crazy/",
+    "adult": false,
+    "id": 18671,
+    "imdb_id": "tt0042530"
+  },
+  {
+    "title": "Jurassic Park",
+    "release_year": "1993",
+    "clean_title": "/film/jurassic-park/",
+    "adult": false,
+    "id": 329,
+    "imdb_id": "tt0107290"
+  },
+  {
+    "title": "Les Dames du bois de Boulogne",
+    "release_year": "1945",
+    "clean_title": "/film/les-dames-du-bois-de-boulogne/",
+    "adult": false,
+    "id": 49845,
+    "imdb_id": "tt0037630"
+  },
+  {
+    "title": "The Ghost and Mrs. Muir",
+    "release_year": "1947",
+    "clean_title": "/film/the-ghost-and-mrs-muir/",
+    "adult": false,
+    "id": 22292,
+    "imdb_id": "tt0039420"
+  },
+  {
+    "title": "The Tiger of Eschnapur",
+    "release_year": "1959",
+    "clean_title": "/film/the-tiger-of-eschnapur/",
+    "adult": false,
+    "id": 71041,
+    "imdb_id": "tt0052295"
+  },
+  {
+    "title": "Night of the Demon",
+    "release_year": "1957",
+    "clean_title": "/film/night-of-the-demon/",
+    "adult": false,
+    "id": 25103,
+    "imdb_id": "tt0050766"
+  },
+  {
+    "title": "Spartacus",
+    "release_year": "1960",
+    "clean_title": "/film/spartacus/",
+    "adult": false,
+    "id": 967,
+    "imdb_id": "tt0054331"
+  },
+  {
+    "title": "L.A. Confidential",
+    "release_year": "1997",
+    "clean_title": "/film/la-confidential/",
+    "adult": false,
+    "id": 2118,
+    "imdb_id": "tt0119488"
+  },
+  {
+    "title": "WR: Mysteries of the Organism",
+    "release_year": "1971",
+    "clean_title": "/film/wr-mysteries-of-the-organism/",
+    "adult": false,
+    "id": 42529,
+    "imdb_id": "tt0067958"
+  },
+  {
+    "title": "Blow Out",
+    "release_year": "1981",
+    "clean_title": "/film/blow-out/",
+    "adult": false,
+    "id": 11644,
+    "imdb_id": "tt0082085"
+  },
+  {
+    "title": "My Life as a Dog",
+    "release_year": "1985",
+    "clean_title": "/film/my-life-as-a-dog/",
+    "adult": false,
+    "id": 8816,
+    "imdb_id": "tt0089606"
+  },
+  {
+    "title": "An American Werewolf in London",
+    "release_year": "1981",
+    "clean_title": "/film/an-american-werewolf-in-london/",
+    "adult": false,
+    "id": 814,
+    "imdb_id": "tt0082010"
+  },
+  {
+    "title": "The Circus",
+    "release_year": "1928",
+    "clean_title": "/film/the-circus/",
+    "adult": false,
+    "id": 28978,
+    "imdb_id": "tt0018773"
+  },
+  {
+    "title": "The Emperor's Naked Army Marches On",
+    "release_year": "1987",
+    "clean_title": "/film/the-emperors-naked-army-marches-on/",
+    "adult": false,
+    "id": 51929,
+    "imdb_id": "tt0092963"
+  },
+  {
+    "title": "Dumbo",
+    "release_year": "1941",
+    "clean_title": "/film/dumbo/",
+    "adult": false,
+    "id": 11360,
+    "imdb_id": "tt0033563"
+  },
+  {
+    "title": "The Red Light Bandit",
+    "release_year": "1968",
+    "clean_title": "/film/the-red-light-bandit/",
+    "adult": false,
+    "id": 186738,
+    "imdb_id": "tt0144782"
+  },
+  {
+    "title": "Avatar",
+    "release_year": "2009",
+    "clean_title": "/film/avatar/",
+    "adult": false,
+    "id": 19995,
+    "imdb_id": "tt0499549"
+  },
+  {
+    "title": "The Bad and the Beautiful",
+    "release_year": "1952",
+    "clean_title": "/film/the-bad-and-the-beautiful/",
+    "adult": false,
+    "id": 32499,
+    "imdb_id": "tt0044391"
+  },
+  {
+    "title": "The African Queen",
+    "release_year": "1951",
+    "clean_title": "/film/the-african-queen/",
+    "adult": false,
+    "id": 488,
+    "imdb_id": "tt0043265"
+  },
+  {
+    "title": "Edward Scissorhands",
+    "release_year": "1990",
+    "clean_title": "/film/edward-scissorhands/",
+    "adult": false,
+    "id": 162,
+    "imdb_id": "tt0099487"
+  },
+  {
+    "title": "Near Dark",
+    "release_year": "1987",
+    "clean_title": "/film/near-dark/",
+    "adult": false,
+    "id": 11879,
+    "imdb_id": "tt0093605"
+  },
+  {
+    "title": "Thelma & Louise",
+    "release_year": "1991",
+    "clean_title": "/film/thelma-louise/",
+    "adult": false,
+    "id": 1541,
+    "imdb_id": "tt0103074"
+  },
+  {
+    "title": "Rififi",
+    "release_year": "1955",
+    "clean_title": "/film/rififi/",
+    "adult": false,
+    "id": 934,
+    "imdb_id": "tt0048021"
+  },
+  {
+    "title": "The Ladies Man",
+    "release_year": "1961",
+    "clean_title": "/film/the-ladies-man-1961/",
+    "adult": false,
+    "id": 28333,
+    "imdb_id": "tt0055069"
+  },
+  {
+    "title": "The Seasons",
+    "release_year": "1975",
+    "clean_title": "/film/the-seasons-1975/",
+    "adult": false,
+    "id": 44357,
+    "imdb_id": "tt0298597"
+  },
+  {
+    "title": "Code Unknown",
+    "release_year": "2000",
+    "clean_title": "/film/code-unknown/",
+    "adult": false,
+    "id": 30970,
+    "imdb_id": "tt0216625"
+  },
+  {
+    "title": "The River",
+    "release_year": "1997",
+    "clean_title": "/film/the-river-1997/",
+    "adult": false,
+    "id": 54291,
+    "imdb_id": "tt0119263"
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "release_year": "1989",
+    "clean_title": "/film/when-harry-met-sally/",
+    "adult": false,
+    "id": 639,
+    "imdb_id": "tt0098635"
+  },
+  {
+    "title": "Foolish Wives",
+    "release_year": "1922",
+    "clean_title": "/film/foolish-wives/",
+    "adult": false,
+    "id": 35227,
+    "imdb_id": "tt0013140"
+  },
+  {
+    "title": "The Man Who Would Be King",
+    "release_year": "1975",
+    "clean_title": "/film/the-man-who-would-be-king/",
+    "adult": false,
+    "id": 983,
+    "imdb_id": "tt0073341"
+  },
+  {
+    "title": "Dirty Harry",
+    "release_year": "1971",
+    "clean_title": "/film/dirty-harry/",
+    "adult": false,
+    "id": 984,
+    "imdb_id": "tt0066999"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "release_year": "1988",
+    "clean_title": "/film/grave-of-the-fireflies/",
+    "adult": false,
+    "id": 12477,
+    "imdb_id": "tt0095327"
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "release_year": "1986",
+    "clean_title": "/film/ferris-buellers-day-off/",
+    "adult": false,
+    "id": 9377,
+    "imdb_id": "tt0091042"
+  },
+  {
+    "title": "Vive L'Amour",
+    "release_year": "1994",
+    "clean_title": "/film/vive-lamour/",
+    "adult": false,
+    "id": 11985,
+    "imdb_id": "tt0109066"
+  },
+  {
+    "title": "A Prophet",
+    "release_year": "2009",
+    "clean_title": "/film/a-prophet/",
+    "adult": false,
+    "id": 21575,
+    "imdb_id": "tt1235166"
+  },
+  {
+    "title": "The Killer",
+    "release_year": "1989",
+    "clean_title": "/film/the-killer/",
+    "adult": false,
+    "id": 10835,
+    "imdb_id": "tt0097202"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "Abraham's Valley",
+    "release_year": "1993",
+    "clean_title": "/film/abrahams-valley/",
+    "adult": false,
+    "id": 107693,
+    "imdb_id": "tt0108471"
+  },
+  {
+    "title": "Outskirts",
+    "release_year": "1933",
+    "clean_title": "/film/outskirts/",
+    "adult": false,
+    "id": 94638,
+    "imdb_id": "tt0024402"
+  },
+  {
+    "title": "The Firemen's Ball",
+    "release_year": "1967",
+    "clean_title": "/film/the-firemens-ball/",
+    "adult": false,
+    "id": 38442,
+    "imdb_id": "tt0061781"
+  },
+  {
+    "title": "The Hawks and the Sparrows",
+    "release_year": "1966",
+    "clean_title": "/film/the-hawks-and-the-sparrows/",
+    "adult": false,
+    "id": 33954,
+    "imdb_id": "tt0061132"
+  },
+  {
+    "title": "Edvard Munch",
+    "release_year": "1974",
+    "clean_title": "/film/edvard-munch/",
+    "adult": false,
+    "id": 50254,
+    "imdb_id": "tt0074462"
+  },
+  {
+    "title": "Chronicle of Anna Magdalena Bach",
+    "release_year": "1968",
+    "clean_title": "/film/chronicle-of-anna-magdalena-bach/",
+    "adult": false,
+    "id": 95600,
+    "imdb_id": "tt0062804"
+  },
+  {
+    "title": "A Short Film About Killing",
+    "release_year": "1988",
+    "clean_title": "/film/a-short-film-about-killing/",
+    "adult": false,
+    "id": 10754,
+    "imdb_id": "tt0095468"
+  },
+  {
+    "title": "The Navigator",
+    "release_year": "1924",
+    "clean_title": "/film/the-navigator/",
+    "adult": false,
+    "id": 32318,
+    "imdb_id": "tt0015163"
+  },
+  {
+    "title": "From the East",
+    "release_year": "1993",
+    "clean_title": "/film/from-the-east/",
+    "adult": false,
+    "id": 104739,
+    "imdb_id": "tt0106642"
+  },
+  {
+    "title": "Fort Apache",
+    "release_year": "1948",
+    "clean_title": "/film/fort-apache/",
+    "adult": false,
+    "id": 37347,
+    "imdb_id": "tt0040369"
+  },
+  {
+    "title": "Moulin Rouge!",
+    "release_year": "2001",
+    "clean_title": "/film/moulin-rouge-2001/",
+    "adult": false,
+    "id": 824,
+    "imdb_id": "tt0203009"
+  },
+  {
+    "title": "Portrait of Jason",
+    "release_year": "1967",
+    "clean_title": "/film/portrait-of-jason/",
+    "adult": false,
+    "id": 83232,
+    "imdb_id": "tt0062144"
+  },
+  {
+    "title": "Claire's Knee",
+    "release_year": "1970",
+    "clean_title": "/film/claires-knee/",
+    "adult": false,
+    "id": 2860,
+    "imdb_id": "tt0065772"
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "release_year": "1930",
+    "clean_title": "/film/all-quiet-on-the-western-front/",
+    "adult": false,
+    "id": 143,
+    "imdb_id": "tt0020629"
+  },
+  {
+    "title": "Red Sorghum",
+    "release_year": "1988",
+    "clean_title": "/film/red-sorghum/",
+    "adult": false,
+    "id": 42006,
+    "imdb_id": "tt0093206"
+  },
+  {
+    "title": "Every Man for Himself",
+    "release_year": "1980",
+    "clean_title": "/film/every-man-for-himself/",
+    "adult": false,
+    "id": 113479,
+    "imdb_id": "tt0079854"
+  },
+  {
+    "title": "The Long Day Closes",
+    "release_year": "1992",
+    "clean_title": "/film/the-long-day-closes/",
+    "adult": false,
+    "id": 49956,
+    "imdb_id": "tt0104753"
+  },
+  {
+    "title": "Saturday Night and Sunday Morning",
+    "release_year": "1960",
+    "clean_title": "/film/saturday-night-and-sunday-morning/",
+    "adult": false,
+    "id": 37230,
+    "imdb_id": "tt0054269"
+  },
+  {
+    "title": "The Tin Drum",
+    "release_year": "1979",
+    "clean_title": "/film/the-tin-drum/",
+    "adult": false,
+    "id": 659,
+    "imdb_id": "tt0078875"
+  },
+  {
+    "title": "The Thief of Bagdad",
+    "release_year": "1940",
+    "clean_title": "/film/the-thief-of-bagdad-1940/",
+    "adult": false,
+    "id": 12232,
+    "imdb_id": "tt0033152"
+  },
+  {
+    "title": "Il Grido",
+    "release_year": "1957",
+    "clean_title": "/film/il-grido/",
+    "adult": false,
+    "id": 41054,
+    "imdb_id": "tt0050458"
+  },
+  {
+    "title": "Akira",
+    "release_year": "1988",
+    "clean_title": "/film/akira/",
+    "adult": false,
+    "id": 149,
+    "imdb_id": "tt0094625"
+  },
+  {
+    "title": "Crumb",
+    "release_year": "1994",
+    "clean_title": "/film/crumb/",
+    "adult": false,
+    "id": 26564,
+    "imdb_id": "tt0109508"
+  },
+  {
+    "title": "Z",
+    "release_year": "1969",
+    "clean_title": "/film/z/",
+    "adult": false,
+    "id": 2721,
+    "imdb_id": "tt0065234"
+  },
+  {
+    "title": "Sideways",
+    "release_year": "2004",
+    "clean_title": "/film/sideways/",
+    "adult": false,
+    "id": 9675,
+    "imdb_id": "tt0375063"
+  },
+  {
+    "title": "Il Posto",
+    "release_year": "1961",
+    "clean_title": "/film/il-posto/",
+    "adult": false,
+    "id": 31742,
+    "imdb_id": "tt0055320"
+  },
+  {
+    "title": "Ace in the Hole",
+    "release_year": "1951",
+    "clean_title": "/film/ace-in-the-hole/",
+    "adult": false,
+    "id": 25364,
+    "imdb_id": "tt0043338"
+  },
+  {
+    "title": "Pickup on South Street",
+    "release_year": "1953",
+    "clean_title": "/film/pickup-on-south-street/",
+    "adult": false,
+    "id": 25955,
+    "imdb_id": "tt0046187"
+  },
+  {
+    "title": "7 Women",
+    "release_year": "1965",
+    "clean_title": "/film/7-women/",
+    "adult": false,
+    "id": 68692,
+    "imdb_id": "tt0060050"
+  },
+  {
+    "title": "Hunger",
+    "release_year": "2008",
+    "clean_title": "/film/hunger/",
+    "adult": false,
+    "id": 10360,
+    "imdb_id": "tt0986233"
+  },
+  {
+    "title": "Blood of the Beasts",
+    "release_year": "1949",
+    "clean_title": "/film/blood-of-the-beasts/",
+    "adult": false,
+    "id": 91262,
+    "imdb_id": "tt0041842"
+  },
+  {
+    "title": "Wild at Heart",
+    "release_year": "1990",
+    "clean_title": "/film/wild-at-heart/",
+    "adult": false,
+    "id": 483,
+    "imdb_id": "tt0100935"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "release_year": "2004",
+    "clean_title": "/film/million-dollar-baby/",
+    "adult": false,
+    "id": 70,
+    "imdb_id": "tt0405159"
+  },
+  {
+    "title": "We All Loved Each Other So Much",
+    "release_year": "1974",
+    "clean_title": "/film/we-all-loved-each-other-so-much/",
+    "adult": false,
+    "id": 42269,
+    "imdb_id": "tt0075793"
+  },
+  {
+    "title": "Léon: The Professional",
+    "release_year": "1994",
+    "clean_title": "/film/leon-the-professional/",
+    "adult": false,
+    "id": 101,
+    "imdb_id": "tt0110413"
+  },
+  {
+    "title": "An American in Paris",
+    "release_year": "1951",
+    "clean_title": "/film/an-american-in-paris/",
+    "adult": false,
+    "id": 2769,
+    "imdb_id": "tt0043278"
+  },
+  {
+    "title": "Iracema",
+    "release_year": "1975",
+    "clean_title": "/film/iracema/",
+    "adult": false,
+    "id": 116146,
+    "imdb_id": "tt0126968"
+  },
+  {
+    "title": "Dodes'ka-den",
+    "release_year": "1970",
+    "clean_title": "/film/dodeska-den/",
+    "adult": false,
+    "id": 33205,
+    "imdb_id": "tt0065649"
+  },
+  {
+    "title": "Othello",
+    "release_year": "1951",
+    "clean_title": "/film/othello-1951/",
+    "adult": false,
+    "id": 47697,
+    "imdb_id": "tt0045251"
+  },
+  {
+    "title": "The Last Detail",
+    "release_year": "1973",
+    "clean_title": "/film/the-last-detail/",
+    "adult": false,
+    "id": 14886,
+    "imdb_id": "tt0070290"
+  },
+  {
+    "title": "News from Home",
+    "release_year": "1976",
+    "clean_title": "/film/news-from-home/",
+    "adult": false,
+    "id": 86814,
+    "imdb_id": "tt0076452"
+  },
+  {
+    "title": "Le Bonheur",
+    "release_year": "1965",
+    "clean_title": "/film/happiness-1965/",
+    "adult": false,
+    "id": 53023,
+    "imdb_id": "tt0058985"
+  },
+  {
+    "title": "The Princess Bride",
+    "release_year": "1987",
+    "clean_title": "/film/the-princess-bride/",
+    "adult": false,
+    "id": 2493,
+    "imdb_id": "tt0093779"
+  },
+  {
+    "title": "Obsession",
+    "release_year": "1943",
+    "clean_title": "/film/obsession-1943/",
+    "adult": false,
+    "id": 5155,
+    "imdb_id": "tt0035160"
+  },
+  {
+    "title": "The Red Balloon",
+    "release_year": "1956",
+    "clean_title": "/film/the-red-balloon/",
+    "adult": false,
+    "id": 15265,
+    "imdb_id": "tt0048980"
+  },
+  {
+    "title": "Starship Troopers",
+    "release_year": "1997",
+    "clean_title": "/film/starship-troopers/",
+    "adult": false,
+    "id": 563,
+    "imdb_id": "tt0120201"
+  },
+  {
+    "title": "Street Angel",
+    "release_year": "1937",
+    "clean_title": "/film/street-angel-1937/",
+    "adult": false,
+    "id": 112699,
+    "imdb_id": "tt0183828"
+  },
+  {
+    "title": "Ed Wood",
+    "release_year": "1994",
+    "clean_title": "/film/ed-wood/",
+    "adult": false,
+    "id": 522,
+    "imdb_id": "tt0109707"
+  },
+  {
+    "title": "The Adventures of Robin Hood",
+    "release_year": "1938",
+    "clean_title": "/film/the-adventures-of-robin-hood/",
+    "adult": false,
+    "id": 10907,
+    "imdb_id": "tt0029843"
+  },
+  {
+    "title": "Cool Hand Luke",
+    "release_year": "1967",
+    "clean_title": "/film/cool-hand-luke/",
+    "adult": false,
+    "id": 903,
+    "imdb_id": "tt0061512"
+  },
+  {
+    "title": "New York, New York",
+    "release_year": "1977",
+    "clean_title": "/film/new-york-new-york/",
+    "adult": false,
+    "id": 12637,
+    "imdb_id": "tt0076451"
+  },
+  {
+    "title": "The Blues Brothers",
+    "release_year": "1980",
+    "clean_title": "/film/the-blues-brothers/",
+    "adult": false,
+    "id": 525,
+    "imdb_id": "tt0080455"
+  },
+  {
+    "title": "The Sweet Hereafter",
+    "release_year": "1997",
+    "clean_title": "/film/the-sweet-hereafter/",
+    "adult": false,
+    "id": 10217,
+    "imdb_id": "tt0120255"
+  },
+  {
+    "title": "Paper Moon",
+    "release_year": "1973",
+    "clean_title": "/film/paper-moon/",
+    "adult": false,
+    "id": 11293,
+    "imdb_id": "tt0070510"
+  },
+  {
+    "title": "Olympia Part One: Festival of the Nations",
+    "release_year": "1938",
+    "clean_title": "/film/olympia-part-one-festival-of-the-nations/",
+    "adult": false,
+    "id": 677,
+    "imdb_id": "tt0030522"
+  },
+  {
+    "title": "American Beauty",
+    "release_year": "1999",
+    "clean_title": "/film/american-beauty/",
+    "adult": false,
+    "id": 14,
+    "imdb_id": "tt0169547"
+  },
+  {
+    "title": "Morocco",
+    "release_year": "1930",
+    "clean_title": "/film/morocco/",
+    "adult": false,
+    "id": 42641,
+    "imdb_id": "tt0021156"
+  },
+  {
+    "title": "Lessons of Darkness",
+    "release_year": "1992",
+    "clean_title": "/film/lessons-of-darkness/",
+    "adult": false,
+    "id": 53200,
+    "imdb_id": "tt0104706"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "release_year": "2009",
+    "clean_title": "/film/inglourious-basterds/",
+    "adult": false,
+    "id": 16869,
+    "imdb_id": "tt0361748"
+  },
+  {
+    "title": "Blood Simple",
+    "release_year": "1984",
+    "clean_title": "/film/blood-simple/",
+    "adult": false,
+    "id": 11368,
+    "imdb_id": "tt0086979"
+  },
+  {
+    "title": "Spies",
+    "release_year": "1928",
+    "clean_title": "/film/spies/",
+    "adult": false,
+    "id": 78507,
+    "imdb_id": "tt0019415"
+  },
+  {
+    "title": "Deep End",
+    "release_year": "1970",
+    "clean_title": "/film/deep-end/",
+    "adult": false,
+    "id": 59408,
+    "imdb_id": "tt0066122"
+  },
+  {
+    "title": "The Mad Masters",
+    "release_year": "1955",
+    "clean_title": "/film/the-mad-masters/",
+    "adult": false,
+    "id": 84820,
+    "imdb_id": "tt0048363"
+  },
+  {
+    "title": "A Woman of Paris: A Drama of Fate",
+    "release_year": "1923",
+    "clean_title": "/film/a-woman-of-paris-a-drama-of-fate/",
+    "adult": false,
+    "id": 28974,
+    "imdb_id": "tt0014624"
+  },
+  {
+    "title": "Le Trou",
+    "release_year": "1960",
+    "clean_title": "/film/le-trou/",
+    "adult": false,
+    "id": 29259,
+    "imdb_id": "tt0054407"
+  },
+  {
+    "title": "Flaming Creatures",
+    "release_year": "1963",
+    "clean_title": "/film/flaming-creatures/",
+    "adult": false,
+    "id": 47122,
+    "imdb_id": "tt0054880"
+  },
+  {
+    "title": "Two English Girls",
+    "release_year": "1971",
+    "clean_title": "/film/two-english-girls/",
+    "adult": false,
+    "id": 42513,
+    "imdb_id": "tt0066989"
+  },
+  {
+    "title": "The Intruder",
+    "release_year": "2004",
+    "clean_title": "/film/the-intruder/",
+    "adult": false,
+    "id": 47143,
+    "imdb_id": "tt0422491"
+  },
+  {
+    "title": "Blue",
+    "release_year": "1993",
+    "clean_title": "/film/blue-1993/",
+    "adult": false,
+    "id": 94794,
+    "imdb_id": "tt0106438"
+  },
+  {
+    "title": "The Ladykillers",
+    "release_year": "1955",
+    "clean_title": "/film/the-ladykillers/",
+    "adult": false,
+    "id": 5506,
+    "imdb_id": "tt0048281"
+  },
+  {
+    "title": "Assault on Precinct 13",
+    "release_year": "1976",
+    "clean_title": "/film/assault-on-precinct-13/",
+    "adult": false,
+    "id": 17814,
+    "imdb_id": "tt0074156"
+  },
+  {
+    "title": "Kaagaz Ke Phool",
+    "release_year": "1959",
+    "clean_title": "/film/kaagaz-ke-phool/",
+    "adult": false,
+    "id": 53767,
+    "imdb_id": "tt0052954"
+  },
+  {
+    "title": "Port of Shadows",
+    "release_year": "1938",
+    "clean_title": "/film/port-of-shadows/",
+    "adult": false,
+    "id": 46326,
+    "imdb_id": "tt0030643"
+  },
+  {
+    "title": "The Holy Mountain",
+    "release_year": "1973",
+    "clean_title": "/film/the-holy-mountain/",
+    "adult": false,
+    "id": 8327,
+    "imdb_id": "tt0071615"
+  },
+  {
+    "title": "Vengeance Is Mine",
+    "release_year": "1979",
+    "clean_title": "/film/vengeance-is-mine/",
+    "adult": false,
+    "id": 42170,
+    "imdb_id": "tt0079182"
+  },
+  {
+    "title": "Mary Poppins",
+    "release_year": "1964",
+    "clean_title": "/film/mary-poppins/",
+    "adult": false,
+    "id": 433,
+    "imdb_id": "tt0058331"
+  },
+  {
+    "title": "Excalibur",
+    "release_year": "1981",
+    "clean_title": "/film/excalibur/",
+    "adult": false,
+    "id": 11527,
+    "imdb_id": "tt0082348"
+  },
+  {
+    "title": "Roman Holiday",
+    "release_year": "1953",
+    "clean_title": "/film/roman-holiday/",
+    "adult": false,
+    "id": 804,
+    "imdb_id": "tt0046250"
+  },
+  {
+    "title": "Saturday Night Fever",
+    "release_year": "1977",
+    "clean_title": "/film/saturday-night-fever/",
+    "adult": false,
+    "id": 11009,
+    "imdb_id": "tt0076666"
+  },
+  {
+    "title": "Amores Perros",
+    "release_year": "2000",
+    "clean_title": "/film/amores-perros/",
+    "adult": false,
+    "id": 55,
+    "imdb_id": "tt0245712"
+  },
+  {
+    "title": "Hitler: A Film from Germany",
+    "release_year": "1977",
+    "clean_title": "/film/hitler-a-film-from-germany/",
+    "adult": false,
+    "id": 58435,
+    "imdb_id": "tt0076147"
+  },
+  {
+    "title": "Burnt by the Sun",
+    "release_year": "1994",
+    "clean_title": "/film/burnt-by-the-sun/",
+    "adult": false,
+    "id": 50797,
+    "imdb_id": "tt0111579"
+  },
+  {
+    "title": "Who's Afraid of Virginia Woolf?",
+    "release_year": "1966",
+    "clean_title": "/film/whos-afraid-of-virginia-woolf/",
+    "adult": false,
+    "id": 396,
+    "imdb_id": "tt0061184"
+  },
+  {
+    "title": "The Idiots",
+    "release_year": "1998",
+    "clean_title": "/film/the-idiots/",
+    "adult": false,
+    "id": 452,
+    "imdb_id": "tt0154421"
+  },
+  {
+    "title": "The Producers",
+    "release_year": "1967",
+    "clean_title": "/film/the-producers/",
+    "adult": false,
+    "id": 30197,
+    "imdb_id": "tt0063462"
+  },
+  {
+    "title": "The Last Bolshevik",
+    "release_year": "1993",
+    "clean_title": "/film/the-last-bolshevik/",
+    "adult": false,
+    "id": 98498,
+    "imdb_id": "tt0105618"
+  },
+  {
+    "title": "Diary",
+    "release_year": "1983",
+    "clean_title": "/film/diary-1983/",
+    "adult": false,
+    "id": 44394,
+    "imdb_id": "tt0179546"
+  },
+  {
+    "title": "Au Revoir les Enfants",
+    "release_year": "1987",
+    "clean_title": "/film/au-revoir-les-enfants/",
+    "adult": false,
+    "id": 1786,
+    "imdb_id": "tt0092593"
+  },
+  {
+    "title": "The Lusty Men",
+    "release_year": "1952",
+    "clean_title": "/film/the-lusty-men/",
+    "adult": false,
+    "id": 43370,
+    "imdb_id": "tt0044860"
+  },
+  {
+    "title": "Sawdust and Tinsel",
+    "release_year": "1953",
+    "clean_title": "/film/sawdust-and-tinsel/",
+    "adult": false,
+    "id": 47721,
+    "imdb_id": "tt0045848"
+  },
+  {
+    "title": "The Miracle of Morgan's Creek",
+    "release_year": "1943",
+    "clean_title": "/film/the-miracle-of-morgans-creek/",
+    "adult": false,
+    "id": 42879,
+    "imdb_id": "tt0037077"
+  },
+  {
+    "title": "Forbidden Games",
+    "release_year": "1952",
+    "clean_title": "/film/forbidden-games-1952/",
+    "adult": false,
+    "id": 5000,
+    "imdb_id": "tt0043686"
+  },
+  {
+    "title": "Street of Shame",
+    "release_year": "1956",
+    "clean_title": "/film/street-of-shame/",
+    "adult": false,
+    "id": 43255,
+    "imdb_id": "tt0048933"
+  },
+  {
+    "title": "Veronika Voss",
+    "release_year": "1982",
+    "clean_title": "/film/veronika-voss/",
+    "adult": false,
+    "id": 2262,
+    "imdb_id": "tt0084654"
+  },
+  {
+    "title": "Millennium Mambo",
+    "release_year": "2001",
+    "clean_title": "/film/millennium-mambo/",
+    "adult": false,
+    "id": 11553,
+    "imdb_id": "tt0283283"
+  },
+  {
+    "title": "The Criminal Life of Archibaldo de la Cruz",
+    "release_year": "1955",
+    "clean_title": "/film/the-criminal-life-of-archibaldo-de-la-cruz/",
+    "adult": false,
+    "id": 37628,
+    "imdb_id": "tt0048037"
+  },
+  {
+    "title": "The Day the Earth Stood Still",
+    "release_year": "1951",
+    "clean_title": "/film/the-day-the-earth-stood-still/",
+    "adult": false,
+    "id": 828,
+    "imdb_id": "tt0043456"
+  },
+  {
+    "title": "Faster, Pussycat! Kill! Kill!",
+    "release_year": "1965",
+    "clean_title": "/film/faster-pussycat-kill-kill/",
+    "adult": false,
+    "id": 315,
+    "imdb_id": "tt0059170"
+  },
+  {
+    "title": "Diaries, Notes, and Sketches",
+    "release_year": "1968",
+    "clean_title": "/film/diaries-notes-and-sketches/",
+    "adult": false,
+    "id": 105583,
+    "imdb_id": "tt0196499"
+  },
+  {
+    "title": "Kwaidan",
+    "release_year": "1964",
+    "clean_title": "/film/kwaidan/",
+    "adult": false,
+    "id": 30959,
+    "imdb_id": "tt0058279"
+  },
+  {
+    "title": "Cria!",
+    "release_year": "1976",
+    "clean_title": "/film/cria/",
+    "adult": false,
+    "id": 51857,
+    "imdb_id": "tt0074360"
+  },
+  {
+    "title": "Le Million",
+    "release_year": "1931",
+    "clean_title": "/film/le-million/",
+    "adult": false,
+    "id": 32317,
+    "imdb_id": "tt0022150"
+  },
+  {
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "release_year": "1988",
+    "clean_title": "/film/women-on-the-verge-of-a-nervous-breakdown/",
+    "adult": false,
+    "id": 4203,
+    "imdb_id": "tt0095675"
+  },
+  {
+    "title": "Fata Morgana",
+    "release_year": "1971",
+    "clean_title": "/film/fata-morgana/",
+    "adult": false,
+    "id": 55624,
+    "imdb_id": "tt0067085"
+  },
+  {
+    "title": "The Right Stuff",
+    "release_year": "1983",
+    "clean_title": "/film/the-right-stuff/",
+    "adult": false,
+    "id": 9549,
+    "imdb_id": "tt0086197"
+  },
+  {
+    "title": "Taipei Story",
+    "release_year": "1985",
+    "clean_title": "/film/taipei-story/",
+    "adult": false,
+    "id": 106380,
+    "imdb_id": "tt0089866"
+  },
+  {
+    "title": "Princess Mononoke",
+    "release_year": "1997",
+    "clean_title": "/film/princess-mononoke/",
+    "adult": false,
+    "id": 128,
+    "imdb_id": "tt0119698"
+  },
+  {
+    "title": "My American Uncle",
+    "release_year": "1980",
+    "clean_title": "/film/my-american-uncle/",
+    "adult": false,
+    "id": 39543,
+    "imdb_id": "tt0081176"
+  },
+  {
+    "title": "Anatomy of a Murder",
+    "release_year": "1959",
+    "clean_title": "/film/anatomy-of-a-murder/",
+    "adult": false,
+    "id": 93,
+    "imdb_id": "tt0052561"
+  },
+  {
+    "title": "Time of the Gypsies",
+    "release_year": "1988",
+    "clean_title": "/film/time-of-the-gypsies/",
+    "adult": false,
+    "id": 20123,
+    "imdb_id": "tt0097223"
+  },
+  {
+    "title": "Dear Diary",
+    "release_year": "1993",
+    "clean_title": "/film/dear-diary-1993/",
+    "adult": false,
+    "id": 25403,
+    "imdb_id": "tt0109382"
+  },
+  {
+    "title": "Point Break",
+    "release_year": "1991",
+    "clean_title": "/film/point-break/",
+    "adult": false,
+    "id": 1089,
+    "imdb_id": "tt0102685"
+  },
+  {
+    "title": "The Breakfast Club",
+    "release_year": "1985",
+    "clean_title": "/film/the-breakfast-club/",
+    "adult": false,
+    "id": 2108,
+    "imdb_id": "tt0088847"
+  },
+  {
+    "title": "Black Girl",
+    "release_year": "1966",
+    "clean_title": "/film/black-girl-1966/",
+    "adult": false,
+    "id": 95597,
+    "imdb_id": "tt0060758"
+  },
+  {
+    "title": "2046",
+    "release_year": "2004",
+    "clean_title": "/film/2046/",
+    "adult": false,
+    "id": 844,
+    "imdb_id": "tt0212712"
+  },
+  {
+    "title": "Central Station",
+    "release_year": "1998",
+    "clean_title": "/film/central-station/",
+    "adult": false,
+    "id": 666,
+    "imdb_id": "tt0140888"
+  },
+  {
+    "title": "The Age of the Earth",
+    "release_year": "1980",
+    "clean_title": "/film/the-age-of-the-earth/",
+    "adult": false,
+    "id": 76816,
+    "imdb_id": "tt0080910"
+  },
+  {
+    "title": "She Wore a Yellow Ribbon",
+    "release_year": "1949",
+    "clean_title": "/film/she-wore-a-yellow-ribbon/",
+    "adult": false,
+    "id": 13909,
+    "imdb_id": "tt0041866"
+  },
+  {
+    "title": "The Cook, the Thief, His Wife & Her Lover",
+    "release_year": "1989",
+    "clean_title": "/film/the-cook-the-thief-his-wife-her-lover/",
+    "adult": false,
+    "id": 7452,
+    "imdb_id": "tt0097108"
+  },
+  {
+    "title": "It's a Gift",
+    "release_year": "1934",
+    "clean_title": "/film/its-a-gift/",
+    "adult": false,
+    "id": 28001,
+    "imdb_id": "tt0025318"
+  },
+  {
+    "title": "The Naked Island",
+    "release_year": "1960",
+    "clean_title": "/film/the-naked-island/",
+    "adult": false,
+    "id": 3764,
+    "imdb_id": "tt0056049"
+  },
+  {
+    "title": "Berlin: Symphony of a Great City",
+    "release_year": "1927",
+    "clean_title": "/film/berlin-symphony-of-a-great-city/",
+    "adult": false,
+    "id": 222,
+    "imdb_id": "tt0017668"
+  },
+  {
+    "title": "Duel in the Sun",
+    "release_year": "1946",
+    "clean_title": "/film/duel-in-the-sun/",
+    "adult": false,
+    "id": 32275,
+    "imdb_id": "tt0038499"
+  },
+  {
+    "title": "Dust in the Wind",
+    "release_year": "1986",
+    "clean_title": "/film/dust-in-the-wind/",
+    "adult": false,
+    "id": 45996,
+    "imdb_id": "tt0091406"
+  },
+  {
+    "title": "Fires Were Started",
+    "release_year": "1943",
+    "clean_title": "/film/fires-were-started/",
+    "adult": false,
+    "id": 84656,
+    "imdb_id": "tt0035881"
+  },
+  {
+    "title": "Ten",
+    "release_year": "2002",
+    "clean_title": "/film/ten-2002/",
+    "adult": false,
+    "id": 14633,
+    "imdb_id": "tt0301978"
+  },
+  {
+    "title": "Mother India",
+    "release_year": "1957",
+    "clean_title": "/film/mother-india/",
+    "adult": false,
+    "id": 917,
+    "imdb_id": "tt0050188"
+  },
+  {
+    "title": "In Praise of Love",
+    "release_year": "2001",
+    "clean_title": "/film/in-praise-of-love/",
+    "adult": false,
+    "id": 52717,
+    "imdb_id": "tt0181912"
+  },
+  {
+    "title": "The Phantom Carriage",
+    "release_year": "1921",
+    "clean_title": "/film/the-phantom-carriage/",
+    "adult": false,
+    "id": 58129,
+    "imdb_id": "tt0012364"
+  },
+  {
+    "title": "La Bête Humaine",
+    "release_year": "1938",
+    "clean_title": "/film/la-bete-humaine/",
+    "adult": false,
+    "id": 29415,
+    "imdb_id": "tt0029957"
+  },
+  {
+    "title": "Man of the West",
+    "release_year": "1958",
+    "clean_title": "/film/man-of-the-west/",
+    "adult": false,
+    "id": 14674,
+    "imdb_id": "tt0051899"
+  },
+  {
+    "title": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+    "release_year": "2000",
+    "clean_title": "/film/as-i-was-moving-ahead-occasionally-i-saw/",
+    "adult": false,
+    "id": 130824,
+    "imdb_id": "tt0262240"
+  },
+  {
+    "title": "Good Morning",
+    "release_year": "1959",
+    "clean_title": "/film/good-morning/",
+    "adult": false,
+    "id": 28276,
+    "imdb_id": "tt0053134"
+  },
+  {
+    "title": "Number Two",
+    "release_year": "1975",
+    "clean_title": "/film/number-two-1975/",
+    "adult": false,
+    "id": 112823,
+    "imdb_id": "tt0073471"
+  },
+  {
+    "title": "My Little Loves",
+    "release_year": "1974",
+    "clean_title": "/film/my-little-loves/",
+    "adult": false,
+    "id": 64296,
+    "imdb_id": "tt0071833"
+  },
+  {
+    "title": "The Bridges of Madison County",
+    "release_year": "1995",
+    "clean_title": "/film/the-bridges-of-madison-county/",
+    "adult": false,
+    "id": 688,
+    "imdb_id": "tt0112579"
+  },
+  {
+    "title": "Strangers When We Meet",
+    "release_year": "1960",
+    "clean_title": "/film/strangers-when-we-meet/",
+    "adult": false,
+    "id": 85926,
+    "imdb_id": "tt0054345"
+  },
+  {
+    "title": "Branded to Kill",
+    "release_year": "1967",
+    "clean_title": "/film/branded-to-kill/",
+    "adult": false,
+    "id": 17905,
+    "imdb_id": "tt0061882"
+  },
+  {
+    "title": "Macunaima",
+    "release_year": "1969",
+    "clean_title": "/film/macunaima/",
+    "adult": false,
+    "id": 68173,
+    "imdb_id": "tt0064616"
+  },
+  {
+    "title": "The Last Emperor",
+    "release_year": "1987",
+    "clean_title": "/film/the-last-emperor/",
+    "adult": false,
+    "id": 746,
+    "imdb_id": "tt0093389"
+  },
+  {
+    "title": "Gregory's Girl",
+    "release_year": "1980",
+    "clean_title": "/film/gregorys-girl/",
+    "adult": false,
+    "id": 21764,
+    "imdb_id": "tt0082477"
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "release_year": "1992",
+    "clean_title": "/film/twin-peaks-fire-walk-with-me/",
+    "adult": false,
+    "id": 1923,
+    "imdb_id": "tt0105665"
+  },
+  {
+    "title": "The Match Factory Girl",
+    "release_year": "1990",
+    "clean_title": "/film/the-match-factory-girl/",
+    "adult": false,
+    "id": 7974,
+    "imdb_id": "tt0098532"
+  },
+  {
+    "title": "Pink Flamingos",
+    "release_year": "1972",
+    "clean_title": "/film/pink-flamingos/",
+    "adult": false,
+    "id": 692,
+    "imdb_id": "tt0069089"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": "2003",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "adult": false,
+    "id": 122,
+    "imdb_id": "tt0167260"
+  },
+  {
+    "title": "The Last Temptation of Christ",
+    "release_year": "1988",
+    "clean_title": "/film/the-last-temptation-of-christ/",
+    "adult": false,
+    "id": 11051,
+    "imdb_id": "tt0095497"
+  },
+  {
+    "title": "Sicily!",
+    "release_year": "1999",
+    "clean_title": "/film/sicily/",
+    "adult": false,
+    "id": 104871,
+    "imdb_id": "tt0200135"
+  },
+  {
+    "title": "Knife in the Water",
+    "release_year": "1962",
+    "clean_title": "/film/knife-in-the-water/",
+    "adult": false,
+    "id": 11502,
+    "imdb_id": "tt0056291"
+  },
+  {
+    "title": "Duel",
+    "release_year": "1971",
+    "clean_title": "/film/duel/",
+    "adult": false,
+    "id": 839,
+    "imdb_id": "tt0067023"
+  },
+  {
+    "title": "La Chienne",
+    "release_year": "1931",
+    "clean_title": "/film/la-chienne/",
+    "adult": false,
+    "id": 26614,
+    "imdb_id": "tt0021739"
+  },
+  {
+    "title": "Sholay",
+    "release_year": "1975",
+    "clean_title": "/film/sholay/",
+    "adult": false,
+    "id": 12259,
+    "imdb_id": "tt0073707"
+  },
+  {
+    "title": "Bad Lieutenant",
+    "release_year": "1992",
+    "clean_title": "/film/bad-lieutenant/",
+    "adult": false,
+    "id": 12143,
+    "imdb_id": "tt0103759"
+  },
+  {
+    "title": "Forbidden Planet",
+    "release_year": "1956",
+    "clean_title": "/film/forbidden-planet/",
+    "adult": false,
+    "id": 830,
+    "imdb_id": "tt0049223"
+  },
+  {
+    "title": "American Graffiti",
+    "release_year": "1973",
+    "clean_title": "/film/american-graffiti/",
+    "adult": false,
+    "id": 838,
+    "imdb_id": "tt0069704"
+  },
+  {
+    "title": "Hellzapoppin'",
+    "release_year": "1941",
+    "clean_title": "/film/hellzapoppin/",
+    "adult": false,
+    "id": 19136,
+    "imdb_id": "tt0033704"
+  },
+  {
+    "title": "M*A*S*H",
+    "release_year": "1970",
+    "clean_title": "/film/mash/",
+    "adult": false,
+    "id": 651,
+    "imdb_id": "tt0066026"
+  },
+  {
+    "title": "Simon of the Desert",
+    "release_year": "1965",
+    "clean_title": "/film/simon-of-the-desert/",
+    "adult": false,
+    "id": 36265,
+    "imdb_id": "tt0059719"
+  },
+  {
+    "title": "Saraband",
+    "release_year": "2003",
+    "clean_title": "/film/saraband/",
+    "adult": false,
+    "id": 55650,
+    "imdb_id": "tt0299478"
+  },
+  {
+    "title": "The Usual Suspects",
+    "release_year": "1995",
+    "clean_title": "/film/the-usual-suspects/",
+    "adult": false,
+    "id": 629,
+    "imdb_id": "tt0114814"
+  },
+  {
+    "title": "42nd Street",
+    "release_year": "1933",
+    "clean_title": "/film/42nd-street/",
+    "adult": false,
+    "id": 3062,
+    "imdb_id": "tt0024034"
+  },
+  {
+    "title": "I, a Negro",
+    "release_year": "1959",
+    "clean_title": "/film/i-a-negro/",
+    "adult": false,
+    "id": 64299,
+    "imdb_id": "tt0051942"
+  },
+  {
+    "title": "L'Amour fou",
+    "release_year": "1969",
+    "clean_title": "/film/lamour-fou/",
+    "adult": false,
+    "id": 63401,
+    "imdb_id": "tt0062663"
+  },
+  {
+    "title": "The Private Life of Sherlock Holmes",
+    "release_year": "1970",
+    "clean_title": "/film/the-private-life-of-sherlock-holmes/",
+    "adult": false,
+    "id": 5185,
+    "imdb_id": "tt0066249"
+  },
+  {
+    "title": "Dracula",
+    "release_year": "1958",
+    "clean_title": "/film/dracula-1958/",
+    "adult": false,
+    "id": 11868,
+    "imdb_id": "tt0051554"
+  },
+  {
+    "title": "7th Heaven",
+    "release_year": "1927",
+    "clean_title": "/film/7th-heaven/",
+    "adult": false,
+    "id": 82474,
+    "imdb_id": "tt0018379"
+  },
+  {
+    "title": "Fellini's Casanova",
+    "release_year": "1976",
+    "clean_title": "/film/fellinis-casanova/",
+    "adult": false,
+    "id": 42236,
+    "imdb_id": "tt0074291"
+  },
+  {
+    "title": "The Misfits",
+    "release_year": "1961",
+    "clean_title": "/film/the-misfits/",
+    "adult": false,
+    "id": 11536,
+    "imdb_id": "tt0055184"
+  },
+  {
+    "title": "Elevator to the Gallows",
+    "release_year": "1958",
+    "clean_title": "/film/elevator-to-the-gallows/",
+    "adult": false,
+    "id": 1093,
+    "imdb_id": "tt0051378"
+  },
+  {
+    "title": "The Sun Shines Bright",
+    "release_year": "1953",
+    "clean_title": "/film/the-sun-shines-bright/",
+    "adult": false,
+    "id": 109539,
+    "imdb_id": "tt0046384"
+  },
+  {
+    "title": "The Return",
+    "release_year": "2003",
+    "clean_title": "/film/the-return/",
+    "adult": false,
+    "id": 11190,
+    "imdb_id": "tt0376968"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "release_year": "2003",
+    "clean_title": "/film/kill-bill-vol-1/",
+    "adult": false,
+    "id": 24,
+    "imdb_id": "tt0266697"
+  },
+  {
+    "title": "The Outlaw Josey Wales",
+    "release_year": "1976",
+    "clean_title": "/film/the-outlaw-josey-wales/",
+    "adult": false,
+    "id": 10747,
+    "imdb_id": "tt0075029"
+  },
+  {
+    "title": "The Loneliness of the Long Distance Runner",
+    "release_year": "1962",
+    "clean_title": "/film/the-loneliness-of-the-long-distance-runner/",
+    "adult": false,
+    "id": 16103,
+    "imdb_id": "tt0056194"
+  },
+  {
+    "title": "Summer with Monika",
+    "release_year": "1953",
+    "clean_title": "/film/summer-with-monika/",
+    "adult": false,
+    "id": 47735,
+    "imdb_id": "tt0046345"
+  },
+  {
+    "title": "Stand by Me",
+    "release_year": "1986",
+    "clean_title": "/film/stand-by-me/",
+    "adult": false,
+    "id": 235,
+    "imdb_id": "tt0092005"
+  },
+  {
+    "title": "Arabian Nights",
+    "release_year": "1974",
+    "clean_title": "/film/arabian-nights-1974/",
+    "adult": false,
+    "id": 47406,
+    "imdb_id": "tt0071502"
+  },
+  {
+    "title": "Das Boot",
+    "release_year": "1981",
+    "clean_title": "/film/das-boot/",
+    "adult": false,
+    "id": 387,
+    "imdb_id": "tt0082096"
+  },
+  {
+    "title": "Enter the Dragon",
+    "release_year": "1973",
+    "clean_title": "/film/enter-the-dragon/",
+    "adult": false,
+    "id": 9461,
+    "imdb_id": "tt0070034"
+  },
+  {
+    "title": "A Story from Chikamatsu",
+    "release_year": "1954",
+    "clean_title": "/film/a-story-from-chikamatsu/",
+    "adult": false,
+    "id": 35861,
+    "imdb_id": "tt0046851"
+  },
+  {
+    "title": "Daybreak",
+    "release_year": "1939",
+    "clean_title": "/film/daybreak-1939/",
+    "adult": false,
+    "id": 27053,
+    "imdb_id": "tt0031514"
+  },
+  {
+    "title": "Dog Star Man",
+    "release_year": "1965",
+    "clean_title": "/film/dog-star-man/",
+    "adult": false,
+    "id": 420240,
+    "imdb_id": "tt5896468"
+  },
+  {
+    "title": "America America",
+    "release_year": "1963",
+    "clean_title": "/film/america-america/",
+    "adult": false,
+    "id": 47249,
+    "imdb_id": "tt0056825"
+  },
+  {
+    "title": "Topsy-Turvy",
+    "release_year": "1999",
+    "clean_title": "/film/topsy-turvy/",
+    "adult": false,
+    "id": 46435,
+    "imdb_id": "tt0151568"
+  },
+  {
+    "title": "The Incredible Shrinking Man",
+    "release_year": "1957",
+    "clean_title": "/film/the-incredible-shrinking-man/",
+    "adult": false,
+    "id": 31682,
+    "imdb_id": "tt0050539"
+  },
+  {
+    "title": "Hôtel Terminus: The Life and Times of Klaus Barbie",
+    "release_year": "1988",
+    "clean_title": "/film/hotel-terminus-the-life-and-times-of-klaus-barbie/",
+    "adult": false,
+    "id": 41954,
+    "imdb_id": "tt0095341"
+  },
+  {
+    "title": "Carlito's Way",
+    "release_year": "1993",
+    "clean_title": "/film/carlitos-way/",
+    "adult": false,
+    "id": 6075,
+    "imdb_id": "tt0106519"
+  },
+  {
+    "title": "Odd Man Out",
+    "release_year": "1947",
+    "clean_title": "/film/odd-man-out/",
+    "adult": false,
+    "id": 43461,
+    "imdb_id": "tt0039677"
+  },
+  {
+    "title": "Holiday",
+    "release_year": "1938",
+    "clean_title": "/film/holiday/",
+    "adult": false,
+    "id": 16274,
+    "imdb_id": "tt0030241"
+  },
+  {
+    "title": "Night at the Crossroads",
+    "release_year": "1932",
+    "clean_title": "/film/night-at-the-crossroads/",
+    "adult": false,
+    "id": 84038,
+    "imdb_id": "tt0023284"
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "release_year": "1993",
+    "clean_title": "/film/the-nightmare-before-christmas/",
+    "adult": false,
+    "id": 9479,
+    "imdb_id": "tt0107688"
+  },
+  {
+    "title": "They Were Expendable",
+    "release_year": "1945",
+    "clean_title": "/film/they-were-expendable/",
+    "adult": false,
+    "id": 18771,
+    "imdb_id": "tt0038160"
+  },
+  {
+    "title": "They Live",
+    "release_year": "1988",
+    "clean_title": "/film/they-live/",
+    "adult": false,
+    "id": 8337,
+    "imdb_id": "tt0096256"
+  },
+  {
+    "title": "O Lucky Man!",
+    "release_year": "1973",
+    "clean_title": "/film/o-lucky-man/",
+    "adult": false,
+    "id": 42464,
+    "imdb_id": "tt0070464"
+  },
+  {
+    "title": "Juliet of the Spirits",
+    "release_year": "1965",
+    "clean_title": "/film/juliet-of-the-spirits/",
+    "adult": false,
+    "id": 19120,
+    "imdb_id": "tt0059229"
+  },
+  {
+    "title": "Gilda",
+    "release_year": "1946",
+    "clean_title": "/film/gilda/",
+    "adult": false,
+    "id": 3767,
+    "imdb_id": "tt0038559"
+  },
+  {
+    "title": "Ride the High Country",
+    "release_year": "1962",
+    "clean_title": "/film/ride-the-high-country/",
+    "adult": false,
+    "id": 36206,
+    "imdb_id": "tt0056412"
+  },
+  {
+    "title": "Deep Red",
+    "release_year": "1975",
+    "clean_title": "/film/deep-red/",
+    "adult": false,
+    "id": 20126,
+    "imdb_id": "tt0073582"
+  },
+  {
+    "title": "Design for Living",
+    "release_year": "1933",
+    "clean_title": "/film/design-for-living/",
+    "adult": false,
+    "id": 77210,
+    "imdb_id": "tt0023940"
+  },
+  {
+    "title": "The Ballad of Narayama",
+    "release_year": "1983",
+    "clean_title": "/film/the-ballad-of-narayama/",
+    "adult": false,
+    "id": 42113,
+    "imdb_id": "tt0084390"
+  },
+  {
+    "title": "A Better Tomorrow",
+    "release_year": "1986",
+    "clean_title": "/film/a-better-tomorrow/",
+    "adult": false,
+    "id": 11471,
+    "imdb_id": "tt0092263"
+  },
+  {
+    "title": "The Ten Commandments",
+    "release_year": "1956",
+    "clean_title": "/film/the-ten-commandments-1956/",
+    "adult": false,
+    "id": 6844,
+    "imdb_id": "tt0049833"
+  },
+  {
+    "title": "Mildred Pierce",
+    "release_year": "1945",
+    "clean_title": "/film/mildred-pierce/",
+    "adult": false,
+    "id": 3309,
+    "imdb_id": "tt0037913"
+  },
+  {
+    "title": "Broadcast News",
+    "release_year": "1987",
+    "clean_title": "/film/broadcast-news/",
+    "adult": false,
+    "id": 12626,
+    "imdb_id": "tt0092699"
+  },
+  {
+    "title": "The End of Summer",
+    "release_year": "1961",
+    "clean_title": "/film/the-end-of-summer/",
+    "adult": false,
+    "id": 28273,
+    "imdb_id": "tt0055052"
+  },
+  {
+    "title": "Naked Childhood",
+    "release_year": "1968",
+    "clean_title": "/film/naked-childhood/",
+    "adult": false,
+    "id": 31345,
+    "imdb_id": "tt0065695"
+  },
+  {
+    "title": "Red Beard",
+    "release_year": "1965",
+    "clean_title": "/film/red-beard/",
+    "adult": false,
+    "id": 3780,
+    "imdb_id": "tt0058888"
+  },
+  {
+    "title": "Touchez Pas au Grisbi",
+    "release_year": "1954",
+    "clean_title": "/film/touchez-pas-au-grisbi/",
+    "adult": false,
+    "id": 27430,
+    "imdb_id": "tt0046451"
+  },
+  {
+    "title": "The Hart of London",
+    "release_year": "1970",
+    "clean_title": "/film/the-hart-of-london/",
+    "adult": false,
+    "id": 113520,
+    "imdb_id": "tt0129134"
+  },
+  {
+    "title": "Carnival of Souls",
+    "release_year": "1962",
+    "clean_title": "/film/carnival-of-souls/",
+    "adult": false,
+    "id": 16093,
+    "imdb_id": "tt0055830"
+  },
+  {
+    "title": "Rope",
+    "release_year": "1948",
+    "clean_title": "/film/rope/",
+    "adult": false,
+    "id": 1580,
+    "imdb_id": "tt0040746"
+  },
+  {
+    "title": "Floating Weeds",
+    "release_year": "1959",
+    "clean_title": "/film/floating-weeds/",
+    "adult": false,
+    "id": 46918,
+    "imdb_id": "tt0053390"
+  },
+  {
+    "title": "Babe",
+    "release_year": "1995",
+    "clean_title": "/film/babe/",
+    "adult": false,
+    "id": 9598,
+    "imdb_id": "tt0112431"
+  },
+  {
+    "title": "3 Women",
+    "release_year": "1977",
+    "clean_title": "/film/3-women/",
+    "adult": false,
+    "id": 41662,
+    "imdb_id": "tt0075612"
+  },
+  {
+    "title": "The Butcher",
+    "release_year": "1970",
+    "clean_title": "/film/the-butcher-1970/",
+    "adult": false,
+    "id": 2912,
+    "imdb_id": "tt0064106"
+  },
+  {
+    "title": "Anatahan",
+    "release_year": "1953",
+    "clean_title": "/film/anatahan/",
+    "adult": false,
+    "id": 104776,
+    "imdb_id": "tt0046712"
+  },
+  {
+    "title": "To Live",
+    "release_year": "1994",
+    "clean_title": "/film/to-live/",
+    "adult": false,
+    "id": 31439,
+    "imdb_id": "tt0110081"
+  },
+  {
+    "title": "Pépé le Moko",
+    "release_year": "1937",
+    "clean_title": "/film/pepe-le-moko/",
+    "adult": false,
+    "id": 26252,
+    "imdb_id": "tt0029453"
+  },
+  {
+    "title": "Cul-de-sac",
+    "release_year": "1966",
+    "clean_title": "/film/cul-de-sac/",
+    "adult": false,
+    "id": 4772,
+    "imdb_id": "tt0060268"
+  },
+  {
+    "title": "Get Carter",
+    "release_year": "1971",
+    "clean_title": "/film/get-carter/",
+    "adult": false,
+    "id": 1485,
+    "imdb_id": "tt0067128"
+  },
+  {
+    "title": "Ludwig",
+    "release_year": "1973",
+    "clean_title": "/film/ludwig/",
+    "adult": false,
+    "id": 3478,
+    "imdb_id": "tt0068883"
+  },
+  {
+    "title": "Black Orpheus",
+    "release_year": "1959",
+    "clean_title": "/film/black-orpheus/",
+    "adult": false,
+    "id": 40423,
+    "imdb_id": "tt0053146"
+  },
+  {
+    "title": "The Go-Between",
+    "release_year": "1971",
+    "clean_title": "/film/the-go-between-1971/",
+    "adult": false,
+    "id": 36194,
+    "imdb_id": "tt0067144"
+  },
+  {
+    "title": "Before Sunrise",
+    "release_year": "1995",
+    "clean_title": "/film/before-sunrise/",
+    "adult": false,
+    "id": 76,
+    "imdb_id": "tt0112471"
+  },
+  {
+    "title": "Gentlemen Prefer Blondes",
+    "release_year": "1953",
+    "clean_title": "/film/gentlemen-prefer-blondes/",
+    "adult": false,
+    "id": 759,
+    "imdb_id": "tt0045810"
+  },
+  {
+    "title": "Reds",
+    "release_year": "1981",
+    "clean_title": "/film/reds/",
+    "adult": false,
+    "id": 18254,
+    "imdb_id": "tt0082979"
+  },
+  {
+    "title": "Humanité",
+    "release_year": "1999",
+    "clean_title": "/film/humanite/",
+    "adult": false,
+    "id": 65296,
+    "imdb_id": "tt0197569"
+  },
+  {
+    "title": "The Adventures of Prince Achmed",
+    "release_year": "1926",
+    "clean_title": "/film/the-adventures-of-prince-achmed/",
+    "adult": false,
+    "id": 19354,
+    "imdb_id": "tt0015532"
+  },
+  {
+    "title": "Spring, Summer, Fall, Winter... and Spring",
+    "release_year": "2003",
+    "clean_title": "/film/spring-summer-fall-winter-and-spring/",
+    "adult": false,
+    "id": 113,
+    "imdb_id": "tt0374546"
+  },
+  {
+    "title": "The Thing from Another World",
+    "release_year": "1951",
+    "clean_title": "/film/the-thing-from-another-world/",
+    "adult": false,
+    "id": 10785,
+    "imdb_id": "tt0044121"
+  },
+  {
+    "title": "Exotica",
+    "release_year": "1994",
+    "clean_title": "/film/exotica/",
+    "adult": false,
+    "id": 20156,
+    "imdb_id": "tt0109759"
+  },
+  {
+    "title": "On the Town",
+    "release_year": "1949",
+    "clean_title": "/film/on-the-town/",
+    "adult": false,
+    "id": 31516,
+    "imdb_id": "tt0041716"
+  },
+  {
+    "title": "Bad Timing",
+    "release_year": "1980",
+    "clean_title": "/film/bad-timing/",
+    "adult": false,
+    "id": 33214,
+    "imdb_id": "tt0080408"
+  },
+  {
+    "title": "Zabriskie Point",
+    "release_year": "1970",
+    "clean_title": "/film/zabriskie-point/",
+    "adult": false,
+    "id": 2998,
+    "imdb_id": "tt0066601"
+  },
+  {
+    "title": "Animal House",
+    "release_year": "1978",
+    "clean_title": "/film/animal-house/",
+    "adult": false,
+    "id": 8469,
+    "imdb_id": "tt0077975"
+  },
+  {
+    "title": "Le Deuxième Souffle",
+    "release_year": "1966",
+    "clean_title": "/film/le-deuxieme-souffle/",
+    "adult": false,
+    "id": 25047,
+    "imdb_id": "tt0060305"
+  },
+  {
+    "title": "The Nutty Professor",
+    "release_year": "1963",
+    "clean_title": "/film/the-nutty-professor/",
+    "adult": false,
+    "id": 18331,
+    "imdb_id": "tt0057372"
+  },
+  {
+    "title": "Fantômas",
+    "release_year": "1913",
+    "clean_title": "/film/fantomas/",
+    "adult": false,
+    "id": 319287
+  },
+  {
+    "title": "The Reckless Moment",
+    "release_year": "1949",
+    "clean_title": "/film/the-reckless-moment/",
+    "adult": false,
+    "id": 28007,
+    "imdb_id": "tt0041786"
+  },
+  {
+    "title": "Female Trouble",
+    "release_year": "1974",
+    "clean_title": "/film/female-trouble/",
+    "adult": false,
+    "id": 14267,
+    "imdb_id": "tt0072979"
+  },
+  {
+    "title": "The Road",
+    "release_year": "1982",
+    "clean_title": "/film/the-road-1982/",
+    "adult": false,
+    "id": 52556,
+    "imdb_id": "tt0084934"
+  },
+  {
+    "title": "Häxan",
+    "release_year": "1922",
+    "clean_title": "/film/haxan/",
+    "adult": false,
+    "id": 57283,
+    "imdb_id": "tt0013257"
+  },
+  {
+    "title": "Humanity and Paper Balloons",
+    "release_year": "1937",
+    "clean_title": "/film/humanity-and-paper-balloons/",
+    "adult": false,
+    "id": 84237,
+    "imdb_id": "tt0029314"
+  },
+  {
+    "title": "A Tale of the Wind",
+    "release_year": "1988",
+    "clean_title": "/film/a-tale-of-the-wind/",
+    "adult": false,
+    "id": 97035,
+    "imdb_id": "tt0096337"
+  },
+  {
+    "title": "The Straight Story",
+    "release_year": "1999",
+    "clean_title": "/film/the-straight-story/",
+    "adult": false,
+    "id": 404,
+    "imdb_id": "tt0166896"
+  },
+  {
+    "title": "The Golden Thread",
+    "release_year": "1965",
+    "clean_title": "/film/the-golden-thread-1965/",
+    "adult": false,
+    "id": 86303,
+    "imdb_id": "tt0056537"
+  }
+]

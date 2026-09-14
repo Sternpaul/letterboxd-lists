@@ -338,6 +338,58 @@ Letterboxd list pages only contain film titles and URL slugs—TMDb and IMDb IDs
 - **Testing**: Run `npm test` inside `src/scraper/` to execute the automated cache safety, zero-omission, and watchlist HTML parsing test suite (`test_cache_safety.mjs`).
 - **Result**: Daily request volume dropped from **~10,000+** down to **~70 requests**, reducing daily GitHub Actions runtime from ~25 minutes to ~1.5 minutes while remaining 100% resilient to renames, ID additions, layout differences, and new entries.
 
+## Monthly Lists Archive 🏛️
 
+To preserve historical rankings and track how Letterboxd lists evolve over time, the repository maintains a dedicated monthly archive system under the [`archives/`](archives/) directory.
 
+### Directory Structure & Catalog
+Every month, a complete snapshot of all scraped lists currently in `public/` is frozen into a dedicated date-stamped folder:
+```text
+archives/
+├── README.md                      # Catalog index of all available monthly archives
+├── 2026-05/                       # May 2026 snapshot (14 lists)
+├── 2026-06/                       # June 2026 snapshot (14 lists)
+├── 2026-07/                       # July 2026 snapshot (15 lists)
+├── 2026-08/                       # August 2026 snapshot (267 lists)
+└── 2026-09/                       # September 2026 snapshot (267 lists)
+```
 
+### Hosted & Raw Endpoints
+Because GitHub Pages deploys the entire repository root (`path: .`), any archived historical list can be accessed or pinned in Radarr:
+- **Raw GitHub Endpoint**:
+  ```text
+  https://raw.githubusercontent.com/Sternpaul/letterboxd-lists/master/archives/YYYY-MM/<list-name>.json
+  ```
+- **GitHub Pages Endpoint**:
+  ```text
+  https://sternpaul.github.io/letterboxd-lists/archives/YYYY-MM/<list-name>.json
+  ```
+  *(e.g. `https://sternpaul.github.io/letterboxd-lists/archives/2026-08/letterboxds-top-500-films.json`)*
+
+### Automated Monthly Workflow (`monthly_archive.yml`) ⏰
+- **Schedule**: Triggers automatically on the 1st of every month at 00:00 UTC (`cron: "0 0 1 * *"`).
+- **Snapshot Logic**: When executed on the 1st of the month, the workflow automatically snapshots the concluding month (e.g. on October 1st, it archives `archives/2026-09/`), commits the snapshot to `master`, updates `archives/README.md`, redeploys GitHub Pages, and sends a Discord notification.
+- **Manual Trigger**:
+  1. Go to the **Actions** tab on GitHub.
+  2. Select **Monthly Lists Archive** in the left sidebar.
+  3. Click **Run workflow**.
+  4. (Optional) Enter a custom target month (`YYYY-MM`) or enable the `backfill` checkbox.
+
+### Local Execution & Commands
+You can run the archiver locally inside `src/scraper/`:
+```bash
+# Snapshot current public/ lists into the auto-detected month folder
+node archive_monthly.mjs
+
+# Snapshot into a specific target month folder
+node archive_monthly.mjs --month 2026-09
+
+# Reconstruct all past historical months retroactively from Git history
+node archive_monthly.mjs --backfill
+```
+
+### Retroactive Git Backfill ⏳
+The script contains a built-in retroactive extraction engine:
+- Queries Git's commit tree for historical month milestones (`2026-05-31`, `2026-06-30`, `2026-07-31`, `2026-08-31`).
+- Uses `git show <commit>:public/<file>` to extract exact point-in-time lists without switching Git branches or altering the working directory.
+- Populates `archives/YYYY-MM/` and automatically compiles `archives/README.md`.

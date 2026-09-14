@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Boyhood",
+    "release_year": "2014",
+    "clean_title": "/film/boyhood/",
+    "adult": false,
+    "id": 85350,
+    "imdb_id": "tt1065073"
+  },
+  {
+    "title": "Whiplash",
+    "release_year": "2014",
+    "clean_title": "/film/whiplash-2014/",
+    "adult": false,
+    "id": 244786,
+    "imdb_id": "tt2582802"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "release_year": "2014",
+    "clean_title": "/film/the-grand-budapest-hotel/",
+    "adult": false,
+    "id": 120467,
+    "imdb_id": "tt2278388"
+  },
+  {
+    "title": "Mommy",
+    "release_year": "2014",
+    "clean_title": "/film/mommy-2014/",
+    "adult": false,
+    "id": 265177,
+    "imdb_id": "tt3612616"
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "release_year": "2014",
+    "clean_title": "/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+    "adult": false,
+    "id": 194662,
+    "imdb_id": "tt2562232"
+  },
+  {
+    "title": "Gone Girl",
+    "release_year": "2014",
+    "clean_title": "/film/gone-girl/",
+    "adult": false,
+    "id": 210577,
+    "imdb_id": "tt2267998"
+  },
+  {
+    "title": "The Tale of The Princess Kaguya",
+    "release_year": "2013",
+    "clean_title": "/film/the-tale-of-the-princess-kaguya/",
+    "adult": false,
+    "id": 149871,
+    "imdb_id": "tt2576852"
+  },
+  {
+    "title": "Nightcrawler",
+    "release_year": "2014",
+    "clean_title": "/film/nightcrawler/",
+    "adult": false,
+    "id": 242582,
+    "imdb_id": "tt2872718"
+  },
+  {
+    "title": "Selma",
+    "release_year": "2014",
+    "clean_title": "/film/selma/",
+    "adult": false,
+    "id": 273895,
+    "imdb_id": "tt1020072"
+  },
+  {
+    "title": "Winter Sleep",
+    "release_year": "2014",
+    "clean_title": "/film/winter-sleep/",
+    "adult": false,
+    "id": 265169,
+    "imdb_id": "tt2758880"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "release_year": "2014",
+    "clean_title": "/film/guardians-of-the-galaxy/",
+    "adult": false,
+    "id": 118340,
+    "imdb_id": "tt2015381"
+  },
+  {
+    "title": "Interstellar",
+    "release_year": "2014",
+    "clean_title": "/film/interstellar/",
+    "adult": false,
+    "id": 157336,
+    "imdb_id": "tt0816692"
+  },
+  {
+    "title": "The Raid 2",
+    "release_year": "2014",
+    "clean_title": "/film/the-raid-2/",
+    "adult": false,
+    "id": 180299,
+    "imdb_id": "tt2265171"
+  },
+  {
+    "title": "The Lego Movie",
+    "release_year": "2014",
+    "clean_title": "/film/the-lego-movie/",
+    "adult": false,
+    "id": 137106,
+    "imdb_id": "tt1490017"
+  },
+  {
+    "title": "Pride",
+    "release_year": "2014",
+    "clean_title": "/film/pride-2014/",
+    "adult": false,
+    "id": 234200,
+    "imdb_id": "tt3169706"
+  },
+  {
+    "title": "Inherent Vice",
+    "release_year": "2014",
+    "clean_title": "/film/inherent-vice/",
+    "adult": false,
+    "id": 171274,
+    "imdb_id": "tt1791528"
+  },
+  {
+    "title": "Norte, the End of History",
+    "release_year": "2013",
+    "clean_title": "/film/norte-the-end-of-history/",
+    "adult": false,
+    "id": 186975,
+    "imdb_id": "tt2852432"
+  },
+  {
+    "title": "Leviathan",
+    "release_year": "2014",
+    "clean_title": "/film/leviathan-2014/",
+    "adult": false,
+    "id": 265180,
+    "imdb_id": "tt2802154"
+  },
+  {
+    "title": "Ernest & Celestine",
+    "release_year": "2012",
+    "clean_title": "/film/ernest-celestine/",
+    "adult": false,
+    "id": 126319,
+    "imdb_id": "tt1816518"
+  },
+  {
+    "title": "Force Majeure",
+    "release_year": "2014",
+    "clean_title": "/film/force-majeure-2014/",
+    "adult": false,
+    "id": 265189,
+    "imdb_id": "tt2121382"
+  },
+  {
+    "title": "Two Days, One Night",
+    "release_year": "2014",
+    "clean_title": "/film/two-days-one-night/",
+    "adult": false,
+    "id": 221902,
+    "imdb_id": "tt2737050"
+  },
+  {
+    "title": "Like Father, Like Son",
+    "release_year": "2013",
+    "clean_title": "/film/like-father-like-son-2013/",
+    "adult": false,
+    "id": 177945,
+    "imdb_id": "tt2331143"
+  },
+  {
+    "title": "Starred Up",
+    "release_year": "2013",
+    "clean_title": "/film/starred-up/",
+    "adult": false,
+    "id": 209276,
+    "imdb_id": "tt2567712"
+  },
+  {
+    "title": "Ida",
+    "release_year": "2013",
+    "clean_title": "/film/ida/",
+    "adult": false,
+    "id": 209274,
+    "imdb_id": "tt2718492"
+  },
+  {
+    "title": "Why Don't You Play in Hell?",
+    "release_year": "2013",
+    "clean_title": "/film/why-dont-you-play-in-hell/",
+    "adult": false,
+    "id": 134350,
+    "imdb_id": "tt2409302"
+  },
+  {
+    "title": "Calvary",
+    "release_year": "2014",
+    "clean_title": "/film/calvary/",
+    "adult": false,
+    "id": 157832,
+    "imdb_id": "tt2234003"
+  },
+  {
+    "title": "The Way He Looks",
+    "release_year": "2014",
+    "clean_title": "/film/the-way-he-looks/",
+    "adult": false,
+    "id": 237791,
+    "imdb_id": "tt1702014"
+  },
+  {
+    "title": "Only Lovers Left Alive",
+    "release_year": "2013",
+    "clean_title": "/film/only-lovers-left-alive/",
+    "adult": false,
+    "id": 152603,
+    "imdb_id": "tt1714915"
+  },
+  {
+    "title": "Under the Skin",
+    "release_year": "2013",
+    "clean_title": "/film/under-the-skin-2013/",
+    "adult": false,
+    "id": 97370,
+    "imdb_id": "tt1441395"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "release_year": "2014",
+    "clean_title": "/film/how-to-train-your-dragon-2/",
+    "adult": false,
+    "id": 82702,
+    "imdb_id": "tt1646971"
+  },
+  {
+    "title": "We Are the Best!",
+    "release_year": "2013",
+    "clean_title": "/film/we-are-the-best/",
+    "adult": false,
+    "id": 191294,
+    "imdb_id": "tt2364975"
+  },
+  {
+    "title": "The Salt of the Earth",
+    "release_year": "2014",
+    "clean_title": "/film/the-salt-of-the-earth/",
+    "adult": false,
+    "id": 265297,
+    "imdb_id": "tt3674140"
+  },
+  {
+    "title": "Dawn of the Planet of the Apes",
+    "release_year": "2014",
+    "clean_title": "/film/dawn-of-the-planet-of-the-apes/",
+    "adult": false,
+    "id": 119450,
+    "imdb_id": "tt2103281"
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "release_year": "2014",
+    "clean_title": "/film/edge-of-tomorrow/",
+    "adult": false,
+    "id": 137113,
+    "imdb_id": "tt1631867"
+  },
+  {
+    "title": "Big Hero 6",
+    "release_year": "2014",
+    "clean_title": "/film/big-hero-6/",
+    "adult": false,
+    "id": 177572,
+    "imdb_id": "tt2245084"
+  },
+  {
+    "title": "Stray Dogs",
+    "release_year": "2013",
+    "clean_title": "/film/stray-dogs-2013/",
+    "adult": false,
+    "id": 209840,
+    "imdb_id": "tt3119416"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "release_year": "2014",
+    "clean_title": "/film/captain-america-the-winter-soldier/",
+    "adult": false,
+    "id": 100402,
+    "imdb_id": "tt1843866"
+  },
+  {
+    "title": "Blue Ruin",
+    "release_year": "2013",
+    "clean_title": "/film/blue-ruin/",
+    "adult": false,
+    "id": 188166,
+    "imdb_id": "tt2359024"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "release_year": "2014",
+    "clean_title": "/film/x-men-days-of-future-past/",
+    "adult": false,
+    "id": 127585,
+    "imdb_id": "tt1877832"
+  },
+  {
+    "title": "The Lunchbox",
+    "release_year": "2013",
+    "clean_title": "/film/the-lunchbox/",
+    "adult": false,
+    "id": 191714,
+    "imdb_id": "tt2350496"
+  },
+  {
+    "title": "Snowpiercer",
+    "release_year": "2013",
+    "clean_title": "/film/snowpiercer/",
+    "adult": false,
+    "id": 110415,
+    "imdb_id": "tt1706620"
+  },
+  {
+    "title": "Coherence",
+    "release_year": "2013",
+    "clean_title": "/film/coherence/",
+    "adult": false,
+    "id": 220289,
+    "imdb_id": "tt2866360"
+  },
+  {
+    "title": "Haider",
+    "release_year": "2014",
+    "clean_title": "/film/haider/",
+    "adult": false,
+    "id": 280795,
+    "imdb_id": "tt3390572"
+  },
+  {
+    "title": "The Babadook",
+    "release_year": "2014",
+    "clean_title": "/film/the-babadook/",
+    "adult": false,
+    "id": 242224,
+    "imdb_id": "tt2321549"
+  },
+  {
+    "title": "The Guest",
+    "release_year": "2014",
+    "clean_title": "/film/the-guest-2014/",
+    "adult": false,
+    "id": 241848,
+    "imdb_id": "tt2980592"
+  },
+  {
+    "title": "The Imitation Game",
+    "release_year": "2014",
+    "clean_title": "/film/the-imitation-game/",
+    "adult": false,
+    "id": 205596,
+    "imdb_id": "tt2084970"
+  },
+  {
+    "title": "Foxcatcher",
+    "release_year": "2014",
+    "clean_title": "/film/foxcatcher/",
+    "adult": false,
+    "id": 87492,
+    "imdb_id": "tt1100089"
+  },
+  {
+    "title": "The Strange Little Cat",
+    "release_year": "2013",
+    "clean_title": "/film/the-strange-little-cat/",
+    "adult": false,
+    "id": 164328,
+    "imdb_id": "tt2586000"
+  },
+  {
+    "title": "Queen",
+    "release_year": "2013",
+    "clean_title": "/film/queen-2013/",
+    "adult": false,
+    "id": 247645,
+    "imdb_id": "tt3322420"
+  },
+  {
+    "title": "Lilting",
+    "release_year": "2014",
+    "clean_title": "/film/lilting/",
+    "adult": false,
+    "id": 248212,
+    "imdb_id": "tt2560102"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Kit Kat",
+    "release_year": "1991",
+    "clean_title": "/film/kit-kat/",
+    "adult": false,
+    "id": 68738,
+    "imdb_id": "tt0102223"
+  },
+  {
+    "title": "Date Wine",
+    "release_year": "1998",
+    "clean_title": "/film/date-wine/",
+    "adult": false,
+    "id": 289145,
+    "imdb_id": "tt0166486"
+  },
+  {
+    "title": "The Nightingale's Prayer",
+    "release_year": "1959",
+    "clean_title": "/film/the-nightingales-prayer/",
+    "adult": false,
+    "id": 193388,
+    "imdb_id": "tt0231477"
+  },
+  {
+    "title": "Land of Fear",
+    "release_year": "2000",
+    "clean_title": "/film/land-of-fear/",
+    "adult": false,
+    "id": 103448,
+    "imdb_id": "tt0233234"
+  },
+  {
+    "title": "The Beginning and the End",
+    "release_year": "1960",
+    "clean_title": "/film/the-beginning-and-the-end-1960/",
+    "adult": false,
+    "id": 273123,
+    "imdb_id": "tt0053652"
+  },
+  {
+    "title": "The Land",
+    "release_year": "1970",
+    "clean_title": "/film/the-land/",
+    "adult": false,
+    "id": 123648,
+    "imdb_id": "tt0064038"
+  },
+  {
+    "title": "Sorry For Disturbance",
+    "release_year": "2008",
+    "clean_title": "/film/sorry-for-disturbance/",
+    "adult": false,
+    "id": 60700,
+    "imdb_id": "tt1282371"
+  },
+  {
+    "title": "Ibrahim El-Abyad",
+    "release_year": "2009",
+    "clean_title": "/film/ibrahim-el-abyad/",
+    "adult": false,
+    "id": 103364,
+    "imdb_id": "tt1459040"
+  },
+  {
+    "title": "El Keif",
+    "release_year": "1985",
+    "clean_title": "/film/el-keif/",
+    "adult": false,
+    "id": 199634,
+    "imdb_id": "tt2044774"
+  },
+  {
+    "title": "The Street Player",
+    "release_year": "1983",
+    "clean_title": "/film/the-street-player/",
+    "adult": false,
+    "id": 258773,
+    "imdb_id": "tt0327835"
+  },
+  {
+    "title": "The Night of Counting the Years",
+    "release_year": "1969",
+    "clean_title": "/film/the-night-of-counting-the-years/",
+    "adult": false,
+    "id": 46707,
+    "imdb_id": "tt0064703"
+  },
+  {
+    "title": "The Wife of an Important Man",
+    "release_year": "1987",
+    "clean_title": "/film/the-wife-of-an-important-man/",
+    "adult": false,
+    "id": 193414,
+    "imdb_id": "tt0171922"
+  },
+  {
+    "title": "The Stories",
+    "release_year": "2025",
+    "clean_title": "/film/the-stories/",
+    "adult": false,
+    "id": 1329071,
+    "imdb_id": "tt37679242"
+  },
+  {
+    "title": "The Sin",
+    "release_year": "1965",
+    "clean_title": "/film/the-sin-1965/",
+    "adult": false,
+    "id": 198808,
+    "imdb_id": "tt0355521"
+  },
+  {
+    "title": "The Innocent",
+    "release_year": "1986",
+    "clean_title": "/film/the-innocent-1986/",
+    "adult": false,
+    "id": 329091,
+    "imdb_id": "tt3084114"
+  },
+  {
+    "title": "The Headmaster",
+    "release_year": "2000",
+    "clean_title": "/film/the-headmaster/",
+    "adult": false,
+    "id": 415488,
+    "imdb_id": "tt0424986"
+  },
+  {
+    "title": "The Open Door",
+    "release_year": "1963",
+    "clean_title": "/film/film:255630/",
+    "adult": false,
+    "id": 328072,
+    "imdb_id": "tt0372777"
+  },
+  {
+    "title": "Terrorism and Kebab",
+    "release_year": "1992",
+    "clean_title": "/film/terrorism-and-kebab/",
+    "adult": false,
+    "id": 63729,
+    "imdb_id": "tt0107227"
+  },
+  {
+    "title": "We Are the Bus People",
+    "release_year": "1979",
+    "clean_title": "/film/we-are-the-bus-people/",
+    "adult": false,
+    "id": 86601,
+    "imdb_id": "tt2256041"
+  },
+  {
+    "title": "Bit of Fear",
+    "release_year": "1969",
+    "clean_title": "/film/bit-of-fear/",
+    "adult": false,
+    "id": 287873,
+    "imdb_id": "tt0314658"
+  },
+  {
+    "title": "The Water-Carrier Is Dead",
+    "release_year": "1977",
+    "clean_title": "/film/the-water-carrier-is-dead/",
+    "adult": false,
+    "id": 333290,
+    "imdb_id": "tt0076663"
+  },
+  {
+    "title": "The Bus Driver",
+    "release_year": "1982",
+    "clean_title": "/film/the-bus-driver/",
+    "adult": false,
+    "id": 193425,
+    "imdb_id": "tt0083703"
+  },
+  {
+    "title": "Adrift on the Nile",
+    "release_year": "1971",
+    "clean_title": "/film/adrift-on-the-nile/",
+    "adult": false,
+    "id": 253458,
+    "imdb_id": "tt0356117"
+  },
+  {
+    "title": "Bittersweet",
+    "release_year": "2010",
+    "clean_title": "/film/bittersweet-2010/",
+    "adult": false,
+    "id": 84250,
+    "imdb_id": "tt2210441"
+  },
+  {
+    "title": "Missing Person",
+    "release_year": "1984",
+    "clean_title": "/film/missing-person-1984/",
+    "adult": false,
+    "id": 331824,
+    "imdb_id": "tt0274608"
+  },
+  {
+    "title": "Seeking Haven for Mr. Rambo",
+    "release_year": "2024",
+    "clean_title": "/film/seeking-haven-for-mr-rambo/",
+    "adult": false,
+    "id": 1170841,
+    "imdb_id": "tt33030125"
+  },
+  {
+    "title": "The Shame",
+    "release_year": "1982",
+    "clean_title": "/film/the-shame-1982/",
+    "adult": false,
+    "id": 64082,
+    "imdb_id": "tt6109752"
+  },
+  {
+    "title": "A Cultural Film",
+    "release_year": "2000",
+    "clean_title": "/film/a-cultural-film/",
+    "adult": false,
+    "id": 193457,
+    "imdb_id": "tt1400508"
+  },
+  {
+    "title": "Cairo 30",
+    "release_year": "1966",
+    "clean_title": "/film/cairo-30/",
+    "adult": false,
+    "id": 273265,
+    "imdb_id": "tt0264344"
+  },
+  {
+    "title": "The Last Night",
+    "release_year": "1963",
+    "clean_title": "/film/the-last-night-1963/",
+    "adult": false,
+    "id": 198829,
+    "imdb_id": "tt0373080"
+  },
+  {
+    "title": "An Egyptian Story",
+    "release_year": "1982",
+    "clean_title": "/film/an-egyptian-story/",
+    "adult": false,
+    "id": 123651,
+    "imdb_id": "tt0084042"
+  },
+  {
+    "title": "Alexandria… Why?",
+    "release_year": "1979",
+    "clean_title": "/film/alexandria-why/",
+    "adult": false,
+    "id": 40939,
+    "imdb_id": "tt0077751"
+  },
+  {
+    "title": "The Choice",
+    "release_year": "1971",
+    "clean_title": "/film/the-choice-1971/",
+    "adult": false,
+    "id": 282225,
+    "imdb_id": "tt0065879"
+  },
+  {
+    "title": "A Dinner Date",
+    "release_year": "1981",
+    "clean_title": "/film/a-dinner-date/",
+    "adult": false,
+    "id": 258778,
+    "imdb_id": "tt0431905"
+  },
+  {
+    "title": "Return of the Prodigal Son",
+    "release_year": "1976",
+    "clean_title": "/film/return-of-the-prodigal-son/",
+    "adult": false,
+    "id": 115233,
+    "imdb_id": "tt0074168"
+  },
+  {
+    "title": "Against the Government",
+    "release_year": "1992",
+    "clean_title": "/film/against-the-government/",
+    "adult": false,
+    "id": 329456,
+    "imdb_id": "tt0340074"
+  },
+  {
+    "title": "Spring Came on Laughing",
+    "release_year": "2024",
+    "clean_title": "/film/spring-came-on-laughing/",
+    "adult": false,
+    "id": 1382297,
+    "imdb_id": "tt28538211"
+  },
+  {
+    "title": "The Egg and the Stone",
+    "release_year": "1990",
+    "clean_title": "/film/the-egg-and-the-stone/",
+    "adult": false,
+    "id": 320987,
+    "imdb_id": "tt2294593"
+  },
+  {
+    "title": "Asmaa",
+    "release_year": "2011",
+    "clean_title": "/film/asmaa/",
+    "adult": false,
+    "id": 103418,
+    "imdb_id": "tt1826603"
+  },
+  {
+    "title": "Microphone",
+    "release_year": "2010",
+    "clean_title": "/film/microphone/",
+    "adult": false,
+    "id": 81435,
+    "imdb_id": "tt1684913"
+  },
+  {
+    "title": "Diamond Dust",
+    "release_year": "2018",
+    "clean_title": "/film/diamond-dust/",
+    "adult": false,
+    "id": 515224,
+    "imdb_id": "tt4003070"
+  },
+  {
+    "title": "Clash",
+    "release_year": "2016",
+    "clean_title": "/film/clash-2016/",
+    "adult": false,
+    "id": 393184,
+    "imdb_id": "tt5599692"
+  },
+  {
+    "title": "Beggars and Noblemen",
+    "release_year": "1991",
+    "clean_title": "/film/beggars-and-noblemen/",
+    "adult": false,
+    "id": 274150,
+    "imdb_id": "tt0262614"
+  },
+  {
+    "title": "Cairo Station",
+    "release_year": "1958",
+    "clean_title": "/film/cairo-station/",
+    "adult": false,
+    "id": 47324,
+    "imdb_id": "tt0051390"
+  },
+  {
+    "title": "6 Days",
+    "release_year": "2025",
+    "clean_title": "/film/6-days-2025/",
+    "adult": false,
+    "id": 1554938,
+    "imdb_id": "tt34338540"
+  },
+  {
+    "title": "Eshaet Hob",
+    "release_year": "1960",
+    "clean_title": "/film/eshaet-hob/",
+    "adult": false,
+    "id": 330493,
+    "imdb_id": "tt0366623"
+  },
+  {
+    "title": "In the Last Days of the City",
+    "release_year": "2016",
+    "clean_title": "/film/in-the-last-days-of-the-city/",
+    "adult": false,
+    "id": 381722,
+    "imdb_id": "tt5424898"
+  },
+  {
+    "title": "Love Above Pyramid's Plateau",
+    "release_year": "1986",
+    "clean_title": "/film/love-above-pyramids-plateau/",
+    "adult": false,
+    "id": 330774,
+    "imdb_id": "tt0087646"
+  },
+  {
+    "title": "The Second Wife",
+    "release_year": "1967",
+    "clean_title": "/film/the-second-wife/",
+    "adult": false,
+    "id": 260105,
+    "imdb_id": "tt0062519"
+  },
+  {
+    "title": "Between Heaven and Earth",
+    "release_year": "1959",
+    "clean_title": "/film/between-heaven-and-earth-1959/",
+    "adult": false,
+    "id": 279498,
+    "imdb_id": "tt0358987"
+  },
+  {
+    "title": "Citizen Masrey",
+    "release_year": "1991",
+    "clean_title": "/film/citizen-masrey/",
+    "adult": false,
+    "id": 410427,
+    "imdb_id": "tt0102459"
+  },
+  {
+    "title": "In the Heliopolis Flat",
+    "release_year": "2007",
+    "clean_title": "/film/in-the-heliopolis-flat/",
+    "adult": false,
+    "id": 258770,
+    "imdb_id": "tt0839811"
+  },
+  {
+    "title": "Messages from the Sea",
+    "release_year": "2010",
+    "clean_title": "/film/messages-from-the-sea/",
+    "adult": false,
+    "id": 103416,
+    "imdb_id": "tt1664814"
+  },
+  {
+    "title": "Best Times",
+    "release_year": "2004",
+    "clean_title": "/film/best-times/",
+    "adult": false,
+    "id": 136870,
+    "imdb_id": "tt0419422"
+  },
+  {
+    "title": "The Wedding",
+    "release_year": "2009",
+    "clean_title": "/film/the-wedding-2009/",
+    "adult": false,
+    "id": 60186,
+    "imdb_id": "tt2226347"
+  },
+  {
+    "title": "My Wife & the Dog",
+    "release_year": "1971",
+    "clean_title": "/film/my-wife-the-dog/",
+    "adult": false,
+    "id": 193458,
+    "imdb_id": "tt3231292"
+  },
+  {
+    "title": "Birds of Darkness",
+    "release_year": "1995",
+    "clean_title": "/film/birds-of-darkness/",
+    "adult": false,
+    "id": 372051,
+    "imdb_id": "tt1527211"
+  },
+  {
+    "title": "A Woman's Youth",
+    "release_year": "1956",
+    "clean_title": "/film/a-womans-youth/",
+    "adult": false,
+    "id": 152629,
+    "imdb_id": "tt0049746"
+  },
+  {
+    "title": "The Beginning",
+    "release_year": "1986",
+    "clean_title": "/film/the-beginning/",
+    "adult": false,
+    "id": 469144,
+    "imdb_id": "tt0090725"
+  },
+  {
+    "title": "The Yacoubian Building",
+    "release_year": "2006",
+    "clean_title": "/film/the-yacoubian-building/",
+    "adult": false,
+    "id": 44085,
+    "imdb_id": "tt0425321"
+  },
+  {
+    "title": "A Man in Our House",
+    "release_year": "1961",
+    "clean_title": "/film/a-man-in-our-house/",
+    "adult": false,
+    "id": 280464,
+    "imdb_id": "tt0366442"
+  },
+  {
+    "title": "The Blazing Sun",
+    "release_year": "1954",
+    "clean_title": "/film/the-blazing-sun-1954/",
+    "adult": false,
+    "id": 199456,
+    "imdb_id": "tt0044429"
+  },
+  {
+    "title": "Cairo 6,7,8",
+    "release_year": "2010",
+    "clean_title": "/film/cairo-678/",
+    "adult": false,
+    "id": 85441,
+    "imdb_id": "tt1764141"
+  },
+  {
+    "title": "Happy Birthday",
+    "release_year": "2025",
+    "clean_title": "/film/happy-birthday-2025/",
+    "adult": false,
+    "id": 1303034,
+    "imdb_id": "tt36591512"
+  },
+  {
+    "title": "Chaos, This Is?",
+    "release_year": "2007",
+    "clean_title": "/film/chaos-this-is/",
+    "adult": false,
+    "id": 163660,
+    "imdb_id": "tt1085799"
+  },
+  {
+    "title": "As Not to Fly the Smoke",
+    "release_year": "1984",
+    "clean_title": "/film/as-not-to-fly-the-smoke/",
+    "adult": false,
+    "id": 336791,
+    "imdb_id": "tt0879816"
+  },
+  {
+    "title": "No Retreat, No Surrender",
+    "release_year": "2010",
+    "clean_title": "/film/no-retreat-no-surrender-2010/",
+    "adult": false,
+    "id": 60263,
+    "imdb_id": "tt1920997"
+  },
+  {
+    "title": "Sameer & Shaheer & Baheer",
+    "release_year": "2010",
+    "clean_title": "/film/sameer-shaheer-baheer/",
+    "adult": false,
+    "id": 72098,
+    "imdb_id": "tt1981057"
+  },
+  {
+    "title": "Photocopy",
+    "release_year": "2017",
+    "clean_title": "/film/photocopy/",
+    "adult": false,
+    "id": 483389,
+    "imdb_id": "tt7464158"
+  },
+  {
+    "title": "The Escape",
+    "release_year": "1991",
+    "clean_title": "/film/the-escape-1991/",
+    "adult": false,
+    "id": 396867,
+    "imdb_id": "tt0095111"
+  },
+  {
+    "title": "The Suspect",
+    "release_year": "1981",
+    "clean_title": "/film/the-suspect-1981/",
+    "adult": false,
+    "id": 421346,
+    "imdb_id": "tt2233953"
+  },
+  {
+    "title": "Karnak",
+    "release_year": "1975",
+    "clean_title": "/film/karnak/",
+    "adult": false,
+    "id": 327196,
+    "imdb_id": "tt0970427"
+  },
+  {
+    "title": "The Seventh Sense",
+    "release_year": "2005",
+    "clean_title": "/film/the-seventh-sense-2005/",
+    "adult": false,
+    "id": 429612,
+    "imdb_id": "tt0425090"
+  },
+  {
+    "title": "Land of Hypocrisy",
+    "release_year": "1968",
+    "clean_title": "/film/land-of-hypocrisy/",
+    "adult": false,
+    "id": 402878,
+    "imdb_id": "tt0291730"
+  },
+  {
+    "title": "Tito",
+    "release_year": "2004",
+    "clean_title": "/film/tito-2004/",
+    "adult": false,
+    "id": 140718,
+    "imdb_id": "tt0417202"
+  },
+  {
+    "title": "The Ghoul",
+    "release_year": "1983",
+    "clean_title": "/film/the-ghoul-1983/",
+    "adult": false,
+    "id": 86779,
+    "imdb_id": "tt1535511"
+  },
+  {
+    "title": "The River of Love",
+    "release_year": "1960",
+    "clean_title": "/film/the-river-of-love-1960/",
+    "adult": false,
+    "id": 332933,
+    "imdb_id": "tt0210525"
+  },
+  {
+    "title": "Dreams of Hind and Camilia",
+    "release_year": "1988",
+    "clean_title": "/film/dreams-of-hind-and-camilia/",
+    "adult": false,
+    "id": 193415,
+    "imdb_id": "tt0150392"
+  },
+  {
+    "title": "El Sett",
+    "release_year": "2025",
+    "clean_title": "/film/el-sett/",
+    "adult": false,
+    "id": 1246595,
+    "imdb_id": "tt31402484"
+  },
+  {
+    "title": "The Gate of the Sun",
+    "release_year": "2004",
+    "clean_title": "/film/the-gate-of-the-sun/",
+    "adult": false,
+    "id": 125738,
+    "imdb_id": "tt0406551"
+  },
+  {
+    "title": "Destiny",
+    "release_year": "1997",
+    "clean_title": "/film/destiny-1997-1/",
+    "adult": false,
+    "id": 37673,
+    "imdb_id": "tt0119629"
+  },
+  {
+    "title": "Smile, The Photo Comes Out Better",
+    "release_year": "1998",
+    "clean_title": "/film/smile-the-photo-comes-out-better/",
+    "adult": false,
+    "id": 452461,
+    "imdb_id": "tt0322132"
+  },
+  {
+    "title": "The Postman",
+    "release_year": "1968",
+    "clean_title": "/film/the-postman-1968/",
+    "adult": false,
+    "id": 258767,
+    "imdb_id": "tt0291771"
+  },
+  {
+    "title": "Voy! Voy! Voy!",
+    "release_year": "2023",
+    "clean_title": "/film/voy-voy-voy/",
+    "adult": false,
+    "id": 1125454,
+    "imdb_id": "tt27721079"
+  },
+  {
+    "title": "The Thief and the Dogs",
+    "release_year": "1962",
+    "clean_title": "/film/the-thief-and-the-dogs/",
+    "adult": false,
+    "id": 258663,
+    "imdb_id": "tt0225598"
+  },
+  {
+    "title": "Girl's Love",
+    "release_year": "2004",
+    "clean_title": "/film/girls-love/",
+    "adult": false,
+    "id": 137369,
+    "imdb_id": "tt0366581"
+  },
+  {
+    "title": "Bitter Day, Sweet Day",
+    "release_year": "1988",
+    "clean_title": "/film/bitter-day-sweet-day/",
+    "adult": false,
+    "id": 334439,
+    "imdb_id": "tt0203225"
+  },
+  {
+    "title": "Empire M",
+    "release_year": "1972",
+    "clean_title": "/film/empire-m/",
+    "adult": false,
+    "id": 287872,
+    "imdb_id": "tt0327682"
+  },
+  {
+    "title": "The Island",
+    "release_year": "2007",
+    "clean_title": "/film/the-island-2007/",
+    "adult": false,
+    "id": 58476,
+    "imdb_id": "tt1173901"
+  },
+  {
+    "title": "Alexandria Again and Forever",
+    "release_year": "1989",
+    "clean_title": "/film/alexandria-again-and-forever/",
+    "adult": false,
+    "id": 123652,
+    "imdb_id": "tt0099858"
+  },
+  {
+    "title": "The Blue Elephant",
+    "release_year": "2014",
+    "clean_title": "/film/the-blue-elephant-2014/",
+    "adult": false,
+    "id": 289510,
+    "imdb_id": "tt3461252"
+  },
+  {
+    "title": "The Lawyer",
+    "release_year": "1983",
+    "clean_title": "/film/the-lawyer-1983/",
+    "adult": false,
+    "id": 193578,
+    "imdb_id": "tt0287322"
+  },
+  {
+    "title": "Fly Out",
+    "release_year": "2009",
+    "clean_title": "/film/fly-out/",
+    "adult": false,
+    "id": 60179,
+    "imdb_id": "tt1699195"
+  },
+  {
+    "title": "The International",
+    "release_year": "2009",
+    "clean_title": "/film/the-international-2009/",
+    "adult": false,
+    "id": 514077,
+    "imdb_id": "tt1772838"
+  },
+  {
+    "title": "I Love Cinema",
+    "release_year": "2004",
+    "clean_title": "/film/i-love-cinema/",
+    "adult": false,
+    "id": 193422,
+    "imdb_id": "tt0419473"
+  },
+  {
+    "title": "Land of Dreams",
+    "release_year": "1993",
+    "clean_title": "/film/land-of-dreams-1993/",
+    "adult": false,
+    "id": 327868,
+    "imdb_id": "tt0106304"
+  },
+  {
+    "title": "Shafiqa and Metwally",
+    "release_year": "1978",
+    "clean_title": "/film/shafiqa-and-metwally/",
+    "adult": false,
+    "id": 273249,
+    "imdb_id": "tt0295898"
+  },
+  {
+    "title": "Don't Lose Your Mind",
+    "release_year": "1985",
+    "clean_title": "/film/dont-lose-your-mind/",
+    "adult": false,
+    "id": 447083,
+    "imdb_id": "tt1529287"
+  },
+  {
+    "title": "Why, O Violet?",
+    "release_year": "1993",
+    "clean_title": "/film/why-o-violet/",
+    "adult": false,
+    "id": 332025,
+    "imdb_id": "tt0332206"
+  },
+  {
+    "title": "His Excellency the Minister",
+    "release_year": "2002",
+    "clean_title": "/film/his-excellency-the-minister/",
+    "adult": false,
+    "id": 406872,
+    "imdb_id": "tt0355715"
+  }
+]

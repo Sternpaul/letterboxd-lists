@@ -1,0 +1,402 @@
+[
+  {
+    "title": "The Lion King",
+    "release_year": "1994",
+    "clean_title": "/film/the-lion-king/",
+    "adult": false,
+    "id": 8587,
+    "imdb_id": "tt0110357"
+  },
+  {
+    "title": "Mulan",
+    "release_year": "1998",
+    "clean_title": "/film/mulan/",
+    "adult": false,
+    "id": 10674,
+    "imdb_id": "tt0120762"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "release_year": "1991",
+    "clean_title": "/film/beauty-and-the-beast-1991/",
+    "adult": false,
+    "id": 10020,
+    "imdb_id": "tt0101414"
+  },
+  {
+    "title": "Aladdin",
+    "release_year": "1992",
+    "clean_title": "/film/aladdin/",
+    "adult": false,
+    "id": 812,
+    "imdb_id": "tt0103639"
+  },
+  {
+    "title": "Fantasia",
+    "release_year": "1940",
+    "clean_title": "/film/fantasia/",
+    "adult": false,
+    "id": 756,
+    "imdb_id": "tt0032455"
+  },
+  {
+    "title": "Zootopia",
+    "release_year": "2016",
+    "clean_title": "/film/zootopia/",
+    "adult": false,
+    "id": 269149,
+    "imdb_id": "tt2948356"
+  },
+  {
+    "title": "Moana",
+    "release_year": "2016",
+    "clean_title": "/film/moana-2016/",
+    "adult": false,
+    "id": 277834,
+    "imdb_id": "tt3521164"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "release_year": "2002",
+    "clean_title": "/film/lilo-stitch/",
+    "adult": false,
+    "id": 11544,
+    "imdb_id": "tt0275847"
+  },
+  {
+    "title": "Big Hero 6",
+    "release_year": "2014",
+    "clean_title": "/film/big-hero-6/",
+    "adult": false,
+    "id": 177572,
+    "imdb_id": "tt2245084"
+  },
+  {
+    "title": "The Many Adventures of Winnie the Pooh",
+    "release_year": "1977",
+    "clean_title": "/film/the-many-adventures-of-winnie-the-pooh/",
+    "adult": false,
+    "id": 250480,
+    "imdb_id": "tt0076363"
+  },
+  {
+    "title": "Tangled",
+    "release_year": "2010",
+    "clean_title": "/film/tangled-2010/",
+    "adult": false,
+    "id": 38757,
+    "imdb_id": "tt0398286"
+  },
+  {
+    "title": "The Emperor's New Groove",
+    "release_year": "2000",
+    "clean_title": "/film/the-emperors-new-groove/",
+    "adult": false,
+    "id": 11688,
+    "imdb_id": "tt0120917"
+  },
+  {
+    "title": "The Little Mermaid",
+    "release_year": "1989",
+    "clean_title": "/film/the-little-mermaid/",
+    "adult": false,
+    "id": 10144,
+    "imdb_id": "tt0097757"
+  },
+  {
+    "title": "The Jungle Book",
+    "release_year": "1967",
+    "clean_title": "/film/the-jungle-book/",
+    "adult": false,
+    "id": 9325,
+    "imdb_id": "tt0061852"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "release_year": "1951",
+    "clean_title": "/film/alice-in-wonderland-1951/",
+    "adult": false,
+    "id": 12092,
+    "imdb_id": "tt0043274"
+  },
+  {
+    "title": "Wreck-It Ralph",
+    "release_year": "2012",
+    "clean_title": "/film/wreck-it-ralph/",
+    "adult": false,
+    "id": 82690,
+    "imdb_id": "tt1772341"
+  },
+  {
+    "title": "Tarzan",
+    "release_year": "1999",
+    "clean_title": "/film/tarzan/",
+    "adult": false,
+    "id": 37135,
+    "imdb_id": "tt0120855"
+  },
+  {
+    "title": "Robin Hood",
+    "release_year": "1973",
+    "clean_title": "/film/robin-hood/",
+    "adult": false,
+    "id": 11886,
+    "imdb_id": "tt0070608"
+  },
+  {
+    "title": "Hercules",
+    "release_year": "1997",
+    "clean_title": "/film/hercules-1997/",
+    "adult": false,
+    "id": 11970,
+    "imdb_id": "tt0119282"
+  },
+  {
+    "title": "Pinocchio",
+    "release_year": "1940",
+    "clean_title": "/film/pinocchio/",
+    "adult": false,
+    "id": 10895,
+    "imdb_id": "tt0032910"
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "release_year": "1937",
+    "clean_title": "/film/snow-white-and-the-seven-dwarfs/",
+    "adult": false,
+    "id": 408,
+    "imdb_id": "tt0029583"
+  },
+  {
+    "title": "Treasure Planet",
+    "release_year": "2002",
+    "clean_title": "/film/treasure-planet/",
+    "adult": false,
+    "id": 9016,
+    "imdb_id": "tt0133240"
+  },
+  {
+    "title": "Peter Pan",
+    "release_year": "1953",
+    "clean_title": "/film/peter-pan/",
+    "adult": false,
+    "id": 10693,
+    "imdb_id": "tt0046183"
+  },
+  {
+    "title": "One Hundred and One Dalmatians",
+    "release_year": "1961",
+    "clean_title": "/film/one-hundred-and-one-dalmatians/",
+    "adult": false,
+    "id": 12230,
+    "imdb_id": "tt0055254"
+  },
+  {
+    "title": "Winnie the Pooh",
+    "release_year": "2011",
+    "clean_title": "/film/winnie-the-pooh/",
+    "adult": false,
+    "id": 51162,
+    "imdb_id": "tt1449283"
+  },
+  {
+    "title": "Bambi",
+    "release_year": "1942",
+    "clean_title": "/film/bambi/",
+    "adult": false,
+    "id": 3170,
+    "imdb_id": "tt0034492"
+  },
+  {
+    "title": "The Fox and the Hound",
+    "release_year": "1981",
+    "clean_title": "/film/the-fox-and-the-hound/",
+    "adult": false,
+    "id": 10948,
+    "imdb_id": "tt0082406"
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "release_year": "1996",
+    "clean_title": "/film/the-hunchback-of-notre-dame-1996/",
+    "adult": false,
+    "id": 10545,
+    "imdb_id": "tt0116583"
+  },
+  {
+    "title": "The Princess and the Frog",
+    "release_year": "2009",
+    "clean_title": "/film/the-princess-and-the-frog/",
+    "adult": false,
+    "id": 10198,
+    "imdb_id": "tt0780521"
+  },
+  {
+    "title": "Lady and the Tramp",
+    "release_year": "1955",
+    "clean_title": "/film/lady-and-the-tramp/",
+    "adult": false,
+    "id": 10340,
+    "imdb_id": "tt0048280"
+  },
+  {
+    "title": "Sleeping Beauty",
+    "release_year": "1959",
+    "clean_title": "/film/sleeping-beauty/",
+    "adult": false,
+    "id": 10882,
+    "imdb_id": "tt0053285"
+  },
+  {
+    "title": "Fantasia 2000",
+    "release_year": "1999",
+    "clean_title": "/film/fantasia-2000/",
+    "adult": false,
+    "id": 49948,
+    "imdb_id": "tt0120910"
+  },
+  {
+    "title": "The Great Mouse Detective",
+    "release_year": "1986",
+    "clean_title": "/film/the-great-mouse-detective/",
+    "adult": false,
+    "id": 9994,
+    "imdb_id": "tt0091149"
+  },
+  {
+    "title": "The Aristocats",
+    "release_year": "1970",
+    "clean_title": "/film/the-aristocats/",
+    "adult": false,
+    "id": 10112,
+    "imdb_id": "tt0065421"
+  },
+  {
+    "title": "Dumbo",
+    "release_year": "1941",
+    "clean_title": "/film/dumbo/",
+    "adult": false,
+    "id": 11360,
+    "imdb_id": "tt0033563"
+  },
+  {
+    "title": "Cinderella",
+    "release_year": "1950",
+    "clean_title": "/film/cinderella/",
+    "adult": false,
+    "id": 11224,
+    "imdb_id": "tt0042332"
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "release_year": "2001",
+    "clean_title": "/film/atlantis-the-lost-empire/",
+    "adult": false,
+    "id": 10865,
+    "imdb_id": "tt0230011"
+  },
+  {
+    "title": "The Sword in the Stone",
+    "release_year": "1963",
+    "clean_title": "/film/the-sword-in-the-stone/",
+    "adult": false,
+    "id": 9078,
+    "imdb_id": "tt0057546"
+  },
+  {
+    "title": "The Adventures of Ichabod and Mr. Toad",
+    "release_year": "1949",
+    "clean_title": "/film/the-adventures-of-ichabod-and-mr-toad/",
+    "adult": false,
+    "id": 13465,
+    "imdb_id": "tt0041094"
+  },
+  {
+    "title": "Frozen",
+    "release_year": "2013",
+    "clean_title": "/film/frozen-2013/",
+    "adult": false,
+    "id": 109445,
+    "imdb_id": "tt2294629"
+  },
+  {
+    "title": "Brother Bear",
+    "release_year": "2003",
+    "clean_title": "/film/brother-bear/",
+    "adult": false,
+    "id": 10009,
+    "imdb_id": "tt0328880"
+  },
+  {
+    "title": "Ralph Breaks the Internet",
+    "release_year": "2018",
+    "clean_title": "/film/ralph-breaks-the-internet/",
+    "adult": false,
+    "id": 404368,
+    "imdb_id": "tt5848272"
+  },
+  {
+    "title": "The Rescuers",
+    "release_year": "1977",
+    "clean_title": "/film/the-rescuers/",
+    "adult": false,
+    "id": 11319,
+    "imdb_id": "tt0076618"
+  },
+  {
+    "title": "Pocahontas",
+    "release_year": "1995",
+    "clean_title": "/film/pocahontas/",
+    "adult": false,
+    "id": 10530,
+    "imdb_id": "tt0114148"
+  },
+  {
+    "title": "The Rescuers Down Under",
+    "release_year": "1990",
+    "clean_title": "/film/the-rescuers-down-under/",
+    "adult": false,
+    "id": 11135,
+    "imdb_id": "tt0100477"
+  },
+  {
+    "title": "Meet the Robinsons",
+    "release_year": "2007",
+    "clean_title": "/film/meet-the-robinsons/",
+    "adult": false,
+    "id": 1267,
+    "imdb_id": "tt0396555"
+  },
+  {
+    "title": "Oliver & Company",
+    "release_year": "1988",
+    "clean_title": "/film/oliver-company/",
+    "adult": false,
+    "id": 12233,
+    "imdb_id": "tt0095776"
+  },
+  {
+    "title": "The Three Caballeros",
+    "release_year": "1944",
+    "clean_title": "/film/the-three-caballeros/",
+    "adult": false,
+    "id": 15947,
+    "imdb_id": "tt0038166"
+  },
+  {
+    "title": "The Black Cauldron",
+    "release_year": "1985",
+    "clean_title": "/film/the-black-cauldron/",
+    "adult": false,
+    "id": 10957,
+    "imdb_id": "tt0088814"
+  },
+  {
+    "title": "Fun and Fancy Free",
+    "release_year": "1947",
+    "clean_title": "/film/fun-and-fancy-free/",
+    "adult": false,
+    "id": 46929,
+    "imdb_id": "tt0039404"
+  }
+]

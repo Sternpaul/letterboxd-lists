@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Come and See",
+    "release_year": "1985",
+    "clean_title": "/film/come-and-see/",
+    "adult": false,
+    "id": 25237,
+    "imdb_id": "tt0091251"
+  },
+  {
+    "title": "Fallen Angels",
+    "release_year": "1995",
+    "clean_title": "/film/fallen-angels/",
+    "adult": false,
+    "id": 11220,
+    "imdb_id": "tt0112913"
+  },
+  {
+    "title": "Paris, Texas",
+    "release_year": "1984",
+    "clean_title": "/film/paris-texas/",
+    "adult": false,
+    "id": 655,
+    "imdb_id": "tt0087884"
+  },
+  {
+    "title": "Magnolia",
+    "release_year": "1999",
+    "clean_title": "/film/magnolia/",
+    "adult": false,
+    "id": 334,
+    "imdb_id": "tt0175880"
+  },
+  {
+    "title": "Harakiri",
+    "release_year": "1962",
+    "clean_title": "/film/harakiri/",
+    "adult": false,
+    "id": 14537,
+    "imdb_id": "tt0056058"
+  },
+  {
+    "title": "Seven Samurai",
+    "release_year": "1954",
+    "clean_title": "/film/seven-samurai/",
+    "adult": false,
+    "id": 346,
+    "imdb_id": "tt0047478"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "release_year": "1988",
+    "clean_title": "/film/cinema-paradiso/",
+    "adult": false,
+    "id": 11216,
+    "imdb_id": "tt0095765"
+  },
+  {
+    "title": "Possession",
+    "release_year": "1981",
+    "clean_title": "/film/possession/",
+    "adult": false,
+    "id": 21484,
+    "imdb_id": "tt0082933"
+  },
+  {
+    "title": "Mysterious Skin",
+    "release_year": "2004",
+    "clean_title": "/film/mysterious-skin/",
+    "adult": false,
+    "id": 11171,
+    "imdb_id": "tt0370986"
+  },
+  {
+    "title": "Stalker",
+    "release_year": "1979",
+    "clean_title": "/film/stalker/",
+    "adult": false,
+    "id": 1398,
+    "imdb_id": "tt0079944"
+  },
+  {
+    "title": "Yi Yi",
+    "release_year": "2000",
+    "clean_title": "/film/yi-yi/",
+    "adult": false,
+    "id": 25538,
+    "imdb_id": "tt0244316"
+  },
+  {
+    "title": "Barry Lyndon",
+    "release_year": "1975",
+    "clean_title": "/film/barry-lyndon/",
+    "adult": false,
+    "id": 3175,
+    "imdb_id": "tt0072684"
+  },
+  {
+    "title": "Persona",
+    "release_year": "1966",
+    "clean_title": "/film/persona/",
+    "adult": false,
+    "id": 797,
+    "imdb_id": "tt0060827"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "release_year": "1962",
+    "clean_title": "/film/lawrence-of-arabia/",
+    "adult": false,
+    "id": 947,
+    "imdb_id": "tt0056172"
+  },
+  {
+    "title": "The Elephant Man",
+    "release_year": "1980",
+    "clean_title": "/film/the-elephant-man/",
+    "adult": false,
+    "id": 1955,
+    "imdb_id": "tt0080678"
+  },
+  {
+    "title": "Ikiru",
+    "release_year": "1952",
+    "clean_title": "/film/ikiru/",
+    "adult": false,
+    "id": 3782,
+    "imdb_id": "tt0044741"
+  },
+  {
+    "title": "Cure",
+    "release_year": "1997",
+    "clean_title": "/film/cure/",
+    "adult": false,
+    "id": 36095,
+    "imdb_id": "tt0123948"
+  },
+  {
+    "title": "The Tree of Life",
+    "release_year": "2011",
+    "clean_title": "/film/the-tree-of-life-2011/",
+    "adult": false,
+    "id": 8967,
+    "imdb_id": "tt0478304"
+  },
+  {
+    "title": "The Piano Teacher",
+    "release_year": "2001",
+    "clean_title": "/film/the-piano-teacher/",
+    "adult": false,
+    "id": 1791,
+    "imdb_id": "tt0254686"
+  },
+  {
+    "title": "Synecdoche, New York",
+    "release_year": "2008",
+    "clean_title": "/film/synecdoche-new-york/",
+    "adult": false,
+    "id": 4960,
+    "imdb_id": "tt0383028"
+  },
+  {
+    "title": "Monster",
+    "release_year": "2023",
+    "clean_title": "/film/monster-2023/",
+    "adult": false,
+    "id": 1050035,
+    "imdb_id": "tt23736044"
+  },
+  {
+    "title": "Drive My Car",
+    "release_year": "2021",
+    "clean_title": "/film/drive-my-car/",
+    "adult": false,
+    "id": 758866,
+    "imdb_id": "tt14039582"
+  },
+  {
+    "title": "House",
+    "release_year": "1977",
+    "clean_title": "/film/house/",
+    "adult": false,
+    "id": 25623,
+    "imdb_id": "tt0076162"
+  },
+  {
+    "title": "Metropolis",
+    "release_year": "1927",
+    "clean_title": "/film/metropolis/",
+    "adult": false,
+    "id": 19,
+    "imdb_id": "tt0017136"
+  },
+  {
+    "title": "8½",
+    "release_year": "1963",
+    "clean_title": "/film/8-half/",
+    "adult": false,
+    "id": 422,
+    "imdb_id": "tt0056801"
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "release_year": "1984",
+    "clean_title": "/film/once-upon-a-time-in-america/",
+    "adult": false,
+    "id": 311,
+    "imdb_id": "tt0087843"
+  },
+  {
+    "title": "Ran",
+    "release_year": "1985",
+    "clean_title": "/film/ran/",
+    "adult": false,
+    "id": 11645,
+    "imdb_id": "tt0089881"
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "release_year": "1991",
+    "clean_title": "/film/a-brighter-summer-day/",
+    "adult": false,
+    "id": 15804,
+    "imdb_id": "tt0101985"
+  },
+  {
+    "title": "Solaris",
+    "release_year": "1972",
+    "clean_title": "/film/solaris/",
+    "adult": false,
+    "id": 593,
+    "imdb_id": "tt0069293"
+  },
+  {
+    "title": "Mommy",
+    "release_year": "2014",
+    "clean_title": "/film/mommy-2014/",
+    "adult": false,
+    "id": 265177,
+    "imdb_id": "tt3612616"
+  },
+  {
+    "title": "My Own Private Idaho",
+    "release_year": "1991",
+    "clean_title": "/film/my-own-private-idaho/",
+    "adult": false,
+    "id": 468,
+    "imdb_id": "tt0102494"
+  },
+  {
+    "title": "A Ghost Story",
+    "release_year": "2017",
+    "clean_title": "/film/a-ghost-story-2017/",
+    "adult": false,
+    "id": 428449,
+    "imdb_id": "tt6265828"
+  },
+  {
+    "title": "Enter the Void",
+    "release_year": "2009",
+    "clean_title": "/film/enter-the-void/",
+    "adult": false,
+    "id": 34647,
+    "imdb_id": "tt1191111"
+  },
+  {
+    "title": "High and Low",
+    "release_year": "1963",
+    "clean_title": "/film/high-and-low/",
+    "adult": false,
+    "id": 12493,
+    "imdb_id": "tt0057565"
+  },
+  {
+    "title": "Mirror",
+    "release_year": "1975",
+    "clean_title": "/film/mirror/",
+    "adult": false,
+    "id": 1396,
+    "imdb_id": "tt0072443"
+  },
+  {
+    "title": "A Woman Under the Influence",
+    "release_year": "1974",
+    "clean_title": "/film/a-woman-under-the-influence/",
+    "adult": false,
+    "id": 29845,
+    "imdb_id": "tt0072417"
+  },
+  {
+    "title": "La Chimera",
+    "release_year": "2023",
+    "clean_title": "/film/la-chimera/",
+    "adult": false,
+    "id": 837335,
+    "imdb_id": "tt14561712"
+  },
+  {
+    "title": "Shoplifters",
+    "release_year": "2018",
+    "clean_title": "/film/shoplifters/",
+    "adult": false,
+    "id": 505192,
+    "imdb_id": "tt8075192"
+  },
+  {
+    "title": "Dogville",
+    "release_year": "2003",
+    "clean_title": "/film/dogville/",
+    "adult": false,
+    "id": 553,
+    "imdb_id": "tt0276919"
+  },
+  {
+    "title": "Silence",
+    "release_year": "2016",
+    "clean_title": "/film/silence/",
+    "adult": false,
+    "id": 68730,
+    "imdb_id": "tt0490215"
+  },
+  {
+    "title": "Loving Vincent",
+    "release_year": "2017",
+    "clean_title": "/film/loving-vincent/",
+    "adult": false,
+    "id": 339877,
+    "imdb_id": "tt3262342"
+  },
+  {
+    "title": "Tokyo Story",
+    "release_year": "1953",
+    "clean_title": "/film/tokyo-story/",
+    "adult": false,
+    "id": 18148,
+    "imdb_id": "tt0046438"
+  },
+  {
+    "title": "All About Lily Chou-Chou",
+    "release_year": "2001",
+    "clean_title": "/film/all-about-lily-chou-chou/",
+    "adult": false,
+    "id": 16664,
+    "imdb_id": "tt0297721"
+  },
+  {
+    "title": "Fantastic Planet",
+    "release_year": "1973",
+    "clean_title": "/film/fantastic-planet/",
+    "adult": false,
+    "id": 16306,
+    "imdb_id": "tt0070544"
+  },
+  {
+    "title": "The Red Shoes",
+    "release_year": "1948",
+    "clean_title": "/film/the-red-shoes/",
+    "adult": false,
+    "id": 19542,
+    "imdb_id": "tt0040725"
+  },
+  {
+    "title": "Crash",
+    "release_year": "1996",
+    "clean_title": "/film/crash/",
+    "adult": false,
+    "id": 884,
+    "imdb_id": "tt0115964"
+  },
+  {
+    "title": "The Fall",
+    "release_year": "2006",
+    "clean_title": "/film/the-fall/",
+    "adult": false,
+    "id": 14784,
+    "imdb_id": "tt0460791"
+  },
+  {
+    "title": "Happy Together",
+    "release_year": "1997",
+    "clean_title": "/film/happy-together-1997/",
+    "adult": false,
+    "id": 18329,
+    "imdb_id": "tt0118845"
+  },
+  {
+    "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+    "release_year": "1975",
+    "clean_title": "/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles/",
+    "adult": false,
+    "id": 44012,
+    "imdb_id": "tt0073198"
+  },
+  {
+    "title": "Dancer in the Dark",
+    "release_year": "2000",
+    "clean_title": "/film/dancer-in-the-dark/",
+    "adult": false,
+    "id": 16,
+    "imdb_id": "tt0168629"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Stop Making Sense",
+    "release_year": "1984",
+    "clean_title": "/film/stop-making-sense/",
+    "adult": false,
+    "id": 24128,
+    "imdb_id": "tt0088178"
+  },
+  {
+    "title": "Paris Is Burning",
+    "release_year": "1990",
+    "clean_title": "/film/paris-is-burning/",
+    "adult": false,
+    "id": 31225,
+    "imdb_id": "tt0100332"
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "release_year": "1982",
+    "clean_title": "/film/koyaanisqatsi/",
+    "adult": false,
+    "id": 11314,
+    "imdb_id": "tt0085809"
+  },
+  {
+    "title": "Elena",
+    "release_year": "2012",
+    "clean_title": "/film/elena-2013/",
+    "adult": false,
+    "id": 160859,
+    "imdb_id": "tt2475154"
+  },
+  {
+    "title": "Sans Soleil",
+    "release_year": "1983",
+    "clean_title": "/film/sans-soleil/",
+    "adult": false,
+    "id": 1563,
+    "imdb_id": "tt0084628"
+  },
+  {
+    "title": "The Gleaners and I",
+    "release_year": "2000",
+    "clean_title": "/film/the-gleaners-and-i/",
+    "adult": false,
+    "id": 44379,
+    "imdb_id": "tt0247380"
+  },
+  {
+    "title": "Fire of Love",
+    "release_year": "2022",
+    "clean_title": "/film/fire-of-love-2022/",
+    "adult": false,
+    "id": 913823,
+    "imdb_id": "tt16227014"
+  },
+  {
+    "title": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+    "release_year": "2000",
+    "clean_title": "/film/as-i-was-moving-ahead-occasionally-i-saw/",
+    "adult": false,
+    "id": 130824,
+    "imdb_id": "tt0262240"
+  },
+  {
+    "title": "American Movie",
+    "release_year": "1999",
+    "clean_title": "/film/american-movie/",
+    "adult": false,
+    "id": 14242,
+    "imdb_id": "tt0181288"
+  },
+  {
+    "title": "The Act of Killing",
+    "release_year": "2012",
+    "clean_title": "/film/the-act-of-killing/",
+    "adult": false,
+    "id": 123678,
+    "imdb_id": "tt2375605"
+  },
+  {
+    "title": "Miss Americana",
+    "release_year": "2020",
+    "clean_title": "/film/miss-americana/",
+    "adult": false,
+    "id": 653567,
+    "imdb_id": "tt11388580"
+  },
+  {
+    "title": "Grey Gardens",
+    "release_year": "1975",
+    "clean_title": "/film/grey-gardens/",
+    "adult": false,
+    "id": 17346,
+    "imdb_id": "tt0073076"
+  },
+  {
+    "title": "Twenty Years Later",
+    "release_year": "1984",
+    "clean_title": "/film/twenty-years-later/",
+    "adult": false,
+    "id": 86320,
+    "imdb_id": "tt0134402"
+  },
+  {
+    "title": "Grizzly Man",
+    "release_year": "2005",
+    "clean_title": "/film/grizzly-man/",
+    "adult": false,
+    "id": 501,
+    "imdb_id": "tt0427312"
+  },
+  {
+    "title": "Man with a Movie Camera",
+    "release_year": "1929",
+    "clean_title": "/film/man-with-a-movie-camera/",
+    "adult": false,
+    "id": 26317,
+    "imdb_id": "tt0019760"
+  },
+  {
+    "title": "It's Never Over, Jeff Buckley",
+    "release_year": "2025",
+    "clean_title": "/film/its-never-over-jeff-buckley/",
+    "adult": false,
+    "id": 1400381,
+    "imdb_id": "tt34966650"
+  },
+  {
+    "title": "Playing",
+    "release_year": "2007",
+    "clean_title": "/film/playing/",
+    "adult": false,
+    "id": 86321,
+    "imdb_id": "tt1165293"
+  },
+  {
+    "title": "F for Fake",
+    "release_year": "1973",
+    "clean_title": "/film/f-for-fake/",
+    "adult": false,
+    "id": 43003,
+    "imdb_id": "tt0072962"
+  },
+  {
+    "title": "Jackass: The Movie",
+    "release_year": "2002",
+    "clean_title": "/film/jackass-the-movie/",
+    "adult": false,
+    "id": 9012,
+    "imdb_id": "tt0322802"
+  },
+  {
+    "title": "News from Home",
+    "release_year": "1976",
+    "clean_title": "/film/news-from-home/",
+    "adult": false,
+    "id": 86814,
+    "imdb_id": "tt0076452"
+  },
+  {
+    "title": "Jackass Number Two",
+    "release_year": "2006",
+    "clean_title": "/film/jackass-number-two/",
+    "adult": false,
+    "id": 12094,
+    "imdb_id": "tt0493430"
+  },
+  {
+    "title": "Master, a Building in Copacabana",
+    "release_year": "2002",
+    "clean_title": "/film/master-a-building-in-copacabana/",
+    "adult": false,
+    "id": 60142,
+    "imdb_id": "tt0333388"
+  },
+  {
+    "title": "Baraka",
+    "release_year": "1992",
+    "clean_title": "/film/baraka/",
+    "adult": false,
+    "id": 14002,
+    "imdb_id": "tt0103767"
+  },
+  {
+    "title": "The Last Waltz",
+    "release_year": "1978",
+    "clean_title": "/film/the-last-waltz/",
+    "adult": false,
+    "id": 13963,
+    "imdb_id": "tt0077838"
+  },
+  {
+    "title": "Dear Zachary: A Letter to a Son About His Father",
+    "release_year": "2008",
+    "clean_title": "/film/dear-zachary-a-letter-to-a-son-about-his-father/",
+    "adult": false,
+    "id": 15584,
+    "imdb_id": "tt1152758"
+  },
+  {
+    "title": "Free Solo",
+    "release_year": "2018",
+    "clean_title": "/film/free-solo/",
+    "adult": false,
+    "id": 515042,
+    "imdb_id": "tt7775622"
+  },
+  {
+    "title": "Hoop Dreams",
+    "release_year": "1994",
+    "clean_title": "/film/hoop-dreams/",
+    "adult": false,
+    "id": 14275,
+    "imdb_id": "tt0110057"
+  },
+  {
+    "title": "The Metamorphosis of Birds",
+    "release_year": "2020",
+    "clean_title": "/film/the-metamorphosis-of-birds/",
+    "adult": false,
+    "id": 664576,
+    "imdb_id": "tt11625100"
+  },
+  {
+    "title": "The Beaches of Agnès",
+    "release_year": "2008",
+    "clean_title": "/film/the-beaches-of-agnes/",
+    "adult": false,
+    "id": 38879,
+    "imdb_id": "tt1129435"
+  },
+  {
+    "title": "Senna",
+    "release_year": "2010",
+    "clean_title": "/film/senna/",
+    "adult": false,
+    "id": 58496,
+    "imdb_id": "tt1424432"
+  },
+  {
+    "title": "All the Beauty and the Bloodshed",
+    "release_year": "2022",
+    "clean_title": "/film/all-the-beauty-and-the-bloodshed/",
+    "adult": false,
+    "id": 1004663,
+    "imdb_id": "tt21374850"
+  },
+  {
+    "title": "Moonage Daydream",
+    "release_year": "2022",
+    "clean_title": "/film/moonage-daydream/",
+    "adult": false,
+    "id": 957457,
+    "imdb_id": "tt9883832"
+  },
+  {
+    "title": "Samsara",
+    "release_year": "2011",
+    "clean_title": "/film/samsara-2011/",
+    "adult": false,
+    "id": 89708,
+    "imdb_id": "tt0770802"
+  },
+  {
+    "title": "Minding the Gap",
+    "release_year": "2018",
+    "clean_title": "/film/minding-the-gap/",
+    "adult": false,
+    "id": 489985,
+    "imdb_id": "tt7476236"
+  },
+  {
+    "title": "My Octopus Teacher",
+    "release_year": "2020",
+    "clean_title": "/film/my-octopus-teacher/",
+    "adult": false,
+    "id": 682110,
+    "imdb_id": "tt12888462"
+  },
+  {
+    "title": "The Salt of the Earth",
+    "release_year": "2014",
+    "clean_title": "/film/the-salt-of-the-earth/",
+    "adult": false,
+    "id": 265297,
+    "imdb_id": "tt3674140"
+  },
+  {
+    "title": "Blue",
+    "release_year": "1993",
+    "clean_title": "/film/blue-1993/",
+    "adult": false,
+    "id": 94794,
+    "imdb_id": "tt0106438"
+  },
+  {
+    "title": "Streetwise",
+    "release_year": "1984",
+    "clean_title": "/film/streetwise/",
+    "adult": false,
+    "id": 42098,
+    "imdb_id": "tt0088196"
+  },
+  {
+    "title": "Häxan",
+    "release_year": "1922",
+    "clean_title": "/film/haxan/",
+    "adult": false,
+    "id": 57283,
+    "imdb_id": "tt0013257"
+  },
+  {
+    "title": "Cobain: Montage of Heck",
+    "release_year": "2015",
+    "clean_title": "/film/cobain-montage-of-heck/",
+    "adult": false,
+    "id": 319075,
+    "imdb_id": "tt4229236"
+  },
+  {
+    "title": "No Other Land",
+    "release_year": "2024",
+    "clean_title": "/film/no-other-land/",
+    "adult": false,
+    "id": 1232493,
+    "imdb_id": "tt30953759"
+  },
+  {
+    "title": "Amy",
+    "release_year": "2015",
+    "clean_title": "/film/amy-2015/",
+    "adult": false,
+    "id": 331781,
+    "imdb_id": "tt2870648"
+  },
+  {
+    "title": "Pictures of Ghosts",
+    "release_year": "2023",
+    "clean_title": "/film/pictures-of-ghosts/",
+    "adult": false,
+    "id": 1112548,
+    "imdb_id": "tt27502227"
+  },
+  {
+    "title": "Waltz with Bashir",
+    "release_year": "2008",
+    "clean_title": "/film/waltz-with-bashir/",
+    "adult": false,
+    "id": 8885,
+    "imdb_id": "tt1185616"
+  },
+  {
+    "title": "Piece By Piece",
+    "release_year": "2024",
+    "clean_title": "/film/piece-by-piece-2024/",
+    "adult": false,
+    "id": 1236419,
+    "imdb_id": "tt31064841"
+  },
+  {
+    "title": "Crumb",
+    "release_year": "1994",
+    "clean_title": "/film/crumb/",
+    "adult": false,
+    "id": 26564,
+    "imdb_id": "tt0109508"
+  },
+  {
+    "title": "Lessons of Darkness",
+    "release_year": "1992",
+    "clean_title": "/film/lessons-of-darkness/",
+    "adult": false,
+    "id": 53200,
+    "imdb_id": "tt0104706"
+  },
+  {
+    "title": "The Fire Within: A Requiem for Katia and Maurice Krafft",
+    "release_year": "2022",
+    "clean_title": "/film/the-fire-within-a-requiem-for-katia-and-maurice/",
+    "adult": false,
+    "id": 977341,
+    "imdb_id": "tt19383190"
+  },
+  {
+    "title": "Faces Places",
+    "release_year": "2017",
+    "clean_title": "/film/faces-places/",
+    "adult": false,
+    "id": 451995,
+    "imdb_id": "tt5598102"
+  },
+  {
+    "title": "Shirkers",
+    "release_year": "2018",
+    "clean_title": "/film/shirkers/",
+    "adult": false,
+    "id": 489994,
+    "imdb_id": "tt7472352"
+  },
+  {
+    "title": "Blackfish",
+    "release_year": "2013",
+    "clean_title": "/film/blackfish/",
+    "adult": false,
+    "id": 158999,
+    "imdb_id": "tt2545118"
+  },
+  {
+    "title": "Soundtrack to a Coup d'Etat",
+    "release_year": "2024",
+    "clean_title": "/film/soundtrack-to-a-coup-detat/",
+    "adult": false,
+    "id": 1214539,
+    "imdb_id": "tt14452174"
+  },
+  {
+    "title": "Cameraperson",
+    "release_year": "2016",
+    "clean_title": "/film/cameraperson/",
+    "adult": false,
+    "id": 376534,
+    "imdb_id": "tt5375040"
+  },
+  {
+    "title": "Harlan County U.S.A.",
+    "release_year": "1976",
+    "clean_title": "/film/harlan-county-usa/",
+    "adult": false,
+    "id": 33324,
+    "imdb_id": "tt0074605"
+  },
+  {
+    "title": "American Animals",
+    "release_year": "2018",
+    "clean_title": "/film/american-animals/",
+    "adult": false,
+    "id": 489931,
+    "imdb_id": "tt6212478"
+  },
+  {
+    "title": "Searching for Sugar Man",
+    "release_year": "2012",
+    "clean_title": "/film/searching-for-sugar-man/",
+    "adult": false,
+    "id": 84334,
+    "imdb_id": "tt2125608"
+  },
+  {
+    "title": "Dont Look Back",
+    "release_year": "1967",
+    "clean_title": "/film/dont-look-back-1967/",
+    "adult": false,
+    "id": 135,
+    "imdb_id": "tt0061589"
+  },
+  {
+    "title": "Supersonic",
+    "release_year": "2016",
+    "clean_title": "/film/supersonic/",
+    "adult": false,
+    "id": 412924,
+    "imdb_id": "tt5213534"
+  },
+  {
+    "title": "Jackass 3D",
+    "release_year": "2010",
+    "clean_title": "/film/jackass-3d/",
+    "adult": false,
+    "id": 16290,
+    "imdb_id": "tt1116184"
+  },
+  {
+    "title": "Flee",
+    "release_year": "2021",
+    "clean_title": "/film/flee-2021/",
+    "adult": false,
+    "id": 680813,
+    "imdb_id": "tt8430054"
+  },
+  {
+    "title": "Kedi",
+    "release_year": "2016",
+    "clean_title": "/film/kedi-2016/",
+    "adult": false,
+    "id": 392011,
+    "imdb_id": "tt4420704"
+  },
+  {
+    "title": "Pink Floyd: Live at Pompeii",
+    "release_year": "1972",
+    "clean_title": "/film/pink-floyd-live-at-pompeii/",
+    "adult": false,
+    "id": 25771,
+    "imdb_id": "tt0069090"
+  },
+  {
+    "title": "The Endless Summer",
+    "release_year": "1966",
+    "clean_title": "/film/the-endless-summer/",
+    "adult": false,
+    "id": 21,
+    "imdb_id": "tt0060371"
+  },
+  {
+    "title": "Exit Through the Gift Shop",
+    "release_year": "2010",
+    "clean_title": "/film/exit-through-the-gift-shop/",
+    "adult": false,
+    "id": 39452,
+    "imdb_id": "tt1587707"
+  },
+  {
+    "title": "HyperNormalisation",
+    "release_year": "2016",
+    "clean_title": "/film/hypernormalisation/",
+    "adult": false,
+    "id": 419546,
+    "imdb_id": "tt6156350"
+  },
+  {
+    "title": "Sleep Has Her House",
+    "release_year": "2017",
+    "clean_title": "/film/sleep-has-her-house/",
+    "adult": false,
+    "id": 432606,
+    "imdb_id": "tt6381052"
+  },
+  {
+    "title": "Four Daughters",
+    "release_year": "2023",
+    "clean_title": "/film/four-daughters-2023/",
+    "adult": false,
+    "id": 1069193,
+    "imdb_id": "tt27502426"
+  },
+  {
+    "title": "My Winnipeg",
+    "release_year": "2007",
+    "clean_title": "/film/my-winnipeg/",
+    "adult": false,
+    "id": 13241,
+    "imdb_id": "tt1093842"
+  },
+  {
+    "title": "The Velvet Queen",
+    "release_year": "2021",
+    "clean_title": "/film/the-velvet-queen/",
+    "adult": false,
+    "id": 842356,
+    "imdb_id": "tt11937680"
+  },
+  {
+    "title": "Jackass Forever",
+    "release_year": "2022",
+    "clean_title": "/film/jackass-forever/",
+    "adult": false,
+    "id": 656663,
+    "imdb_id": "tt11466222"
+  },
+  {
+    "title": "Daguerréotypes",
+    "release_year": "1975",
+    "clean_title": "/film/daguerreotypes/",
+    "adult": false,
+    "id": 49650,
+    "imdb_id": "tt0071384"
+  },
+  {
+    "title": "Pina",
+    "release_year": "2011",
+    "clean_title": "/film/pina/",
+    "adult": false,
+    "id": 57276,
+    "imdb_id": "tt1440266"
+  },
+  {
+    "title": "Everybody’s Everything",
+    "release_year": "2019",
+    "clean_title": "/film/everybodys-everything/",
+    "adult": false,
+    "id": 576712,
+    "imdb_id": "tt9617716"
+  },
+  {
+    "title": "Symbiopsychotaxiplasm: Take One",
+    "release_year": "1968",
+    "clean_title": "/film/symbiopsychotaxiplasm-take-one/",
+    "adult": false,
+    "id": 44783,
+    "imdb_id": "tt0296881"
+  },
+  {
+    "title": "Nostalgia for the Light",
+    "release_year": "2010",
+    "clean_title": "/film/nostalgia-for-the-light/",
+    "adult": false,
+    "id": 72721,
+    "imdb_id": "tt1556190"
+  },
+  {
+    "title": "Jane B. by Agnès V.",
+    "release_year": "1988",
+    "clean_title": "/film/jane-b-by-agnes-v/",
+    "adult": false,
+    "id": 53028,
+    "imdb_id": "tt0093295"
+  },
+  {
+    "title": "Tie Xi Qu: West of the Tracks",
+    "release_year": "2002",
+    "clean_title": "/film/tie-xi-qu-west-of-the-tracks/",
+    "adult": false,
+    "id": 86282,
+    "imdb_id": "tt0389448"
+  },
+  {
+    "title": "Encounters at the End of the World",
+    "release_year": "2007",
+    "clean_title": "/film/encounters-at-the-end-of-the-world/",
+    "adult": false,
+    "id": 12172,
+    "imdb_id": "tt1093824"
+  },
+  {
+    "title": "The Alpinist",
+    "release_year": "2021",
+    "clean_title": "/film/the-alpinist/",
+    "adult": false,
+    "id": 682587,
+    "imdb_id": "tt11790780"
+  },
+  {
+    "title": "Honeyland",
+    "release_year": "2019",
+    "clean_title": "/film/honeyland-2019/",
+    "adult": false,
+    "id": 566213,
+    "imdb_id": "tt8991268"
+  },
+  {
+    "title": "Cave of Forgotten Dreams",
+    "release_year": "2010",
+    "clean_title": "/film/cave-of-forgotten-dreams/",
+    "adult": false,
+    "id": 59490,
+    "imdb_id": "tt1664894"
+  },
+  {
+    "title": "Jiro Dreams of Sushi",
+    "release_year": "2011",
+    "clean_title": "/film/jiro-dreams-of-sushi/",
+    "adult": false,
+    "id": 80767,
+    "imdb_id": "tt1772925"
+  },
+  {
+    "title": "Microcosmos",
+    "release_year": "1996",
+    "clean_title": "/film/microcosmos/",
+    "adult": false,
+    "id": 9305,
+    "imdb_id": "tt0117040"
+  },
+  {
+    "title": "Buena Vista Social Club",
+    "release_year": "1999",
+    "clean_title": "/film/buena-vista-social-club/",
+    "adult": false,
+    "id": 11779,
+    "imdb_id": "tt0186508"
+  },
+  {
+    "title": "Stories We Tell",
+    "release_year": "2012",
+    "clean_title": "/film/stories-we-tell/",
+    "adult": false,
+    "id": 128216,
+    "imdb_id": "tt2366450"
+  },
+  {
+    "title": "The Eternal Memory",
+    "release_year": "2023",
+    "clean_title": "/film/the-eternal-memory/",
+    "adult": false,
+    "id": 1032760,
+    "imdb_id": "tt24082488"
+  },
+  {
+    "title": "Kaizen",
+    "release_year": "2024",
+    "clean_title": "/film/kaizen/",
+    "adult": false,
+    "id": 1341552,
+    "imdb_id": "tt33317283"
+  },
+  {
+    "title": "Roadrunner: A Film About Anthony Bourdain",
+    "release_year": "2021",
+    "clean_title": "/film/roadrunner-a-film-about-anthony-bourdain/",
+    "adult": false,
+    "id": 642732,
+    "imdb_id": "tt14512538"
+  },
+  {
+    "title": "Won't You Be My Neighbor?",
+    "release_year": "2018",
+    "clean_title": "/film/wont-you-be-my-neighbor/",
+    "adult": false,
+    "id": 490003,
+    "imdb_id": "tt7681902"
+  },
+  {
+    "title": "Shoah",
+    "release_year": "1985",
+    "clean_title": "/film/shoah/",
+    "adult": false,
+    "id": 42044,
+    "imdb_id": "tt0090015"
+  },
+  {
+    "title": "The Devil and Daniel Johnston",
+    "release_year": "2005",
+    "clean_title": "/film/the-devil-and-daniel-johnston/",
+    "adult": false,
+    "id": 13222,
+    "imdb_id": "tt0436231"
+  },
+  {
+    "title": "Apolonia, Apolonia",
+    "release_year": "2022",
+    "clean_title": "/film/apolonia-apolonia/",
+    "adult": false,
+    "id": 1047128,
+    "imdb_id": "tt22768450"
+  },
+  {
+    "title": "Dig!",
+    "release_year": "2004",
+    "clean_title": "/film/dig/",
+    "adult": false,
+    "id": 1843,
+    "imdb_id": "tt0388888"
+  },
+  {
+    "title": "The Decline of Western Civilization",
+    "release_year": "1981",
+    "clean_title": "/film/the-decline-of-western-civilization/",
+    "adult": false,
+    "id": 21137,
+    "imdb_id": "tt0082252"
+  },
+  {
+    "title": "Tongues Untied",
+    "release_year": "1989",
+    "clean_title": "/film/tongues-untied/",
+    "adult": false,
+    "id": 97049,
+    "imdb_id": "tt0103099"
+  },
+  {
+    "title": "Jodorowsky's Dune",
+    "release_year": "2013",
+    "clean_title": "/film/jodorowskys-dune/",
+    "adult": false,
+    "id": 191720,
+    "imdb_id": "tt1935156"
+  },
+  {
+    "title": "Burden of Dreams",
+    "release_year": "1982",
+    "clean_title": "/film/burden-of-dreams/",
+    "adult": false,
+    "id": 42124,
+    "imdb_id": "tt0083702"
+  },
+  {
+    "title": "The King of Kong: A Fistful of Quarters",
+    "release_year": "2007",
+    "clean_title": "/film/the-king-of-kong-a-fistful-of-quarters/",
+    "adult": false,
+    "id": 13958,
+    "imdb_id": "tt0923752"
+  },
+  {
+    "title": "Here and Elsewhere",
+    "release_year": "1976",
+    "clean_title": "/film/here-and-elsewhere/",
+    "adult": false,
+    "id": 26298,
+    "imdb_id": "tt0071646"
+  },
+  {
+    "title": "To Be and to Have",
+    "release_year": "2002",
+    "clean_title": "/film/to-be-and-to-have/",
+    "adult": false,
+    "id": 5168,
+    "imdb_id": "tt0318202"
+  }
+]

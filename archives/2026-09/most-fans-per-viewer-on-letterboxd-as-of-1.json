@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Revue Starlight: The Movie",
+    "release_year": "2021",
+    "clean_title": "/film/revue-starlight-the-movie/",
+    "adult": false,
+    "id": 645440,
+    "imdb_id": "tt13593042"
+  },
+  {
+    "title": "All About Lily Chou-Chou",
+    "release_year": "2001",
+    "clean_title": "/film/all-about-lily-chou-chou/",
+    "adult": false,
+    "id": 16664,
+    "imdb_id": "tt0297721"
+  },
+  {
+    "title": "Ritual",
+    "release_year": "2000",
+    "clean_title": "/film/ritual-2000/",
+    "adult": false,
+    "id": 39056,
+    "imdb_id": "tt0269856"
+  },
+  {
+    "title": "Moral",
+    "release_year": "1982",
+    "clean_title": "/film/moral/",
+    "adult": false,
+    "id": 253805,
+    "imdb_id": "tt0279238"
+  },
+  {
+    "title": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+    "release_year": "2000",
+    "clean_title": "/film/as-i-was-moving-ahead-occasionally-i-saw/",
+    "adult": false,
+    "id": 130824,
+    "imdb_id": "tt0262240"
+  },
+  {
+    "title": "Love Exposure",
+    "release_year": "2008",
+    "clean_title": "/film/love-exposure/",
+    "adult": false,
+    "id": 28422,
+    "imdb_id": "tt1128075"
+  },
+  {
+    "title": "Kamikaze Girls",
+    "release_year": "2004",
+    "clean_title": "/film/kamikaze-girls/",
+    "adult": false,
+    "id": 26275,
+    "imdb_id": "tt0416220"
+  },
+  {
+    "title": "One Million Yen Girl",
+    "release_year": "2008",
+    "clean_title": "/film/one-million-yen-girl/",
+    "adult": false,
+    "id": 69454,
+    "imdb_id": "tt1077094"
+  },
+  {
+    "title": "Kattradhu Thamizh",
+    "release_year": "2007",
+    "clean_title": "/film/kattradhu-thamizh/",
+    "adult": false,
+    "id": 69550,
+    "imdb_id": "tt1501298"
+  },
+  {
+    "title": "La Haine",
+    "release_year": "1995",
+    "clean_title": "/film/la-haine/",
+    "adult": false,
+    "id": 406,
+    "imdb_id": "tt0113247"
+  },
+  {
+    "title": "Gintama: The Very Final",
+    "release_year": "2021",
+    "clean_title": "/film/gintama-the-very-final/",
+    "adult": false,
+    "id": 732203,
+    "imdb_id": "tt10766468"
+  },
+  {
+    "title": "Güeros",
+    "release_year": "2014",
+    "clean_title": "/film/gueros/",
+    "adult": false,
+    "id": 256057,
+    "imdb_id": "tt3499048"
+  },
+  {
+    "title": "Zero Day",
+    "release_year": "2002",
+    "clean_title": "/film/zero-day/",
+    "adult": false,
+    "id": 27090,
+    "imdb_id": "tt0365960"
+  },
+  {
+    "title": "La La Land",
+    "release_year": "2016",
+    "clean_title": "/film/la-la-land/",
+    "adult": false,
+    "id": 313369,
+    "imdb_id": "tt3783958"
+  },
+  {
+    "title": "Yi Yi",
+    "release_year": "2000",
+    "clean_title": "/film/yi-yi/",
+    "adult": false,
+    "id": 25538,
+    "imdb_id": "tt0244316"
+  },
+  {
+    "title": "Nowhere",
+    "release_year": "1997",
+    "clean_title": "/film/nowhere/",
+    "adult": false,
+    "id": 1811,
+    "imdb_id": "tt0119809"
+  },
+  {
+    "title": "Cleaners",
+    "release_year": "2019",
+    "clean_title": "/film/cleaners-2019/",
+    "adult": false,
+    "id": 624348,
+    "imdb_id": "tt11151610"
+  },
+  {
+    "title": "Blue Spring",
+    "release_year": "2001",
+    "clean_title": "/film/blue-spring/",
+    "adult": false,
+    "id": 33333,
+    "imdb_id": "tt0309291"
+  },
+  {
+    "title": "Paris, Texas",
+    "release_year": "1984",
+    "clean_title": "/film/paris-texas/",
+    "adult": false,
+    "id": 655,
+    "imdb_id": "tt0087884"
+  },
+  {
+    "title": "The Man Who Sleeps",
+    "release_year": "1974",
+    "clean_title": "/film/the-man-who-sleeps/",
+    "adult": false,
+    "id": 104086,
+    "imdb_id": "tt0192718"
+  },
+  {
+    "title": "Helter Skelter",
+    "release_year": "2012",
+    "clean_title": "/film/helter-skelter-2012/",
+    "adult": false,
+    "id": 104524,
+    "imdb_id": "tt2147319"
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "release_year": "2019",
+    "clean_title": "/film/portrait-of-a-lady-on-fire/",
+    "adult": false,
+    "id": 531428,
+    "imdb_id": "tt8613070"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "release_year": "2005",
+    "clean_title": "/film/pride-prejudice/",
+    "adult": false,
+    "id": 4348,
+    "imdb_id": "tt0414387"
+  },
+  {
+    "title": "Swing Girls",
+    "release_year": "2004",
+    "clean_title": "/film/swing-girls/",
+    "adult": false,
+    "id": 36592,
+    "imdb_id": "tt0435434"
+  },
+  {
+    "title": "Vada Chennai",
+    "release_year": "2018",
+    "clean_title": "/film/vada-chennai/",
+    "adult": false,
+    "id": 410331,
+    "imdb_id": "tt5959980"
+  },
+  {
+    "title": "Better Days",
+    "release_year": "2019",
+    "clean_title": "/film/better-days-2019/",
+    "adult": false,
+    "id": 575813,
+    "imdb_id": "tt9586294"
+  },
+  {
+    "title": "Aftersun",
+    "release_year": "2022",
+    "clean_title": "/film/aftersun/",
+    "adult": false,
+    "id": 965150,
+    "imdb_id": "tt19770238"
+  },
+  {
+    "title": "Central Station",
+    "release_year": "1998",
+    "clean_title": "/film/central-station/",
+    "adult": false,
+    "id": 666,
+    "imdb_id": "tt0140888"
+  },
+  {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "release_year": "1997",
+    "clean_title": "/film/neon-genesis-evangelion-the-end-of-evangelion/",
+    "adult": false,
+    "id": 18491,
+    "imdb_id": "tt0169858"
+  },
+  {
+    "title": "The Company of Strangers",
+    "release_year": "1990",
+    "clean_title": "/film/the-company-of-strangers/",
+    "adult": false,
+    "id": 123778,
+    "imdb_id": "tt0102993"
+  },
+  {
+    "title": "Eternity and a Day",
+    "release_year": "1998",
+    "clean_title": "/film/eternity-and-a-day/",
+    "adult": false,
+    "id": 24858,
+    "imdb_id": "tt0156794"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "release_year": "1988",
+    "clean_title": "/film/cinema-paradiso/",
+    "adult": false,
+    "id": 11216,
+    "imdb_id": "tt0095765"
+  },
+  {
+    "title": "Haru",
+    "release_year": "1996",
+    "clean_title": "/film/haru/",
+    "adult": false,
+    "id": 261560,
+    "imdb_id": "tt0115431"
+  },
+  {
+    "title": "In the Mood for Love",
+    "release_year": "2000",
+    "clean_title": "/film/in-the-mood-for-love/",
+    "adult": false,
+    "id": 843,
+    "imdb_id": "tt0118694"
+  },
+  {
+    "title": "Hey Ram",
+    "release_year": "2000",
+    "clean_title": "/film/hey-ram/",
+    "adult": false,
+    "id": 60579,
+    "imdb_id": "tt0222012"
+  },
+  {
+    "title": "My Sweet Orange Tree",
+    "release_year": "2012",
+    "clean_title": "/film/my-sweet-orange-tree-2012/",
+    "adult": false,
+    "id": 191185,
+    "imdb_id": "tt2402186"
+  },
+  {
+    "title": "The Best of Youth",
+    "release_year": "2003",
+    "clean_title": "/film/the-best-of-youth/",
+    "adult": false,
+    "id": 11659,
+    "imdb_id": "tt0346336"
+  },
+  {
+    "title": "Interstellar",
+    "release_year": "2014",
+    "clean_title": "/film/interstellar/",
+    "adult": false,
+    "id": 157336,
+    "imdb_id": "tt0816692"
+  },
+  {
+    "title": "Fallen Angels",
+    "release_year": "1995",
+    "clean_title": "/film/fallen-angels/",
+    "adult": false,
+    "id": 11220,
+    "imdb_id": "tt0112913"
+  },
+  {
+    "title": "Before Sunrise",
+    "release_year": "1995",
+    "clean_title": "/film/before-sunrise/",
+    "adult": false,
+    "id": 76,
+    "imdb_id": "tt0112471"
+  },
+  {
+    "title": "The Taste of Tea",
+    "release_year": "2004",
+    "clean_title": "/film/the-taste-of-tea/",
+    "adult": false,
+    "id": 15318,
+    "imdb_id": "tt0413893"
+  },
+  {
+    "title": "Athadu",
+    "release_year": "2005",
+    "clean_title": "/film/athadu/",
+    "adult": false,
+    "id": 37172,
+    "imdb_id": "tt0471571"
+  },
+  {
+    "title": "Virumaandi",
+    "release_year": "2004",
+    "clean_title": "/film/virumaandi/",
+    "adult": false,
+    "id": 66340,
+    "imdb_id": "tt0364647"
+  },
+  {
+    "title": "Chungking Express",
+    "release_year": "1994",
+    "clean_title": "/film/chungking-express/",
+    "adult": false,
+    "id": 11104,
+    "imdb_id": "tt0109424"
+  },
+  {
+    "title": "Sidewalls",
+    "release_year": "2011",
+    "clean_title": "/film/sidewalls/",
+    "adult": false,
+    "id": 76696,
+    "imdb_id": "tt1235841"
+  },
+  {
+    "title": "Foreign Land",
+    "release_year": "1995",
+    "clean_title": "/film/foreign-land/",
+    "adult": false,
+    "id": 57811,
+    "imdb_id": "tt0114651"
+  },
+  {
+    "title": "Pyaasa",
+    "release_year": "1957",
+    "clean_title": "/film/pyaasa/",
+    "adult": false,
+    "id": 41053,
+    "imdb_id": "tt0050870"
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "release_year": "1991",
+    "clean_title": "/film/a-brighter-summer-day/",
+    "adult": false,
+    "id": 15804,
+    "imdb_id": "tt0101985"
+  },
+  {
+    "title": "I Dream in Another Language",
+    "release_year": "2017",
+    "clean_title": "/film/i-dream-in-another-language/",
+    "adult": false,
+    "id": 355196,
+    "imdb_id": "tt3278224"
+  },
+  {
+    "title": "What the Day Owes the Night",
+    "release_year": "2012",
+    "clean_title": "/film/what-the-day-owes-the-night/",
+    "adult": false,
+    "id": 119193,
+    "imdb_id": "tt1934205"
+  },
+  {
+    "title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+    "release_year": "2013",
+    "clean_title": "/film/puella-magi-madoka-magica-the-movie-part-iii-rebellion/",
+    "adult": false,
+    "id": 212162,
+    "imdb_id": "tt2457282"
+  },
+  {
+    "title": "Blue",
+    "release_year": "2002",
+    "clean_title": "/film/blue-2002/",
+    "adult": false,
+    "id": 99647,
+    "imdb_id": "tt0326773"
+  },
+  {
+    "title": "Vaaranam Aayiram",
+    "release_year": "2008",
+    "clean_title": "/film/vaaranam-aayiram/",
+    "adult": false,
+    "id": 38637,
+    "imdb_id": "tt1180583"
+  },
+  {
+    "title": "Talentime",
+    "release_year": "2009",
+    "clean_title": "/film/talentime/",
+    "adult": false,
+    "id": 51123,
+    "imdb_id": "tt1351669"
+  },
+  {
+    "title": "The Handmaiden",
+    "release_year": "2016",
+    "clean_title": "/film/the-handmaiden/",
+    "adult": false,
+    "id": 290098,
+    "imdb_id": "tt4016934"
+  },
+  {
+    "title": "Love Me Forever or Never",
+    "release_year": "1986",
+    "clean_title": "/film/love-me-forever-or-never/",
+    "adult": false,
+    "id": 74649,
+    "imdb_id": "tt0122480"
+  },
+  {
+    "title": "Jersey",
+    "release_year": "2019",
+    "clean_title": "/film/jersey/",
+    "adult": false,
+    "id": 592898,
+    "imdb_id": "tt8948790"
+  },
+  {
+    "title": "It's Such a Beautiful Day",
+    "release_year": "2012",
+    "clean_title": "/film/its-such-a-beautiful-day/",
+    "adult": false,
+    "id": 489412,
+    "imdb_id": "tt2396224"
+  },
+  {
+    "title": "Elena",
+    "release_year": "2012",
+    "clean_title": "/film/elena-2013/",
+    "adult": false,
+    "id": 160859,
+    "imdb_id": "tt2475154"
+  },
+  {
+    "title": "Dead Poets Society",
+    "release_year": "1989",
+    "clean_title": "/film/dead-poets-society/",
+    "adult": false,
+    "id": 207,
+    "imdb_id": "tt0097165"
+  },
+  {
+    "title": "Stalker",
+    "release_year": "1979",
+    "clean_title": "/film/stalker/",
+    "adult": false,
+    "id": 1398,
+    "imdb_id": "tt0079944"
+  },
+  {
+    "title": "The Young Girls of Rochefort",
+    "release_year": "1967",
+    "clean_title": "/film/the-young-girls-of-rochefort/",
+    "adult": false,
+    "id": 2433,
+    "imdb_id": "tt0062873"
+  },
+  {
+    "title": "Barber's Tales",
+    "release_year": "2013",
+    "clean_title": "/film/barbers-tales/",
+    "adult": false,
+    "id": 223965,
+    "imdb_id": "tt3254578"
+  },
+  {
+    "title": "An Elephant Sitting Still",
+    "release_year": "2018",
+    "clean_title": "/film/an-elephant-sitting-still/",
+    "adult": false,
+    "id": 499556,
+    "imdb_id": "tt8020896"
+  },
+  {
+    "title": "Nayakan",
+    "release_year": "1987",
+    "clean_title": "/film/nayakan/",
+    "adult": false,
+    "id": 29971,
+    "imdb_id": "tt0093603"
+  },
+  {
+    "title": "Soulmate",
+    "release_year": "2023",
+    "clean_title": "/film/soulmate-2023/",
+    "adult": false,
+    "id": 617882,
+    "imdb_id": "tt13086130"
+  },
+  {
+    "title": "Your Name Engraved Herein",
+    "release_year": "2020",
+    "clean_title": "/film/your-name-engraved-herein/",
+    "adult": false,
+    "id": 719410,
+    "imdb_id": "tt10329134"
+  },
+  {
+    "title": "Little Women",
+    "release_year": "2019",
+    "clean_title": "/film/little-women-2019/",
+    "adult": false,
+    "id": 331482,
+    "imdb_id": "tt3281548"
+  },
+  {
+    "title": "A Bride for Rip Van Winkle",
+    "release_year": "2016",
+    "clean_title": "/film/a-bride-for-rip-van-winkle/",
+    "adult": false,
+    "id": 382170,
+    "imdb_id": "tt4671274"
+  },
+  {
+    "title": "Mirrored Mind",
+    "release_year": "2005",
+    "clean_title": "/film/mirrored-mind/",
+    "adult": false,
+    "id": 79860,
+    "imdb_id": "tt0907125"
+  },
+  {
+    "title": "Us and Them",
+    "release_year": "2018",
+    "clean_title": "/film/us-and-them-2018/",
+    "adult": false,
+    "id": 508747,
+    "imdb_id": "tt8033592"
+  },
+  {
+    "title": "Satantango",
+    "release_year": "1994",
+    "clean_title": "/film/satantango/",
+    "adult": false,
+    "id": 31414,
+    "imdb_id": "tt0111341"
+  },
+  {
+    "title": "The Metamorphosis of Birds",
+    "release_year": "2020",
+    "clean_title": "/film/the-metamorphosis-of-birds/",
+    "adult": false,
+    "id": 664576,
+    "imdb_id": "tt11625100"
+  },
+  {
+    "title": "Mary Is Happy, Mary Is Happy.",
+    "release_year": "2013",
+    "clean_title": "/film/mary-is-happy-mary-is-happy/",
+    "adult": false,
+    "id": 250312,
+    "imdb_id": "tt3379358"
+  },
+  {
+    "title": "Sagara Sangamam",
+    "release_year": "1983",
+    "clean_title": "/film/sagara-sangamam/",
+    "adult": false,
+    "id": 30153,
+    "imdb_id": "tt0086231"
+  },
+  {
+    "title": "The Untamed",
+    "release_year": "2016",
+    "clean_title": "/film/the-untamed/",
+    "adult": false,
+    "id": 387801,
+    "imdb_id": "tt5265960"
+  },
+  {
+    "title": "The Fall",
+    "release_year": "2006",
+    "clean_title": "/film/the-fall/",
+    "adult": false,
+    "id": 14784,
+    "imdb_id": "tt0460791"
+  },
+  {
+    "title": "Hyphen",
+    "release_year": "2023",
+    "clean_title": "/film/hyphen-2023-1/",
+    "adult": false,
+    "id": 1148137,
+    "imdb_id": "tt28590697"
+  },
+  {
+    "title": "The Phantom of the Opera",
+    "release_year": "2004",
+    "clean_title": "/film/the-phantom-of-the-opera-2004/",
+    "adult": false,
+    "id": 9833,
+    "imdb_id": "tt0293508"
+  },
+  {
+    "title": "A Dog's Will",
+    "release_year": "2000",
+    "clean_title": "/film/a-dogs-will/",
+    "adult": false,
+    "id": 40096,
+    "imdb_id": "tt0271383"
+  },
+  {
+    "title": "Barber Westchester",
+    "release_year": "2022",
+    "clean_title": "/film/barber-westchester/",
+    "adult": false,
+    "id": 1005252,
+    "imdb_id": "tt17346476"
+  },
+  {
+    "title": "Monster",
+    "release_year": "2023",
+    "clean_title": "/film/monster-2023/",
+    "adult": false,
+    "id": 1050035,
+    "imdb_id": "tt23736044"
+  },
+  {
+    "title": "My Suicide",
+    "release_year": "2009",
+    "clean_title": "/film/my-suicide/",
+    "adult": false,
+    "id": 81434,
+    "imdb_id": "tt0492896"
+  },
+  {
+    "title": "Funeral Parade of Roses",
+    "release_year": "1969",
+    "clean_title": "/film/funeral-parade-of-roses/",
+    "adult": false,
+    "id": 1556,
+    "imdb_id": "tt0064068"
+  },
+  {
+    "title": "Khaleja",
+    "release_year": "2010",
+    "clean_title": "/film/khaleja/",
+    "adult": false,
+    "id": 56986,
+    "imdb_id": "tt1582519"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "release_year": "2022",
+    "clean_title": "/film/everything-everywhere-all-at-once/",
+    "adult": false,
+    "id": 545611,
+    "imdb_id": "tt6710474"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "release_year": "2004",
+    "clean_title": "/film/eternal-sunshine-of-the-spotless-mind/",
+    "adult": false,
+    "id": 38,
+    "imdb_id": "tt0338013"
+  },
+  {
+    "title": "We All Loved Each Other So Much",
+    "release_year": "1974",
+    "clean_title": "/film/we-all-loved-each-other-so-much/",
+    "adult": false,
+    "id": 42269,
+    "imdb_id": "tt0075793"
+  },
+  {
+    "title": "Love Letter",
+    "release_year": "1995",
+    "clean_title": "/film/love-letter/",
+    "adult": false,
+    "id": 47002,
+    "imdb_id": "tt0113703"
+  },
+  {
+    "title": "The Dream Songs",
+    "release_year": "2022",
+    "clean_title": "/film/the-dream-songs/",
+    "adult": false,
+    "id": 972435,
+    "imdb_id": "tt26757183"
+  },
+  {
+    "title": "Eureka",
+    "release_year": "2000",
+    "clean_title": "/film/eureka-2000/",
+    "adult": false,
+    "id": 38047,
+    "imdb_id": "tt0243889"
+  },
+  {
+    "title": "Mysterious Skin",
+    "release_year": "2004",
+    "clean_title": "/film/mysterious-skin/",
+    "adult": false,
+    "id": 11171,
+    "imdb_id": "tt0370986"
+  },
+  {
+    "title": "Possession",
+    "release_year": "1981",
+    "clean_title": "/film/possession/",
+    "adult": false,
+    "id": 21484,
+    "imdb_id": "tt0082933"
+  },
+  {
+    "title": "Kadhalum Kadanthu Pogum",
+    "release_year": "2016",
+    "clean_title": "/film/kadhalum-kadanthu-pogum/",
+    "adult": false,
+    "id": 387252,
+    "imdb_id": "tt5200962"
+  },
+  {
+    "title": "Gusto Kita With All My Hypothalamus",
+    "release_year": "2018",
+    "clean_title": "/film/gusto-kita-with-all-my-hypothalamus/",
+    "adult": false,
+    "id": 523460,
+    "imdb_id": "tt8710234"
+  },
+  {
+    "title": "Anbe Sivam",
+    "release_year": "2003",
+    "clean_title": "/film/anbe-sivam/",
+    "adult": false,
+    "id": 26910,
+    "imdb_id": "tt0367495"
+  },
+  {
+    "title": "August in the Water",
+    "release_year": "1995",
+    "clean_title": "/film/august-in-the-water/",
+    "adult": false,
+    "id": 104268,
+    "imdb_id": "tt0113834"
+  },
+  {
+    "title": "Mommy",
+    "release_year": "2014",
+    "clean_title": "/film/mommy-2014/",
+    "adult": false,
+    "id": 265177,
+    "imdb_id": "tt3612616"
+  },
+  {
+    "title": "Withnail & I",
+    "release_year": "1987",
+    "clean_title": "/film/withnail-i/",
+    "adult": false,
+    "id": 13446,
+    "imdb_id": "tt0094336"
+  },
+  {
+    "title": "Mirror",
+    "release_year": "1975",
+    "clean_title": "/film/mirror/",
+    "adult": false,
+    "id": 1396,
+    "imdb_id": "tt0072443"
+  }
+]

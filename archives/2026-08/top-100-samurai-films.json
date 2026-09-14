@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Harakiri",
+    "release_year": "1962",
+    "clean_title": "/film/harakiri/",
+    "adult": false,
+    "id": 14537,
+    "imdb_id": "tt0056058"
+  },
+  {
+    "title": "Seven Samurai",
+    "release_year": "1954",
+    "clean_title": "/film/seven-samurai/",
+    "adult": false,
+    "id": 346,
+    "imdb_id": "tt0047478"
+  },
+  {
+    "title": "Ran",
+    "release_year": "1985",
+    "clean_title": "/film/ran/",
+    "adult": false,
+    "id": 11645,
+    "imdb_id": "tt0089881"
+  },
+  {
+    "title": "Samurai Rebellion",
+    "release_year": "1967",
+    "clean_title": "/film/samurai-rebellion/",
+    "adult": false,
+    "id": 27031,
+    "imdb_id": "tt0061847"
+  },
+  {
+    "title": "Yojimbo",
+    "release_year": "1961",
+    "clean_title": "/film/yojimbo/",
+    "adult": false,
+    "id": 11878,
+    "imdb_id": "tt0055630"
+  },
+  {
+    "title": "Throne of Blood",
+    "release_year": "1957",
+    "clean_title": "/film/throne-of-blood/",
+    "adult": false,
+    "id": 3777,
+    "imdb_id": "tt0050613"
+  },
+  {
+    "title": "Kwaidan",
+    "release_year": "1964",
+    "clean_title": "/film/kwaidan/",
+    "adult": false,
+    "id": 30959,
+    "imdb_id": "tt0058279"
+  },
+  {
+    "title": "Demons",
+    "release_year": "1971",
+    "clean_title": "/film/demons-1971/",
+    "adult": false,
+    "id": 104548,
+    "imdb_id": "tt0165473"
+  },
+  {
+    "title": "Kagemusha",
+    "release_year": "1980",
+    "clean_title": "/film/kagemusha/",
+    "adult": false,
+    "id": 11953,
+    "imdb_id": "tt0080979"
+  },
+  {
+    "title": "Rashomon",
+    "release_year": "1950",
+    "clean_title": "/film/rashomon/",
+    "adult": false,
+    "id": 548,
+    "imdb_id": "tt0042876"
+  },
+  {
+    "title": "The Hidden Fortress",
+    "release_year": "1958",
+    "clean_title": "/film/the-hidden-fortress/",
+    "adult": false,
+    "id": 1059,
+    "imdb_id": "tt0051808"
+  },
+  {
+    "title": "Sanjuro",
+    "release_year": "1962",
+    "clean_title": "/film/sanjuro/",
+    "adult": false,
+    "id": 11712,
+    "imdb_id": "tt0056443"
+  },
+  {
+    "title": "The Sword of Doom",
+    "release_year": "1966",
+    "clean_title": "/film/the-sword-of-doom/",
+    "adult": false,
+    "id": 19884,
+    "imdb_id": "tt0060277"
+  },
+  {
+    "title": "The Twilight Samurai",
+    "release_year": "2002",
+    "clean_title": "/film/the-twilight-samurai/",
+    "adult": false,
+    "id": 12496,
+    "imdb_id": "tt0351817"
+  },
+  {
+    "title": "Lady Snowblood",
+    "release_year": "1973",
+    "clean_title": "/film/lady-snowblood/",
+    "adult": false,
+    "id": 2487,
+    "imdb_id": "tt0158714"
+  },
+  {
+    "title": "Lone Wolf and Cub: Baby Cart at the River Styx",
+    "release_year": "1972",
+    "clean_title": "/film/lone-wolf-and-cub-baby-cart-at-the-river-styx/",
+    "adult": false,
+    "id": 17810,
+    "imdb_id": "tt0068816"
+  },
+  {
+    "title": "Tange Sazen and the Pot Worth a Million Ryo",
+    "release_year": "1935",
+    "clean_title": "/film/tange-sazen-and-the-pot-worth-a-million-ryo/",
+    "adult": false,
+    "id": 112501,
+    "imdb_id": "tt0027076"
+  },
+  {
+    "title": "Goyokin",
+    "release_year": "1969",
+    "clean_title": "/film/goyokin/",
+    "adult": false,
+    "id": 49355,
+    "imdb_id": "tt0064387"
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "release_year": "2016",
+    "clean_title": "/film/kubo-and-the-two-strings/",
+    "adult": false,
+    "id": 313297,
+    "imdb_id": "tt4302938"
+  },
+  {
+    "title": "Humanity and Paper Balloons",
+    "release_year": "1937",
+    "clean_title": "/film/humanity-and-paper-balloons/",
+    "adult": false,
+    "id": 84237,
+    "imdb_id": "tt0029314"
+  },
+  {
+    "title": "Three Outlaw Samurai",
+    "release_year": "1964",
+    "clean_title": "/film/three-outlaw-samurai/",
+    "adult": false,
+    "id": 58878,
+    "imdb_id": "tt0058652"
+  },
+  {
+    "title": "Sword of the Stranger",
+    "release_year": "2007",
+    "clean_title": "/film/sword-of-the-stranger/",
+    "adult": false,
+    "id": 13980,
+    "imdb_id": "tt1121794"
+  },
+  {
+    "title": "13 Assassins",
+    "release_year": "2010",
+    "clean_title": "/film/13-assassins/",
+    "adult": false,
+    "id": 58857,
+    "imdb_id": "tt1436045"
+  },
+  {
+    "title": "The Hidden Blade",
+    "release_year": "2004",
+    "clean_title": "/film/the-hidden-blade/",
+    "adult": false,
+    "id": 34019,
+    "imdb_id": "tt0442286"
+  },
+  {
+    "title": "Love and Honor",
+    "release_year": "2006",
+    "clean_title": "/film/love-and-honor/",
+    "adult": false,
+    "id": 20527,
+    "imdb_id": "tt0483578"
+  },
+  {
+    "title": "The Tale of Zatoichi",
+    "release_year": "1962",
+    "clean_title": "/film/the-tale-of-zatoichi/",
+    "adult": false,
+    "id": 16692,
+    "imdb_id": "tt0056714"
+  },
+  {
+    "title": "Bushido: The Cruel Code of the Samurai",
+    "release_year": "1963",
+    "clean_title": "/film/bushido-the-cruel-code-of-the-samurai/",
+    "adult": false,
+    "id": 90299,
+    "imdb_id": "tt0055816"
+  },
+  {
+    "title": "Tenchu!",
+    "release_year": "1969",
+    "clean_title": "/film/tenchu/",
+    "adult": false,
+    "id": 37053,
+    "imdb_id": "tt0200710"
+  },
+  {
+    "title": "Ninja Scroll",
+    "release_year": "1993",
+    "clean_title": "/film/ninja-scroll/",
+    "adult": false,
+    "id": 14282,
+    "imdb_id": "tt0107692"
+  },
+  {
+    "title": "Revenge",
+    "release_year": "1964",
+    "clean_title": "/film/revenge-1964/",
+    "adult": false,
+    "id": 93442,
+    "imdb_id": "tt0185842"
+  },
+  {
+    "title": "The 47 Ronin",
+    "release_year": "1941",
+    "clean_title": "/film/the-47-ronin/",
+    "adult": false,
+    "id": 45978,
+    "imdb_id": "tt0033654"
+  },
+  {
+    "title": "Samurai Assassin",
+    "release_year": "1965",
+    "clean_title": "/film/samurai-assassin/",
+    "adult": false,
+    "id": 79406,
+    "imdb_id": "tt0059673"
+  },
+  {
+    "title": "After the Rain",
+    "release_year": "1999",
+    "clean_title": "/film/after-the-rain/",
+    "adult": false,
+    "id": 15319,
+    "imdb_id": "tt0181960"
+  },
+  {
+    "title": "Lone Wolf and Cub: Sword of Vengeance",
+    "release_year": "1972",
+    "clean_title": "/film/lone-wolf-and-cub-sword-of-vengeance/",
+    "adult": false,
+    "id": 41471,
+    "imdb_id": "tt0068815"
+  },
+  {
+    "title": "The Last Samurai",
+    "release_year": "2003",
+    "clean_title": "/film/the-last-samurai/",
+    "adult": false,
+    "id": 616,
+    "imdb_id": "tt0325710"
+  },
+  {
+    "title": "Bloody Spear at Mount Fuji",
+    "release_year": "1955",
+    "clean_title": "/film/bloody-spear-at-mount-fuji/",
+    "adult": false,
+    "id": 93424,
+    "imdb_id": "tt0047937"
+  },
+  {
+    "title": "Kill!",
+    "release_year": "1968",
+    "clean_title": "/film/kill-1968/",
+    "adult": false,
+    "id": 39029,
+    "imdb_id": "tt0063186"
+  },
+  {
+    "title": "Samurai III: Duel at Ganryu Island",
+    "release_year": "1956",
+    "clean_title": "/film/samurai-iii-duel-at-ganryu-island/",
+    "adult": false,
+    "id": 31378,
+    "imdb_id": "tt0049710"
+  },
+  {
+    "title": "Sword of the Beast",
+    "release_year": "1965",
+    "clean_title": "/film/sword-of-the-beast/",
+    "adult": false,
+    "id": 46917,
+    "imdb_id": "tt0200768"
+  },
+  {
+    "title": "Lone Wolf and Cub: Baby Cart in Peril",
+    "release_year": "1972",
+    "clean_title": "/film/lone-wolf-and-cub-baby-cart-in-peril/",
+    "adult": false,
+    "id": 41477,
+    "imdb_id": "tt0143348"
+  },
+  {
+    "title": "Zatoichi and the Chest of Gold",
+    "release_year": "1964",
+    "clean_title": "/film/zatoichi-and-the-chest-of-gold/",
+    "adult": false,
+    "id": 40897,
+    "imdb_id": "tt0130377"
+  },
+  {
+    "title": "13 Assassins",
+    "release_year": "1963",
+    "clean_title": "/film/13-assassins-1963/",
+    "adult": false,
+    "id": 52011,
+    "imdb_id": "tt0057212"
+  },
+  {
+    "title": "The Third Shadow Warrior",
+    "release_year": "1963",
+    "clean_title": "/film/the-third-shadow-warrior/",
+    "adult": false,
+    "id": 191817,
+    "imdb_id": "tt0200559"
+  },
+  {
+    "title": "Zatoichi Goes to the Fire Festival",
+    "release_year": "1970",
+    "clean_title": "/film/zatoichi-goes-to-the-fire-festival/",
+    "adult": false,
+    "id": 54283,
+    "imdb_id": "tt0164982"
+  },
+  {
+    "title": "Lone Wolf and Cub: Baby Cart to Hades",
+    "release_year": "1972",
+    "clean_title": "/film/lone-wolf-and-cub-baby-cart-to-hades/",
+    "adult": false,
+    "id": 41474,
+    "imdb_id": "tt0068817"
+  },
+  {
+    "title": "Hara-Kiri: Death of a Samurai",
+    "release_year": "2011",
+    "clean_title": "/film/hara-kiri-death-of-a-samurai/",
+    "adult": false,
+    "id": 85836,
+    "imdb_id": "tt1728196"
+  },
+  {
+    "title": "Fight, Zatoichi, Fight",
+    "release_year": "1964",
+    "clean_title": "/film/fight-zatoichi-fight/",
+    "adult": false,
+    "id": 54266,
+    "imdb_id": "tt0123334"
+  },
+  {
+    "title": "The Betrayal",
+    "release_year": "1966",
+    "clean_title": "/film/the-betrayal/",
+    "adult": false,
+    "id": 26576,
+    "imdb_id": "tt0123028"
+  },
+  {
+    "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
+    "release_year": "1973",
+    "clean_title": "/film/lone-wolf-and-cub-baby-cart-in-the-land-of-demons/",
+    "adult": false,
+    "id": 41482,
+    "imdb_id": "tt0143428"
+  },
+  {
+    "title": "Taira Clan Saga",
+    "release_year": "1955",
+    "clean_title": "/film/taira-clan-saga/",
+    "adult": false,
+    "id": 45987,
+    "imdb_id": "tt0048610"
+  },
+  {
+    "title": "Rurouni Kenshin Part III: The Legend Ends",
+    "release_year": "2014",
+    "clean_title": "/film/rurouni-kenshin-part-iii-the-legend-ends/",
+    "adult": false,
+    "id": 221732,
+    "imdb_id": "tt3029556"
+  },
+  {
+    "title": "Unforgiven",
+    "release_year": "2013",
+    "clean_title": "/film/unforgiven-2013/",
+    "adult": false,
+    "id": 141819,
+    "imdb_id": "tt2347134"
+  },
+  {
+    "title": "Assassination",
+    "release_year": "1964",
+    "clean_title": "/film/assassination-1964/",
+    "adult": false,
+    "id": 88562,
+    "imdb_id": "tt0164347"
+  },
+  {
+    "title": "Ghost Story of Yotsuya",
+    "release_year": "1959",
+    "clean_title": "/film/ghost-story-of-yotsuya/",
+    "adult": false,
+    "id": 84508,
+    "imdb_id": "tt0155278"
+  },
+  {
+    "title": "Sword Devil",
+    "release_year": "1965",
+    "clean_title": "/film/sword-devil/",
+    "adult": false,
+    "id": 96972,
+    "imdb_id": "tt0200769"
+  },
+  {
+    "title": "Zatoichi",
+    "release_year": "2003",
+    "clean_title": "/film/zatoichi/",
+    "adult": false,
+    "id": 246,
+    "imdb_id": "tt0363226"
+  },
+  {
+    "title": "Samurai II: Duel at Ichijoji Temple",
+    "release_year": "1955",
+    "clean_title": "/film/samurai-ii-duel-at-ichijoji-temple/",
+    "adult": false,
+    "id": 31374,
+    "imdb_id": "tt0048579"
+  },
+  {
+    "title": "Gate of Hell",
+    "release_year": "1953",
+    "clean_title": "/film/gate-of-hell/",
+    "adult": false,
+    "id": 43349,
+    "imdb_id": "tt0045935"
+  },
+  {
+    "title": "When the Last Sword Is Drawn",
+    "release_year": "2002",
+    "clean_title": "/film/when-the-last-sword-is-drawn/",
+    "adult": false,
+    "id": 14455,
+    "imdb_id": "tt0359692"
+  },
+  {
+    "title": "Lone Wolf and Cub: White Heaven in Hell",
+    "release_year": "1974",
+    "clean_title": "/film/lone-wolf-and-cub-white-heaven-in-hell/",
+    "adult": false,
+    "id": 41486,
+    "imdb_id": "tt0071695"
+  },
+  {
+    "title": "Samurai I: Musashi Miyamoto",
+    "release_year": "1954",
+    "clean_title": "/film/samurai-i-musashi-miyamoto/",
+    "adult": false,
+    "id": 31372,
+    "imdb_id": "tt0047444"
+  },
+  {
+    "title": "Samurai Wolf",
+    "release_year": "1966",
+    "clean_title": "/film/samurai-wolf/",
+    "adult": false,
+    "id": 57706,
+    "imdb_id": "tt0199680"
+  },
+  {
+    "title": "Rurouni Kenshin: The Beginning",
+    "release_year": "2021",
+    "clean_title": "/film/rurouni-kenshin-the-beginning/",
+    "adult": false,
+    "id": 672322,
+    "imdb_id": "tt11991748"
+  },
+  {
+    "title": "Chûshingura",
+    "release_year": "1962",
+    "clean_title": "/film/chushingura-1962/",
+    "adult": false,
+    "id": 44662,
+    "imdb_id": "tt0055850"
+  },
+  {
+    "title": "The Last Samurai",
+    "release_year": "1974",
+    "clean_title": "/film/the-last-samurai-1974/",
+    "adult": false,
+    "id": 70385,
+    "imdb_id": "tt0123129"
+  },
+  {
+    "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+    "release_year": "2014",
+    "clean_title": "/film/rurouni-kenshin-part-ii-kyoto-inferno/",
+    "adult": false,
+    "id": 221731,
+    "imdb_id": "tt3029558"
+  },
+  {
+    "title": "Zatoichi and the Fugitives",
+    "release_year": "1968",
+    "clean_title": "/film/zatoichi-and-the-fugitives/",
+    "adult": false,
+    "id": 54280,
+    "imdb_id": "tt0063835"
+  },
+  {
+    "title": "New Tale of Zatoichi",
+    "release_year": "1963",
+    "clean_title": "/film/new-tale-of-zatoichi/",
+    "adult": false,
+    "id": 18510,
+    "imdb_id": "tt0057503"
+  },
+  {
+    "title": "Eleven Samurai",
+    "release_year": "1967",
+    "clean_title": "/film/eleven-samurai/",
+    "adult": false,
+    "id": 60099,
+    "imdb_id": "tt0123127"
+  },
+  {
+    "title": "Taboo",
+    "release_year": "1999",
+    "clean_title": "/film/taboo-1999/",
+    "adult": false,
+    "id": 20617,
+    "imdb_id": "tt0213682"
+  },
+  {
+    "title": "Rurouni Kenshin: The Final",
+    "release_year": "2021",
+    "clean_title": "/film/rurouni-kenshin-the-final/",
+    "adult": false,
+    "id": 602063,
+    "imdb_id": "tt11809034"
+  },
+  {
+    "title": "Bohachi Bushido: Code of the Forgotten Eight",
+    "release_year": "1973",
+    "clean_title": "/film/bohachi-bushido-code-of-the-forgotten-eight/",
+    "adult": false,
+    "id": 89552,
+    "imdb_id": "tt0142773"
+  },
+  {
+    "title": "Hunter in the Dark",
+    "release_year": "1979",
+    "clean_title": "/film/hunter-in-the-dark/",
+    "adult": false,
+    "id": 63411,
+    "imdb_id": "tt0079317"
+  },
+  {
+    "title": "Zatoichi Challenged",
+    "release_year": "1967",
+    "clean_title": "/film/zatoichi-challenged/",
+    "adult": false,
+    "id": 54279,
+    "imdb_id": "tt0063834"
+  },
+  {
+    "title": "Destiny's Son",
+    "release_year": "1962",
+    "clean_title": "/film/destinys-son/",
+    "adult": false,
+    "id": 70391,
+    "imdb_id": "tt0056144"
+  },
+  {
+    "title": "Zatoichi's Pilgrimage",
+    "release_year": "1966",
+    "clean_title": "/film/zatoichis-pilgrimage/",
+    "adult": false,
+    "id": 54276,
+    "imdb_id": "tt0199905"
+  },
+  {
+    "title": "Shogun's Samurai",
+    "release_year": "1978",
+    "clean_title": "/film/shoguns-samurai/",
+    "adult": false,
+    "id": 34546,
+    "imdb_id": "tt0078513"
+  },
+  {
+    "title": "Zatoichi's Vengeance",
+    "release_year": "1966",
+    "clean_title": "/film/zatoichis-vengeance/",
+    "adult": false,
+    "id": 21410,
+    "imdb_id": "tt0143012"
+  },
+  {
+    "title": "Gonza the Spearman",
+    "release_year": "1986",
+    "clean_title": "/film/gonza-the-spearman/",
+    "adult": false,
+    "id": 102146,
+    "imdb_id": "tt0091136"
+  },
+  {
+    "title": "Zatoichi's Flashing Sword",
+    "release_year": "1964",
+    "clean_title": "/film/zatoichis-flashing-sword/",
+    "adult": false,
+    "id": 54265,
+    "imdb_id": "tt0191664"
+  },
+  {
+    "title": "Miyamoto Musashi IV: The Duel at Ichijo-ji Temple",
+    "release_year": "1964",
+    "clean_title": "/film/miyamoto-musashi-iv-the-duel-at-ichijo-ji/",
+    "adult": false,
+    "id": 144534,
+    "imdb_id": "tt0198554"
+  },
+  {
+    "title": "The Fall of Ako Castle",
+    "release_year": "1978",
+    "clean_title": "/film/the-fall-of-ako-castle/",
+    "adult": false,
+    "id": 70959,
+    "imdb_id": "tt0077135"
+  },
+  {
+    "title": "Samurai Spy",
+    "release_year": "1965",
+    "clean_title": "/film/samurai-spy/",
+    "adult": false,
+    "id": 46916,
+    "imdb_id": "tt0059303"
+  },
+  {
+    "title": "Zatoichi's Cane Sword",
+    "release_year": "1967",
+    "clean_title": "/film/zatoichis-cane-sword/",
+    "adult": false,
+    "id": 54277,
+    "imdb_id": "tt0186725"
+  },
+  {
+    "title": "The Great Killing",
+    "release_year": "1964",
+    "clean_title": "/film/the-great-killing/",
+    "adult": false,
+    "id": 58881,
+    "imdb_id": "tt0186939"
+  },
+  {
+    "title": "Zatoichi's Revenge",
+    "release_year": "1965",
+    "clean_title": "/film/zatoichis-revenge/",
+    "adult": false,
+    "id": 54273,
+    "imdb_id": "tt0123335"
+  },
+  {
+    "title": "Zatoichi Meets the One-Armed Swordsman",
+    "release_year": "1971",
+    "clean_title": "/film/zatoichi-meets-the-one-armed-swordsman/",
+    "adult": false,
+    "id": 24444,
+    "imdb_id": "tt0066602"
+  },
+  {
+    "title": "Zatoichi the Fugitive",
+    "release_year": "1963",
+    "clean_title": "/film/zatoichi-the-fugitive/",
+    "adult": false,
+    "id": 18511,
+    "imdb_id": "tt0057715"
+  },
+  {
+    "title": "The Tale of Zatoichi Continues",
+    "release_year": "1962",
+    "clean_title": "/film/the-tale-of-zatoichi-continues/",
+    "adult": false,
+    "id": 16693,
+    "imdb_id": "tt0200309"
+  },
+  {
+    "title": "Zatoichi the Outlaw",
+    "release_year": "1967",
+    "clean_title": "/film/zatoichi-the-outlaw/",
+    "adult": false,
+    "id": 54278,
+    "imdb_id": "tt0062518"
+  },
+  {
+    "title": "Killing",
+    "release_year": "2018",
+    "clean_title": "/film/killing/",
+    "adult": false,
+    "id": 531753,
+    "imdb_id": "tt7117352"
+  },
+  {
+    "title": "Zatoichi and the Chess Expert",
+    "release_year": "1965",
+    "clean_title": "/film/zatoichi-and-the-chess-expert/",
+    "adult": false,
+    "id": 54275,
+    "imdb_id": "tt0059942"
+  },
+  {
+    "title": "Samurai Fiction",
+    "release_year": "1998",
+    "clean_title": "/film/samurai-fiction/",
+    "adult": false,
+    "id": 10686,
+    "imdb_id": "tt0170544"
+  },
+  {
+    "title": "Orochi",
+    "release_year": "1925",
+    "clean_title": "/film/orochi-1925/",
+    "adult": false,
+    "id": 171563,
+    "imdb_id": "tt0016185"
+  },
+  {
+    "title": "Rurouni Kenshin Part I: Origins",
+    "release_year": "2012",
+    "clean_title": "/film/rurouni-kenshin-part-i-origins/",
+    "adult": false,
+    "id": 127533,
+    "imdb_id": "tt1979319"
+  },
+  {
+    "title": "Miyamoto Musashi",
+    "release_year": "1961",
+    "clean_title": "/film/miyamoto-musashi-1961/",
+    "adult": false,
+    "id": 154764,
+    "imdb_id": "tt0055188"
+  },
+  {
+    "title": "Samurai Saga",
+    "release_year": "1959",
+    "clean_title": "/film/samurai-saga/",
+    "adult": false,
+    "id": 186624,
+    "imdb_id": "tt0052579"
+  },
+  {
+    "title": "Miyamoto Musashi: Showdown at Hannyazaka Heights",
+    "release_year": "1962",
+    "clean_title": "/film/miyamoto-musashi-showdown-at-hannyazaka-heights/",
+    "adult": false,
+    "id": 144525,
+    "imdb_id": "tt0176801"
+  },
+  {
+    "title": "The Assassination of Ryoma",
+    "release_year": "1974",
+    "clean_title": "/film/the-assassination-of-ryoma/",
+    "adult": false,
+    "id": 107547,
+    "imdb_id": "tt0186835"
+  },
+  {
+    "title": "Samaritan Zatoichi",
+    "release_year": "1968",
+    "clean_title": "/film/samaritan-zatoichi/",
+    "adult": false,
+    "id": 54281,
+    "imdb_id": "tt0164983"
+  }
+]

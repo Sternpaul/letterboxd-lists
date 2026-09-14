@@ -1,0 +1,100 @@
+name: Monthly Lists Archive
+
+on:
+  schedule:
+    # Run at 00:00 UTC on the 1st of every month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+    inputs:
+      month:
+        description: 'Target month to archive (YYYY-MM). Leave blank for auto-detect (previous month on 1st, or current month).'
+        required: false
+        default: ''
+        type: string
+      backfill:
+        description: 'Run full retroactive backfill from git history (May 2026 - Aug 2026)'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  archive:
+    name: Create Monthly Archive
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Full git history required for retroactive backfill
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Execute Monthly Archive
+        run: |
+          cd src/scraper
+          CMD="node archive_monthly.mjs"
+          if [ "${{ inputs.backfill }}" = "true" ]; then
+            CMD="$CMD --backfill"
+          elif [ -n "${{ inputs.month }}" ]; then
+            CMD="$CMD --month ${{ inputs.month }}"
+          fi
+          echo "Executing: $CMD"
+          eval $CMD
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f archives/
+          git commit -m "Archive: monthly snapshot update" || echo "No archive changes to commit"
+          git pull --rebase --autostash origin master
+          git push origin master
+
+      - name: Notify Discord on completion
+        if: always() && env.DISCORD_WEBHOOK_URL != ''
+        run: |
+          STATUS="${{ job.status }}"
+          if [ "$STATUS" = "success" ]; then
+            COLOR=65280
+            TITLE="🏛️ Monthly Lists Archive Completed"
+            DESC="Monthly snapshot backup finished successfully. All lists in \`public/\` have been preserved to \`archives/\`."
+          else
+            COLOR=16711680
+            TITLE="❌ Monthly Lists Archive Failed"
+            DESC="Monthly archive encountered an error. Check [Actions Log](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})."
+          fi
+          curl -H "Content-Type: application/json" \
+            -d "{\"username\":\"Letterboxd Radarr Tracker\", \"avatar_url\":\"https://a.ltrbxd.com/logos/letterboxd-mac-icon.png\", \"embeds\": [{\"title\":\"$TITLE\", \"description\":\"$DESC\", \"color\":$COLOR}]}" \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}"
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+  deploy:
+    needs: archive
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

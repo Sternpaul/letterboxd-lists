@@ -1,0 +1,802 @@
+[
+  {
+    "title": "It's a Wonderful Life",
+    "release_year": "1946",
+    "clean_title": "/film/its-a-wonderful-life/",
+    "adult": false,
+    "id": 1585,
+    "imdb_id": "tt0038650"
+  },
+  {
+    "title": "A Christmas Story",
+    "release_year": "1983",
+    "clean_title": "/film/a-christmas-story-1983/",
+    "adult": false,
+    "id": 850,
+    "imdb_id": "tt0085334"
+  },
+  {
+    "title": "Die Hard",
+    "release_year": "1988",
+    "clean_title": "/film/die-hard/",
+    "adult": false,
+    "id": 562,
+    "imdb_id": "tt0095016"
+  },
+  {
+    "title": "The Muppet Christmas Carol",
+    "release_year": "1992",
+    "clean_title": "/film/the-muppet-christmas-carol/",
+    "adult": false,
+    "id": 10437,
+    "imdb_id": "tt0104940"
+  },
+  {
+    "title": "Home Alone",
+    "release_year": "1990",
+    "clean_title": "/film/home-alone/",
+    "adult": false,
+    "id": 771,
+    "imdb_id": "tt0099785"
+  },
+  {
+    "title": "National Lampoon's Christmas Vacation",
+    "release_year": "1989",
+    "clean_title": "/film/national-lampoons-christmas-vacation/",
+    "adult": false,
+    "id": 5825,
+    "imdb_id": "tt0097958"
+  },
+  {
+    "title": "Elf",
+    "release_year": "2003",
+    "clean_title": "/film/elf/",
+    "adult": false,
+    "id": 10719,
+    "imdb_id": "tt0319343"
+  },
+  {
+    "title": "Home Alone 2: Lost in New York",
+    "release_year": "1992",
+    "clean_title": "/film/home-alone-2-lost-in-new-york/",
+    "adult": false,
+    "id": 772,
+    "imdb_id": "tt0104431"
+  },
+  {
+    "title": "A Charlie Brown Christmas",
+    "release_year": "1965",
+    "clean_title": "/film/a-charlie-brown-christmas/",
+    "adult": false,
+    "id": 13187,
+    "imdb_id": "tt0059026"
+  },
+  {
+    "title": "Love Actually",
+    "release_year": "2003",
+    "clean_title": "/film/love-actually/",
+    "adult": false,
+    "id": 508,
+    "imdb_id": "tt0314331"
+  },
+  {
+    "title": "The Polar Express",
+    "release_year": "2004",
+    "clean_title": "/film/the-polar-express/",
+    "adult": false,
+    "id": 5255,
+    "imdb_id": "tt0338348"
+  },
+  {
+    "title": "How the Grinch Stole Christmas",
+    "release_year": "2000",
+    "clean_title": "/film/how-the-grinch-stole-christmas-2000/",
+    "adult": false,
+    "id": 8871,
+    "imdb_id": "tt0170016"
+  },
+  {
+    "title": "White Christmas",
+    "release_year": "1954",
+    "clean_title": "/film/white-christmas/",
+    "adult": false,
+    "id": 13368,
+    "imdb_id": "tt0047673"
+  },
+  {
+    "title": "How the Grinch Stole Christmas!",
+    "release_year": "1966",
+    "clean_title": "/film/how-the-grinch-stole-christmas/",
+    "adult": false,
+    "id": 13377,
+    "imdb_id": "tt0060345"
+  },
+  {
+    "title": "Three Wishes for Cinderella",
+    "release_year": "1973",
+    "clean_title": "/film/three-wishes-for-cinderella/",
+    "adult": false,
+    "id": 8703,
+    "imdb_id": "tt0070832"
+  },
+  {
+    "title": "Black Christmas",
+    "release_year": "1974",
+    "clean_title": "/film/black-christmas/",
+    "adult": false,
+    "id": 16938,
+    "imdb_id": "tt0071222"
+  },
+  {
+    "title": "Scrooged",
+    "release_year": "1988",
+    "clean_title": "/film/scrooged/",
+    "adult": false,
+    "id": 9647,
+    "imdb_id": "tt0096061"
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "release_year": "1993",
+    "clean_title": "/film/the-nightmare-before-christmas/",
+    "adult": false,
+    "id": 9479,
+    "imdb_id": "tt0107688"
+  },
+  {
+    "title": "The Snowman",
+    "release_year": "1982",
+    "clean_title": "/film/the-snowman/",
+    "adult": false,
+    "id": 13396,
+    "imdb_id": "tt0084701"
+  },
+  {
+    "title": "Gremlins",
+    "release_year": "1984",
+    "clean_title": "/film/gremlins/",
+    "adult": false,
+    "id": 927,
+    "imdb_id": "tt0087363"
+  },
+  {
+    "title": "Carol",
+    "release_year": "2015",
+    "clean_title": "/film/carol-2015/",
+    "adult": false,
+    "id": 258480,
+    "imdb_id": "tt2402927"
+  },
+  {
+    "title": "Scrooge",
+    "release_year": "1951",
+    "clean_title": "/film/scrooge-1951/",
+    "adult": false,
+    "id": 13188,
+    "imdb_id": "tt0044008"
+  },
+  {
+    "title": "Jingle All the Way",
+    "release_year": "1996",
+    "clean_title": "/film/jingle-all-the-way/",
+    "adult": false,
+    "id": 9279,
+    "imdb_id": "tt0116705"
+  },
+  {
+    "title": "Little Women",
+    "release_year": "2019",
+    "clean_title": "/film/little-women-2019/",
+    "adult": false,
+    "id": 331482,
+    "imdb_id": "tt3281548"
+  },
+  {
+    "title": "Klaus",
+    "release_year": "2019",
+    "clean_title": "/film/klaus/",
+    "adult": false,
+    "id": 508965,
+    "imdb_id": "tt4729430"
+  },
+  {
+    "title": "The Santa Clause",
+    "release_year": "1994",
+    "clean_title": "/film/the-santa-clause/",
+    "adult": false,
+    "id": 11395,
+    "imdb_id": "tt0111070"
+  },
+  {
+    "title": "The Holiday",
+    "release_year": "2006",
+    "clean_title": "/film/the-holiday/",
+    "adult": false,
+    "id": 1581,
+    "imdb_id": "tt0457939"
+  },
+  {
+    "title": "Krampus",
+    "release_year": "2015",
+    "clean_title": "/film/krampus/",
+    "adult": false,
+    "id": 287903,
+    "imdb_id": "tt3850590"
+  },
+  {
+    "title": "Rudolph the Red-Nosed Reindeer",
+    "release_year": "1964",
+    "clean_title": "/film/rudolph-the-red-nosed-reindeer/",
+    "adult": false,
+    "id": 13382,
+    "imdb_id": "tt0058536"
+  },
+  {
+    "title": "Arthur Christmas",
+    "release_year": "2011",
+    "clean_title": "/film/arthur-christmas/",
+    "adult": false,
+    "id": 51052,
+    "imdb_id": "tt1430607"
+  },
+  {
+    "title": "The Night Before",
+    "release_year": "2015",
+    "clean_title": "/film/the-night-before-2015/",
+    "adult": false,
+    "id": 296100,
+    "imdb_id": "tt3530002"
+  },
+  {
+    "title": "From All of Us, To All of You",
+    "release_year": "1958",
+    "clean_title": "/film/from-all-of-us-to-all-of-you/",
+    "adult": false,
+    "id": 150067,
+    "imdb_id": "tt0908282"
+  },
+  {
+    "title": "Christopher's Christmas Mission",
+    "release_year": "1975",
+    "clean_title": "/film/christophers-christmas-mission/",
+    "adult": false,
+    "id": 74354,
+    "imdb_id": "tt0135636"
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "release_year": "1999",
+    "clean_title": "/film/eyes-wide-shut/",
+    "adult": false,
+    "id": 345,
+    "imdb_id": "tt0120663"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "Mickey's Christmas Carol",
+    "release_year": "1983",
+    "clean_title": "/film/mickeys-christmas-carol/",
+    "adult": false,
+    "id": 14813,
+    "imdb_id": "tt0085936"
+  },
+  {
+    "title": "Trading Places",
+    "release_year": "1983",
+    "clean_title": "/film/trading-places/",
+    "adult": false,
+    "id": 1621,
+    "imdb_id": "tt0086465"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "release_year": "2002",
+    "clean_title": "/film/the-lord-of-the-rings-the-two-towers/",
+    "adult": false,
+    "id": 121,
+    "imdb_id": "tt0167261"
+  },
+  {
+    "title": "Batman Returns",
+    "release_year": "1992",
+    "clean_title": "/film/batman-returns/",
+    "adult": false,
+    "id": 364,
+    "imdb_id": "tt0103776"
+  },
+  {
+    "title": "Die Hard 2",
+    "release_year": "1990",
+    "clean_title": "/film/die-hard-2/",
+    "adult": false,
+    "id": 1573,
+    "imdb_id": "tt0099423"
+  },
+  {
+    "title": "Bad Santa",
+    "release_year": "2003",
+    "clean_title": "/film/bad-santa/",
+    "adult": false,
+    "id": 10147,
+    "imdb_id": "tt0307987"
+  },
+  {
+    "title": "The Family Stone",
+    "release_year": "2005",
+    "clean_title": "/film/the-family-stone/",
+    "adult": false,
+    "id": 9043,
+    "imdb_id": "tt0356680"
+  },
+  {
+    "title": "Christmas with the Kranks",
+    "release_year": "2004",
+    "clean_title": "/film/christmas-with-the-kranks/",
+    "adult": false,
+    "id": 13673,
+    "imdb_id": "tt0388419"
+  },
+  {
+    "title": "A Christmas Carol",
+    "release_year": "2009",
+    "clean_title": "/film/a-christmas-carol-2009/",
+    "adult": false,
+    "id": 17979,
+    "imdb_id": "tt1067106"
+  },
+  {
+    "title": "A Christmas Carol",
+    "release_year": "1984",
+    "clean_title": "/film/a-christmas-carol-1984/",
+    "adult": false,
+    "id": 13189,
+    "imdb_id": "tt0087056"
+  },
+  {
+    "title": "A Muppet Family Christmas",
+    "release_year": "1987",
+    "clean_title": "/film/a-muppet-family-christmas/",
+    "adult": false,
+    "id": 13247,
+    "imdb_id": "tt0251282"
+  },
+  {
+    "title": "Meet Me in St. Louis",
+    "release_year": "1944",
+    "clean_title": "/film/meet-me-in-st-louis/",
+    "adult": false,
+    "id": 909,
+    "imdb_id": "tt0037059"
+  },
+  {
+    "title": "Miracle on 34th Street",
+    "release_year": "1947",
+    "clean_title": "/film/miracle-on-34th-street/",
+    "adult": false,
+    "id": 11881,
+    "imdb_id": "tt0039628"
+  },
+  {
+    "title": "Scrooge",
+    "release_year": "1970",
+    "clean_title": "/film/scrooge-1970/",
+    "adult": false,
+    "id": 13765,
+    "imdb_id": "tt0066344"
+  },
+  {
+    "title": "A Very Murray Christmas",
+    "release_year": "2015",
+    "clean_title": "/film/a-very-murray-christmas/",
+    "adult": false,
+    "id": 364067,
+    "imdb_id": "tt4537842"
+  },
+  {
+    "title": "The Year Without a Santa Claus",
+    "release_year": "1974",
+    "clean_title": "/film/the-year-without-a-santa-claus/",
+    "adult": false,
+    "id": 13397,
+    "imdb_id": "tt0072424"
+  },
+  {
+    "title": "Miracle on 34th Street",
+    "release_year": "1994",
+    "clean_title": "/film/miracle-on-34th-street-1994/",
+    "adult": false,
+    "id": 10510,
+    "imdb_id": "tt0110527"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": "2003",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "adult": false,
+    "id": 122,
+    "imdb_id": "tt0167260"
+  },
+  {
+    "title": "Emmet Otter's Jug-Band Christmas",
+    "release_year": "1977",
+    "clean_title": "/film/emmet-otters-jug-band-christmas/",
+    "adult": false,
+    "id": 20785,
+    "imdb_id": "tt0075988"
+  },
+  {
+    "title": "Christmas in Connecticut",
+    "release_year": "1945",
+    "clean_title": "/film/christmas-in-connecticut/",
+    "adult": false,
+    "id": 13669,
+    "imdb_id": "tt0037595"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "release_year": "2001",
+    "clean_title": "/film/harry-potter-and-the-philosophers-stone/",
+    "adult": false,
+    "id": 671,
+    "imdb_id": "tt0241527"
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "release_year": "2003",
+    "clean_title": "/film/tokyo-godfathers/",
+    "adult": false,
+    "id": 13398,
+    "imdb_id": "tt0388473"
+  },
+  {
+    "title": "Father Christmas",
+    "release_year": "1991",
+    "clean_title": "/film/father-christmas/",
+    "adult": false,
+    "id": 24500,
+    "imdb_id": "tt0180691"
+  },
+  {
+    "title": "The Shop Around the Corner",
+    "release_year": "1940",
+    "clean_title": "/film/the-shop-around-the-corner/",
+    "adult": false,
+    "id": 20334,
+    "imdb_id": "tt0033045"
+  },
+  {
+    "title": "The Snowman and the Snowdog",
+    "release_year": "2012",
+    "clean_title": "/film/the-snowman-and-the-snowdog/",
+    "adult": false,
+    "id": 185025,
+    "imdb_id": "tt2560206"
+  },
+  {
+    "title": "Silent Night, Deadly Night",
+    "release_year": "1984",
+    "clean_title": "/film/silent-night-deadly-night/",
+    "adult": false,
+    "id": 27414,
+    "imdb_id": "tt0088117"
+  },
+  {
+    "title": "Mickey's Once Upon a Christmas",
+    "release_year": "1999",
+    "clean_title": "/film/mickeys-once-upon-a-christmas/",
+    "adult": false,
+    "id": 15400,
+    "imdb_id": "tt0238414"
+  },
+  {
+    "title": "A Garfield Christmas",
+    "release_year": "1987",
+    "clean_title": "/film/a-garfield-christmas/",
+    "adult": false,
+    "id": 13246,
+    "imdb_id": "tt0302596"
+  },
+  {
+    "title": "Santa Claus Is Comin' to Town",
+    "release_year": "1970",
+    "clean_title": "/film/santa-claus-is-comin-to-town/",
+    "adult": false,
+    "id": 13400,
+    "imdb_id": "tt0066327"
+  },
+  {
+    "title": "Cosy Dens",
+    "release_year": "1999",
+    "clean_title": "/film/cosy-dens/",
+    "adult": false,
+    "id": 15387,
+    "imdb_id": "tt0167331"
+  },
+  {
+    "title": "Christmas Evil",
+    "release_year": "1980",
+    "clean_title": "/film/christmas-evil/",
+    "adult": false,
+    "id": 27230,
+    "imdb_id": "tt0081793"
+  },
+  {
+    "title": "Frosty the Snowman",
+    "release_year": "1969",
+    "clean_title": "/film/frosty-the-snowman/",
+    "adult": false,
+    "id": 13675,
+    "imdb_id": "tt0064349"
+  },
+  {
+    "title": "While You Were Sleeping",
+    "release_year": "1995",
+    "clean_title": "/film/while-you-were-sleeping/",
+    "adult": false,
+    "id": 2064,
+    "imdb_id": "tt0114924"
+  },
+  {
+    "title": "Pee-wee's Playhouse Christmas Special",
+    "release_year": "1988",
+    "clean_title": "/film/pee-wees-playhouse-christmas-special/",
+    "adult": false,
+    "id": 49041,
+    "imdb_id": "tt0251640"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "release_year": "2002",
+    "clean_title": "/film/harry-potter-and-the-chamber-of-secrets/",
+    "adult": false,
+    "id": 672,
+    "imdb_id": "tt0295297"
+  },
+  {
+    "title": "La La Land",
+    "release_year": "2016",
+    "clean_title": "/film/la-la-land/",
+    "adult": false,
+    "id": 313369,
+    "imdb_id": "tt3783958"
+  },
+  {
+    "title": "Paddington 2",
+    "release_year": "2017",
+    "clean_title": "/film/paddington-2/",
+    "adult": false,
+    "id": 346648,
+    "imdb_id": "tt4468740"
+  },
+  {
+    "title": "The Star Wars Holiday Special",
+    "release_year": "1978",
+    "clean_title": "/film/the-star-wars-holiday-special/",
+    "adult": false,
+    "id": 74849,
+    "imdb_id": "tt0193524"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_year": "2004",
+    "clean_title": "/film/harry-potter-and-the-prisoner-of-azkaban/",
+    "adult": false,
+    "id": 673,
+    "imdb_id": "tt0304141"
+  },
+  {
+    "title": "Journey to the Christmas Star",
+    "release_year": "1976",
+    "clean_title": "/film/journey-to-the-christmas-star-1976/",
+    "adult": false,
+    "id": 60767,
+    "imdb_id": "tt0075128"
+  },
+  {
+    "title": "Santa Claus: The Movie",
+    "release_year": "1985",
+    "clean_title": "/film/santa-claus-the-movie/",
+    "adult": false,
+    "id": 13764,
+    "imdb_id": "tt0089961"
+  },
+  {
+    "title": "The Bishop's Wife",
+    "release_year": "1947",
+    "clean_title": "/film/the-bishops-wife/",
+    "adult": false,
+    "id": 19490,
+    "imdb_id": "tt0039190"
+  },
+  {
+    "title": "In Bed with Santa",
+    "release_year": "1999",
+    "clean_title": "/film/in-bed-with-santa/",
+    "adult": false,
+    "id": 29822,
+    "imdb_id": "tt0201265"
+  },
+  {
+    "title": "Christmas Eve on Sesame Street",
+    "release_year": "1978",
+    "clean_title": "/film/christmas-eve-on-sesame-street/",
+    "adult": false,
+    "id": 306685,
+    "imdb_id": "tt0331217"
+  },
+  {
+    "title": "A Christmas Carol",
+    "release_year": "1999",
+    "clean_title": "/film/a-christmas-carol-1999/",
+    "adult": false,
+    "id": 16716,
+    "imdb_id": "tt0216621"
+  },
+  {
+    "title": "Black Christmas",
+    "release_year": "2006",
+    "clean_title": "/film/black-christmas-2006/",
+    "adult": false,
+    "id": 9656,
+    "imdb_id": "tt0454082"
+  },
+  {
+    "title": "The Hateful Eight",
+    "release_year": "2015",
+    "clean_title": "/film/the-hateful-eight/",
+    "adult": false,
+    "id": 273248,
+    "imdb_id": "tt3460252"
+  },
+  {
+    "title": "Lethal Weapon",
+    "release_year": "1987",
+    "clean_title": "/film/lethal-weapon/",
+    "adult": false,
+    "id": 941,
+    "imdb_id": "tt0093409"
+  },
+  {
+    "title": "Little Women",
+    "release_year": "1994",
+    "clean_title": "/film/little-women-1994/",
+    "adult": false,
+    "id": 9587,
+    "imdb_id": "tt0110367"
+  },
+  {
+    "title": "'Twas the Night Before Christmas",
+    "release_year": "1974",
+    "clean_title": "/film/twas-the-night-before-christmas/",
+    "adult": false,
+    "id": 26547,
+    "imdb_id": "tt0208654"
+  },
+  {
+    "title": "Rare Exports: A Christmas Tale",
+    "release_year": "2010",
+    "clean_title": "/film/rare-exports-a-christmas-tale/",
+    "adult": false,
+    "id": 48395,
+    "imdb_id": "tt1401143"
+  },
+  {
+    "title": "Santa Claus Conquers the Martians",
+    "release_year": "1964",
+    "clean_title": "/film/santa-claus-conquers-the-martians/",
+    "adult": false,
+    "id": 32307,
+    "imdb_id": "tt0058548"
+  },
+  {
+    "title": "Tangerine",
+    "release_year": "2015",
+    "clean_title": "/film/tangerine/",
+    "adult": false,
+    "id": 308084,
+    "imdb_id": "tt3824458"
+  },
+  {
+    "title": "Anna and the Apocalypse",
+    "release_year": "2017",
+    "clean_title": "/film/anna-and-the-apocalypse/",
+    "adult": false,
+    "id": 461928,
+    "imdb_id": "tt6433880"
+  },
+  {
+    "title": "The Pinchcliffe Grand Prix",
+    "release_year": "1975",
+    "clean_title": "/film/the-pinchcliffe-grand-prix/",
+    "adult": false,
+    "id": 492015,
+    "imdb_id": "tt0073000"
+  },
+  {
+    "title": "Olive, the Other Reindeer",
+    "release_year": "1999",
+    "clean_title": "/film/olive-the-other-reindeer/",
+    "adult": false,
+    "id": 13379,
+    "imdb_id": "tt0227173"
+  },
+  {
+    "title": "Mickey's Twice Upon a Christmas",
+    "release_year": "2004",
+    "clean_title": "/film/mickeys-twice-upon-a-christmas/",
+    "adult": false,
+    "id": 13378,
+    "imdb_id": "tt0424279"
+  },
+  {
+    "title": "Frozen",
+    "release_year": "2013",
+    "clean_title": "/film/frozen-2013/",
+    "adult": false,
+    "id": 109445,
+    "imdb_id": "tt2294629"
+  },
+  {
+    "title": "The Ref",
+    "release_year": "1994",
+    "clean_title": "/film/the-ref/",
+    "adult": false,
+    "id": 10872,
+    "imdb_id": "tt0110955"
+  },
+  {
+    "title": "Four Christmases",
+    "release_year": "2008",
+    "clean_title": "/film/four-christmases/",
+    "adult": false,
+    "id": 12193,
+    "imdb_id": "tt0369436"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_year": "2018",
+    "clean_title": "/film/spider-man-into-the-spider-verse/",
+    "adult": false,
+    "id": 324857,
+    "imdb_id": "tt4633694"
+  },
+  {
+    "title": "Life of Brian",
+    "release_year": "1979",
+    "clean_title": "/film/life-of-brian/",
+    "adult": false,
+    "id": 583,
+    "imdb_id": "tt0079470"
+  },
+  {
+    "title": "GoodFellas",
+    "release_year": "1990",
+    "clean_title": "/film/goodfellas/",
+    "adult": false,
+    "id": 769,
+    "imdb_id": "tt0099685"
+  },
+  {
+    "title": "The Sound of Music",
+    "release_year": "1965",
+    "clean_title": "/film/the-sound-of-music/",
+    "adult": false,
+    "id": 15121,
+    "imdb_id": "tt0059742"
+  },
+  {
+    "title": "Mister Magoo's Christmas Carol",
+    "release_year": "1962",
+    "clean_title": "/film/mister-magoos-christmas-carol/",
+    "adult": false,
+    "id": 49742,
+    "imdb_id": "tt0123179"
+  }
+]
