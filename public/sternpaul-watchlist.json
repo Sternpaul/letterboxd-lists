@@ -1,5 +1,221 @@
 [
   {
+    "title": "A Most Wanted Man",
+    "release_year": "2014",
+    "clean_title": "/film/a-most-wanted-man/",
+    "adult": false,
+    "id": 157849,
+    "imdb_id": "tt1972571"
+  },
+  {
+    "title": "Syriana",
+    "release_year": "2005",
+    "clean_title": "/film/syriana/",
+    "adult": false,
+    "id": 231,
+    "imdb_id": "tt0365737"
+  },
+  {
+    "title": "Eye in the Sky",
+    "release_year": "2015",
+    "clean_title": "/film/eye-in-the-sky-2015/",
+    "adult": false,
+    "id": 333352,
+    "imdb_id": "tt2057392"
+  },
+  {
+    "title": "Guy Ritchie's The Covenant",
+    "release_year": "2023",
+    "clean_title": "/film/guy-ritchies-the-covenant/",
+    "adult": false,
+    "id": 882569,
+    "imdb_id": "tt4873118"
+  },
+  {
+    "title": "American Sniper",
+    "release_year": "2014",
+    "clean_title": "/film/american-sniper/",
+    "adult": false,
+    "id": 190859,
+    "imdb_id": "tt2179136"
+  },
+  {
+    "title": "Black Hawk Down",
+    "release_year": "2001",
+    "clean_title": "/film/black-hawk-down/",
+    "adult": false,
+    "id": 855,
+    "imdb_id": "tt0265086"
+  },
+  {
+    "title": "13 Hours: The Secret Soldiers of Benghazi",
+    "release_year": "2016",
+    "clean_title": "/film/13-hours-the-secret-soldiers-of-benghazi/",
+    "adult": false,
+    "id": 300671,
+    "imdb_id": "tt4172430"
+  },
+  {
+    "title": "Lone Survivor",
+    "release_year": "2013",
+    "clean_title": "/film/lone-survivor/",
+    "adult": false,
+    "id": 193756,
+    "imdb_id": "tt1091191"
+  },
+  {
+    "title": "The Hurt Locker",
+    "release_year": "2008",
+    "clean_title": "/film/the-hurt-locker/",
+    "adult": false,
+    "id": 12162,
+    "imdb_id": "tt0887912"
+  },
+  {
+    "title": "Body of Lies",
+    "release_year": "2008",
+    "clean_title": "/film/body-of-lies/",
+    "adult": false,
+    "id": 12113,
+    "imdb_id": "tt0758774"
+  },
+  {
+    "title": "Rendition",
+    "release_year": "2007",
+    "clean_title": "/film/rendition/",
+    "adult": false,
+    "id": 5125,
+    "imdb_id": "tt0804522"
+  },
+  {
+    "title": "The Report",
+    "release_year": "2019",
+    "clean_title": "/film/the-report-2019/",
+    "adult": false,
+    "id": 524348,
+    "imdb_id": "tt8236336"
+  },
+  {
+    "title": "Hope",
+    "release_year": "2026",
+    "clean_title": "/film/hope-2026/",
+    "adult": false,
+    "id": 1058424,
+    "imdb_id": "tt27369017"
+  },
+  {
+    "title": "Nixon",
+    "release_year": "1995",
+    "clean_title": "/film/nixon/",
+    "adult": false,
+    "id": 10858,
+    "imdb_id": "tt0113987"
+  },
+  {
+    "title": "Howards End",
+    "release_year": "1992",
+    "clean_title": "/film/howards-end/",
+    "adult": false,
+    "id": 8293,
+    "imdb_id": "tt0104454"
+  },
+  {
+    "title": "One Life",
+    "release_year": "2023",
+    "clean_title": "/film/one-life-2023/",
+    "adult": false,
+    "id": 760774,
+    "imdb_id": "tt13097932"
+  },
+  {
+    "title": "The Remains of the Day",
+    "release_year": "1993",
+    "clean_title": "/film/the-remains-of-the-day/",
+    "adult": false,
+    "id": 1245,
+    "imdb_id": "tt0107943"
+  },
+  {
+    "title": "The Lion in Winter",
+    "release_year": "1968",
+    "clean_title": "/film/the-lion-in-winter/",
+    "adult": false,
+    "id": 18988,
+    "imdb_id": "tt0063227"
+  },
+  {
+    "title": "Gangs of New York",
+    "release_year": "2002",
+    "clean_title": "/film/gangs-of-new-york-2002/",
+    "adult": false,
+    "id": 3131,
+    "imdb_id": "tt0217505"
+  },
+  {
+    "title": "Red Dragon",
+    "release_year": "2002",
+    "clean_title": "/film/red-dragon/",
+    "adult": false,
+    "id": 9533,
+    "imdb_id": "tt0289765"
+  },
+  {
+    "title": "The Two Popes",
+    "release_year": "2019",
+    "clean_title": "/film/the-two-popes/",
+    "adult": false,
+    "id": 551332,
+    "imdb_id": "tt8404614"
+  },
+  {
+    "title": "Meet Joe Black",
+    "release_year": "1998",
+    "clean_title": "/film/meet-joe-black/",
+    "adult": false,
+    "id": 297,
+    "imdb_id": "tt0119643"
+  },
+  {
+    "title": "The Judge",
+    "release_year": "2014",
+    "clean_title": "/film/the-judge-2014/",
+    "adult": false,
+    "id": 205587,
+    "imdb_id": "tt1872194"
+  },
+  {
+    "title": "Molly's Game",
+    "release_year": "2017",
+    "clean_title": "/film/mollys-game/",
+    "adult": false,
+    "id": 396371,
+    "imdb_id": "tt4209788"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "release_year": "2012",
+    "clean_title": "/film/zero-dark-thirty/",
+    "adult": false,
+    "id": 97630,
+    "imdb_id": "tt1790885"
+  },
+  {
+    "title": "Lincoln",
+    "release_year": "2012",
+    "clean_title": "/film/lincoln/",
+    "adult": false,
+    "id": 72976,
+    "imdb_id": "tt0443272"
+  },
+  {
+    "title": "The Gentlemen",
+    "release_year": "2019",
+    "clean_title": "/film/the-gentlemen/",
+    "adult": false,
+    "id": 522627,
+    "imdb_id": "tt8367814"
+  },
+  {
     "title": "Labyrinth of Lies",
     "release_year": "2014",
     "clean_title": "/film/labyrinth-of-lies-2014/",
@@ -335,14 +551,6 @@
     "imdb_id": "tt0063462"
   },
   {
-    "title": "Body of Lies",
-    "release_year": "2008",
-    "clean_title": "/film/body-of-lies/",
-    "adult": false,
-    "id": 12113,
-    "imdb_id": "tt0758774"
-  },
-  {
     "title": "Robin Hood",
     "release_year": "2010",
     "clean_title": "/film/robin-hood-2010/",
@@ -357,14 +565,6 @@
     "adult": false,
     "id": 11976,
     "imdb_id": "tt0089469"
-  },
-  {
-    "title": "Black Hawk Down",
-    "release_year": "2001",
-    "clean_title": "/film/black-hawk-down/",
-    "adult": false,
-    "id": 855,
-    "imdb_id": "tt0265086"
   },
   {
     "title": "The Last Duel",
@@ -1391,14 +1591,6 @@
     "imdb_id": "tt0058461"
   },
   {
-    "title": "American Sniper",
-    "release_year": "2014",
-    "clean_title": "/film/american-sniper/",
-    "adult": false,
-    "id": 190859,
-    "imdb_id": "tt2179136"
-  },
-  {
     "title": "Million Dollar Baby",
     "release_year": "2004",
     "clean_title": "/film/million-dollar-baby/",
@@ -2127,14 +2319,6 @@
     "imdb_id": "tt0111282"
   },
   {
-    "title": "Lone Survivor",
-    "release_year": "2013",
-    "clean_title": "/film/lone-survivor/",
-    "adult": false,
-    "id": 193756,
-    "imdb_id": "tt1091191"
-  },
-  {
     "title": "Sicario",
     "release_year": "2015",
     "clean_title": "/film/sicario-2015/",
@@ -2589,14 +2773,6 @@
     "adult": false,
     "id": 315846,
     "imdb_id": "tt3756788"
-  },
-  {
-    "title": "Gangs of New York",
-    "release_year": "2002",
-    "clean_title": "/film/gangs-of-new-york-2002/",
-    "adult": false,
-    "id": 3131,
-    "imdb_id": "tt0217505"
   },
   {
     "title": "28 Weeks Later",
