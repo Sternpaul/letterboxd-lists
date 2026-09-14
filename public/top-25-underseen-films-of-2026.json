@@ -24,20 +24,20 @@
     "imdb_id": "tt37679242"
   },
   {
-    "title": "Bethlehem Kudumba Unit",
+    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
     "release_year": "2026",
-    "clean_title": "/film/bethlehem-kudumba-unit/",
+    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
     "adult": false,
-    "id": 1508168,
-    "imdb_id": "tt37535100"
+    "id": 1586876,
+    "imdb_id": "tt39026173"
   },
   {
-    "title": "Yura Was Here",
+    "title": "A Place for Her",
     "release_year": "2025",
-    "clean_title": "/film/yura-was-here/",
+    "clean_title": "/film/a-place-for-her/",
     "adult": false,
-    "id": 1472573,
-    "imdb_id": "tt38671655"
+    "id": 1318417,
+    "imdb_id": "tt35455708"
   },
   {
     "title": "Dear You",
@@ -48,140 +48,20 @@
     "imdb_id": "tt41791573"
   },
   {
+    "title": "Yura Was Here",
+    "release_year": "2025",
+    "clean_title": "/film/yura-was-here/",
+    "adult": false,
+    "id": 1472573,
+    "imdb_id": "tt38671655"
+  },
+  {
     "title": "Sad Girlz",
     "release_year": "2026",
     "clean_title": "/film/sad-girlz/",
     "adult": false,
     "id": 1536433,
     "imdb_id": "tt39311354"
-  },
-  {
-    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
-    "release_year": "2026",
-    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
-    "adult": false,
-    "id": 1586876,
-    "imdb_id": "tt39026173"
-  },
-  {
-    "title": "Flies",
-    "release_year": "2026",
-    "clean_title": "/film/flies-2026/",
-    "adult": false,
-    "id": 1437703,
-    "imdb_id": "tt35854741"
-  },
-  {
-    "title": "Bonolota Express",
-    "release_year": "2026",
-    "clean_title": "/film/bonolota-express/",
-    "adult": false,
-    "id": 1542995,
-    "imdb_id": "tt38792109"
-  },
-  {
-    "title": "Rose",
-    "release_year": "2026",
-    "clean_title": "/film/rose-2026/",
-    "adult": false,
-    "id": 1176962,
-    "imdb_id": "tt25399154"
-  },
-  {
-    "title": "Color Book",
-    "release_year": "2024",
-    "clean_title": "/film/color-book/",
-    "adult": false,
-    "id": 1276013,
-    "imdb_id": "tt32150360"
-  },
-  {
-    "title": "Lost Land",
-    "release_year": "2025",
-    "clean_title": "/film/lost-land-2025/",
-    "adult": false,
-    "id": 1517120,
-    "imdb_id": "tt37660506"
-  },
-  {
-    "title": "Dry Leaf",
-    "release_year": "2025",
-    "clean_title": "/film/dry-leaf/",
-    "adult": false,
-    "id": 1057888,
-    "imdb_id": "tt37537636"
-  },
-  {
-    "title": "Bouchra",
-    "release_year": "2025",
-    "clean_title": "/film/bouchra/",
-    "adult": false,
-    "id": 1517206,
-    "imdb_id": "tt36543744"
-  },
-  {
-    "title": "This Is I",
-    "release_year": "2026",
-    "clean_title": "/film/this-is-i/",
-    "adult": false,
-    "id": 1570282,
-    "imdb_id": "tt39196792"
-  },
-  {
-    "title": "Effi o Blaenau",
-    "release_year": "2026",
-    "clean_title": "/film/effi-o-blaenau/",
-    "adult": false,
-    "id": 1643807,
-    "imdb_id": "tt40001182"
-  },
-  {
-    "title": "Everytime",
-    "release_year": "2026",
-    "clean_title": "/film/everytime/",
-    "adult": false,
-    "id": 1655419,
-    "imdb_id": "tt41592057"
-  },
-  {
-    "title": "Gohan",
-    "release_year": "2026",
-    "clean_title": "/film/gohan-2026/",
-    "adult": false,
-    "id": 1319522,
-    "imdb_id": "tt36958999"
-  },
-  {
-    "title": "Vanilla",
-    "release_year": "2025",
-    "clean_title": "/film/vanilla-2025-1/",
-    "adult": false,
-    "id": 1327447,
-    "imdb_id": "tt29135677"
-  },
-  {
-    "title": "Risa and the Wind Phone",
-    "release_year": "2025",
-    "clean_title": "/film/risa-and-the-wind-phone/",
-    "adult": false,
-    "id": 1426451,
-    "imdb_id": "tt38871399"
-  },
-  {
-    "title": "Another League",
-    "release_year": "2026",
-    "clean_title": "/film/another-league/",
-    "adult": false,
-    "id": 1444595,
-    "imdb_id": "tt36048393"
-  },
-  {
-    "title": "Straight Circle",
-    "release_year": "2025",
-    "clean_title": "/film/straight-circle/",
-    "adult": false,
-    "id": 1433601,
-    "imdb_id": "tt29630535"
   },
   {
     "title": "All Wishes Come True!",
@@ -192,11 +72,131 @@
     "imdb_id": "tt43515101"
   },
   {
-    "title": "Double Happiness",
-    "release_year": "2025",
-    "clean_title": "/film/double-happiness-2025/",
+    "title": "Bonolota Express",
+    "release_year": "2026",
+    "clean_title": "/film/bonolota-express/",
     "adult": false,
-    "id": 1536559,
-    "imdb_id": "tt38067963"
+    "id": 1542995,
+    "imdb_id": "tt38792109"
+  },
+  {
+    "title": "Flies",
+    "release_year": "2026",
+    "clean_title": "/film/flies-2026/",
+    "adult": false,
+    "id": 1437703,
+    "imdb_id": "tt35854741"
+  },
+  {
+    "title": "Balan - The Boy",
+    "release_year": "2026",
+    "clean_title": "/film/balan-the-boy/",
+    "adult": false,
+    "id": 1410937,
+    "imdb_id": "tt35254624"
+  },
+  {
+    "title": "Color Book",
+    "release_year": "2024",
+    "clean_title": "/film/color-book/",
+    "adult": false,
+    "id": 1276013,
+    "imdb_id": "tt32150360"
+  },
+  {
+    "title": "Rose",
+    "release_year": "2026",
+    "clean_title": "/film/rose-2026/",
+    "adult": false,
+    "id": 1176962,
+    "imdb_id": "tt25399154"
+  },
+  {
+    "title": "Lost Land",
+    "release_year": "2025",
+    "clean_title": "/film/lost-land-2025/",
+    "adult": false,
+    "id": 1517120,
+    "imdb_id": "tt37660506"
+  },
+  {
+    "title": "Bouchra",
+    "release_year": "2025",
+    "clean_title": "/film/bouchra/",
+    "adult": false,
+    "id": 1517206,
+    "imdb_id": "tt36543744"
+  },
+  {
+    "title": "Dry Leaf",
+    "release_year": "2025",
+    "clean_title": "/film/dry-leaf/",
+    "adult": false,
+    "id": 1057888,
+    "imdb_id": "tt37537636"
+  },
+  {
+    "title": "Chronovisor",
+    "release_year": "2026",
+    "clean_title": "/film/chronovisor/",
+    "adult": false,
+    "id": 1599181,
+    "imdb_id": "tt39196981"
+  },
+  {
+    "title": "In Waves",
+    "release_year": "2026",
+    "clean_title": "/film/in-waves/",
+    "adult": false,
+    "id": 947502,
+    "imdb_id": "tt27672817"
+  },
+  {
+    "title": "Silent Friend",
+    "release_year": "2025",
+    "clean_title": "/film/silent-friend/",
+    "adult": false,
+    "id": 1168719,
+    "imdb_id": "tt27811632"
+  },
+  {
+    "title": "This Is I",
+    "release_year": "2026",
+    "clean_title": "/film/this-is-i/",
+    "adult": false,
+    "id": 1570282,
+    "imdb_id": "tt39196792"
+  },
+  {
+    "title": "Gohan",
+    "release_year": "2026",
+    "clean_title": "/film/gohan-2026/",
+    "adult": false,
+    "id": 1319522,
+    "imdb_id": "tt36958999"
+  },
+  {
+    "title": "Na Willa",
+    "release_year": "2026",
+    "clean_title": "/film/na-willa/",
+    "adult": false,
+    "id": 1476928,
+    "imdb_id": "tt38607663"
+  },
+  {
+    "title": "A Letter to My Youth",
+    "release_year": "2026",
+    "clean_title": "/film/a-letter-to-my-youth/",
+    "adult": false,
+    "id": 1602705,
+    "imdb_id": "tt39240255"
+  },
+  {
+    "title": "Effi o Blaenau",
+    "release_year": "2026",
+    "clean_title": "/film/effi-o-blaenau/",
+    "adult": false,
+    "id": 1643807,
+    "imdb_id": "tt40001182"
   }
 ]

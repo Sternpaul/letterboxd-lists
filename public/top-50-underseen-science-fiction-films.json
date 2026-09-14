@@ -8,6 +8,14 @@
     "imdb_id": "tt1015980"
   },
   {
+    "title": "Gintama the Movie 2026: Yoshiwara in Flames",
+    "release_year": "2026",
+    "clean_title": "/film/gintama-the-movie-2026-yoshiwara-in-flames/",
+    "adult": false,
+    "id": 1530941,
+    "imdb_id": "tt37931873"
+  },
+  {
     "title": "Legend of the Galactic Heroes: Overture to a New War",
     "release_year": "1993",
     "clean_title": "/film/legend-of-the-galactic-heroes-overture-to-a-new-war/",
@@ -48,20 +56,20 @@
     "imdb_id": "tt1586677"
   },
   {
-    "title": "Wax, or The Discovery of Television Among the Bees",
-    "release_year": "1991",
-    "clean_title": "/film/wax-or-the-discovery-of-television-among-the-bees/",
-    "adult": false,
-    "id": 54400,
-    "imdb_id": "tt0105791"
-  },
-  {
     "title": "Dead Dead Demon's Dededede Destruction Part 1",
     "release_year": "2024",
     "clean_title": "/film/dead-dead-demons-dededede-destruction-part-1/",
     "adult": false,
     "id": 1172228,
     "imdb_id": "tt28813376"
+  },
+  {
+    "title": "Wax, or The Discovery of Television Among the Bees",
+    "release_year": "1991",
+    "clean_title": "/film/wax-or-the-discovery-of-television-among-the-bees/",
+    "adult": false,
+    "id": 54400,
+    "imdb_id": "tt0105791"
   },
   {
     "title": "The Falls",
@@ -104,6 +112,14 @@
     "imdb_id": "tt1762248"
   },
   {
+    "title": "Chronovisor",
+    "release_year": "2026",
+    "clean_title": "/film/chronovisor/",
+    "adult": false,
+    "id": 1599181,
+    "imdb_id": "tt39196981"
+  },
+  {
     "title": "Dead Dead Demon's Dededede Destruction Part 2",
     "release_year": "2024",
     "clean_title": "/film/dead-dead-demons-dededede-destruction-part-2/",
@@ -136,20 +152,20 @@
     "imdb_id": "tt0093791"
   },
   {
-    "title": "Ejen Ali: The Movie",
-    "release_year": "2019",
-    "clean_title": "/film/ejen-ali-the-movie/",
-    "adult": false,
-    "id": 639999,
-    "imdb_id": "tt9020536"
-  },
-  {
     "title": "My God, My God, Why Hast Thou Forsaken Me?",
     "release_year": "2005",
     "clean_title": "/film/my-god-my-god-why-hast-thou-forsaken-me/",
     "adult": false,
     "id": 95240,
     "imdb_id": "tt0461769"
+  },
+  {
+    "title": "Ejen Ali: The Movie",
+    "release_year": "2019",
+    "clean_title": "/film/ejen-ali-the-movie/",
+    "adult": false,
+    "id": 639999,
+    "imdb_id": "tt9020536"
   },
   {
     "title": "The Inhuman Woman",
@@ -160,20 +176,20 @@
     "imdb_id": "tt0015014"
   },
   {
-    "title": "Invasion",
-    "release_year": "1969",
-    "clean_title": "/film/invasion-1969/",
-    "adult": false,
-    "id": 163924,
-    "imdb_id": "tt0064490"
-  },
-  {
     "title": "Gokaiger Goseiger Super Sentai 199 Hero Great Battle",
     "release_year": "2011",
     "clean_title": "/film/gokaiger-goseiger-super-sentai-199-hero-great-battle/",
     "adult": false,
     "id": 160939,
     "imdb_id": "tt1869453"
+  },
+  {
+    "title": "Invasion",
+    "release_year": "1969",
+    "clean_title": "/film/invasion-1969/",
+    "adult": false,
+    "id": 163924,
+    "imdb_id": "tt0064490"
   },
   {
     "title": "In the Shadow of the Blue Rascal",
@@ -192,6 +208,14 @@
     "imdb_id": "tt10244756"
   },
   {
+    "title": "We Are Aliens",
+    "release_year": "2026",
+    "clean_title": "/film/we-are-aliens-2026/",
+    "adult": false,
+    "id": 1496928,
+    "imdb_id": "tt41830798"
+  },
+  {
     "title": "Kamen Rider ZO",
     "release_year": "1993",
     "clean_title": "/film/kamen-rider-zo/",
@@ -200,12 +224,12 @@
     "imdb_id": "tt0099917"
   },
   {
-    "title": "Chronovisor",
-    "release_year": "2026",
-    "clean_title": "/film/chronovisor/",
+    "title": "Doraemon: Nobita and the Steel Troops",
+    "release_year": "1986",
+    "clean_title": "/film/doraemon-nobita-and-the-steel-troops/",
     "adult": false,
-    "id": 1599181,
-    "imdb_id": "tt39196981"
+    "id": 88625,
+    "imdb_id": "tt1147528"
   },
   {
     "title": "Woman in the Moon",
@@ -224,14 +248,6 @@
     "imdb_id": "tt0115909"
   },
   {
-    "title": "We Are Aliens",
-    "release_year": "2026",
-    "clean_title": "/film/we-are-aliens-2026/",
-    "adult": false,
-    "id": 1496928,
-    "imdb_id": "tt41830798"
-  },
-  {
     "title": "Aavasavyuham: The Arbit Documentation of an Amphibian Hunt",
     "release_year": "2022",
     "clean_title": "/film/aavasavyuham-the-arbit-documentation-of-an-amphibian-hunt/",
@@ -240,36 +256,12 @@
     "imdb_id": "tt15939240"
   },
   {
-    "title": "Doraemon: Nobita's Secret Gadget Museum",
-    "release_year": "2013",
-    "clean_title": "/film/doraemon-nobitas-secret-gadget-museum/",
-    "adult": false,
-    "id": 218726,
-    "imdb_id": "tt2768084"
-  },
-  {
-    "title": "Doraemon: Nobita and the Steel Troops",
-    "release_year": "1986",
-    "clean_title": "/film/doraemon-nobita-and-the-steel-troops/",
-    "adult": false,
-    "id": 88625,
-    "imdb_id": "tt1147528"
-  },
-  {
     "title": "Imaginur",
     "release_year": "2022",
     "clean_title": "/film/imaginur/",
     "adult": false,
     "id": 996117,
     "imdb_id": "tt21205440"
-  },
-  {
-    "title": "Ejen Ali: The Movie 2",
-    "release_year": "2025",
-    "clean_title": "/film/ejen-ali-the-movie-2/",
-    "adult": false,
-    "id": 1357359,
-    "imdb_id": "tt33381728"
   },
   {
     "title": "I Married a Strange Person!",
@@ -288,6 +280,22 @@
     "imdb_id": "tt0108041"
   },
   {
+    "title": "Ejen Ali: The Movie 2",
+    "release_year": "2025",
+    "clean_title": "/film/ejen-ali-the-movie-2/",
+    "adult": false,
+    "id": 1357359,
+    "imdb_id": "tt33381728"
+  },
+  {
+    "title": "Aditya 369",
+    "release_year": "1991",
+    "clean_title": "/film/aditya-369/",
+    "adult": false,
+    "id": 280363,
+    "imdb_id": "tt0252196"
+  },
+  {
     "title": "Dust",
     "release_year": "2005",
     "clean_title": "/film/dust-2005/",
@@ -304,12 +312,12 @@
     "imdb_id": "tt0083162"
   },
   {
-    "title": "My Twentieth Century",
-    "release_year": "1989",
-    "clean_title": "/film/my-twentieth-century/",
+    "title": "Anti-Clock",
+    "release_year": "1979",
+    "clean_title": "/film/anti-clock/",
     "adult": false,
-    "id": 49978,
-    "imdb_id": "tt0096863"
+    "id": 31267,
+    "imdb_id": "tt0166996"
   },
   {
     "title": "The American Astronaut",
@@ -320,12 +328,12 @@
     "imdb_id": "tt0243759"
   },
   {
-    "title": "Aditya 369",
-    "release_year": "1991",
-    "clean_title": "/film/aditya-369/",
+    "title": "My Twentieth Century",
+    "release_year": "1989",
+    "clean_title": "/film/my-twentieth-century/",
     "adult": false,
-    "id": 280363,
-    "imdb_id": "tt0252196"
+    "id": 49978,
+    "imdb_id": "tt0096863"
   },
   {
     "title": "Days of Eclipse",
@@ -334,22 +342,6 @@
     "adult": false,
     "id": 45886,
     "imdb_id": "tt0095040"
-  },
-  {
-    "title": "Anti-Clock",
-    "release_year": "1979",
-    "clean_title": "/film/anti-clock/",
-    "adult": false,
-    "id": 31267,
-    "imdb_id": "tt0166996"
-  },
-  {
-    "title": "The Black Bomber",
-    "release_year": "1992",
-    "clean_title": "/film/the-black-bomber/",
-    "adult": false,
-    "id": 109143,
-    "imdb_id": "tt0104028"
   },
   {
     "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
@@ -368,12 +360,12 @@
     "imdb_id": "tt0108069"
   },
   {
-    "title": "Gwen and the Book of Sand",
-    "release_year": "1985",
-    "clean_title": "/film/gwen-and-the-book-of-sand/",
+    "title": "The Black Bomber",
+    "release_year": "1992",
+    "clean_title": "/film/the-black-bomber/",
     "adult": false,
-    "id": 108048,
-    "imdb_id": "tt0087376"
+    "id": 109143,
+    "imdb_id": "tt0104028"
   },
   {
     "title": "Indru Netru Naalai",
@@ -384,6 +376,14 @@
     "imdb_id": "tt4806232"
   },
   {
+    "title": "Gwen and the Book of Sand",
+    "release_year": "1985",
+    "clean_title": "/film/gwen-and-the-book-of-sand/",
+    "adult": false,
+    "id": 108048,
+    "imdb_id": "tt0087376"
+  },
+  {
     "title": "Arcadia of My Youth",
     "release_year": "1982",
     "clean_title": "/film/space-pirate-captain-harlock-arcadia-of-my-youth/",
@@ -392,11 +392,11 @@
     "imdb_id": "tt0084881"
   },
   {
-    "title": "Single8",
-    "release_year": "2022",
-    "clean_title": "/film/single8/",
+    "title": "Doraemon: Nobita's Dorabian Nights",
+    "release_year": "1991",
+    "clean_title": "/film/doraemon-nobitas-dorabian-nights/",
     "adult": false,
-    "id": 1050319,
-    "imdb_id": "tt30633111"
+    "id": 188403,
+    "imdb_id": "tt1147508"
   }
 ]
