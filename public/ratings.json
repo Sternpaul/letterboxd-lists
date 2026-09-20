@@ -2021,5 +2021,26 @@
     "rating": 4.5,
     "id": 1318413,
     "imdb_id": "tt32547691"
+  },
+  {
+    "title": "Blood Diamond",
+    "clean_title": "/film/blood-diamond/",
+    "rating": 4.5,
+    "id": 1372,
+    "imdb_id": "tt0450259"
+  },
+  {
+    "title": "Lost in Translation",
+    "clean_title": "/film/lost-in-translation/",
+    "rating": 3.5,
+    "id": 153,
+    "imdb_id": "tt0335266"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "clean_title": "/film/zero-dark-thirty/",
+    "rating": 4.5,
+    "id": 97630,
+    "imdb_id": "tt1790885"
   }
 ]
