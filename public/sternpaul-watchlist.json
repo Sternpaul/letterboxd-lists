@@ -1,5 +1,21 @@
 [
   {
+    "title": "Dark Waters",
+    "release_year": "2019",
+    "clean_title": "/film/dark-waters-2019/",
+    "adult": false,
+    "id": 552178,
+    "imdb_id": "tt9071322"
+  },
+  {
+    "title": "Spotlight",
+    "release_year": "2015",
+    "clean_title": "/film/spotlight/",
+    "adult": false,
+    "id": 314365,
+    "imdb_id": "tt1895587"
+  },
+  {
     "title": "Mank",
     "release_year": "2020",
     "clean_title": "/film/mank/",
@@ -2871,14 +2887,6 @@
     "imdb_id": "tt1210166"
   },
   {
-    "title": "Spotlight",
-    "release_year": "2015",
-    "clean_title": "/film/spotlight/",
-    "adult": false,
-    "id": 314365,
-    "imdb_id": "tt1895587"
-  },
-  {
     "title": "Black Swan",
     "release_year": "2010",
     "clean_title": "/film/black-swan/",
@@ -4421,14 +4429,6 @@
     "adult": false,
     "id": 65754,
     "imdb_id": "tt1568346"
-  },
-  {
-    "title": "Zodiac",
-    "release_year": "2007",
-    "clean_title": "/film/zodiac/",
-    "adult": false,
-    "id": 1949,
-    "imdb_id": "tt0443706"
   },
   {
     "title": "War Dogs",
