@@ -48,6 +48,14 @@
     "imdb_id": "tt26657236"
   },
   {
+    "title": "Resident Evil",
+    "release_year": "2026",
+    "clean_title": "/film/resident-evil-2026/",
+    "adult": false,
+    "id": 1423191,
+    "imdb_id": "tt35538033"
+  },
+  {
     "title": "The Fantastic 4: First Steps",
     "release_year": "2025",
     "clean_title": "/film/the-fantastic-4-first-steps/",
@@ -790,13 +798,5 @@
     "adult": false,
     "id": 906126,
     "imdb_id": "tt16277242"
-  },
-  {
-    "title": "Top Gun: Maverick",
-    "release_year": "2022",
-    "clean_title": "/film/top-gun-maverick/",
-    "adult": false,
-    "id": 361743,
-    "imdb_id": "tt1745960"
   }
 ]
