@@ -456,7 +456,7 @@
     "imdb_id": "tt10905902"
   },
   {
-    "title": "OBEX",
+    "title": "Obex",
     "release_year": "2025",
     "clean_title": "/film/obex/",
     "adult": false,
@@ -2532,9 +2532,9 @@
     "imdb_id": "tt9484998"
   },
   {
-    "title": "Bratz: Go to Paris the Movie",
-    "release_year": "2013",
-    "clean_title": "/film/bratz-go-to-paris-the-movie/",
+    "title": "Bratz: Go to Paris",
+    "release_year": "2006",
+    "clean_title": "/film/bratz-go-to-paris/",
     "adult": false,
     "id": 229015,
     "imdb_id": "tt3464004"
@@ -12102,14 +12102,6 @@
     "imdb_id": "tt16419142"
   },
   {
-    "title": "The Outlaws Scarlett & Browne",
-    "release_year": "",
-    "clean_title": "/film/the-outlaws-scarlett-browne/",
-    "adult": false,
-    "id": 940078,
-    "imdb_id": "tt18270670"
-  },
-  {
     "title": "Die My Love",
     "release_year": "2025",
     "clean_title": "/film/die-my-love/",
@@ -12414,9 +12406,9 @@
     "imdb_id": "tt35222590"
   },
   {
-    "title": "The Elephant",
+    "title": "Adult Swim's The Elephant",
     "release_year": "2025",
-    "clean_title": "/film/the-elephant-2025-1/",
+    "clean_title": "/film/adult-swims-the-elephant/",
     "adult": false,
     "id": 1497017,
     "imdb_id": "tt39088896"
@@ -12800,5 +12792,60 @@
     "adult": false,
     "id": 1240889,
     "imdb_id": "tt35298123"
+  },
+  {
+    "title": "Buddy",
+    "release_year": "2026",
+    "clean_title": "/film/buddy-2026/",
+    "adult": false,
+    "id": 1514026,
+    "imdb_id": "tt37281055"
+  },
+  {
+    "title": "You Can See Everything",
+    "release_year": "2026",
+    "clean_title": "/film/you-can-see-everything/",
+    "adult": false,
+    "id": 1765072,
+    "imdb_id": "tt45368240"
+  },
+  {
+    "title": "The Looming",
+    "release_year": "",
+    "clean_title": "/film/the-looming-1/",
+    "adult": false,
+    "id": 1287950,
+    "imdb_id": "tt32332882"
+  },
+  {
+    "title": "Scapegoat",
+    "release_year": "",
+    "clean_title": "/film/scapegoat-3/",
+    "adult": false,
+    "id": 1689505,
+    "imdb_id": "tt42427292"
+  },
+  {
+    "title": "Talk 2 Me",
+    "release_year": "",
+    "clean_title": "/film/talk-2-me/",
+    "adult": false,
+    "id": 1162320,
+    "imdb_id": "tt28618494"
+  },
+  {
+    "title": "Why Don't You Love Me?",
+    "release_year": "",
+    "clean_title": "/film/why-dont-you-love-me-1/",
+    "adult": false,
+    "id": 1314821
+  },
+  {
+    "title": "Death of the Pastor's Wife",
+    "release_year": "2026",
+    "clean_title": "/film/death-of-the-pastors-wife-2026/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt44113382"
   }
 ]

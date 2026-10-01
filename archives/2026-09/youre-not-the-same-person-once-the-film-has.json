@@ -1,19 +1,11 @@
 [
   {
-    "title": "Dancer in the Dark",
-    "release_year": "2000",
-    "clean_title": "/film/dancer-in-the-dark/",
+    "title": "Eyes Wide Shut",
+    "release_year": "1999",
+    "clean_title": "/film/eyes-wide-shut/",
     "adult": false,
-    "id": 16,
-    "imdb_id": "tt0168629"
-  },
-  {
-    "title": "Antiporno",
-    "release_year": "2016",
-    "clean_title": "/film/antiporno/",
-    "adult": false,
-    "id": 414770,
-    "imdb_id": "tt5973032"
+    "id": 345,
+    "imdb_id": "tt0120663"
   },
   {
     "title": "Primer",
@@ -24,6 +16,14 @@
     "imdb_id": "tt0390384"
   },
   {
+    "title": "Aftersun",
+    "release_year": "2022",
+    "clean_title": "/film/aftersun/",
+    "adult": false,
+    "id": 965150,
+    "imdb_id": "tt19770238"
+  },
+  {
     "title": "Happiness",
     "release_year": "1998",
     "clean_title": "/film/happiness/",
@@ -32,28 +32,12 @@
     "imdb_id": "tt0147612"
   },
   {
-    "title": "All These Sleepless Nights",
-    "release_year": "2016",
-    "clean_title": "/film/all-these-sleepless-nights/",
+    "title": "Dancer in the Dark",
+    "release_year": "2000",
+    "clean_title": "/film/dancer-in-the-dark/",
     "adult": false,
-    "id": 376386,
-    "imdb_id": "tt5146068"
-  },
-  {
-    "title": "Obsession",
-    "release_year": "2025",
-    "clean_title": "/film/obsession-2025/",
-    "adult": false,
-    "id": 1339713,
-    "imdb_id": "tt37287335"
-  },
-  {
-    "title": "Roar",
-    "release_year": "1981",
-    "clean_title": "/film/roar/",
-    "adult": false,
-    "id": 2989,
-    "imdb_id": "tt0083001"
+    "id": 16,
+    "imdb_id": "tt0168629"
   },
   {
     "title": "Audition",
@@ -64,12 +48,12 @@
     "imdb_id": "tt0235198"
   },
   {
-    "title": "The Strange Thing About the Johnsons",
-    "release_year": "2011",
-    "clean_title": "/film/the-strange-thing-about-the-johnsons/",
+    "title": "Revenge",
+    "release_year": "2017",
+    "clean_title": "/film/revenge-2017/",
     "adult": false,
-    "id": 164052,
-    "imdb_id": "tt1772398"
+    "id": 467938,
+    "imdb_id": "tt6738136"
   },
   {
     "title": "Beyond the Black Rainbow",
@@ -192,14 +176,6 @@
     "imdb_id": "tt1602613"
   },
   {
-    "title": "Lost River",
-    "release_year": "2014",
-    "clean_title": "/film/lost-river/",
-    "adult": false,
-    "id": 167810,
-    "imdb_id": "tt2366608"
-  },
-  {
     "title": "Paris Is Burning",
     "release_year": "1990",
     "clean_title": "/film/paris-is-burning/",
@@ -216,12 +192,12 @@
     "imdb_id": "tt0311740"
   },
   {
-    "title": "Backrooms",
-    "release_year": "2026",
-    "clean_title": "/film/backrooms-2026/",
+    "title": "The Strange Thing About the Johnsons",
+    "release_year": "2011",
+    "clean_title": "/film/the-strange-thing-about-the-johnsons/",
     "adult": false,
-    "id": 1083381,
-    "imdb_id": "tt26657236"
+    "id": 164052,
+    "imdb_id": "tt1772398"
   },
   {
     "title": "Friendship",
@@ -230,6 +206,14 @@
     "adult": false,
     "id": 1239655,
     "imdb_id": "tt30505698"
+  },
+  {
+    "title": "All These Sleepless Nights",
+    "release_year": "2016",
+    "clean_title": "/film/all-these-sleepless-nights/",
+    "adult": false,
+    "id": 376386,
+    "imdb_id": "tt5146068"
   },
   {
     "title": "My Psychedelic Love Story",
@@ -280,12 +264,28 @@
     "imdb_id": "tt12300742"
   },
   {
+    "title": "Obsession",
+    "release_year": "2025",
+    "clean_title": "/film/obsession-2025/",
+    "adult": false,
+    "id": 1339713,
+    "imdb_id": "tt37287335"
+  },
+  {
     "title": "The Room",
     "release_year": "2003",
     "clean_title": "/film/the-room/",
     "adult": false,
     "id": 17473,
     "imdb_id": "tt0368226"
+  },
+  {
+    "title": "Roar",
+    "release_year": "1981",
+    "clean_title": "/film/roar/",
+    "adult": false,
+    "id": 2989,
+    "imdb_id": "tt0083001"
   },
   {
     "title": "Blue Is the Warmest Color",
@@ -398,6 +398,14 @@
     "adult": false,
     "id": 12703,
     "imdb_id": "tt0330099"
+  },
+  {
+    "title": "Backrooms",
+    "release_year": "2026",
+    "clean_title": "/film/backrooms-2026/",
+    "adult": false,
+    "id": 1083381,
+    "imdb_id": "tt26657236"
   },
   {
     "title": "High Life",
@@ -534,6 +542,14 @@
     "adult": false,
     "id": 17609,
     "imdb_id": "tt0870984"
+  },
+  {
+    "title": "Lost River",
+    "release_year": "2014",
+    "clean_title": "/film/lost-river/",
+    "adult": false,
+    "id": 167810,
+    "imdb_id": "tt2366608"
   },
   {
     "title": "Gattaca",
@@ -767,12 +783,12 @@
     "imdb_id": "tt0460829"
   },
   {
-    "title": "Revenge",
-    "release_year": "2017",
-    "clean_title": "/film/revenge-2017/",
+    "title": "Antiporno",
+    "release_year": "2016",
+    "clean_title": "/film/antiporno/",
     "adult": false,
-    "id": 467938,
-    "imdb_id": "tt6738136"
+    "id": 414770,
+    "imdb_id": "tt5973032"
   },
   {
     "title": "Atman",
@@ -901,6 +917,22 @@
     "adult": false,
     "id": 1791,
     "imdb_id": "tt0254686"
+  },
+  {
+    "title": "Good Time",
+    "release_year": "2017",
+    "clean_title": "/film/good-time/",
+    "adult": false,
+    "id": 429200,
+    "imdb_id": "tt4846232"
+  },
+  {
+    "title": "Christiane F.",
+    "release_year": "1981",
+    "clean_title": "/film/christiane-f/",
+    "adult": false,
+    "id": 9589,
+    "imdb_id": "tt0082176"
   },
   {
     "title": "Annihilation",
@@ -1318,14 +1350,6 @@
     "imdb_id": "tt8099132"
   },
   {
-    "title": "On Body and Soul",
-    "release_year": "2017",
-    "clean_title": "/film/on-body-and-soul/",
-    "adult": false,
-    "id": 436343,
-    "imdb_id": "tt5607714"
-  },
-  {
     "title": "In the Mood for Love",
     "release_year": "2000",
     "clean_title": "/film/in-the-mood-for-love/",
@@ -1380,6 +1404,14 @@
     "adult": false,
     "id": 407890,
     "imdb_id": "tt5340300"
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "release_year": "1982",
+    "clean_title": "/film/koyaanisqatsi/",
+    "adult": false,
+    "id": 11314,
+    "imdb_id": "tt0085809"
   },
   {
     "title": "The Substance",
@@ -1942,6 +1974,14 @@
     "imdb_id": "tt5990474"
   },
   {
+    "title": "I Want Your Sex",
+    "release_year": "2026",
+    "clean_title": "/film/i-want-your-sex/",
+    "adult": false,
+    "id": 1288059,
+    "imdb_id": "tt32332915"
+  },
+  {
     "title": "Ex Machina",
     "release_year": "2015",
     "clean_title": "/film/ex-machina-2015/",
@@ -1980,22 +2020,6 @@
     "adult": false,
     "id": 68730,
     "imdb_id": "tt0490215"
-  },
-  {
-    "title": "Eyes Wide Shut",
-    "release_year": "1999",
-    "clean_title": "/film/eyes-wide-shut/",
-    "adult": false,
-    "id": 345,
-    "imdb_id": "tt0120663"
-  },
-  {
-    "title": "Good Time",
-    "release_year": "2017",
-    "clean_title": "/film/good-time/",
-    "adult": false,
-    "id": 429200,
-    "imdb_id": "tt4846232"
   },
   {
     "title": "Dìdi (弟弟)",
@@ -2566,6 +2590,14 @@
     "imdb_id": "tt0112913"
   },
   {
+    "title": "Eat My Shit",
+    "release_year": "2015",
+    "clean_title": "/film/eat-my-shit/",
+    "adult": false,
+    "id": 325226,
+    "imdb_id": "tt4437262"
+  },
+  {
     "title": "Synecdoche, New York",
     "release_year": "2008",
     "clean_title": "/film/synecdoche-new-york/",
@@ -2580,6 +2612,14 @@
     "adult": false,
     "id": 77,
     "imdb_id": "tt0209144"
+  },
+  {
+    "title": "Thunder Road",
+    "release_year": "2016",
+    "clean_title": "/film/thunder-road-2016/",
+    "adult": false,
+    "id": 379959,
+    "imdb_id": "tt5116560"
   },
   {
     "title": "Out-Takes from the Life of a Happy Man",
@@ -2702,6 +2742,14 @@
     "imdb_id": "tt0073198"
   },
   {
+    "title": "The Favourite",
+    "release_year": "2018",
+    "clean_title": "/film/the-favourite/",
+    "adult": false,
+    "id": 375262,
+    "imdb_id": "tt5083738"
+  },
+  {
     "title": "Malcolm X",
     "release_year": "1992",
     "clean_title": "/film/malcolm-x-1992/",
@@ -2750,14 +2798,6 @@
     "imdb_id": "tt14849194"
   },
   {
-    "title": "Thunder Road",
-    "release_year": "2016",
-    "clean_title": "/film/thunder-road-2016/",
-    "adult": false,
-    "id": 379959,
-    "imdb_id": "tt5116560"
-  },
-  {
     "title": "Possession",
     "release_year": "1981",
     "clean_title": "/film/possession/",
@@ -2774,28 +2814,12 @@
     "imdb_id": "tt30268321"
   },
   {
-    "title": "Aftersun",
-    "release_year": "2022",
-    "clean_title": "/film/aftersun/",
-    "adult": false,
-    "id": 965150,
-    "imdb_id": "tt19770238"
-  },
-  {
     "title": "Chinatown",
     "release_year": "1974",
     "clean_title": "/film/chinatown/",
     "adult": false,
     "id": 829,
     "imdb_id": "tt0071315"
-  },
-  {
-    "title": "Eat My Shit",
-    "release_year": "2015",
-    "clean_title": "/film/eat-my-shit/",
-    "adult": false,
-    "id": 325226,
-    "imdb_id": "tt4437262"
   },
   {
     "title": "Before Sunrise",
@@ -2812,14 +2836,6 @@
     "adult": false,
     "id": 265177,
     "imdb_id": "tt3612616"
-  },
-  {
-    "title": "Koyaanisqatsi",
-    "release_year": "1982",
-    "clean_title": "/film/koyaanisqatsi/",
-    "adult": false,
-    "id": 11314,
-    "imdb_id": "tt0085809"
   },
   {
     "title": "La Jetée",
@@ -2860,14 +2876,6 @@
     "adult": false,
     "id": 489412,
     "imdb_id": "tt2396224"
-  },
-  {
-    "title": "The Favourite",
-    "release_year": "2018",
-    "clean_title": "/film/the-favourite/",
-    "adult": false,
-    "id": 375262,
-    "imdb_id": "tt5083738"
   },
   {
     "title": "We Are Who We Are",

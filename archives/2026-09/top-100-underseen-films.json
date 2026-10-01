@@ -80,20 +80,20 @@
     "imdb_id": "tt10300570"
   },
   {
-    "title": "Edvard Munch",
-    "release_year": "1974",
-    "clean_title": "/film/edvard-munch/",
-    "adult": false,
-    "id": 50254,
-    "imdb_id": "tt0074462"
-  },
-  {
     "title": "Death of Yazdgerd",
     "release_year": "1982",
     "clean_title": "/film/death-of-yazdgerd/",
     "adult": false,
     "id": 266225,
     "imdb_id": "tt0084304"
+  },
+  {
+    "title": "Edvard Munch",
+    "release_year": "1974",
+    "clean_title": "/film/edvard-munch/",
+    "adult": false,
+    "id": 50254,
+    "imdb_id": "tt0074462"
   },
   {
     "title": "Devils on the Doorstep",
@@ -136,20 +136,20 @@
     "imdb_id": "tt0057277"
   },
   {
-    "title": "Voices Through Time",
-    "release_year": "1996",
-    "clean_title": "/film/voices-through-time/",
-    "adult": false,
-    "id": 202253,
-    "imdb_id": "tt0118098"
-  },
-  {
     "title": "Anbe Sivam",
     "release_year": "2003",
     "clean_title": "/film/anbe-sivam/",
     "adult": false,
     "id": 26910,
     "imdb_id": "tt0367495"
+  },
+  {
+    "title": "Voices Through Time",
+    "release_year": "1996",
+    "clean_title": "/film/voices-through-time/",
+    "adult": false,
+    "id": 202253,
+    "imdb_id": "tt0118098"
   },
   {
     "title": "Happy Hour",
@@ -200,14 +200,6 @@
     "imdb_id": "tt0051093"
   },
   {
-    "title": "Virumaandi",
-    "release_year": "2004",
-    "clean_title": "/film/virumaandi/",
-    "adult": false,
-    "id": 66340,
-    "imdb_id": "tt0364647"
-  },
-  {
     "title": "Demons",
     "release_year": "1971",
     "clean_title": "/film/demons-1971/",
@@ -216,12 +208,20 @@
     "imdb_id": "tt0165473"
   },
   {
-    "title": "The Weeping Meadow",
+    "title": "Virumaandi",
     "release_year": "2004",
-    "clean_title": "/film/the-weeping-meadow/",
+    "clean_title": "/film/virumaandi/",
     "adult": false,
-    "id": 37952,
-    "imdb_id": "tt0366721"
+    "id": 66340,
+    "imdb_id": "tt0364647"
+  },
+  {
+    "title": "Rio, Northern Zone",
+    "release_year": "1957",
+    "clean_title": "/film/rio-northern-zone/",
+    "adult": false,
+    "id": 146904,
+    "imdb_id": "tt0050919"
   },
   {
     "title": "The Message",
@@ -232,12 +232,12 @@
     "imdb_id": "tt0075143"
   },
   {
-    "title": "Rio, Northern Zone",
-    "release_year": "1957",
-    "clean_title": "/film/rio-northern-zone/",
+    "title": "The Weeping Meadow",
+    "release_year": "2004",
+    "clean_title": "/film/the-weeping-meadow/",
     "adult": false,
-    "id": 146904,
-    "imdb_id": "tt0050919"
+    "id": 37952,
+    "imdb_id": "tt0366721"
   },
   {
     "title": "The Shop on Main Street",
@@ -264,12 +264,20 @@
     "imdb_id": "tt0303720"
   },
   {
-    "title": "Satluj",
-    "release_year": "2026",
-    "clean_title": "/film/satluj-2026/",
+    "title": "Space Runaway Ideon: Be Invoked",
+    "release_year": "1982",
+    "clean_title": "/film/space-runaway-ideon-be-invoked/",
     "adult": false,
-    "id": 1155818,
-    "imdb_id": "tt28089784"
+    "id": 67851,
+    "imdb_id": "tt1015980"
+  },
+  {
+    "title": "Gintama the Movie 2026: Yoshiwara in Flames",
+    "release_year": "2026",
+    "clean_title": "/film/gintama-the-movie-2026-yoshiwara-in-flames/",
+    "adult": false,
+    "id": 1530941,
+    "imdb_id": "tt37931873"
   },
   {
     "title": "Evolution of a Filipino Family",
@@ -280,20 +288,12 @@
     "imdb_id": "tt0424062"
   },
   {
-    "title": "Space Runaway Ideon: Be Invoked",
-    "release_year": "1982",
-    "clean_title": "/film/space-runaway-ideon-be-invoked/",
+    "title": "Satluj",
+    "release_year": "2026",
+    "clean_title": "/film/satluj-2026/",
     "adult": false,
-    "id": 67851,
-    "imdb_id": "tt1015980"
-  },
-  {
-    "title": "The Emigrants",
-    "release_year": "1971",
-    "clean_title": "/film/the-emigrants/",
-    "adult": false,
-    "id": 40732,
-    "imdb_id": "tt0067919"
+    "id": 1155818,
+    "imdb_id": "tt28089784"
   },
   {
     "title": "The Given Word",
@@ -304,12 +304,20 @@
     "imdb_id": "tt0056322"
   },
   {
-    "title": "Yearning",
-    "release_year": "1964",
-    "clean_title": "/film/yearning/",
+    "title": "Pariyerum Perumal",
+    "release_year": "2018",
+    "clean_title": "/film/pariyerum-perumal/",
     "adult": false,
-    "id": 111398,
-    "imdb_id": "tt0058349"
+    "id": 462718,
+    "imdb_id": "tt8176054"
+  },
+  {
+    "title": "The Emigrants",
+    "release_year": "1971",
+    "clean_title": "/film/the-emigrants/",
+    "adult": false,
+    "id": 40732,
+    "imdb_id": "tt0067919"
   },
   {
     "title": "Roots",
@@ -320,12 +328,12 @@
     "imdb_id": "tt0281063"
   },
   {
-    "title": "Pariyerum Perumal",
-    "release_year": "2018",
-    "clean_title": "/film/pariyerum-perumal/",
+    "title": "Yearning",
+    "release_year": "1964",
+    "clean_title": "/film/yearning/",
     "adult": false,
-    "id": 462718,
-    "imdb_id": "tt8176054"
+    "id": 111398,
+    "imdb_id": "tt0058349"
   },
   {
     "title": "Blue Mountains, or an Unbelievable Story",
@@ -336,20 +344,20 @@
     "imdb_id": "tt0087349"
   },
   {
-    "title": "Pastoral: To Die in the Country",
-    "release_year": "1974",
-    "clean_title": "/film/pastoral-to-die-in-the-country/",
-    "adult": false,
-    "id": 104251,
-    "imdb_id": "tt0071406"
-  },
-  {
     "title": "Revolutionary Girl Utena: The Movie",
     "release_year": "1999",
     "clean_title": "/film/revolutionary-girl-utena-the-movie/",
     "adult": false,
     "id": 19738,
     "imdb_id": "tt0243558"
+  },
+  {
+    "title": "Pastoral: To Die in the Country",
+    "release_year": "1974",
+    "clean_title": "/film/pastoral-to-die-in-the-country/",
+    "adult": false,
+    "id": 104251,
+    "imdb_id": "tt0071406"
   },
   {
     "title": "Early Summer",
@@ -368,14 +376,6 @@
     "imdb_id": "tt0101649"
   },
   {
-    "title": "Die Nibelungen: Siegfried",
-    "release_year": "1924",
-    "clean_title": "/film/die-nibelungen-siegfried/",
-    "adult": false,
-    "id": 31506,
-    "imdb_id": "tt0015175"
-  },
-  {
     "title": "All That's Left of You",
     "release_year": "2025",
     "clean_title": "/film/all-thats-left-of-you/",
@@ -384,12 +384,12 @@
     "imdb_id": "tt29344894"
   },
   {
-    "title": "The Life of Oharu",
-    "release_year": "1952",
-    "clean_title": "/film/the-life-of-oharu/",
+    "title": "Die Nibelungen: Siegfried",
+    "release_year": "1924",
+    "clean_title": "/film/die-nibelungen-siegfried/",
     "adult": false,
-    "id": 43364,
-    "imdb_id": "tt0045112"
+    "id": 31506,
+    "imdb_id": "tt0015175"
   },
   {
     "title": "Marketa Lazarová",
@@ -398,6 +398,14 @@
     "adult": false,
     "id": 25904,
     "imdb_id": "tt0063278"
+  },
+  {
+    "title": "The Life of Oharu",
+    "release_year": "1952",
+    "clean_title": "/film/the-life-of-oharu/",
+    "adult": false,
+    "id": 43364,
+    "imdb_id": "tt0045112"
   },
   {
     "title": "La Belle Noiseuse",
@@ -416,14 +424,6 @@
     "imdb_id": "tt3303310"
   },
   {
-    "title": "Day of Wrath",
-    "release_year": "1943",
-    "clean_title": "/film/day-of-wrath/",
-    "adult": false,
-    "id": 41391,
-    "imdb_id": "tt0036506"
-  },
-  {
     "title": "Pyaasa",
     "release_year": "1957",
     "clean_title": "/film/pyaasa/",
@@ -432,20 +432,20 @@
     "imdb_id": "tt0050870"
   },
   {
+    "title": "Day of Wrath",
+    "release_year": "1943",
+    "clean_title": "/film/day-of-wrath/",
+    "adult": false,
+    "id": 41391,
+    "imdb_id": "tt0036506"
+  },
+  {
     "title": "When a Woman Ascends the Stairs",
     "release_year": "1960",
     "clean_title": "/film/when-a-woman-ascends-the-stairs/",
     "adult": false,
     "id": 36872,
     "imdb_id": "tt0054144"
-  },
-  {
-    "title": "Pretty Village, Pretty Flame",
-    "release_year": "1996",
-    "clean_title": "/film/pretty-village-pretty-flame/",
-    "adult": false,
-    "id": 29927,
-    "imdb_id": "tt0116860"
   },
   {
     "title": "Patlabor 2: The Movie",
@@ -464,6 +464,14 @@
     "imdb_id": "tt0041452"
   },
   {
+    "title": "Pretty Village, Pretty Flame",
+    "release_year": "1996",
+    "clean_title": "/film/pretty-village-pretty-flame/",
+    "adult": false,
+    "id": 29927,
+    "imdb_id": "tt0116860"
+  },
+  {
     "title": "So Long, My Son",
     "release_year": "2019",
     "clean_title": "/film/so-long-my-son/",
@@ -472,20 +480,20 @@
     "imdb_id": "tt9581076"
   },
   {
-    "title": "Haru",
-    "release_year": "1996",
-    "clean_title": "/film/haru/",
-    "adult": false,
-    "id": 261560,
-    "imdb_id": "tt0115431"
-  },
-  {
     "title": "Charulata",
     "release_year": "1964",
     "clean_title": "/film/charulata/",
     "adult": false,
     "id": 35790,
     "imdb_id": "tt0057935"
+  },
+  {
+    "title": "Haru",
+    "release_year": "1996",
+    "clean_title": "/film/haru/",
+    "adult": false,
+    "id": 261560,
+    "imdb_id": "tt0115431"
   },
   {
     "title": "The Garden of Sinners: Paradox Spiral",
@@ -504,12 +512,12 @@
     "imdb_id": "tt0107736"
   },
   {
-    "title": "Jacquot de Nantes",
-    "release_year": "1991",
-    "clean_title": "/film/jacquot-de-nantes/",
+    "title": "Iruvar",
+    "release_year": "1997",
+    "clean_title": "/film/iddaru/",
     "adult": false,
-    "id": 41789,
-    "imdb_id": "tt0102141"
+    "id": 49032,
+    "imdb_id": "tt0119385"
   },
   {
     "title": "Welcome Back, Mr. McDonald",
@@ -520,12 +528,20 @@
     "imdb_id": "tt0133170"
   },
   {
-    "title": "Iruvar",
-    "release_year": "1997",
-    "clean_title": "/film/iddaru/",
+    "title": "Jacquot de Nantes",
+    "release_year": "1991",
+    "clean_title": "/film/jacquot-de-nantes/",
     "adult": false,
-    "id": 49032,
-    "imdb_id": "tt0119385"
+    "id": 41789,
+    "imdb_id": "tt0102141"
+  },
+  {
+    "title": "Moral",
+    "release_year": "1982",
+    "clean_title": "/film/moral/",
+    "adult": false,
+    "id": 253805,
+    "imdb_id": "tt0279238"
   },
   {
     "title": "Gintama: The Final Chapter - Be Forever Yorozuya",
@@ -544,52 +560,12 @@
     "imdb_id": "tt0093509"
   },
   {
-    "title": "Moral",
-    "release_year": "1982",
-    "clean_title": "/film/moral/",
-    "adult": false,
-    "id": 253805,
-    "imdb_id": "tt0279238"
-  },
-  {
-    "title": "Riceboy Sleeps",
-    "release_year": "2022",
-    "clean_title": "/film/riceboy-sleeps/",
-    "adult": false,
-    "id": 1008038,
-    "imdb_id": "tt13456340"
-  },
-  {
     "title": "Kit Kat",
     "release_year": "1991",
     "clean_title": "/film/kit-kat/",
     "adult": false,
     "id": 68738,
     "imdb_id": "tt0102223"
-  },
-  {
-    "title": "Sunny",
-    "release_year": "2011",
-    "clean_title": "/film/sunny-2011/",
-    "adult": false,
-    "id": 77117,
-    "imdb_id": "tt1937339"
-  },
-  {
-    "title": "Ulysses' Gaze",
-    "release_year": "1995",
-    "clean_title": "/film/ulysses-gaze/",
-    "adult": false,
-    "id": 22549,
-    "imdb_id": "tt0114863"
-  },
-  {
-    "title": "The Naked Island",
-    "release_year": "1960",
-    "clean_title": "/film/the-naked-island/",
-    "adult": false,
-    "id": 3764,
-    "imdb_id": "tt0056049"
   },
   {
     "title": "Father of a Soldier",
@@ -600,36 +576,60 @@
     "imdb_id": "tt0169828"
   },
   {
+    "title": "Riceboy Sleeps",
+    "release_year": "2022",
+    "clean_title": "/film/riceboy-sleeps/",
+    "adult": false,
+    "id": 1008038,
+    "imdb_id": "tt13456340"
+  },
+  {
+    "title": "Sunny",
+    "release_year": "2011",
+    "clean_title": "/film/sunny-2011/",
+    "adult": false,
+    "id": 77117,
+    "imdb_id": "tt1937339"
+  },
+  {
+    "title": "The Naked Island",
+    "release_year": "1960",
+    "clean_title": "/film/the-naked-island/",
+    "adult": false,
+    "id": 3764,
+    "imdb_id": "tt0056049"
+  },
+  {
+    "title": "Ulysses' Gaze",
+    "release_year": "1995",
+    "clean_title": "/film/ulysses-gaze/",
+    "adult": false,
+    "id": 22549,
+    "imdb_id": "tt0114863"
+  },
+  {
+    "title": "The Legend of Hei 2",
+    "release_year": "2025",
+    "clean_title": "/film/the-legend-of-hei-2/",
+    "adult": false,
+    "id": 1144107,
+    "imdb_id": "tt37284198"
+  },
+  {
+    "title": "Kireedam",
+    "release_year": "1989",
+    "clean_title": "/film/kireedam-1989/",
+    "adult": false,
+    "id": 191017,
+    "imdb_id": "tt0237376"
+  },
+  {
     "title": "The Mother and the Whore",
     "release_year": "1973",
     "clean_title": "/film/the-mother-and-the-whore/",
     "adult": false,
     "id": 48693,
     "imdb_id": "tt0070359"
-  },
-  {
-    "title": "Portrait of a Young Girl at the End of the 60s in Brussels",
-    "release_year": "1994",
-    "clean_title": "/film/portrait-of-a-young-girl-at-the-end-of-the-60s-in-brussels/",
-    "adult": false,
-    "id": 124485,
-    "imdb_id": "tt0110873"
-  },
-  {
-    "title": "Cosy Dens",
-    "release_year": "1999",
-    "clean_title": "/film/cosy-dens/",
-    "adult": false,
-    "id": 15387,
-    "imdb_id": "tt0167331"
-  },
-  {
-    "title": "El Sur",
-    "release_year": "1983",
-    "clean_title": "/film/el-sur/",
-    "adult": false,
-    "id": 48139,
-    "imdb_id": "tt0084740"
   },
   {
     "title": "Repentance",
@@ -640,12 +640,52 @@
     "imdb_id": "tt0093754"
   },
   {
-    "title": "The Legend of Hei 2",
-    "release_year": "2025",
-    "clean_title": "/film/the-legend-of-hei-2/",
+    "title": "El Sur",
+    "release_year": "1983",
+    "clean_title": "/film/el-sur/",
     "adult": false,
-    "id": 1144107,
-    "imdb_id": "tt37284198"
+    "id": 48139,
+    "imdb_id": "tt0084740"
+  },
+  {
+    "title": "Cosy Dens",
+    "release_year": "1999",
+    "clean_title": "/film/cosy-dens/",
+    "adult": false,
+    "id": 15387,
+    "imdb_id": "tt0167331"
+  },
+  {
+    "title": "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back",
+    "release_year": "2001",
+    "clean_title": "/film/crayon-shin-chan-the-storm-called-the-adult/",
+    "adult": false,
+    "id": 37280,
+    "imdb_id": "tt0831848"
+  },
+  {
+    "title": "They Don't Wear Black Tie",
+    "release_year": "1981",
+    "clean_title": "/film/they-dont-wear-black-tie/",
+    "adult": false,
+    "id": 203158,
+    "imdb_id": "tt0082317"
+  },
+  {
+    "title": "Portrait of a Young Girl at the End of the 60s in Brussels",
+    "release_year": "1994",
+    "clean_title": "/film/portrait-of-a-young-girl-at-the-end-of-the-60s-in-brussels/",
+    "adult": false,
+    "id": 124485,
+    "imdb_id": "tt0110873"
+  },
+  {
+    "title": "C/o Kancharapalem",
+    "release_year": "2018",
+    "clean_title": "/film/c-o-kancharapalem/",
+    "adult": false,
+    "id": 544795,
+    "imdb_id": "tt7391996"
   },
   {
     "title": "Dead Man's Letters",
@@ -664,28 +704,12 @@
     "imdb_id": "tt0087608"
   },
   {
-    "title": "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back",
-    "release_year": "2001",
-    "clean_title": "/film/crayon-shin-chan-the-storm-called-the-adult/",
-    "adult": false,
-    "id": 37280,
-    "imdb_id": "tt0831848"
-  },
-  {
     "title": "Twenty-Four Eyes",
     "release_year": "1954",
     "clean_title": "/film/twenty-four-eyes/",
     "adult": false,
     "id": 43339,
     "imdb_id": "tt0047281"
-  },
-  {
-    "title": "Kireedam",
-    "release_year": "1989",
-    "clean_title": "/film/kireedam-1989/",
-    "adult": false,
-    "id": 191017,
-    "imdb_id": "tt0237376"
   },
   {
     "title": "A Story from Chikamatsu",
@@ -704,14 +728,6 @@
     "imdb_id": "tt0100271"
   },
   {
-    "title": "The Travelling Players",
-    "release_year": "1975",
-    "clean_title": "/film/the-travelling-players/",
-    "adult": false,
-    "id": 689,
-    "imdb_id": "tt0073800"
-  },
-  {
     "title": "Il Posto",
     "release_year": "1961",
     "clean_title": "/film/il-posto/",
@@ -720,20 +736,20 @@
     "imdb_id": "tt0055320"
   },
   {
-    "title": "They Don't Wear Black Tie",
-    "release_year": "1981",
-    "clean_title": "/film/they-dont-wear-black-tie/",
+    "title": "The Hero",
+    "release_year": "1966",
+    "clean_title": "/film/the-hero-1966/",
     "adult": false,
-    "id": 203158,
-    "imdb_id": "tt0082317"
+    "id": 112999,
+    "imdb_id": "tt0060742"
   },
   {
-    "title": "The Time That Remains",
-    "release_year": "2009",
-    "clean_title": "/film/the-time-that-remains/",
+    "title": "The Travelling Players",
+    "release_year": "1975",
+    "clean_title": "/film/the-travelling-players/",
     "adult": false,
-    "id": 44898,
-    "imdb_id": "tt1037163"
+    "id": 689,
+    "imdb_id": "tt0073800"
   },
   {
     "title": "Ballad of a Soldier",
@@ -742,6 +758,14 @@
     "adult": false,
     "id": 46592,
     "imdb_id": "tt0052600"
+  },
+  {
+    "title": "The Time That Remains",
+    "release_year": "2009",
+    "clean_title": "/film/the-time-that-remains/",
+    "adult": false,
+    "id": 44898,
+    "imdb_id": "tt1037163"
   },
   {
     "title": "The Burmese Harp",
@@ -760,22 +784,6 @@
     "imdb_id": "tt0072248"
   },
   {
-    "title": "The Hero",
-    "release_year": "1966",
-    "clean_title": "/film/the-hero-1966/",
-    "adult": false,
-    "id": 112999,
-    "imdb_id": "tt0060742"
-  },
-  {
-    "title": "C/o Kancharapalem",
-    "release_year": "2018",
-    "clean_title": "/film/c-o-kancharapalem/",
-    "adult": false,
-    "id": 544795,
-    "imdb_id": "tt7391996"
-  },
-  {
     "title": "Zoku Owarimonogatari",
     "release_year": "2018",
     "clean_title": "/film/zoku-owarimonogatari/",
@@ -784,19 +792,11 @@
     "imdb_id": "tt9266104"
   },
   {
-    "title": "Canoa: A Shameful Memory",
-    "release_year": "1975",
-    "clean_title": "/film/canoa-a-shameful-memory/",
+    "title": "The Eccentrics",
+    "release_year": "1974",
+    "clean_title": "/film/the-eccentrics-1974/",
     "adult": false,
-    "id": 116982,
-    "imdb_id": "tt0131335"
-  },
-  {
-    "title": "Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
-    "release_year": "2022",
-    "clean_title": "/film/kaguya-sama-love-is-war-the-first-kiss-that-never-ends/",
-    "adult": false,
-    "id": 997317,
-    "imdb_id": "tt23770418"
+    "id": 371486,
+    "imdb_id": "tt0175157"
   }
 ]

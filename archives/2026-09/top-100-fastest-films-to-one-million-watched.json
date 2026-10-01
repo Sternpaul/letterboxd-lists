@@ -48,6 +48,14 @@
     "imdb_id": "tt26657236"
   },
   {
+    "title": "Resident Evil",
+    "release_year": "2026",
+    "clean_title": "/film/resident-evil-2026/",
+    "adult": false,
+    "id": 1423191,
+    "imdb_id": "tt35538033"
+  },
+  {
     "title": "The Fantastic 4: First Steps",
     "release_year": "2025",
     "clean_title": "/film/the-fantastic-4-first-steps/",
@@ -368,6 +376,14 @@
     "imdb_id": "tt23468450"
   },
   {
+    "title": "The Invite",
+    "release_year": "2026",
+    "clean_title": "/film/the-invite-2026/",
+    "adult": false,
+    "id": 950028,
+    "imdb_id": "tt14173636"
+  },
+  {
     "title": "The Sheep Detectives",
     "release_year": "2026",
     "clean_title": "/film/the-sheep-detectives/",
@@ -624,6 +640,14 @@
     "imdb_id": "tt17009710"
   },
   {
+    "title": "Five Nights at Freddy's 2",
+    "release_year": "2025",
+    "clean_title": "/film/five-nights-at-freddys-2/",
+    "adult": false,
+    "id": 1228246,
+    "imdb_id": "tt30274401"
+  },
+  {
     "title": "Beetlejuice Beetlejuice",
     "release_year": "2024",
     "clean_title": "/film/beetlejuice-beetlejuice/",
@@ -670,6 +694,14 @@
     "adult": false,
     "id": 646380,
     "imdb_id": "tt11286314"
+  },
+  {
+    "title": "Eternity",
+    "release_year": "2025",
+    "clean_title": "/film/eternity-2025-1/",
+    "adult": false,
+    "id": 1259102,
+    "imdb_id": "tt24950660"
   },
   {
     "title": "Past Lives",
@@ -766,37 +798,5 @@
     "adult": false,
     "id": 906126,
     "imdb_id": "tt16277242"
-  },
-  {
-    "title": "Top Gun: Maverick",
-    "release_year": "2022",
-    "clean_title": "/film/top-gun-maverick/",
-    "adult": false,
-    "id": 361743,
-    "imdb_id": "tt1745960"
-  },
-  {
-    "title": "Babygirl",
-    "release_year": "2024",
-    "clean_title": "/film/babygirl-2024/",
-    "adult": false,
-    "id": 1097549,
-    "imdb_id": "tt30057084"
-  },
-  {
-    "title": "The Fall Guy",
-    "release_year": "2024",
-    "clean_title": "/film/the-fall-guy-2024/",
-    "adult": false,
-    "id": 746036,
-    "imdb_id": "tt1684562"
-  },
-  {
-    "title": "Flow",
-    "release_year": "2024",
-    "clean_title": "/film/flow-2024/",
-    "adult": false,
-    "id": 823219,
-    "imdb_id": "tt4772188"
   }
 ]

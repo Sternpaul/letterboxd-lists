@@ -8,6 +8,22 @@
     "imdb_id": "tt10432662"
   },
   {
+    "title": "La Gradiva",
+    "release_year": "2026",
+    "clean_title": "/film/la-gradiva/",
+    "adult": false,
+    "id": 1154730,
+    "imdb_id": "tt36107185"
+  },
+  {
+    "title": "Tangles",
+    "release_year": "2026",
+    "clean_title": "/film/tangles/",
+    "adult": false,
+    "id": 1316999,
+    "imdb_id": "tt22183852"
+  },
+  {
     "title": "Wasteland",
     "release_year": "2019",
     "clean_title": "/film/wasteland-2019-1/",
@@ -24,20 +40,12 @@
     "imdb_id": "tt0108383"
   },
   {
-    "title": "Kukaracha",
-    "release_year": "1982",
-    "clean_title": "/film/kukaracha/",
+    "title": "Cucaracha",
+    "release_year": "1983",
+    "clean_title": "/film/cucaracha-1983/",
     "adult": false,
     "id": 146969,
     "imdb_id": "tt0253191"
-  },
-  {
-    "title": "Josephine",
-    "release_year": "2026",
-    "clean_title": "/film/josephine-2026/",
-    "adult": false,
-    "id": 1299329,
-    "imdb_id": "tt32321285"
   },
   {
     "title": "Compensation",
@@ -48,28 +56,12 @@
     "imdb_id": "tt0223027"
   },
   {
-    "title": "La Gradiva",
-    "release_year": "2026",
-    "clean_title": "/film/la-gradiva/",
-    "adult": false,
-    "id": 1154730,
-    "imdb_id": "tt36107185"
-  },
-  {
     "title": "0.5 mm",
     "release_year": "2014",
     "clean_title": "/film/05-mm/",
     "adult": false,
     "id": 279186,
     "imdb_id": "tt3825360"
-  },
-  {
-    "title": "Tangles",
-    "release_year": "2026",
-    "clean_title": "/film/tangles/",
-    "adult": false,
-    "id": 1316999,
-    "imdb_id": "tt22183852"
   },
   {
     "title": "Tras-os-Montes",
@@ -80,20 +72,20 @@
     "imdb_id": "tt0075354"
   },
   {
-    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
-    "release_year": "2025",
-    "clean_title": "/film/castration-movie-anthology-ii-the-best-of/",
-    "adult": false,
-    "id": 1491336,
-    "imdb_id": "tt36158276"
-  },
-  {
     "title": "Imeretian Sketches",
     "release_year": "1979",
     "clean_title": "/film/imeretian-sketches/",
     "adult": false,
     "id": 94056,
     "imdb_id": "tt0079331"
+  },
+  {
+    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
+    "release_year": "2025",
+    "clean_title": "/film/castration-movie-anthology-ii-the-best-of/",
+    "adult": false,
+    "id": 1491336,
+    "imdb_id": "tt36158276"
   },
   {
     "title": "Barber Westchester",
@@ -144,6 +136,14 @@
     "imdb_id": "tt0111055"
   },
   {
+    "title": "Jan Werich's Fimfarum",
+    "release_year": "2002",
+    "clean_title": "/film/jan-werichs-fimfarum/",
+    "adult": false,
+    "id": 61320,
+    "imdb_id": "tt0299878"
+  },
+  {
     "title": "Girls of the Night",
     "release_year": "1961",
     "clean_title": "/film/girls-of-the-night/",
@@ -160,14 +160,6 @@
     "imdb_id": "tt0291183"
   },
   {
-    "title": "Agatha and the Limitless Readings",
-    "release_year": "1981",
-    "clean_title": "/film/agatha-and-the-limitless-readings/",
-    "adult": false,
-    "id": 63659,
-    "imdb_id": "tt0205726"
-  },
-  {
     "title": "Wajib",
     "release_year": "2017",
     "clean_title": "/film/wajib/",
@@ -176,12 +168,12 @@
     "imdb_id": "tt6695212"
   },
   {
-    "title": "Jan Werich's Fimfarum",
-    "release_year": "2002",
-    "clean_title": "/film/jan-werichs-fimfarum/",
+    "title": "Agatha and the Limitless Readings",
+    "release_year": "1981",
+    "clean_title": "/film/agatha-and-the-limitless-readings/",
     "adult": false,
-    "id": 61320,
-    "imdb_id": "tt0299878"
+    "id": 63659,
+    "imdb_id": "tt0205726"
   },
   {
     "title": "The Day I Became a Woman",
@@ -208,12 +200,12 @@
     "imdb_id": "tt13168204"
   },
   {
-    "title": "Suzaku",
-    "release_year": "1997",
-    "clean_title": "/film/suzaku/",
+    "title": "Sad Girlz",
+    "release_year": "2026",
+    "clean_title": "/film/sad-girlz/",
     "adult": false,
-    "id": 36895,
-    "imdb_id": "tt0119687"
+    "id": 1536433,
+    "imdb_id": "tt39311354"
   },
   {
     "title": "Othon",
@@ -224,12 +216,12 @@
     "imdb_id": "tt0064774"
   },
   {
-    "title": "Moses and Aaron",
-    "release_year": "1975",
-    "clean_title": "/film/moses-and-aaron/",
+    "title": "Suzaku",
+    "release_year": "1997",
+    "clean_title": "/film/suzaku/",
     "adult": false,
-    "id": 208198,
-    "imdb_id": "tt0071857"
+    "id": 36895,
+    "imdb_id": "tt0119687"
   },
   {
     "title": "Three Poplars on Plyuschikha Street",
@@ -238,6 +230,14 @@
     "adult": false,
     "id": 63293,
     "imdb_id": "tt0062393"
+  },
+  {
+    "title": "Moses and Aaron",
+    "release_year": "1975",
+    "clean_title": "/film/moses-and-aaron/",
+    "adult": false,
+    "id": 208198,
+    "imdb_id": "tt0071857"
   },
   {
     "title": "Ana",
@@ -264,6 +264,14 @@
     "imdb_id": "tt0432325"
   },
   {
+    "title": "Lullaby",
+    "release_year": "1994",
+    "clean_title": "/film/lullaby-1994/",
+    "adult": false,
+    "id": 240068,
+    "imdb_id": "tt0325602"
+  },
+  {
     "title": "Buddha Collapsed Out of Shame",
     "release_year": "2007",
     "clean_title": "/film/buddha-collapsed-out-of-shame/",
@@ -272,12 +280,28 @@
     "imdb_id": "tt1094627"
   },
   {
+    "title": "Mouse",
+    "release_year": "2026",
+    "clean_title": "/film/mouse-2026/",
+    "adult": false,
+    "id": 1241052,
+    "imdb_id": "tt13652154"
+  },
+  {
     "title": "The Death of Empedocles",
     "release_year": "1987",
     "clean_title": "/film/the-death-of-empedocles/",
     "adult": false,
     "id": 255769,
     "imdb_id": "tt0094159"
+  },
+  {
+    "title": "Sugar Cane Alley",
+    "release_year": "1983",
+    "clean_title": "/film/sugar-cane-alley/",
+    "adult": false,
+    "id": 42115,
+    "imdb_id": "tt0086213"
   },
   {
     "title": "Shara",
@@ -296,20 +320,20 @@
     "imdb_id": "tt0099927"
   },
   {
-    "title": "Sugar Cane Alley",
-    "release_year": "1983",
-    "clean_title": "/film/sugar-cane-alley/",
+    "title": "Mama",
+    "release_year": "1976",
+    "clean_title": "/film/mama-1976/",
     "adult": false,
-    "id": 42115,
-    "imdb_id": "tt0086213"
+    "id": 38323,
+    "imdb_id": "tt0076340"
   },
   {
-    "title": "Blame It on Fidel!",
-    "release_year": "2006",
-    "clean_title": "/film/blame-it-on-fidel/",
+    "title": "Summer Snow",
+    "release_year": "1995",
+    "clean_title": "/film/summer-snow/",
     "adult": false,
-    "id": 17460,
-    "imdb_id": "tt0792966"
+    "id": 72507,
+    "imdb_id": "tt0111767"
   },
   {
     "title": "Memories of a Burning Body",
@@ -328,12 +352,12 @@
     "imdb_id": "tt2050453"
   },
   {
-    "title": "Chronicle of Anna Magdalena Bach",
-    "release_year": "1968",
-    "clean_title": "/film/chronicle-of-anna-magdalena-bach/",
+    "title": "Blame It on Fidel!",
+    "release_year": "2006",
+    "clean_title": "/film/blame-it-on-fidel/",
     "adult": false,
-    "id": 95600,
-    "imdb_id": "tt0062804"
+    "id": 17460,
+    "imdb_id": "tt0792966"
   },
   {
     "title": "Johanna d’Arc of Mongolia",
@@ -344,12 +368,12 @@
     "imdb_id": "tt0095406"
   },
   {
-    "title": "Close-Knit",
-    "release_year": "2017",
-    "clean_title": "/film/close-knit/",
+    "title": "Chronicle of Anna Magdalena Bach",
+    "release_year": "1968",
+    "clean_title": "/film/chronicle-of-anna-magdalena-bach/",
     "adult": false,
-    "id": 428733,
-    "imdb_id": "tt5633706"
+    "id": 95600,
+    "imdb_id": "tt0062804"
   },
   {
     "title": "The Long Farewell",
@@ -360,43 +384,19 @@
     "imdb_id": "tt0092905"
   },
   {
+    "title": "Close-Knit",
+    "release_year": "2017",
+    "clean_title": "/film/close-knit/",
+    "adult": false,
+    "id": 428733,
+    "imdb_id": "tt5633706"
+  },
+  {
     "title": "With You The World Is Fun",
     "release_year": "1983",
     "clean_title": "/film/with-you-the-world-is-fun/",
     "adult": false,
     "id": 50873,
     "imdb_id": "tt0084620"
-  },
-  {
-    "title": "Spring Came on Laughing",
-    "release_year": "2024",
-    "clean_title": "/film/spring-came-on-laughing/",
-    "adult": false,
-    "id": 1382297,
-    "imdb_id": "tt28538211"
-  },
-  {
-    "title": "Mama",
-    "release_year": "1976",
-    "clean_title": "/film/mama-1976/",
-    "adult": false,
-    "id": 38323,
-    "imdb_id": "tt0076340"
-  },
-  {
-    "title": "The Way We Are",
-    "release_year": "2008",
-    "clean_title": "/film/the-way-we-are/",
-    "adult": false,
-    "id": 56575,
-    "imdb_id": "tt1233499"
-  },
-  {
-    "title": "Sad Girlz",
-    "release_year": "2026",
-    "clean_title": "/film/sad-girlz/",
-    "adult": false,
-    "id": 1536433,
-    "imdb_id": "tt39311354"
   }
 ]
