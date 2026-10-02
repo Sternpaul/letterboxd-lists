@@ -136,20 +136,20 @@
     "imdb_id": "tt0042788"
   },
   {
-    "title": "Stray Dog",
-    "release_year": "1949",
-    "clean_title": "/film/stray-dog/",
-    "adult": false,
-    "id": 30368,
-    "imdb_id": "tt0041699"
-  },
-  {
     "title": "The Set-Up",
     "release_year": "1949",
     "clean_title": "/film/the-set-up/",
     "adult": false,
     "id": 17218,
     "imdb_id": "tt0041859"
+  },
+  {
+    "title": "Stray Dog",
+    "release_year": "1949",
+    "clean_title": "/film/stray-dog/",
+    "adult": false,
+    "id": 30368,
+    "imdb_id": "tt0041699"
   },
   {
     "title": "The Roaring Twenties",
@@ -304,12 +304,12 @@
     "imdb_id": "tt0038669"
   },
   {
-    "title": "Caged",
-    "release_year": "1950",
-    "clean_title": "/film/caged/",
+    "title": "Sudden Fear",
+    "release_year": "1952",
+    "clean_title": "/film/sudden-fear/",
     "adult": false,
-    "id": 29381,
-    "imdb_id": "tt0042296"
+    "id": 19171,
+    "imdb_id": "tt0045205"
   },
   {
     "title": "Brute Force",
@@ -320,12 +320,12 @@
     "imdb_id": "tt0039224"
   },
   {
-    "title": "Sudden Fear",
-    "release_year": "1952",
-    "clean_title": "/film/sudden-fear/",
+    "title": "Caged",
+    "release_year": "1950",
+    "clean_title": "/film/caged/",
     "adult": false,
-    "id": 19171,
-    "imdb_id": "tt0045205"
+    "id": 29381,
+    "imdb_id": "tt0042296"
   },
   {
     "title": "The Narrow Margin",
@@ -336,14 +336,6 @@
     "imdb_id": "tt0044954"
   },
   {
-    "title": "The Docks of New York",
-    "release_year": "1928",
-    "clean_title": "/film/the-docks-of-new-york/",
-    "adult": false,
-    "id": 885,
-    "imdb_id": "tt0018839"
-  },
-  {
     "title": "Scarface",
     "release_year": "1932",
     "clean_title": "/film/scarface/",
@@ -352,12 +344,12 @@
     "imdb_id": "tt0023427"
   },
   {
-    "title": "Detour",
-    "release_year": "1945",
-    "clean_title": "/film/detour/",
+    "title": "The Docks of New York",
+    "release_year": "1928",
+    "clean_title": "/film/the-docks-of-new-york/",
     "adult": false,
-    "id": 20367,
-    "imdb_id": "tt0037638"
+    "id": 885,
+    "imdb_id": "tt0018839"
   },
   {
     "title": "The Fallen Idol",
@@ -366,6 +358,14 @@
     "adult": false,
     "id": 21631,
     "imdb_id": "tt0040338"
+  },
+  {
+    "title": "Detour",
+    "release_year": "1945",
+    "clean_title": "/film/detour/",
+    "adult": false,
+    "id": 20367,
+    "imdb_id": "tt0037638"
   },
   {
     "title": "Spellbound",
@@ -696,20 +696,20 @@
     "imdb_id": "tt0024188"
   },
   {
-    "title": "Humoresque",
-    "release_year": "1946",
-    "clean_title": "/film/humoresque/",
-    "adult": false,
-    "id": 26701,
-    "imdb_id": "tt0038622"
-  },
-  {
     "title": "Raw Deal",
     "release_year": "1948",
     "clean_title": "/film/raw-deal/",
     "adult": false,
     "id": 26167,
     "imdb_id": "tt0040723"
+  },
+  {
+    "title": "Humoresque",
+    "release_year": "1946",
+    "clean_title": "/film/humoresque/",
+    "adult": false,
+    "id": 26701,
+    "imdb_id": "tt0038622"
   },
   {
     "title": "The Lineup",
@@ -776,20 +776,20 @@
     "imdb_id": "tt0042046"
   },
   {
-    "title": "The Reckless Moment",
-    "release_year": "1949",
-    "clean_title": "/film/the-reckless-moment/",
-    "adult": false,
-    "id": 28007,
-    "imdb_id": "tt0041786"
-  },
-  {
     "title": "Road House",
     "release_year": "1948",
     "clean_title": "/film/road-house-1948/",
     "adult": false,
     "id": 30624,
     "imdb_id": "tt0040740"
+  },
+  {
+    "title": "The Reckless Moment",
+    "release_year": "1949",
+    "clean_title": "/film/the-reckless-moment/",
+    "adult": false,
+    "id": 28007,
+    "imdb_id": "tt0041786"
   },
   {
     "title": "Cry of the City",
