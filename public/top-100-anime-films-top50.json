@@ -88,14 +88,6 @@
     "imdb_id": "tt31711040"
   },
   {
-    "title": "Akira",
-    "release_year": "1988",
-    "clean_title": "/film/akira/",
-    "adult": false,
-    "id": 149,
-    "imdb_id": "tt0094625"
-  },
-  {
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
     "release_year": "2003",
     "clean_title": "/film/interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem/",
@@ -104,12 +96,28 @@
     "imdb_id": "tt0368667"
   },
   {
+    "title": "Akira",
+    "release_year": "1988",
+    "clean_title": "/film/akira/",
+    "adult": false,
+    "id": 149,
+    "imdb_id": "tt0094625"
+  },
+  {
     "title": "Kizumonogatari Part 3: Reiketsu",
     "release_year": "2017",
     "clean_title": "/film/kizumonogatari-part-3-reiketsu/",
     "adult": false,
     "id": 362585,
     "imdb_id": "tt5084198"
+  },
+  {
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "release_year": "2010",
+    "clean_title": "/film/the-disappearance-of-haruhi-suzumiya/",
+    "adult": false,
+    "id": 36865,
+    "imdb_id": "tt1572781"
   },
   {
     "title": "The Tale of The Princess Kaguya",
@@ -126,14 +134,6 @@
     "adult": false,
     "id": 13398,
     "imdb_id": "tt0388473"
-  },
-  {
-    "title": "The Disappearance of Haruhi Suzumiya",
-    "release_year": "2010",
-    "clean_title": "/film/the-disappearance-of-haruhi-suzumiya/",
-    "adult": false,
-    "id": 36865,
-    "imdb_id": "tt1572781"
   },
   {
     "title": "The First Slam Dunk",
@@ -200,6 +200,14 @@
     "imdb_id": "tt0087544"
   },
   {
+    "title": "Vampire Hunter D: Bloodlust",
+    "release_year": "2000",
+    "clean_title": "/film/vampire-hunter-d-bloodlust/",
+    "adult": false,
+    "id": 15999,
+    "imdb_id": "tt0216651"
+  },
+  {
     "title": "My Neighbor Totoro",
     "release_year": "1988",
     "clean_title": "/film/my-neighbor-totoro/",
@@ -214,14 +222,6 @@
     "adult": false,
     "id": 37797,
     "imdb_id": "tt0113824"
-  },
-  {
-    "title": "Vampire Hunter D: Bloodlust",
-    "release_year": "2000",
-    "clean_title": "/film/vampire-hunter-d-bloodlust/",
-    "adult": false,
-    "id": 15999,
-    "imdb_id": "tt0216651"
   },
   {
     "title": "Mind Game",
@@ -264,14 +264,6 @@
     "imdb_id": "tt2374144"
   },
   {
-    "title": "Kiki's Delivery Service",
-    "release_year": "1989",
-    "clean_title": "/film/kikis-delivery-service/",
-    "adult": false,
-    "id": 16859,
-    "imdb_id": "tt0097814"
-  },
-  {
     "title": "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back",
     "release_year": "2001",
     "clean_title": "/film/crayon-shin-chan-the-storm-called-the-adult/",
@@ -286,6 +278,14 @@
     "adult": false,
     "id": 71883,
     "imdb_id": "tt1483797"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "release_year": "1989",
+    "clean_title": "/film/kikis-delivery-service/",
+    "adult": false,
+    "id": 16859,
+    "imdb_id": "tt0097814"
   },
   {
     "title": "Cowboy Bebop: The Movie",
@@ -312,20 +312,12 @@
     "imdb_id": "tt2140203"
   },
   {
-    "title": "Violet Evergarden: The Movie",
-    "release_year": "2020",
-    "clean_title": "/film/violet-evergarden-the-movie/",
+    "title": "Persona3 the Movie #4 Winter of Rebirth",
+    "release_year": "2016",
+    "clean_title": "/film/persona3-the-movie-4-winter-of-rebirth/",
     "adult": false,
-    "id": 533514,
-    "imdb_id": "tt8652818"
-  },
-  {
-    "title": "The Wind Rises",
-    "release_year": "2013",
-    "clean_title": "/film/the-wind-rises/",
-    "adult": false,
-    "id": 149870,
-    "imdb_id": "tt2013293"
+    "id": 372761,
+    "imdb_id": "tt5463052"
   },
   {
     "title": "In This Corner of the World",
@@ -336,20 +328,28 @@
     "imdb_id": "tt4769824"
   },
   {
+    "title": "The Wind Rises",
+    "release_year": "2013",
+    "clean_title": "/film/the-wind-rises/",
+    "adult": false,
+    "id": 149870,
+    "imdb_id": "tt2013293"
+  },
+  {
+    "title": "Violet Evergarden: The Movie",
+    "release_year": "2020",
+    "clean_title": "/film/violet-evergarden-the-movie/",
+    "adult": false,
+    "id": 533514,
+    "imdb_id": "tt8652818"
+  },
+  {
     "title": "Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
     "release_year": "2022",
     "clean_title": "/film/kaguya-sama-love-is-war-the-first-kiss-that-never-ends/",
     "adult": false,
     "id": 997317,
     "imdb_id": "tt23770418"
-  },
-  {
-    "title": "Persona3 the Movie #4 Winter of Rebirth",
-    "release_year": "2016",
-    "clean_title": "/film/persona3-the-movie-4-winter-of-rebirth/",
-    "adult": false,
-    "id": 372761,
-    "imdb_id": "tt5463052"
   },
   {
     "title": "Tekkonkinkreet",
@@ -368,14 +368,6 @@
     "imdb_id": "tt1909796"
   },
   {
-    "title": "Paprika",
-    "release_year": "2006",
-    "clean_title": "/film/paprika-2006/",
-    "adult": false,
-    "id": 4977,
-    "imdb_id": "tt0851578"
-  },
-  {
     "title": "Dou kyu sei – Classmates",
     "release_year": "2016",
     "clean_title": "/film/dou-kyu-sei-classmates/",
@@ -384,19 +376,27 @@
     "imdb_id": "tt5526028"
   },
   {
+    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
+    "release_year": "2026",
+    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
+    "adult": false,
+    "id": 1586876,
+    "imdb_id": "tt39026173"
+  },
+  {
+    "title": "Paprika",
+    "release_year": "2006",
+    "clean_title": "/film/paprika-2006/",
+    "adult": false,
+    "id": 4977,
+    "imdb_id": "tt0851578"
+  },
+  {
     "title": "given the Movie: To the Sea",
     "release_year": "2024",
     "clean_title": "/film/given-the-movie-to-the-sea/",
     "adult": false,
     "id": 1317276,
     "imdb_id": "tt35631332"
-  },
-  {
-    "title": "Ghost in the Shell",
-    "release_year": "1995",
-    "clean_title": "/film/ghost-in-the-shell/",
-    "adult": false,
-    "id": 9323,
-    "imdb_id": "tt0113568"
   }
 ]
