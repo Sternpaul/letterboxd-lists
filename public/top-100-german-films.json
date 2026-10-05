@@ -104,6 +104,14 @@
     "imdb_id": "tt0363163"
   },
   {
+    "title": "World on a Wire",
+    "release_year": "1973",
+    "clean_title": "/film/world-on-a-wire-1973/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt0070904"
+  },
+  {
     "title": "The Bitter Tears of Petra von Kant",
     "release_year": "1972",
     "clean_title": "/film/the-bitter-tears-of-petra-von-kant/",
@@ -120,20 +128,20 @@
     "imdb_id": "tt0015174"
   },
   {
-    "title": "Aguirre, the Wrath of God",
-    "release_year": "1972",
-    "clean_title": "/film/aguirre-the-wrath-of-god/",
-    "adult": false,
-    "id": 2000,
-    "imdb_id": "tt0068182"
-  },
-  {
     "title": "All Quiet on the Western Front",
     "release_year": "2022",
     "clean_title": "/film/all-quiet-on-the-western-front-2022/",
     "adult": false,
     "id": 49046,
     "imdb_id": "tt1016150"
+  },
+  {
+    "title": "Aguirre, the Wrath of God",
+    "release_year": "1972",
+    "clean_title": "/film/aguirre-the-wrath-of-god/",
+    "adult": false,
+    "id": 2000,
+    "imdb_id": "tt0068182"
   },
   {
     "title": "Stroszek",
@@ -216,14 +224,6 @@
     "imdb_id": "tt0075675"
   },
   {
-    "title": "Phoenix",
-    "release_year": "2014",
-    "clean_title": "/film/phoenix-2014/",
-    "adult": false,
-    "id": 254578,
-    "imdb_id": "tt2764784"
-  },
-  {
     "title": "Home from Home – Chronicle of a Vision",
     "release_year": "2013",
     "clean_title": "/film/home-from-home-chronicle-of-a-vision/",
@@ -232,12 +232,12 @@
     "imdb_id": "tt1998204"
   },
   {
-    "title": "The Adventures of Prince Achmed",
-    "release_year": "1926",
-    "clean_title": "/film/the-adventures-of-prince-achmed/",
+    "title": "Phoenix",
+    "release_year": "2014",
+    "clean_title": "/film/phoenix-2014/",
     "adult": false,
-    "id": 19354,
-    "imdb_id": "tt0015532"
+    "id": 254578,
+    "imdb_id": "tt2764784"
   },
   {
     "title": "In a Year with 13 Moons",
@@ -248,12 +248,28 @@
     "imdb_id": "tt0077729"
   },
   {
+    "title": "The Adventures of Prince Achmed",
+    "release_year": "1926",
+    "clean_title": "/film/the-adventures-of-prince-achmed/",
+    "adult": false,
+    "id": 19354,
+    "imdb_id": "tt0015532"
+  },
+  {
     "title": "Kings of the Road",
     "release_year": "1976",
     "clean_title": "/film/kings-of-the-road/",
     "adult": false,
     "id": 10834,
     "imdb_id": "tt0073152"
+  },
+  {
+    "title": "Before the Fall",
+    "release_year": "2004",
+    "clean_title": "/film/before-the-fall/",
+    "adult": false,
+    "id": 9393,
+    "imdb_id": "tt0384369"
   },
   {
     "title": "Trick or Treaters",
@@ -272,12 +288,12 @@
     "imdb_id": "tt0013086"
   },
   {
-    "title": "Before the Fall",
-    "release_year": "2004",
-    "clean_title": "/film/before-the-fall/",
+    "title": "Hitler: A Film from Germany",
+    "release_year": "1977",
+    "clean_title": "/film/hitler-a-film-from-germany/",
     "adult": false,
-    "id": 9393,
-    "imdb_id": "tt0384369"
+    "id": 58435,
+    "imdb_id": "tt0076147"
   },
   {
     "title": "System Crasher",
@@ -288,6 +304,14 @@
     "imdb_id": "tt8535968"
   },
   {
+    "title": "The Edge of Heaven",
+    "release_year": "2007",
+    "clean_title": "/film/the-edge-of-heaven/",
+    "adult": false,
+    "id": 2014,
+    "imdb_id": "tt0880502"
+  },
+  {
     "title": "Toni Erdmann",
     "release_year": "2016",
     "clean_title": "/film/toni-erdmann/",
@@ -296,28 +320,12 @@
     "imdb_id": "tt4048272"
   },
   {
-    "title": "Hitler: A Film from Germany",
-    "release_year": "1977",
-    "clean_title": "/film/hitler-a-film-from-germany/",
-    "adult": false,
-    "id": 58435,
-    "imdb_id": "tt0076147"
-  },
-  {
     "title": "Knockin' on Heaven's Door",
     "release_year": "1997",
     "clean_title": "/film/knockin-on-heavens-door/",
     "adult": false,
     "id": 158,
     "imdb_id": "tt0119472"
-  },
-  {
-    "title": "The Edge of Heaven",
-    "release_year": "2007",
-    "clean_title": "/film/the-edge-of-heaven/",
-    "adult": false,
-    "id": 2014,
-    "imdb_id": "tt0880502"
   },
   {
     "title": "Martha",
@@ -344,12 +352,12 @@
     "imdb_id": "tt0101458"
   },
   {
-    "title": "Victoria",
-    "release_year": "2015",
-    "clean_title": "/film/victoria-2015/",
+    "title": "A Regular Woman",
+    "release_year": "2019",
+    "clean_title": "/film/a-regular-woman/",
     "adult": false,
-    "id": 320007,
-    "imdb_id": "tt4226388"
+    "id": 581585,
+    "imdb_id": "tt9248340"
   },
   {
     "title": "Lola Montès",
@@ -360,12 +368,12 @@
     "imdb_id": "tt0048308"
   },
   {
-    "title": "A Regular Woman",
-    "release_year": "2019",
-    "clean_title": "/film/a-regular-woman/",
+    "title": "Victoria",
+    "release_year": "2015",
+    "clean_title": "/film/victoria-2015/",
     "adult": false,
-    "id": 581585,
-    "imdb_id": "tt9248340"
+    "id": 320007,
+    "imdb_id": "tt4226388"
   },
   {
     "title": "The Enigma of Kaspar Hauser",
@@ -392,22 +400,6 @@
     "imdb_id": "tt0071857"
   },
   {
-    "title": "Good Bye, Lenin!",
-    "release_year": "2003",
-    "clean_title": "/film/good-bye-lenin/",
-    "adult": false,
-    "id": 338,
-    "imdb_id": "tt0301357"
-  },
-  {
-    "title": "Diary of a Lost Girl",
-    "release_year": "1929",
-    "clean_title": "/film/diary-of-a-lost-girl/",
-    "adult": false,
-    "id": 42637,
-    "imdb_id": "tt0020475"
-  },
-  {
     "title": "303",
     "release_year": "2018",
     "clean_title": "/film/303-2018/",
@@ -416,12 +408,12 @@
     "imdb_id": "tt5451118"
   },
   {
-    "title": "Christiane F.",
-    "release_year": "1981",
-    "clean_title": "/film/christiane-f/",
+    "title": "Good Bye, Lenin!",
+    "release_year": "2003",
+    "clean_title": "/film/good-bye-lenin/",
     "adult": false,
-    "id": 9589,
-    "imdb_id": "tt0082176"
+    "id": 338,
+    "imdb_id": "tt0301357"
   },
   {
     "title": "City of Lost Souls",
@@ -432,36 +424,12 @@
     "imdb_id": "tt0084724"
   },
   {
-    "title": "Mädchen in Uniform",
-    "release_year": "1931",
-    "clean_title": "/film/madchen-in-uniform/",
+    "title": "Diary of a Lost Girl",
+    "release_year": "1929",
+    "clean_title": "/film/diary-of-a-lost-girl/",
     "adult": false,
-    "id": 9653,
-    "imdb_id": "tt0022183"
-  },
-  {
-    "title": "Mother Küsters Goes to Heaven",
-    "release_year": "1975",
-    "clean_title": "/film/mother-kusters-goes-to-heaven/",
-    "adult": false,
-    "id": 42260,
-    "imdb_id": "tt0073424"
-  },
-  {
-    "title": "The Doll",
-    "release_year": "1919",
-    "clean_title": "/film/the-doll/",
-    "adult": false,
-    "id": 48256,
-    "imdb_id": "tt0010600"
-  },
-  {
-    "title": "The Death of Empedocles",
-    "release_year": "1987",
-    "clean_title": "/film/the-death-of-empedocles/",
-    "adult": false,
-    "id": 255769,
-    "imdb_id": "tt0094159"
+    "id": 42637,
+    "imdb_id": "tt0020475"
   },
   {
     "title": "Parsifal",
@@ -472,12 +440,36 @@
     "imdb_id": "tt0084476"
   },
   {
-    "title": "Pandora's Box",
-    "release_year": "1929",
-    "clean_title": "/film/pandoras-box/",
+    "title": "Different from the Others",
+    "release_year": "1919",
+    "clean_title": "/film/different-from-the-others/",
     "adult": false,
-    "id": 905,
-    "imdb_id": "tt0018737"
+    "id": 44441,
+    "imdb_id": "tt0009878"
+  },
+  {
+    "title": "Christiane F.",
+    "release_year": "1981",
+    "clean_title": "/film/christiane-f/",
+    "adult": false,
+    "id": 9589,
+    "imdb_id": "tt0082176"
+  },
+  {
+    "title": "The Death of Empedocles",
+    "release_year": "1987",
+    "clean_title": "/film/the-death-of-empedocles/",
+    "adult": false,
+    "id": 255769,
+    "imdb_id": "tt0094159"
+  },
+  {
+    "title": "Mädchen in Uniform",
+    "release_year": "1931",
+    "clean_title": "/film/madchen-in-uniform/",
+    "adult": false,
+    "id": 9653,
+    "imdb_id": "tt0022183"
   },
   {
     "title": "The Captain",
@@ -488,12 +480,52 @@
     "imdb_id": "tt6763252"
   },
   {
+    "title": "Mother Küsters Goes to Heaven",
+    "release_year": "1975",
+    "clean_title": "/film/mother-kusters-goes-to-heaven/",
+    "adult": false,
+    "id": 42260,
+    "imdb_id": "tt0073424"
+  },
+  {
     "title": "I Only Want You to Love Me",
     "release_year": "1976",
     "clean_title": "/film/i-only-want-you-to-love-me/",
     "adult": false,
     "id": 93655,
     "imdb_id": "tt0074664"
+  },
+  {
+    "title": "I Was Nineteen",
+    "release_year": "1968",
+    "clean_title": "/film/i-was-nineteen/",
+    "adult": false,
+    "id": 38768,
+    "imdb_id": "tt0061802"
+  },
+  {
+    "title": "Pandora's Box",
+    "release_year": "1929",
+    "clean_title": "/film/pandoras-box/",
+    "adult": false,
+    "id": 905,
+    "imdb_id": "tt0018737"
+  },
+  {
+    "title": "The Doll",
+    "release_year": "1919",
+    "clean_title": "/film/the-doll/",
+    "adult": false,
+    "id": 48256,
+    "imdb_id": "tt0010600"
+  },
+  {
+    "title": "Johanna d’Arc of Mongolia",
+    "release_year": "1989",
+    "clean_title": "/film/johanna-darc-of-mongolia/",
+    "adult": false,
+    "id": 120268,
+    "imdb_id": "tt0095406"
   },
   {
     "title": "Run Lola Run",
@@ -512,14 +544,6 @@
     "imdb_id": "tt0062804"
   },
   {
-    "title": "Transit",
-    "release_year": "2018",
-    "clean_title": "/film/transit-2018/",
-    "adult": false,
-    "id": 471853,
-    "imdb_id": "tt6675244"
-  },
-  {
     "title": "Stations of the Cross",
     "release_year": "2014",
     "clean_title": "/film/stations-of-the-cross/",
@@ -528,12 +552,12 @@
     "imdb_id": "tt3465916"
   },
   {
-    "title": "Johanna d’Arc of Mongolia",
-    "release_year": "1989",
-    "clean_title": "/film/johanna-darc-of-mongolia/",
+    "title": "Transit",
+    "release_year": "2018",
+    "clean_title": "/film/transit-2018/",
     "adult": false,
-    "id": 120268,
-    "imdb_id": "tt0095406"
+    "id": 471853,
+    "imdb_id": "tt6675244"
   },
   {
     "title": "Fabian: Going to the Dogs",
@@ -544,20 +568,20 @@
     "imdb_id": "tt13846414"
   },
   {
-    "title": "Cherry Blossoms",
-    "release_year": "2008",
-    "clean_title": "/film/cherry-blossoms/",
-    "adult": false,
-    "id": 6461,
-    "imdb_id": "tt0910559"
-  },
-  {
     "title": "Under the Bridges",
     "release_year": "1946",
     "clean_title": "/film/under-the-bridges/",
     "adult": false,
     "id": 114790,
     "imdb_id": "tt0038206"
+  },
+  {
+    "title": "Cherry Blossoms",
+    "release_year": "2008",
+    "clean_title": "/film/cherry-blossoms/",
+    "adult": false,
+    "id": 6461,
+    "imdb_id": "tt0910559"
   },
   {
     "title": "Antigone",
@@ -568,12 +592,28 @@
     "imdb_id": "tt0103707"
   },
   {
+    "title": "Stalingrad",
+    "release_year": "1993",
+    "clean_title": "/film/stalingrad/",
+    "adult": false,
+    "id": 11101,
+    "imdb_id": "tt0108211"
+  },
+  {
     "title": "Class Relations",
     "release_year": "1984",
     "clean_title": "/film/class-relations/",
     "adult": false,
     "id": 117479,
     "imdb_id": "tt0087566"
+  },
+  {
+    "title": "Dying",
+    "release_year": "2024",
+    "clean_title": "/film/dying-2024/",
+    "adult": false,
+    "id": 1232781,
+    "imdb_id": "tt27165281"
   },
   {
     "title": "Nosferatu",
@@ -584,28 +624,12 @@
     "imdb_id": "tt0013442"
   },
   {
-    "title": "Stalingrad",
-    "release_year": "1993",
-    "clean_title": "/film/stalingrad/",
-    "adult": false,
-    "id": 11101,
-    "imdb_id": "tt0108211"
-  },
-  {
     "title": "Comradeship",
     "release_year": "1931",
     "clean_title": "/film/comradeship/",
     "adult": false,
     "id": 42836,
     "imdb_id": "tt0022017"
-  },
-  {
-    "title": "Dying",
-    "release_year": "2024",
-    "clean_title": "/film/dying-2024/",
-    "adult": false,
-    "id": 1232781,
-    "imdb_id": "tt27165281"
   },
   {
     "title": "Europa Europa",
@@ -640,12 +664,36 @@
     "imdb_id": "tt0130444"
   },
   {
-    "title": "I Was Nineteen",
-    "release_year": "1968",
-    "clean_title": "/film/i-was-nineteen/",
+    "title": "Chinese Roulette",
+    "release_year": "1976",
+    "clean_title": "/film/chinese-roulette/",
     "adult": false,
-    "id": 38768,
-    "imdb_id": "tt0061802"
+    "id": 36226,
+    "imdb_id": "tt0074312"
+  },
+  {
+    "title": "Stars",
+    "release_year": "1959",
+    "clean_title": "/film/stars-1959/",
+    "adult": false,
+    "id": 199177,
+    "imdb_id": "tt0053306"
+  },
+  {
+    "title": "Destiny",
+    "release_year": "1921",
+    "clean_title": "/film/destiny/",
+    "adult": false,
+    "id": 29267,
+    "imdb_id": "tt0012494"
+  },
+  {
+    "title": "Everytime",
+    "release_year": "2026",
+    "clean_title": "/film/everytime/",
+    "adult": false,
+    "id": 1655419,
+    "imdb_id": "tt41592057"
   },
   {
     "title": "The Twelve Jurors",
@@ -656,20 +704,12 @@
     "imdb_id": "tt0057723"
   },
   {
-    "title": "Chinese Roulette",
-    "release_year": "1976",
-    "clean_title": "/film/chinese-roulette/",
+    "title": "Gigantic",
+    "release_year": "1999",
+    "clean_title": "/film/gigantic-1999/",
     "adult": false,
-    "id": 36226,
-    "imdb_id": "tt0074312"
-  },
-  {
-    "title": "Destiny",
-    "release_year": "1921",
-    "clean_title": "/film/destiny/",
-    "adult": false,
-    "id": 29267,
-    "imdb_id": "tt0012494"
+    "id": 1661,
+    "imdb_id": "tt0177507"
   },
   {
     "title": "Liebelei",
@@ -704,20 +744,12 @@
     "imdb_id": "tt0311927"
   },
   {
-    "title": "The Teachers' Lounge",
-    "release_year": "2023",
-    "clean_title": "/film/the-teachers-lounge-2023/",
+    "title": "The Wild Chicks",
+    "release_year": "2006",
+    "clean_title": "/film/the-wild-chicks/",
     "adult": false,
-    "id": 998022,
-    "imdb_id": "tt26612950"
-  },
-  {
-    "title": "Gigantic",
-    "release_year": "1999",
-    "clean_title": "/film/gigantic-1999/",
-    "adult": false,
-    "id": 1661,
-    "imdb_id": "tt0177507"
+    "id": 7009,
+    "imdb_id": "tt0466195"
   },
   {
     "title": "Marianne and Juliane",
@@ -728,28 +760,20 @@
     "imdb_id": "tt0082081"
   },
   {
-    "title": "Barbara",
-    "release_year": "2012",
-    "clean_title": "/film/barbara/",
+    "title": "The Rose King",
+    "release_year": "1986",
+    "clean_title": "/film/the-rose-king/",
     "adult": false,
-    "id": 88284,
-    "imdb_id": "tt2178941"
+    "id": 47039,
+    "imdb_id": "tt0091871"
   },
   {
-    "title": "Gloomy Sunday",
-    "release_year": "1999",
-    "clean_title": "/film/gloomy-sunday/",
+    "title": "The Teachers' Lounge",
+    "release_year": "2023",
+    "clean_title": "/film/the-teachers-lounge-2023/",
     "adult": false,
-    "id": 1277,
-    "imdb_id": "tt0155722"
-  },
-  {
-    "title": "Variety",
-    "release_year": "1925",
-    "clean_title": "/film/variety-1925/",
-    "adult": false,
-    "id": 94803,
-    "imdb_id": "tt0016481"
+    "id": 998022,
+    "imdb_id": "tt26612950"
   },
   {
     "title": "History Lessons",
@@ -760,43 +784,19 @@
     "imdb_id": "tt0068634"
   },
   {
-    "title": "The Rose King",
-    "release_year": "1986",
-    "clean_title": "/film/the-rose-king/",
+    "title": "Gloomy Sunday",
+    "release_year": "1999",
+    "clean_title": "/film/gloomy-sunday/",
     "adult": false,
-    "id": 47039,
-    "imdb_id": "tt0091871"
+    "id": 1277,
+    "imdb_id": "tt0155722"
   },
   {
-    "title": "The Cat",
-    "release_year": "1988",
-    "clean_title": "/film/the-cat-1988/",
+    "title": "Barbara",
+    "release_year": "2012",
+    "clean_title": "/film/barbara/",
     "adult": false,
-    "id": 148866,
-    "imdb_id": "tt0093336"
-  },
-  {
-    "title": "It Is Not the Homosexual Who Is Perverse, But the Society in Which He Lives",
-    "release_year": "1971",
-    "clean_title": "/film/it-is-not-the-homosexual-who-is-perverse-but-the-society-in-which-he-lives/",
-    "adult": false,
-    "id": 130961,
-    "imdb_id": "tt0066136"
-  },
-  {
-    "title": "The Forest for the Trees",
-    "release_year": "2003",
-    "clean_title": "/film/the-forest-for-the-trees/",
-    "adult": false,
-    "id": 6443,
-    "imdb_id": "tt0386862"
-  },
-  {
-    "title": "Vampyr",
-    "release_year": "1932",
-    "clean_title": "/film/vampyr/",
-    "adult": false,
-    "id": 779,
-    "imdb_id": "tt0023649"
+    "id": 88284,
+    "imdb_id": "tt2178941"
   }
 ]
