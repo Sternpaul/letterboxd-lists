@@ -1,5 +1,29 @@
 [
   {
+    "title": "Hairspray",
+    "release_year": "2007",
+    "clean_title": "/film/hairspray-2007/",
+    "adult": false,
+    "id": 2976,
+    "imdb_id": "tt0427327"
+  },
+  {
+    "title": "The Prince of Egypt",
+    "release_year": "1998",
+    "clean_title": "/film/the-prince-of-egypt/",
+    "adult": false,
+    "id": 9837,
+    "imdb_id": "tt0120794"
+  },
+  {
+    "title": "mother!",
+    "release_year": "2017",
+    "clean_title": "/film/mother-2017/",
+    "adult": false,
+    "id": 381283,
+    "imdb_id": "tt5109784"
+  },
+  {
     "title": "The Uprising",
     "release_year": "2026",
     "clean_title": "/film/the-uprising-2026/",
