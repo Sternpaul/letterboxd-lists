@@ -200,14 +200,6 @@
     "imdb_id": "tt0104691"
   },
   {
-    "title": "The Age of Innocence",
-    "release_year": "1993",
-    "clean_title": "/film/the-age-of-innocence/",
-    "adult": false,
-    "id": 10436,
-    "imdb_id": "tt0106226"
-  },
-  {
     "title": "Phantom Thread",
     "release_year": "2017",
     "clean_title": "/film/phantom-thread/",
@@ -1264,8 +1256,8 @@
   },
   {
     "title": "Bad Apples",
-    "release_year": "2026",
-    "clean_title": "/film/bad-apples-2026-2/",
+    "release_year": "2025",
+    "clean_title": "/film/bad-apples-2025/",
     "adult": false,
     "id": 1198654,
     "imdb_id": "tt29714073"
