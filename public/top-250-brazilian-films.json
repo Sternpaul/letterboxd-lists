@@ -56,20 +56,20 @@
     "imdb_id": "tt0293007"
   },
   {
-    "title": "The Second Mother",
-    "release_year": "2015",
-    "clean_title": "/film/the-second-mother/",
-    "adult": false,
-    "id": 310569,
-    "imdb_id": "tt3742378"
-  },
-  {
     "title": "A Dog's Will",
     "release_year": "2000",
     "clean_title": "/film/a-dogs-will/",
     "adult": false,
     "id": 40096,
     "imdb_id": "tt0271383"
+  },
+  {
+    "title": "The Second Mother",
+    "release_year": "2015",
+    "clean_title": "/film/the-second-mother/",
+    "adult": false,
+    "id": 310569,
+    "imdb_id": "tt3742378"
   },
   {
     "title": "They Don't Wear Black Tie",
@@ -86,6 +86,14 @@
     "adult": false,
     "id": 548544,
     "imdb_id": "tt6390668"
+  },
+  {
+    "title": "Monica's Gang in an Adventure in Time",
+    "release_year": "2007",
+    "clean_title": "/film/monicas-gang-in-an-adventure-in-time/",
+    "adult": false,
+    "id": 51137,
+    "imdb_id": "tt0871896"
   },
   {
     "title": "Manas",
@@ -120,14 +128,6 @@
     "imdb_id": "tt0195324"
   },
   {
-    "title": "Monica's Gang in an Adventure in Time",
-    "release_year": "2007",
-    "clean_title": "/film/monicas-gang-in-an-adventure-in-time/",
-    "adult": false,
-    "id": 51137,
-    "imdb_id": "tt0871896"
-  },
-  {
     "title": "Latin Blood – The Ballad of Ney Matogrosso",
     "release_year": "2025",
     "clean_title": "/film/latin-blood-the-ballad-of-ney-matogrosso/",
@@ -142,6 +142,14 @@
     "adult": false,
     "id": 7347,
     "imdb_id": "tt0861739"
+  },
+  {
+    "title": "Movie Dementia",
+    "release_year": "1986",
+    "clean_title": "/film/movie-dementia/",
+    "adult": false,
+    "id": 167468,
+    "imdb_id": "tt0091049"
   },
   {
     "title": "Lisbela and the Prisoner",
@@ -168,12 +176,12 @@
     "imdb_id": "tt0241663"
   },
   {
-    "title": "Movie Dementia",
-    "release_year": "1986",
-    "clean_title": "/film/movie-dementia/",
+    "title": "Estômago: A Gastronomic Story",
+    "release_year": "2007",
+    "clean_title": "/film/estomago-a-gastronomic-story/",
     "adult": false,
-    "id": 167468,
-    "imdb_id": "tt0091049"
+    "id": 69335,
+    "imdb_id": "tt1039960"
   },
   {
     "title": "My Sweet Orange Tree",
@@ -192,36 +200,12 @@
     "imdb_id": "tt0263124"
   },
   {
-    "title": "Estômago: A Gastronomic Story",
-    "release_year": "2007",
-    "clean_title": "/film/estomago-a-gastronomic-story/",
-    "adult": false,
-    "id": 69335,
-    "imdb_id": "tt1039960"
-  },
-  {
-    "title": "The Guns",
-    "release_year": "1964",
-    "clean_title": "/film/the-guns/",
-    "adult": false,
-    "id": 194853,
-    "imdb_id": "tt0058122"
-  },
-  {
     "title": "Foreign Land",
     "release_year": "1995",
     "clean_title": "/film/foreign-land/",
     "adult": false,
     "id": 57811,
     "imdb_id": "tt0114651"
-  },
-  {
-    "title": "Rio, 100 Degrees F°",
-    "release_year": "1955",
-    "clean_title": "/film/rio-100-degrees-f/",
-    "adult": false,
-    "id": 146075,
-    "imdb_id": "tt0048572"
   },
   {
     "title": "The Man Who Copied",
@@ -232,12 +216,20 @@
     "imdb_id": "tt0367859"
   },
   {
-    "title": "The Son of a Thousand Men",
-    "release_year": "2025",
-    "clean_title": "/film/the-son-of-a-thousand-men/",
+    "title": "The Guns",
+    "release_year": "1964",
+    "clean_title": "/film/the-guns/",
     "adult": false,
-    "id": 1299209,
-    "imdb_id": "tt33402908"
+    "id": 194853,
+    "imdb_id": "tt0058122"
+  },
+  {
+    "title": "Rio, 100 Degrees F°",
+    "release_year": "1955",
+    "clean_title": "/film/rio-100-degrees-f/",
+    "adult": false,
+    "id": 146075,
+    "imdb_id": "tt0048572"
   },
   {
     "title": "Saint Bernard",
@@ -248,12 +240,12 @@
     "imdb_id": "tt0185714"
   },
   {
-    "title": "Case of the Naves Brothers",
-    "release_year": "1967",
-    "clean_title": "/film/case-of-the-naves-brothers/",
+    "title": "The Son of a Thousand Men",
+    "release_year": "2025",
+    "clean_title": "/film/the-son-of-a-thousand-men/",
     "adult": false,
-    "id": 117453,
-    "imdb_id": "tt0139927"
+    "id": 1299209,
+    "imdb_id": "tt33402908"
   },
   {
     "title": "Boy & the World",
@@ -262,6 +254,14 @@
     "adult": false,
     "id": 223706,
     "imdb_id": "tt3183630"
+  },
+  {
+    "title": "Case of the Naves Brothers",
+    "release_year": "1967",
+    "clean_title": "/film/case-of-the-naves-brothers/",
+    "adult": false,
+    "id": 117453,
+    "imdb_id": "tt0139927"
   },
   {
     "title": "Buccaneer Soul",
@@ -304,20 +304,20 @@
     "imdb_id": "tt0261082"
   },
   {
-    "title": "Reflections of a Blender",
-    "release_year": "2010",
-    "clean_title": "/film/reflections-of-a-blender/",
-    "adult": false,
-    "id": 158921,
-    "imdb_id": "tt1442578"
-  },
-  {
     "title": "No way, Spider",
     "release_year": "1970",
     "clean_title": "/film/no-way-spider/",
     "adult": false,
     "id": 186735,
     "imdb_id": "tt0260354"
+  },
+  {
+    "title": "Reflections of a Blender",
+    "release_year": "2010",
+    "clean_title": "/film/reflections-of-a-blender/",
+    "adult": false,
+    "id": 158921,
+    "imdb_id": "tt1442578"
   },
   {
     "title": "The Deceased",
@@ -344,6 +344,14 @@
     "imdb_id": "tt0071137"
   },
   {
+    "title": "Entranced Earth",
+    "release_year": "1967",
+    "clean_title": "/film/entranced-earth/",
+    "adult": false,
+    "id": 67062,
+    "imdb_id": "tt0062352"
+  },
+  {
     "title": "Bacurau",
     "release_year": "2019",
     "clean_title": "/film/bacurau/",
@@ -360,28 +368,12 @@
     "imdb_id": "tt0291003"
   },
   {
-    "title": "Entranced Earth",
-    "release_year": "1967",
-    "clean_title": "/film/entranced-earth/",
-    "adult": false,
-    "id": 67062,
-    "imdb_id": "tt0062352"
-  },
-  {
     "title": "Nise: The Heart of Madness",
     "release_year": "2015",
     "clean_title": "/film/nise-the-heart-of-madness/",
     "adult": false,
     "id": 363103,
     "imdb_id": "tt2168180"
-  },
-  {
-    "title": "Bingo: The King of the Mornings",
-    "release_year": "2017",
-    "clean_title": "/film/bingo-the-king-of-the-mornings/",
-    "adult": false,
-    "id": 429210,
-    "imdb_id": "tt6293516"
   },
   {
     "title": "The Kiss",
@@ -392,12 +384,28 @@
     "imdb_id": "tt0088784"
   },
   {
+    "title": "Bingo: The King of the Mornings",
+    "release_year": "2017",
+    "clean_title": "/film/bingo-the-king-of-the-mornings/",
+    "adult": false,
+    "id": 429210,
+    "imdb_id": "tt6293516"
+  },
+  {
     "title": "Malu",
     "release_year": "2024",
     "clean_title": "/film/malu-2024/",
     "adult": false,
     "id": 1214489,
     "imdb_id": "tt28500076"
+  },
+  {
+    "title": "The Nature of Invisible Things",
+    "release_year": "2025",
+    "clean_title": "/film/the-nature-of-invisible-things/",
+    "adult": false,
+    "id": 1403855,
+    "imdb_id": "tt35051106"
   },
   {
     "title": "The Way He Looks",
@@ -408,44 +416,12 @@
     "imdb_id": "tt1702014"
   },
   {
-    "title": "The Red Light Bandit",
-    "release_year": "1968",
-    "clean_title": "/film/the-red-light-bandit/",
-    "adult": false,
-    "id": 186738,
-    "imdb_id": "tt0144782"
-  },
-  {
     "title": "Ai que Vida!",
     "release_year": "2008",
     "clean_title": "/film/ai-que-vida/",
     "adult": false,
     "id": 62895,
     "imdb_id": "tt4574562"
-  },
-  {
-    "title": "The Age of the Earth",
-    "release_year": "1980",
-    "clean_title": "/film/the-age-of-the-earth/",
-    "adult": false,
-    "id": 76816,
-    "imdb_id": "tt0080910"
-  },
-  {
-    "title": "The Wrung-Out Man",
-    "release_year": "1980",
-    "clean_title": "/film/the-wrung-out-man/",
-    "adult": false,
-    "id": 166184,
-    "imdb_id": "tt0178585"
-  },
-  {
-    "title": "Tocaia no Asfalto",
-    "release_year": "1962",
-    "clean_title": "/film/tocaia-no-asfalto/",
-    "adult": false,
-    "id": 95621,
-    "imdb_id": "tt0197958"
   },
   {
     "title": "Chuck Billy and The Marvelous Guava Tree",
@@ -456,12 +432,44 @@
     "imdb_id": "tt30868610"
   },
   {
-    "title": "The Nature of Invisible Things",
-    "release_year": "2025",
-    "clean_title": "/film/the-nature-of-invisible-things/",
+    "title": "The Red Light Bandit",
+    "release_year": "1968",
+    "clean_title": "/film/the-red-light-bandit/",
     "adult": false,
-    "id": 1403855,
-    "imdb_id": "tt35051106"
+    "id": 186738,
+    "imdb_id": "tt0144782"
+  },
+  {
+    "title": "The Wrung-Out Man",
+    "release_year": "1980",
+    "clean_title": "/film/the-wrung-out-man/",
+    "adult": false,
+    "id": 166184,
+    "imdb_id": "tt0178585"
+  },
+  {
+    "title": "The Age of the Earth",
+    "release_year": "1980",
+    "clean_title": "/film/the-age-of-the-earth/",
+    "adult": false,
+    "id": 76816,
+    "imdb_id": "tt0080910"
+  },
+  {
+    "title": "Love Me Forever or Never",
+    "release_year": "1986",
+    "clean_title": "/film/love-me-forever-or-never/",
+    "adult": false,
+    "id": 74649,
+    "imdb_id": "tt0122480"
+  },
+  {
+    "title": "The Hour and Turn of Augusto Matraga",
+    "release_year": "1965",
+    "clean_title": "/film/the-hour-and-turn-of-augusto-matraga/",
+    "adult": false,
+    "id": 194785,
+    "imdb_id": "tt0059281"
   },
   {
     "title": "Copacabana Mon Amour",
@@ -480,36 +488,20 @@
     "imdb_id": "tt16377816"
   },
   {
-    "title": "The Hour and Turn of Augusto Matraga",
-    "release_year": "1965",
-    "clean_title": "/film/the-hour-and-turn-of-augusto-matraga/",
+    "title": "Tocaia no Asfalto",
+    "release_year": "1962",
+    "clean_title": "/film/tocaia-no-asfalto/",
     "adult": false,
-    "id": 194785,
-    "imdb_id": "tt0059281"
+    "id": 95621,
+    "imdb_id": "tt0197958"
   },
   {
-    "title": "Love Me Forever or Never",
-    "release_year": "1986",
-    "clean_title": "/film/love-me-forever-or-never/",
+    "title": "Fake Blonde",
+    "release_year": "2007",
+    "clean_title": "/film/fake-blonde/",
     "adult": false,
-    "id": 74649,
-    "imdb_id": "tt0122480"
-  },
-  {
-    "title": "Men and Women",
-    "release_year": "1964",
-    "clean_title": "/film/men-and-women-1964/",
-    "adult": false,
-    "id": 195450,
-    "imdb_id": "tt0189814"
-  },
-  {
-    "title": "The Margin",
-    "release_year": "1967",
-    "clean_title": "/film/the-margin/",
-    "adult": false,
-    "id": 183678,
-    "imdb_id": "tt0144295"
+    "id": 169497,
+    "imdb_id": "tt1059921"
   },
   {
     "title": "A Wolf at the Door",
@@ -520,12 +512,20 @@
     "imdb_id": "tt2861532"
   },
   {
-    "title": "Araby",
-    "release_year": "2017",
-    "clean_title": "/film/araby-2017/",
+    "title": "The Margin",
+    "release_year": "1967",
+    "clean_title": "/film/the-margin/",
     "adult": false,
-    "id": 434370,
-    "imdb_id": "tt6400280"
+    "id": 183678,
+    "imdb_id": "tt0144295"
+  },
+  {
+    "title": "Men and Women",
+    "release_year": "1964",
+    "clean_title": "/film/men-and-women-1964/",
+    "adult": false,
+    "id": 195450,
+    "imdb_id": "tt0189814"
   },
   {
     "title": "All the Women in the World",
@@ -536,12 +536,12 @@
     "imdb_id": "tt0145532"
   },
   {
-    "title": "Fake Blonde",
-    "release_year": "2007",
-    "clean_title": "/film/fake-blonde/",
+    "title": "Araby",
+    "release_year": "2017",
+    "clean_title": "/film/araby-2017/",
     "adult": false,
-    "id": 169497,
-    "imdb_id": "tt1059921"
+    "id": 434370,
+    "imdb_id": "tt6400280"
   },
   {
     "title": "Também Somos Irmãos",
@@ -560,20 +560,20 @@
     "imdb_id": "tt0317887"
   },
   {
-    "title": "Sertânia",
-    "release_year": "2020",
-    "clean_title": "/film/sertania/",
-    "adult": false,
-    "id": 594478,
-    "imdb_id": "tt11275354"
-  },
-  {
     "title": "Ó Paí, Ó: Look at This",
     "release_year": "2007",
     "clean_title": "/film/o-pai-o-look-at-this/",
     "adult": false,
     "id": 37817,
     "imdb_id": "tt0895777"
+  },
+  {
+    "title": "Sertânia",
+    "release_year": "2020",
+    "clean_title": "/film/sertania/",
+    "adult": false,
+    "id": 594478,
+    "imdb_id": "tt11275354"
   },
   {
     "title": "The Woman of Everyone",
@@ -600,44 +600,12 @@
     "imdb_id": "tt0418602"
   },
   {
-    "title": "My Mom Is a Character 3",
-    "release_year": "2019",
-    "clean_title": "/film/my-mom-is-a-character-3/",
-    "adult": false,
-    "id": 620683,
-    "imdb_id": "tt10611372"
-  },
-  {
-    "title": "Black Orpheus",
-    "release_year": "1959",
-    "clean_title": "/film/black-orpheus/",
-    "adult": false,
-    "id": 40423,
-    "imdb_id": "tt0053146"
-  },
-  {
     "title": "I Travel Because I Have to, I Come Back Because I Love You",
     "release_year": "2009",
     "clean_title": "/film/i-travel-because-i-have-to-i-come-back-because-i-love-you/",
     "adult": false,
     "id": 87199,
     "imdb_id": "tt1500761"
-  },
-  {
-    "title": "The History of Eternity",
-    "release_year": "2014",
-    "clean_title": "/film/the-history-of-eternity/",
-    "adult": false,
-    "id": 288286,
-    "imdb_id": "tt3565050"
-  },
-  {
-    "title": "The Devil Queen",
-    "release_year": "1974",
-    "clean_title": "/film/the-devil-queen/",
-    "adult": false,
-    "id": 259881,
-    "imdb_id": "tt0189039"
   },
   {
     "title": "The Sign of Chaos",
@@ -648,44 +616,20 @@
     "imdb_id": "tt0389377"
   },
   {
-    "title": "The Secret Agent",
-    "release_year": "2025",
-    "clean_title": "/film/the-secret-agent-2025/",
-    "adult": false,
-    "id": 1220564,
-    "imdb_id": "tt27847051"
-  },
-  {
-    "title": "My Mom Is a Character",
-    "release_year": "2013",
-    "clean_title": "/film/my-mom-is-a-character/",
-    "adult": false,
-    "id": 203217,
-    "imdb_id": "tt2464018"
-  },
-  {
-    "title": "Bang Bang",
-    "release_year": "1971",
-    "clean_title": "/film/bang-bang-1971/",
-    "adult": false,
-    "id": 173732,
-    "imdb_id": "tt0201450"
-  },
-  {
-    "title": "Porto das Caixas",
-    "release_year": "1963",
-    "clean_title": "/film/porto-das-caixas/",
-    "adult": false,
-    "id": 194978,
-    "imdb_id": "tt0145401"
-  },
-  {
     "title": "Durval Discos",
     "release_year": "2002",
     "clean_title": "/film/durval-discos/",
     "adult": false,
     "id": 74901,
     "imdb_id": "tt0314009"
+  },
+  {
+    "title": "Same Old West",
+    "release_year": "2024",
+    "clean_title": "/film/same-old-west/",
+    "adult": false,
+    "id": 1314750,
+    "imdb_id": "tt12636944"
   },
   {
     "title": "Nosso Sonho",
@@ -696,12 +640,60 @@
     "imdb_id": "tt15060662"
   },
   {
-    "title": "The Inheritance",
-    "release_year": "1970",
-    "clean_title": "/film/the-inheritance-1970/",
+    "title": "Black Orpheus",
+    "release_year": "1959",
+    "clean_title": "/film/black-orpheus/",
     "adult": false,
-    "id": 143918,
-    "imdb_id": "tt0065831"
+    "id": 40423,
+    "imdb_id": "tt0053146"
+  },
+  {
+    "title": "My Mom Is a Character 3",
+    "release_year": "2019",
+    "clean_title": "/film/my-mom-is-a-character-3/",
+    "adult": false,
+    "id": 620683,
+    "imdb_id": "tt10611372"
+  },
+  {
+    "title": "The History of Eternity",
+    "release_year": "2014",
+    "clean_title": "/film/the-history-of-eternity/",
+    "adult": false,
+    "id": 288286,
+    "imdb_id": "tt3565050"
+  },
+  {
+    "title": "The Secret Agent",
+    "release_year": "2025",
+    "clean_title": "/film/the-secret-agent-2025/",
+    "adult": false,
+    "id": 1220564,
+    "imdb_id": "tt27847051"
+  },
+  {
+    "title": "Bang Bang",
+    "release_year": "1971",
+    "clean_title": "/film/bang-bang-1971/",
+    "adult": false,
+    "id": 173732,
+    "imdb_id": "tt0201450"
+  },
+  {
+    "title": "The Devil Queen",
+    "release_year": "1974",
+    "clean_title": "/film/the-devil-queen/",
+    "adult": false,
+    "id": 259881,
+    "imdb_id": "tt0189039"
+  },
+  {
+    "title": "Porto das Caixas",
+    "release_year": "1963",
+    "clean_title": "/film/porto-das-caixas/",
+    "adult": false,
+    "id": 194978,
+    "imdb_id": "tt0145401"
   },
   {
     "title": "Um Homem sem Importância",
@@ -712,6 +704,14 @@
     "imdb_id": "tt0201282"
   },
   {
+    "title": "Gugu's World",
+    "release_year": "2026",
+    "clean_title": "/film/gugus-world/",
+    "adult": false,
+    "id": 1393615,
+    "imdb_id": "tt11826250"
+  },
+  {
     "title": "The Empire of Desire",
     "release_year": "1981",
     "clean_title": "/film/the-empire-of-desire/",
@@ -720,12 +720,28 @@
     "imdb_id": "tt0197577"
   },
   {
-    "title": "The Palace of Angels",
-    "release_year": "1970",
-    "clean_title": "/film/the-palace-of-angels/",
+    "title": "My Mom Is a Character",
+    "release_year": "2013",
+    "clean_title": "/film/my-mom-is-a-character/",
     "adult": false,
-    "id": 195455,
-    "imdb_id": "tt0189887"
+    "id": 203217,
+    "imdb_id": "tt2464018"
+  },
+  {
+    "title": "The Seamstress",
+    "release_year": "2017",
+    "clean_title": "/film/the-seamstress-2017/",
+    "adult": false,
+    "id": 475756,
+    "imdb_id": "tt7308092"
+  },
+  {
+    "title": "The Inheritance",
+    "release_year": "1970",
+    "clean_title": "/film/the-inheritance-1970/",
+    "adult": false,
+    "id": 143918,
+    "imdb_id": "tt0065831"
   },
   {
     "title": "Extremes of Pleasure",
@@ -736,12 +752,28 @@
     "imdb_id": "tt0259301"
   },
   {
-    "title": "The Seamstress",
-    "release_year": "2017",
-    "clean_title": "/film/the-seamstress-2017/",
+    "title": "The Palace of Angels",
+    "release_year": "1970",
+    "clean_title": "/film/the-palace-of-angels/",
     "adult": false,
-    "id": 475756,
-    "imdb_id": "tt7308092"
+    "id": 195455,
+    "imdb_id": "tt0189887"
+  },
+  {
+    "title": "Razor in the Flesh",
+    "release_year": "1969",
+    "clean_title": "/film/razor-in-the-flesh/",
+    "adult": false,
+    "id": 216583,
+    "imdb_id": "tt0184772"
+  },
+  {
+    "title": "Antonio das Mortes",
+    "release_year": "1969",
+    "clean_title": "/film/antonio-das-mortes/",
+    "adult": false,
+    "id": 74349,
+    "imdb_id": "tt0064256"
   },
   {
     "title": "Marighella",
@@ -760,44 +792,12 @@
     "imdb_id": "tt0198360"
   },
   {
-    "title": "Same Old West",
-    "release_year": "2024",
-    "clean_title": "/film/same-old-west/",
-    "adult": false,
-    "id": 1314750,
-    "imdb_id": "tt12636944"
-  },
-  {
     "title": "Coffee With Cinnamon",
     "release_year": "2017",
     "clean_title": "/film/coffee-with-cinnamon/",
     "adult": false,
     "id": 469915,
     "imdb_id": "tt7414162"
-  },
-  {
-    "title": "The Death and Life of a Severino: In Cartoon",
-    "release_year": "2011",
-    "clean_title": "/film/the-death-and-life-of-a-severino-in-cartoon/",
-    "adult": false,
-    "id": 207927,
-    "imdb_id": "tt1832406"
-  },
-  {
-    "title": "Razor in the Flesh",
-    "release_year": "1969",
-    "clean_title": "/film/razor-in-the-flesh/",
-    "adult": false,
-    "id": 216583,
-    "imdb_id": "tt0184772"
-  },
-  {
-    "title": "Tattoo",
-    "release_year": "2013",
-    "clean_title": "/film/tattoo-2013/",
-    "adult": false,
-    "id": 227493,
-    "imdb_id": "tt2746176"
   },
   {
     "title": "Four Days in September",
@@ -808,6 +808,22 @@
     "imdb_id": "tt0119815"
   },
   {
+    "title": "Tattoo",
+    "release_year": "2013",
+    "clean_title": "/film/tattoo-2013/",
+    "adult": false,
+    "id": 227493,
+    "imdb_id": "tt2746176"
+  },
+  {
+    "title": "The Death and Life of a Severino: In Cartoon",
+    "release_year": "2011",
+    "clean_title": "/film/the-death-and-life-of-a-severino-in-cartoon/",
+    "adult": false,
+    "id": 207927,
+    "imdb_id": "tt1832406"
+  },
+  {
     "title": "Hour of the Star",
     "release_year": "1985",
     "clean_title": "/film/hour-of-the-star/",
@@ -816,28 +832,12 @@
     "imdb_id": "tt0089297"
   },
   {
-    "title": "Antonio das Mortes",
-    "release_year": "1969",
-    "clean_title": "/film/antonio-das-mortes/",
+    "title": "Monica and Friends: Lessons",
+    "release_year": "2021",
+    "clean_title": "/film/monica-and-friends-lessons/",
     "adult": false,
-    "id": 74349,
-    "imdb_id": "tt0064256"
-  },
-  {
-    "title": "Under Pressure",
-    "release_year": "2016",
-    "clean_title": "/film/under-pressure-2016/",
-    "adult": false,
-    "id": 417587,
-    "imdb_id": "tt5259978"
-  },
-  {
-    "title": "Neighboring Sounds",
-    "release_year": "2012",
-    "clean_title": "/film/neighboring-sounds/",
-    "adult": false,
-    "id": 97989,
-    "imdb_id": "tt2190367"
+    "id": 662745,
+    "imdb_id": "tt11674072"
   },
   {
     "title": "Dazed Flesh",
@@ -848,12 +848,28 @@
     "imdb_id": "tt12115032"
   },
   {
+    "title": "Under Pressure",
+    "release_year": "2016",
+    "clean_title": "/film/under-pressure-2016/",
+    "adult": false,
+    "id": 417587,
+    "imdb_id": "tt5259978"
+  },
+  {
     "title": "The Asphalt Kiss",
     "release_year": "2018",
     "clean_title": "/film/the-asphalt-kiss/",
     "adult": false,
     "id": 482272,
     "imdb_id": "tt9365634"
+  },
+  {
+    "title": "Neighboring Sounds",
+    "release_year": "2012",
+    "clean_title": "/film/neighboring-sounds/",
+    "adult": false,
+    "id": 97989,
+    "imdb_id": "tt2190367"
   },
   {
     "title": "Excitation",
@@ -864,28 +880,12 @@
     "imdb_id": "tt0260893"
   },
   {
-    "title": "Angels of the Night",
-    "release_year": "1987",
-    "clean_title": "/film/angels-of-the-night/",
+    "title": "Cinema, Aspirins and Vultures",
+    "release_year": "2005",
+    "clean_title": "/film/cinema-aspirins-and-vultures/",
     "adult": false,
-    "id": 258206,
-    "imdb_id": "tt0139857"
-  },
-  {
-    "title": "Love for Sale",
-    "release_year": "2006",
-    "clean_title": "/film/love-for-sale-2006/",
-    "adult": false,
-    "id": 95342,
-    "imdb_id": "tt0841175"
-  },
-  {
-    "title": "Memories of Prison",
-    "release_year": "1984",
-    "clean_title": "/film/memories-of-prison/",
-    "adult": false,
-    "id": 135624,
-    "imdb_id": "tt0087709"
+    "id": 43420,
+    "imdb_id": "tt0373760"
   },
   {
     "title": "Barren Lives",
@@ -894,6 +894,14 @@
     "adult": false,
     "id": 836,
     "imdb_id": "tt0057654"
+  },
+  {
+    "title": "Love for Sale",
+    "release_year": "2006",
+    "clean_title": "/film/love-for-sale-2006/",
+    "adult": false,
+    "id": 95342,
+    "imdb_id": "tt0841175"
   },
   {
     "title": "Bye Bye Brazil",
@@ -912,20 +920,20 @@
     "imdb_id": "tt0373747"
   },
   {
-    "title": "Monica and Friends: Lessons",
-    "release_year": "2021",
-    "clean_title": "/film/monica-and-friends-lessons/",
+    "title": "Angels of the Night",
+    "release_year": "1987",
+    "clean_title": "/film/angels-of-the-night/",
     "adult": false,
-    "id": 662745,
-    "imdb_id": "tt11674072"
+    "id": 258206,
+    "imdb_id": "tt0139857"
   },
   {
-    "title": "The Fall",
-    "release_year": "1976",
-    "clean_title": "/film/the-fall-1976/",
+    "title": "Memories of Prison",
+    "release_year": "1984",
+    "clean_title": "/film/memories-of-prison/",
     "adult": false,
-    "id": 195560,
-    "imdb_id": "tt0075112"
+    "id": 135624,
+    "imdb_id": "tt0087709"
   },
   {
     "title": "Black God, White Devil",
@@ -944,12 +952,12 @@
     "imdb_id": "tt2322316"
   },
   {
-    "title": "Cinema, Aspirins and Vultures",
-    "release_year": "2005",
-    "clean_title": "/film/cinema-aspirins-and-vultures/",
+    "title": "The Fall",
+    "release_year": "1976",
+    "clean_title": "/film/the-fall-1976/",
     "adult": false,
-    "id": 43420,
-    "imdb_id": "tt0373760"
+    "id": 195560,
+    "imdb_id": "tt0075112"
   },
   {
     "title": "Limite",
@@ -958,14 +966,6 @@
     "adult": false,
     "id": 8353,
     "imdb_id": "tt0022080"
-  },
-  {
-    "title": "Loveling",
-    "release_year": "2018",
-    "clean_title": "/film/loveling/",
-    "adult": false,
-    "id": 490039,
-    "imdb_id": "tt5707048"
   },
   {
     "title": "Golden Mouth",
@@ -984,36 +984,20 @@
     "imdb_id": "tt0085216"
   },
   {
-    "title": "Last Stop 174",
-    "release_year": "2008",
-    "clean_title": "/film/last-stop-174/",
-    "adult": false,
-    "id": 20268,
-    "imdb_id": "tt1280567"
-  },
-  {
-    "title": "The Clown",
-    "release_year": "2011",
-    "clean_title": "/film/the-clown/",
-    "adult": false,
-    "id": 79934,
-    "imdb_id": "tt1921043"
-  },
-  {
-    "title": "Kiss of the Spider Woman",
-    "release_year": "1985",
-    "clean_title": "/film/kiss-of-the-spider-woman/",
-    "adult": false,
-    "id": 11703,
-    "imdb_id": "tt0089424"
-  },
-  {
     "title": "Killed the Family and Went to the Movies",
     "release_year": "1969",
     "clean_title": "/film/killed-the-family-and-went-to-the-movies-1969/",
     "adult": false,
     "id": 175125,
     "imdb_id": "tt0158766"
+  },
+  {
+    "title": "Loveling",
+    "release_year": "2018",
+    "clean_title": "/film/loveling/",
+    "adult": false,
+    "id": 490039,
+    "imdb_id": "tt5707048"
   },
   {
     "title": "Girls from ABC",
@@ -1024,6 +1008,30 @@
     "imdb_id": "tt0327451"
   },
   {
+    "title": "Kiss of the Spider Woman",
+    "release_year": "1985",
+    "clean_title": "/film/kiss-of-the-spider-woman/",
+    "adult": false,
+    "id": 11703,
+    "imdb_id": "tt0089424"
+  },
+  {
+    "title": "Rio 2096: A Story of Love and Fury",
+    "release_year": "2013",
+    "clean_title": "/film/rio-2096-a-story-of-love-and-fury/",
+    "adult": false,
+    "id": 173443,
+    "imdb_id": "tt2231208"
+  },
+  {
+    "title": "Last Stop 174",
+    "release_year": "2008",
+    "clean_title": "/film/last-stop-174/",
+    "adult": false,
+    "id": 20268,
+    "imdb_id": "tt1280567"
+  },
+  {
     "title": "Island",
     "release_year": "2018",
     "clean_title": "/film/island-2018-1/",
@@ -1032,12 +1040,20 @@
     "imdb_id": "tt9031490"
   },
   {
-    "title": "The Prophet of Hunger",
-    "release_year": "1970",
-    "clean_title": "/film/the-prophet-of-hunger/",
+    "title": "The Clown",
+    "release_year": "2011",
+    "clean_title": "/film/the-clown/",
     "adult": false,
-    "id": 195152,
-    "imdb_id": "tt0187427"
+    "id": 79934,
+    "imdb_id": "tt1921043"
+  },
+  {
+    "title": "Aunt Virginia",
+    "release_year": "2023",
+    "clean_title": "/film/aunt-virginia/",
+    "adult": false,
+    "id": 928864,
+    "imdb_id": "tt28582081"
   },
   {
     "title": "The Blue Trail",
@@ -1046,6 +1062,14 @@
     "adult": false,
     "id": 1172265,
     "imdb_id": "tt35340614"
+  },
+  {
+    "title": "The Prophet of Hunger",
+    "release_year": "1970",
+    "clean_title": "/film/the-prophet-of-hunger/",
+    "adult": false,
+    "id": 195152,
+    "imdb_id": "tt0187427"
   },
   {
     "title": "Vitória",
@@ -1064,20 +1088,12 @@
     "imdb_id": "tt0145560"
   },
   {
-    "title": "Rio 2096: A Story of Love and Fury",
-    "release_year": "2013",
-    "clean_title": "/film/rio-2096-a-story-of-love-and-fury/",
+    "title": "Sweet Thieves",
+    "release_year": "1977",
+    "clean_title": "/film/sweet-thieves/",
     "adult": false,
-    "id": 173443,
-    "imdb_id": "tt2231208"
-  },
-  {
-    "title": "Aunt Virginia",
-    "release_year": "2023",
-    "clean_title": "/film/aunt-virginia/",
-    "adult": false,
-    "id": 928864,
-    "imdb_id": "tt28582081"
+    "id": 341872,
+    "imdb_id": "tt0187229"
   },
   {
     "title": "A Bruddah's Mind",
@@ -1088,22 +1104,6 @@
     "imdb_id": "tt13229850"
   },
   {
-    "title": "The Night of the Scarecrow",
-    "release_year": "1974",
-    "clean_title": "/film/the-night-of-the-scarecrow/",
-    "adult": false,
-    "id": 101693,
-    "imdb_id": "tt0071921"
-  },
-  {
-    "title": "O Homem do Sputnik",
-    "release_year": "1959",
-    "clean_title": "/film/o-homem-do-sputnik/",
-    "adult": false,
-    "id": 194734,
-    "imdb_id": "tt0191187"
-  },
-  {
     "title": "Captains of the Sands",
     "release_year": "2011",
     "clean_title": "/film/captains-of-the-sands/",
@@ -1112,28 +1112,12 @@
     "imdb_id": "tt1828148"
   },
   {
-    "title": "Sweet Thieves",
-    "release_year": "1977",
-    "clean_title": "/film/sweet-thieves/",
+    "title": "The Night of the Scarecrow",
+    "release_year": "1974",
+    "clean_title": "/film/the-night-of-the-scarecrow/",
     "adult": false,
-    "id": 341872,
-    "imdb_id": "tt0187229"
-  },
-  {
-    "title": "The Dare",
-    "release_year": "1965",
-    "clean_title": "/film/the-dare/",
-    "adult": false,
-    "id": 194980,
-    "imdb_id": "tt0191947"
-  },
-  {
-    "title": "The Man from the Future",
-    "release_year": "2011",
-    "clean_title": "/film/the-man-from-the-future/",
-    "adult": false,
-    "id": 73624,
-    "imdb_id": "tt2027178"
+    "id": 101693,
+    "imdb_id": "tt0071921"
   },
   {
     "title": "Satan's Feats in the Village of Take-and-Bring",
@@ -1144,12 +1128,44 @@
     "imdb_id": "tt0200978"
   },
   {
+    "title": "O Homem do Sputnik",
+    "release_year": "1959",
+    "clean_title": "/film/o-homem-do-sputnik/",
+    "adult": false,
+    "id": 194734,
+    "imdb_id": "tt0191187"
+  },
+  {
     "title": "Lucio Flavio",
     "release_year": "1977",
     "clean_title": "/film/lucio-flavio/",
     "adult": false,
     "id": 178032,
     "imdb_id": "tt0077878"
+  },
+  {
+    "title": "The Man from the Future",
+    "release_year": "2011",
+    "clean_title": "/film/the-man-from-the-future/",
+    "adult": false,
+    "id": 73624,
+    "imdb_id": "tt2027178"
+  },
+  {
+    "title": "Pacarrete",
+    "release_year": "2019",
+    "clean_title": "/film/pacarrete/",
+    "adult": false,
+    "id": 610199,
+    "imdb_id": "tt5622284"
+  },
+  {
+    "title": "The Dare",
+    "release_year": "1965",
+    "clean_title": "/film/the-dare/",
+    "adult": false,
+    "id": 194980,
+    "imdb_id": "tt0191947"
   },
   {
     "title": "Heart and Guts",
@@ -1184,12 +1200,12 @@
     "imdb_id": "tt1513914"
   },
   {
-    "title": "Pacarrete",
-    "release_year": "2019",
-    "clean_title": "/film/pacarrete/",
+    "title": "City of Men",
+    "release_year": "2007",
+    "clean_title": "/film/city-of-men/",
     "adult": false,
-    "id": 610199,
-    "imdb_id": "tt5622284"
+    "id": 7343,
+    "imdb_id": "tt0870090"
   },
   {
     "title": "The Big City",
@@ -1200,12 +1216,12 @@
     "imdb_id": "tt0060473"
   },
   {
-    "title": "City of Men",
-    "release_year": "2007",
-    "clean_title": "/film/city-of-men/",
+    "title": "Bob Spit: We Do Not Like People",
+    "release_year": "2021",
+    "clean_title": "/film/bob-spit-we-do-not-like-people/",
     "adult": false,
-    "id": 7343,
-    "imdb_id": "tt0870090"
+    "id": 831760,
+    "imdb_id": "tt10376010"
   },
   {
     "title": "The Year My Parents Went on Vacation",
@@ -1224,14 +1240,6 @@
     "imdb_id": "tt0884177"
   },
   {
-    "title": "She and I",
-    "release_year": "2021",
-    "clean_title": "/film/she-and-i-2021/",
-    "adult": false,
-    "id": 884579,
-    "imdb_id": "tt10863980"
-  },
-  {
     "title": "Sweet Mother",
     "release_year": "2012",
     "clean_title": "/film/sweet-mother-2012/",
@@ -1240,12 +1248,20 @@
     "imdb_id": "tt2701150"
   },
   {
-    "title": "Gugu's World",
-    "release_year": "2026",
-    "clean_title": "/film/gugus-world/",
+    "title": "She and I",
+    "release_year": "2021",
+    "clean_title": "/film/she-and-i-2021/",
     "adult": false,
-    "id": 1393615,
-    "imdb_id": "tt11826250"
+    "id": 884579,
+    "imdb_id": "tt10863980"
+  },
+  {
+    "title": "The Best Mother in the World",
+    "release_year": "2025",
+    "clean_title": "/film/the-best-mother-in-the-world/",
+    "adult": false,
+    "id": 1208758,
+    "imdb_id": "tt35453979"
   },
   {
     "title": "Bittersweet Rain",
@@ -1264,38 +1280,6 @@
     "imdb_id": "tt0337412"
   },
   {
-    "title": "Sea of Roses",
-    "release_year": "1977",
-    "clean_title": "/film/sea-of-roses/",
-    "adult": false,
-    "id": 236310,
-    "imdb_id": "tt0179964"
-  },
-  {
-    "title": "My Grandfather Is a Nihonjin",
-    "release_year": "2025",
-    "clean_title": "/film/my-grandfather-is-a-nihonjin/",
-    "adult": false,
-    "id": 1453589,
-    "imdb_id": "tt36640006"
-  },
-  {
-    "title": "The Best Mother in the World",
-    "release_year": "2025",
-    "clean_title": "/film/the-best-mother-in-the-world/",
-    "adult": false,
-    "id": 1208758,
-    "imdb_id": "tt35453979"
-  },
-  {
-    "title": "Iracema",
-    "release_year": "1975",
-    "clean_title": "/film/iracema/",
-    "adult": false,
-    "id": 116146,
-    "imdb_id": "tt0126968"
-  },
-  {
     "title": "Charcoal",
     "release_year": "2022",
     "clean_title": "/film/charcoal-2022/",
@@ -1312,20 +1296,12 @@
     "imdb_id": "tt0068739"
   },
   {
-    "title": "Pureza",
-    "release_year": "2022",
-    "clean_title": "/film/pureza-2022/",
+    "title": "Sea of Roses",
+    "release_year": "1977",
+    "clean_title": "/film/sea-of-roses/",
     "adult": false,
-    "id": 651907,
-    "imdb_id": "tt8697222"
-  },
-  {
-    "title": "In the Heart of the World",
-    "release_year": "2019",
-    "clean_title": "/film/in-the-heart-of-the-world/",
-    "adult": false,
-    "id": 573661,
-    "imdb_id": "tt9646768"
+    "id": 236310,
+    "imdb_id": "tt0179964"
   },
   {
     "title": "Carnival Is Over",
@@ -1336,100 +1312,20 @@
     "imdb_id": "tt31332352"
   },
   {
-    "title": "The Goddesses",
-    "release_year": "1972",
-    "clean_title": "/film/the-goddesses/",
+    "title": "Iracema",
+    "release_year": "1975",
+    "clean_title": "/film/iracema/",
     "adult": false,
-    "id": 195457,
-    "imdb_id": "tt0189477"
+    "id": 116146,
+    "imdb_id": "tt0126968"
   },
   {
-    "title": "The First Fallen",
-    "release_year": "2021",
-    "clean_title": "/film/the-first-fallen/",
+    "title": "In the Heart of the World",
+    "release_year": "2019",
+    "clean_title": "/film/in-the-heart-of-the-world/",
     "adult": false,
-    "id": 762792,
-    "imdb_id": "tt15823516"
-  },
-  {
-    "title": "The Men I Had",
-    "release_year": "1973",
-    "clean_title": "/film/the-men-i-had/",
-    "adult": false,
-    "id": 286643,
-    "imdb_id": "tt0204383"
-  },
-  {
-    "title": "Force of the Senses",
-    "release_year": "1978",
-    "clean_title": "/film/force-of-the-senses/",
-    "adult": false,
-    "id": 332015,
-    "imdb_id": "tt0260911"
-  },
-  {
-    "title": "Amor, Palavra Prostituta",
-    "release_year": "1982",
-    "clean_title": "/film/amor-palavra-prostituta/",
-    "adult": false,
-    "id": 167463,
-    "imdb_id": "tt0078769"
-  },
-  {
-    "title": "Dona Flor and Her Two Husbands",
-    "release_year": "1976",
-    "clean_title": "/film/dona-flor-and-her-two-husbands/",
-    "adult": false,
-    "id": 42234,
-    "imdb_id": "tt0077452"
-  },
-  {
-    "title": "The Turning Wind",
-    "release_year": "1962",
-    "clean_title": "/film/the-turning-wind/",
-    "adult": false,
-    "id": 66184,
-    "imdb_id": "tt0055776"
-  },
-  {
-    "title": "After Eight... Forever",
-    "release_year": "1987",
-    "clean_title": "/film/after-eight-forever/",
-    "adult": false,
-    "id": 229483,
-    "imdb_id": "tt0180184"
-  },
-  {
-    "title": "My Sweet Orange Tree",
-    "release_year": "1970",
-    "clean_title": "/film/my-sweet-orange-tree/",
-    "adult": false,
-    "id": 161072,
-    "imdb_id": "tt0195063"
-  },
-  {
-    "title": "Memoirs of a Strangler of Blondes",
-    "release_year": "1971",
-    "clean_title": "/film/memoirs-of-a-strangler-of-blondes/",
-    "adult": false,
-    "id": 249556,
-    "imdb_id": "tt0182314"
-  },
-  {
-    "title": "The Day I Met You",
-    "release_year": "2023",
-    "clean_title": "/film/the-day-i-met-you/",
-    "adult": false,
-    "id": 1176508,
-    "imdb_id": "tt30005147"
-  },
-  {
-    "title": "Amélia",
-    "release_year": "2000",
-    "clean_title": "/film/amelia-2000/",
-    "adult": false,
-    "id": 258436,
-    "imdb_id": "tt0258413"
+    "id": 573661,
+    "imdb_id": "tt9646768"
   },
   {
     "title": "Verônica",
@@ -1440,12 +1336,100 @@
     "imdb_id": "tt1392261"
   },
   {
-    "title": "The Storytellers",
-    "release_year": "2003",
-    "clean_title": "/film/the-storytellers-2003/",
+    "title": "My Grandfather Is a Nihonjin",
+    "release_year": "2025",
+    "clean_title": "/film/my-grandfather-is-a-nihonjin/",
     "adult": false,
-    "id": 165545,
-    "imdb_id": "tt0355809"
+    "id": 1453589,
+    "imdb_id": "tt36640006"
+  },
+  {
+    "title": "Pureza",
+    "release_year": "2022",
+    "clean_title": "/film/pureza-2022/",
+    "adult": false,
+    "id": 651907,
+    "imdb_id": "tt8697222"
+  },
+  {
+    "title": "The First Fallen",
+    "release_year": "2021",
+    "clean_title": "/film/the-first-fallen/",
+    "adult": false,
+    "id": 762792,
+    "imdb_id": "tt15823516"
+  },
+  {
+    "title": "Dona Flor and Her Two Husbands",
+    "release_year": "1976",
+    "clean_title": "/film/dona-flor-and-her-two-husbands/",
+    "adult": false,
+    "id": 42234,
+    "imdb_id": "tt0077452"
+  },
+  {
+    "title": "Amor, Palavra Prostituta",
+    "release_year": "1982",
+    "clean_title": "/film/amor-palavra-prostituta/",
+    "adult": false,
+    "id": 167463,
+    "imdb_id": "tt0078769"
+  },
+  {
+    "title": "The Goddesses",
+    "release_year": "1972",
+    "clean_title": "/film/the-goddesses/",
+    "adult": false,
+    "id": 195457,
+    "imdb_id": "tt0189477"
+  },
+  {
+    "title": "The Men I Had",
+    "release_year": "1973",
+    "clean_title": "/film/the-men-i-had/",
+    "adult": false,
+    "id": 286643,
+    "imdb_id": "tt0204383"
+  },
+  {
+    "title": "The Turning Wind",
+    "release_year": "1962",
+    "clean_title": "/film/the-turning-wind/",
+    "adult": false,
+    "id": 66184,
+    "imdb_id": "tt0055776"
+  },
+  {
+    "title": "Amélia",
+    "release_year": "2000",
+    "clean_title": "/film/amelia-2000/",
+    "adult": false,
+    "id": 258436,
+    "imdb_id": "tt0258413"
+  },
+  {
+    "title": "After Eight... Forever",
+    "release_year": "1987",
+    "clean_title": "/film/after-eight-forever/",
+    "adult": false,
+    "id": 229483,
+    "imdb_id": "tt0180184"
+  },
+  {
+    "title": "Force of the Senses",
+    "release_year": "1978",
+    "clean_title": "/film/force-of-the-senses/",
+    "adult": false,
+    "id": 332015,
+    "imdb_id": "tt0260911"
+  },
+  {
+    "title": "My Sweet Orange Tree",
+    "release_year": "1970",
+    "clean_title": "/film/my-sweet-orange-tree/",
+    "adult": false,
+    "id": 161072,
+    "imdb_id": "tt0195063"
   },
   {
     "title": "Mango Yellow",
@@ -1464,20 +1448,44 @@
     "imdb_id": "tt0143972"
   },
   {
+    "title": "The Storytellers",
+    "release_year": "2003",
+    "clean_title": "/film/the-storytellers-2003/",
+    "adult": false,
+    "id": 165545,
+    "imdb_id": "tt0355809"
+  },
+  {
+    "title": "Memoirs of a Strangler of Blondes",
+    "release_year": "1971",
+    "clean_title": "/film/memoirs-of-a-strangler-of-blondes/",
+    "adult": false,
+    "id": 249556,
+    "imdb_id": "tt0182314"
+  },
+  {
+    "title": "The Day I Met You",
+    "release_year": "2023",
+    "clean_title": "/film/the-day-i-met-you/",
+    "adult": false,
+    "id": 1176508,
+    "imdb_id": "tt30005147"
+  },
+  {
+    "title": "Long Way Home",
+    "release_year": "2018",
+    "clean_title": "/film/long-way-home/",
+    "adult": false,
+    "id": 535348,
+    "imdb_id": "tt8731138"
+  },
+  {
     "title": "Power Alley",
     "release_year": "2023",
     "clean_title": "/film/power-alley/",
     "adult": false,
     "id": 1008568,
     "imdb_id": "tt10037498"
-  },
-  {
-    "title": "Traveller",
-    "release_year": "1998",
-    "clean_title": "/film/traveller-1998/",
-    "adult": false,
-    "id": 180662,
-    "imdb_id": "tt0192743"
   },
   {
     "title": "Light in the Tropics",
@@ -1504,12 +1512,12 @@
     "imdb_id": "tt0142085"
   },
   {
-    "title": "Long Way Home",
-    "release_year": "2018",
-    "clean_title": "/film/long-way-home/",
+    "title": "Traveller",
+    "release_year": "1998",
+    "clean_title": "/film/traveller-1998/",
     "adult": false,
-    "id": 535348,
-    "imdb_id": "tt8731138"
+    "id": 180662,
+    "imdb_id": "tt0192743"
   },
   {
     "title": "Entrei em Pânico ao Saber o que Vocês Fizeram na Sexta-feira 13 do Verão Passado",
@@ -1520,28 +1528,12 @@
     "imdb_id": "tt2756880"
   },
   {
-    "title": "Daughters of Fire",
-    "release_year": "1978",
-    "clean_title": "/film/daughters-of-fire/",
+    "title": "The Clown's Daughter",
+    "release_year": "2022",
+    "clean_title": "/film/the-clowns-daughter/",
     "adult": false,
-    "id": 195471,
-    "imdb_id": "tt0236215"
-  },
-  {
-    "title": "The Brave Warrior",
-    "release_year": "1968",
-    "clean_title": "/film/the-brave-warrior/",
-    "adult": false,
-    "id": 195282,
-    "imdb_id": "tt0184303"
-  },
-  {
-    "title": "The Lyre of Delight",
-    "release_year": "1978",
-    "clean_title": "/film/the-lyre-of-delight/",
-    "adult": false,
-    "id": 194849,
-    "imdb_id": "tt0074804"
+    "id": 1027253,
+    "imdb_id": "tt25383368"
   },
   {
     "title": "A Grande Feira",
@@ -1552,12 +1544,36 @@
     "imdb_id": "tt0140084"
   },
   {
-    "title": "The Clown's Daughter",
-    "release_year": "2022",
-    "clean_title": "/film/the-clowns-daughter/",
+    "title": "The Lyre of Delight",
+    "release_year": "1978",
+    "clean_title": "/film/the-lyre-of-delight/",
     "adult": false,
-    "id": 1027253,
-    "imdb_id": "tt25383368"
+    "id": 194849,
+    "imdb_id": "tt0074804"
+  },
+  {
+    "title": "The Brave Warrior",
+    "release_year": "1968",
+    "clean_title": "/film/the-brave-warrior/",
+    "adult": false,
+    "id": 195282,
+    "imdb_id": "tt0184303"
+  },
+  {
+    "title": "Daughters of Fire",
+    "release_year": "1978",
+    "clean_title": "/film/daughters-of-fire/",
+    "adult": false,
+    "id": 195471,
+    "imdb_id": "tt0236215"
+  },
+  {
+    "title": "SuperOutro",
+    "release_year": "1989",
+    "clean_title": "/film/superoutro/",
+    "adult": false,
+    "id": 114597,
+    "imdb_id": "tt0455211"
   },
   {
     "title": "One Is Few, Two Would Fill",
@@ -1574,14 +1590,6 @@
     "adult": false,
     "id": 55253,
     "imdb_id": "tt0457076"
-  },
-  {
-    "title": "SuperOutro",
-    "release_year": "1989",
-    "clean_title": "/film/superoutro/",
-    "adult": false,
-    "id": 114597,
-    "imdb_id": "tt0455211"
   },
   {
     "title": "Everything's Alright",
@@ -1616,6 +1624,14 @@
     "imdb_id": "tt3212812"
   },
   {
+    "title": "Linha de Passe",
+    "release_year": "2008",
+    "clean_title": "/film/linha-de-passe/",
+    "adult": false,
+    "id": 8902,
+    "imdb_id": "tt0803029"
+  },
+  {
     "title": "Bizarre Fish from the Abyssal Zone",
     "release_year": "2023",
     "clean_title": "/film/bizarre-fish-from-the-abyssal-zone/",
@@ -1624,20 +1640,12 @@
     "imdb_id": "tt32146385"
   },
   {
-    "title": "Mangúe-Bangúe",
-    "release_year": "1971",
-    "clean_title": "/film/mangue-bangue/",
+    "title": "Carnaval Atlântida",
+    "release_year": "1952",
+    "clean_title": "/film/carnaval-atlantida/",
     "adult": false,
-    "id": 273670,
-    "imdb_id": "tt0190549"
-  },
-  {
-    "title": "Linha de Passe",
-    "release_year": "2008",
-    "clean_title": "/film/linha-de-passe/",
-    "adult": false,
-    "id": 8902,
-    "imdb_id": "tt0803029"
+    "id": 194728,
+    "imdb_id": "tt0181998"
   },
   {
     "title": "Once Upon a Time in Rio",
@@ -1656,6 +1664,30 @@
     "imdb_id": "tt0117264"
   },
   {
+    "title": "Mangúe-Bangúe",
+    "release_year": "1971",
+    "clean_title": "/film/mangue-bangue/",
+    "adult": false,
+    "id": 273670,
+    "imdb_id": "tt0190549"
+  },
+  {
+    "title": "Death and Life Madalena",
+    "release_year": "2025",
+    "clean_title": "/film/death-and-life-madalena/",
+    "adult": false,
+    "id": 1480321,
+    "imdb_id": "tt37186231"
+  },
+  {
+    "title": "Summer Showers",
+    "release_year": "1978",
+    "clean_title": "/film/summer-showers/",
+    "adult": false,
+    "id": 242319,
+    "imdb_id": "tt0080534"
+  },
+  {
     "title": "Salomé",
     "release_year": "2024",
     "clean_title": "/film/salome-2024-1/",
@@ -1672,36 +1704,12 @@
     "imdb_id": "tt30768102"
   },
   {
-    "title": "Carnaval Atlântida",
-    "release_year": "1952",
-    "clean_title": "/film/carnaval-atlantida/",
-    "adult": false,
-    "id": 194728,
-    "imdb_id": "tt0181998"
-  },
-  {
-    "title": "Summer Showers",
-    "release_year": "1978",
-    "clean_title": "/film/summer-showers/",
-    "adult": false,
-    "id": 242319,
-    "imdb_id": "tt0080534"
-  },
-  {
     "title": "My Name Is Tonho",
     "release_year": "1969",
     "clean_title": "/film/my-name-is-tonho/",
     "adult": false,
     "id": 192505,
     "imdb_id": "tt0183512"
-  },
-  {
-    "title": "The Lady from the Shanghai Cinema",
-    "release_year": "1987",
-    "clean_title": "/film/the-lady-from-the-shanghai-cinema/",
-    "adult": false,
-    "id": 70147,
-    "imdb_id": "tt0092818"
   },
   {
     "title": "The Man of the Year",
@@ -1712,20 +1720,20 @@
     "imdb_id": "tt0312773"
   },
   {
+    "title": "The Lady from the Shanghai Cinema",
+    "release_year": "1987",
+    "clean_title": "/film/the-lady-from-the-shanghai-cinema/",
+    "adult": false,
+    "id": 70147,
+    "imdb_id": "tt0092818"
+  },
+  {
     "title": "Toll",
     "release_year": "2023",
     "clean_title": "/film/toll-2023/",
     "adult": false,
     "id": 925113,
     "imdb_id": "tt13846480"
-  },
-  {
-    "title": "The Buriti Flower",
-    "release_year": "2023",
-    "clean_title": "/film/the-buriti-flower/",
-    "adult": false,
-    "id": 1112543,
-    "imdb_id": "tt27502245"
   },
   {
     "title": "The Story of Me",
@@ -1736,28 +1744,12 @@
     "imdb_id": "tt1372685"
   },
   {
-    "title": "7 Prisoners",
-    "release_year": "2021",
-    "clean_title": "/film/7-prisoners/",
+    "title": "The Buriti Flower",
+    "release_year": "2023",
+    "clean_title": "/film/the-buriti-flower/",
     "adult": false,
-    "id": 785538,
-    "imdb_id": "tt14168118"
-  },
-  {
-    "title": "Knitting",
-    "release_year": "2021",
-    "clean_title": "/film/knitting-2021/",
-    "adult": false,
-    "id": 853667,
-    "imdb_id": "tt11106034"
-  },
-  {
-    "title": "Rio Babilonia",
-    "release_year": "1982",
-    "clean_title": "/film/rio-babilonia/",
-    "adult": false,
-    "id": 152242,
-    "imdb_id": "tt0143837"
+    "id": 1112543,
+    "imdb_id": "tt27502245"
   },
   {
     "title": "Fulaninha",
@@ -1768,28 +1760,20 @@
     "imdb_id": "tt0139227"
   },
   {
-    "title": "Drained",
-    "release_year": "2006",
-    "clean_title": "/film/drained/",
+    "title": "The Seven Kittens",
+    "release_year": "1980",
+    "clean_title": "/film/the-seven-kittens/",
     "adult": false,
-    "id": 40860,
-    "imdb_id": "tt0489458"
+    "id": 186411,
+    "imdb_id": "tt0140543"
   },
   {
-    "title": "The Grand Moment",
-    "release_year": "1958",
-    "clean_title": "/film/the-grand-moment/",
+    "title": "7 Prisoners",
+    "release_year": "2021",
+    "clean_title": "/film/7-prisoners/",
     "adult": false,
-    "id": 194778,
-    "imdb_id": "tt0049275"
-  },
-  {
-    "title": "My Own Private Hell",
-    "release_year": "2018",
-    "clean_title": "/film/my-own-private-hell/",
-    "adult": false,
-    "id": 471291,
-    "imdb_id": "tt7895852"
+    "id": 785538,
+    "imdb_id": "tt14168118"
   },
   {
     "title": "Through Ernesto's Eyes",
@@ -1800,6 +1784,14 @@
     "imdb_id": "tt11136510"
   },
   {
+    "title": "Betânia",
+    "release_year": "2024",
+    "clean_title": "/film/betania/",
+    "adult": false,
+    "id": 1217804,
+    "imdb_id": "tt21443754"
+  },
+  {
     "title": "The Bloody Exorcism of Coffin Joe",
     "release_year": "1974",
     "clean_title": "/film/the-bloody-exorcism-of-coffin-joe/",
@@ -1808,12 +1800,36 @@
     "imdb_id": "tt0071479"
   },
   {
-    "title": "Betânia",
-    "release_year": "2024",
-    "clean_title": "/film/betania/",
+    "title": "My Own Private Hell",
+    "release_year": "2018",
+    "clean_title": "/film/my-own-private-hell/",
     "adult": false,
-    "id": 1217804,
-    "imdb_id": "tt21443754"
+    "id": 471291,
+    "imdb_id": "tt7895852"
+  },
+  {
+    "title": "The Grand Moment",
+    "release_year": "1958",
+    "clean_title": "/film/the-grand-moment/",
+    "adult": false,
+    "id": 194778,
+    "imdb_id": "tt0049275"
+  },
+  {
+    "title": "Knitting",
+    "release_year": "2021",
+    "clean_title": "/film/knitting-2021/",
+    "adult": false,
+    "id": 853667,
+    "imdb_id": "tt11106034"
+  },
+  {
+    "title": "This Night I'll Possess Your Corpse",
+    "release_year": "1967",
+    "clean_title": "/film/this-night-ill-possess-your-corpse/",
+    "adult": false,
+    "id": 30914,
+    "imdb_id": "tt0060380"
   },
   {
     "title": "The Lion Has Seven Heads",
@@ -1824,12 +1840,68 @@
     "imdb_id": "tt0064582"
   },
   {
-    "title": "The Seven Kittens",
-    "release_year": "1980",
-    "clean_title": "/film/the-seven-kittens/",
+    "title": "Necropolis Symphony",
+    "release_year": "2014",
+    "clean_title": "/film/necropolis-symphony/",
     "adult": false,
-    "id": 186411,
-    "imdb_id": "tt0140543"
+    "id": 288436,
+    "imdb_id": "tt3906650"
+  },
+  {
+    "title": "Rio Babilonia",
+    "release_year": "1982",
+    "clean_title": "/film/rio-babilonia/",
+    "adult": false,
+    "id": 152242,
+    "imdb_id": "tt0143837"
+  },
+  {
+    "title": "Câncer",
+    "release_year": "1972",
+    "clean_title": "/film/cancer/",
+    "adult": false,
+    "id": 255927,
+    "imdb_id": "tt0068333"
+  },
+  {
+    "title": "Os Normais: O Filme",
+    "release_year": "2003",
+    "clean_title": "/film/os-normais-o-filme/",
+    "adult": false,
+    "id": 37050,
+    "imdb_id": "tt0351459"
+  },
+  {
+    "title": "Drained",
+    "release_year": "2006",
+    "clean_title": "/film/drained/",
+    "adult": false,
+    "id": 40860,
+    "imdb_id": "tt0489458"
+  },
+  {
+    "title": "Baptism of Blood",
+    "release_year": "2007",
+    "clean_title": "/film/baptism-of-blood-2007/",
+    "adult": false,
+    "id": 35967,
+    "imdb_id": "tt0478978"
+  },
+  {
+    "title": "The Nutty Boy",
+    "release_year": "1995",
+    "clean_title": "/film/the-nutty-boy/",
+    "adult": false,
+    "id": 51184,
+    "imdb_id": "tt0257909"
+  },
+  {
+    "title": "California",
+    "release_year": "2015",
+    "clean_title": "/film/california-2015/",
+    "adult": false,
+    "id": 362876,
+    "imdb_id": "tt4532634"
   },
   {
     "title": "The Ballroom",
@@ -1838,14 +1910,6 @@
     "adult": false,
     "id": 74294,
     "imdb_id": "tt0977642"
-  },
-  {
-    "title": "Necropolis Symphony",
-    "release_year": "2014",
-    "clean_title": "/film/necropolis-symphony/",
-    "adult": false,
-    "id": 288436,
-    "imdb_id": "tt3906650"
   },
   {
     "title": "Red Carpet",
@@ -1864,20 +1928,12 @@
     "imdb_id": "tt32611733"
   },
   {
-    "title": "This Night I'll Possess Your Corpse",
-    "release_year": "1967",
-    "clean_title": "/film/this-night-ill-possess-your-corpse/",
+    "title": "A Strange Path",
+    "release_year": "2023",
+    "clean_title": "/film/a-strange-path/",
     "adult": false,
-    "id": 30914,
-    "imdb_id": "tt0060380"
-  },
-  {
-    "title": "Baptism of Blood",
-    "release_year": "2007",
-    "clean_title": "/film/baptism-of-blood-2007/",
-    "adult": false,
-    "id": 35967,
-    "imdb_id": "tt0478978"
+    "id": 1025311,
+    "imdb_id": "tt22127138"
   },
   {
     "title": "Five Times Favela",
@@ -1888,12 +1944,12 @@
     "imdb_id": "tt0055287"
   },
   {
-    "title": "Os Normais: O Filme",
-    "release_year": "2003",
-    "clean_title": "/film/os-normais-o-filme/",
+    "title": "Angels of the Sun",
+    "release_year": "2006",
+    "clean_title": "/film/angels-of-the-sun/",
     "adult": false,
-    "id": 37050,
-    "imdb_id": "tt0351459"
+    "id": 37993,
+    "imdb_id": "tt0847154"
   },
   {
     "title": "That Damned Meat",
@@ -1904,36 +1960,20 @@
     "imdb_id": "tt0138596"
   },
   {
+    "title": "Lilian M: Confidential Report",
+    "release_year": "1975",
+    "clean_title": "/film/lilian-m-confidential-report/",
+    "adult": false,
+    "id": 121294,
+    "imdb_id": "tt0071757"
+  },
+  {
     "title": "Vera",
     "release_year": "1986",
     "clean_title": "/film/vera-1986/",
     "adult": false,
     "id": 251165,
     "imdb_id": "tt0094248"
-  },
-  {
-    "title": "California",
-    "release_year": "2015",
-    "clean_title": "/film/california-2015/",
-    "adult": false,
-    "id": 362876,
-    "imdb_id": "tt4532634"
-  },
-  {
-    "title": "A Strange Path",
-    "release_year": "2023",
-    "clean_title": "/film/a-strange-path/",
-    "adult": false,
-    "id": 1025311,
-    "imdb_id": "tt22127138"
-  },
-  {
-    "title": "Death and Life Madalena",
-    "release_year": "2025",
-    "clean_title": "/film/death-and-life-madalena/",
-    "adult": false,
-    "id": 1480321,
-    "imdb_id": "tt37186231"
   },
   {
     "title": "Treason",
@@ -1944,14 +1984,6 @@
     "imdb_id": "tt0166851"
   },
   {
-    "title": "Câncer",
-    "release_year": "1972",
-    "clean_title": "/film/cancer/",
-    "adult": false,
-    "id": 255927,
-    "imdb_id": "tt0068333"
-  },
-  {
     "title": "Kid",
     "release_year": "2015",
     "clean_title": "/film/kid-2015/",
@@ -1960,43 +1992,11 @@
     "imdb_id": "tt5032522"
   },
   {
-    "title": "The Angel Was Born",
-    "release_year": "1969",
-    "clean_title": "/film/the-angel-was-born/",
+    "title": "Hard Labor",
+    "release_year": "2011",
+    "clean_title": "/film/hard-labor/",
     "adult": false,
-    "id": 86238,
-    "imdb_id": "tt0064029"
-  },
-  {
-    "title": "Angels of the Sun",
-    "release_year": "2006",
-    "clean_title": "/film/angels-of-the-sun/",
-    "adult": false,
-    "id": 37993,
-    "imdb_id": "tt0847154"
-  },
-  {
-    "title": "Lilian M: Confidential Report",
-    "release_year": "1975",
-    "clean_title": "/film/lilian-m-confidential-report/",
-    "adult": false,
-    "id": 121294,
-    "imdb_id": "tt0071757"
-  },
-  {
-    "title": "The Abyss",
-    "release_year": "1977",
-    "clean_title": "/film/the-abyss-1977/",
-    "adult": false,
-    "id": 195916,
-    "imdb_id": "tt0136690"
-  },
-  {
-    "title": "Querô",
-    "release_year": "2007",
-    "clean_title": "/film/quero/",
-    "adult": false,
-    "id": 46645,
-    "imdb_id": "tt0945383"
+    "id": 96001,
+    "imdb_id": "tt1686328"
   }
 ]

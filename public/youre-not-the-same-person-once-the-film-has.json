@@ -1,43 +1,11 @@
 [
   {
-    "title": "Eyes Wide Shut",
-    "release_year": "1999",
-    "clean_title": "/film/eyes-wide-shut/",
-    "adult": false,
-    "id": 345,
-    "imdb_id": "tt0120663"
-  },
-  {
     "title": "Primer",
     "release_year": "2004",
     "clean_title": "/film/primer/",
     "adult": false,
     "id": 14337,
     "imdb_id": "tt0390384"
-  },
-  {
-    "title": "Aftersun",
-    "release_year": "2022",
-    "clean_title": "/film/aftersun/",
-    "adult": false,
-    "id": 965150,
-    "imdb_id": "tt19770238"
-  },
-  {
-    "title": "Happiness",
-    "release_year": "1998",
-    "clean_title": "/film/happiness/",
-    "adult": false,
-    "id": 10683,
-    "imdb_id": "tt0147612"
-  },
-  {
-    "title": "Dancer in the Dark",
-    "release_year": "2000",
-    "clean_title": "/film/dancer-in-the-dark/",
-    "adult": false,
-    "id": 16,
-    "imdb_id": "tt0168629"
   },
   {
     "title": "Audition",
@@ -48,12 +16,44 @@
     "imdb_id": "tt0235198"
   },
   {
+    "title": "Uncle Boonmee Who Can Recall His Past Lives",
+    "release_year": "2010",
+    "clean_title": "/film/uncle-boonmee-who-can-recall-his-past-lives/",
+    "adult": false,
+    "id": 38368,
+    "imdb_id": "tt1588895"
+  },
+  {
+    "title": "Heaven Knows What",
+    "release_year": "2014",
+    "clean_title": "/film/heaven-knows-what/",
+    "adult": false,
+    "id": 285024,
+    "imdb_id": "tt3687186"
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "release_year": "1999",
+    "clean_title": "/film/eyes-wide-shut/",
+    "adult": false,
+    "id": 345,
+    "imdb_id": "tt0120663"
+  },
+  {
     "title": "Revenge",
     "release_year": "2017",
     "clean_title": "/film/revenge-2017/",
     "adult": false,
     "id": 467938,
     "imdb_id": "tt6738136"
+  },
+  {
+    "title": "Aftersun",
+    "release_year": "2022",
+    "clean_title": "/film/aftersun/",
+    "adult": false,
+    "id": 965150,
+    "imdb_id": "tt19770238"
   },
   {
     "title": "Beyond the Black Rainbow",
@@ -64,14 +64,6 @@
     "imdb_id": "tt1534085"
   },
   {
-    "title": "Pink Flamingos",
-    "release_year": "1972",
-    "clean_title": "/film/pink-flamingos/",
-    "adult": false,
-    "id": 692,
-    "imdb_id": "tt0069089"
-  },
-  {
     "title": "Irreversible",
     "release_year": "2002",
     "clean_title": "/film/irreversible/",
@@ -80,12 +72,12 @@
     "imdb_id": "tt0290673"
   },
   {
-    "title": "Freddy Got Fingered",
-    "release_year": "2001",
-    "clean_title": "/film/freddy-got-fingered/",
+    "title": "Dancer in the Dark",
+    "release_year": "2000",
+    "clean_title": "/film/dancer-in-the-dark/",
     "adult": false,
-    "id": 13166,
-    "imdb_id": "tt0240515"
+    "id": 16,
+    "imdb_id": "tt0168629"
   },
   {
     "title": "Amer",
@@ -94,14 +86,6 @@
     "adult": false,
     "id": 43950,
     "imdb_id": "tt1426352"
-  },
-  {
-    "title": "Kids",
-    "release_year": "1995",
-    "clean_title": "/film/kids/",
-    "adult": false,
-    "id": 9344,
-    "imdb_id": "tt0113540"
   },
   {
     "title": "Palo Alto",
@@ -118,14 +102,6 @@
     "adult": false,
     "id": 109408,
     "imdb_id": "tt0081245"
-  },
-  {
-    "title": "Gummo",
-    "release_year": "1997",
-    "clean_title": "/film/gummo/",
-    "adult": false,
-    "id": 18415,
-    "imdb_id": "tt0119237"
   },
   {
     "title": "The Brutalist",
@@ -208,6 +184,22 @@
     "imdb_id": "tt30505698"
   },
   {
+    "title": "We Are Who We Are",
+    "release_year": "2020",
+    "clean_title": "/film/we-are-who-we-are/",
+    "adult": false,
+    "id": 0,
+    "imdb_id": "tt9848536"
+  },
+  {
+    "title": "Gummo",
+    "release_year": "1997",
+    "clean_title": "/film/gummo/",
+    "adult": false,
+    "id": 18415,
+    "imdb_id": "tt0119237"
+  },
+  {
     "title": "All These Sleepless Nights",
     "release_year": "2016",
     "clean_title": "/film/all-these-sleepless-nights/",
@@ -288,6 +280,22 @@
     "imdb_id": "tt0083001"
   },
   {
+    "title": "Pink Flamingos",
+    "release_year": "1972",
+    "clean_title": "/film/pink-flamingos/",
+    "adult": false,
+    "id": 692,
+    "imdb_id": "tt0069089"
+  },
+  {
+    "title": "Kids",
+    "release_year": "1995",
+    "clean_title": "/film/kids/",
+    "adult": false,
+    "id": 9344,
+    "imdb_id": "tt0113540"
+  },
+  {
     "title": "Blue Is the Warmest Color",
     "release_year": "2013",
     "clean_title": "/film/blue-is-the-warmest-color/",
@@ -296,12 +304,28 @@
     "imdb_id": "tt2278871"
   },
   {
+    "title": "Happiness",
+    "release_year": "1998",
+    "clean_title": "/film/happiness/",
+    "adult": false,
+    "id": 10683,
+    "imdb_id": "tt0147612"
+  },
+  {
     "title": "Trash Humpers",
     "release_year": "2009",
     "clean_title": "/film/trash-humpers/",
     "adult": false,
     "id": 46788,
     "imdb_id": "tt1488163"
+  },
+  {
+    "title": "Freddy Got Fingered",
+    "release_year": "2001",
+    "clean_title": "/film/freddy-got-fingered/",
+    "adult": false,
+    "id": 13166,
+    "imdb_id": "tt0240515"
   },
   {
     "title": "Suspiria",
@@ -376,14 +400,6 @@
     "imdb_id": "tt4144190"
   },
   {
-    "title": "Uncle Boonmee Who Can Recall His Past Lives",
-    "release_year": "2010",
-    "clean_title": "/film/uncle-boonmee-who-can-recall-his-past-lives/",
-    "adult": false,
-    "id": 38368,
-    "imdb_id": "tt1588895"
-  },
-  {
     "title": "Maniac",
     "release_year": "2012",
     "clean_title": "/film/maniac-2012/",
@@ -438,14 +454,6 @@
     "adult": false,
     "id": 23984,
     "imdb_id": "tt0321780"
-  },
-  {
-    "title": "Heaven Knows What",
-    "release_year": "2014",
-    "clean_title": "/film/heaven-knows-what/",
-    "adult": false,
-    "id": 285024,
-    "imdb_id": "tt3687186"
   },
   {
     "title": "Luton",
@@ -2876,13 +2884,5 @@
     "adult": false,
     "id": 489412,
     "imdb_id": "tt2396224"
-  },
-  {
-    "title": "We Are Who We Are",
-    "release_year": "2020",
-    "clean_title": "/film/we-are-who-we-are/",
-    "adult": false,
-    "id": 0,
-    "imdb_id": "tt9848536"
   }
 ]

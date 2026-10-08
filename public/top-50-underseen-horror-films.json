@@ -8,20 +8,20 @@
     "imdb_id": "tt0079886"
   },
   {
-    "title": "Deadwood Park",
-    "release_year": "2007",
-    "clean_title": "/film/deadwood-park/",
-    "adult": false,
-    "id": 87877,
-    "imdb_id": "tt0437150"
-  },
-  {
     "title": "Bridal of Rose ~The Promise Exchanged at Midnight~",
     "release_year": "2002",
     "clean_title": "/film/bridal-of-rose-the-promise-exchanged-at-midnight/",
     "adult": false,
     "id": 74036,
     "imdb_id": "tt1307439"
+  },
+  {
+    "title": "Deadwood Park",
+    "release_year": "2007",
+    "clean_title": "/film/deadwood-park/",
+    "adult": false,
+    "id": 87877,
+    "imdb_id": "tt0437150"
   },
   {
     "title": "Strangler vs Strangler",
@@ -80,6 +80,14 @@
     "imdb_id": "tt14764558"
   },
   {
+    "title": "Bhooter Bhabishyat",
+    "release_year": "2012",
+    "clean_title": "/film/bhooter-bhabishyat/",
+    "adult": false,
+    "id": 126063,
+    "imdb_id": "tt2351177"
+  },
+  {
     "title": "I, the Executioner",
     "release_year": "1968",
     "clean_title": "/film/i-the-executioner/",
@@ -96,44 +104,12 @@
     "imdb_id": "tt14728476"
   },
   {
-    "title": "Bhooter Bhabishyat",
-    "release_year": "2012",
-    "clean_title": "/film/bhooter-bhabishyat/",
-    "adult": false,
-    "id": 126063,
-    "imdb_id": "tt2351177"
-  },
-  {
     "title": "Dogra Magra",
     "release_year": "1988",
     "clean_title": "/film/dogra-magra/",
     "adult": false,
     "id": 91229,
     "imdb_id": "tt0223154"
-  },
-  {
-    "title": "The Birth of Kitaro: The Mystery of GeGeGe",
-    "release_year": "2023",
-    "clean_title": "/film/the-birth-of-kitaro-the-mystery-of-gegege/",
-    "adult": false,
-    "id": 904759,
-    "imdb_id": "tt16270512"
-  },
-  {
-    "title": "The Girl from Nowhere",
-    "release_year": "2012",
-    "clean_title": "/film/the-girl-from-nowhere/",
-    "adult": false,
-    "id": 153820,
-    "imdb_id": "tt2332514"
-  },
-  {
-    "title": "Carnival of Sinners",
-    "release_year": "1943",
-    "clean_title": "/film/carnival-of-sinners/",
-    "adult": false,
-    "id": 54288,
-    "imdb_id": "tt0035017"
   },
   {
     "title": "The Inugami Family",
@@ -144,12 +120,28 @@
     "imdb_id": "tt0074691"
   },
   {
+    "title": "The Girl from Nowhere",
+    "release_year": "2012",
+    "clean_title": "/film/the-girl-from-nowhere/",
+    "adult": false,
+    "id": 153820,
+    "imdb_id": "tt2332514"
+  },
+  {
     "title": "Lunacy",
     "release_year": "2005",
     "clean_title": "/film/lunacy/",
     "adult": false,
     "id": 21156,
     "imdb_id": "tt0407236"
+  },
+  {
+    "title": "Carnival of Sinners",
+    "release_year": "1943",
+    "clean_title": "/film/carnival-of-sinners/",
+    "adult": false,
+    "id": 54288,
+    "imdb_id": "tt0035017"
   },
   {
     "title": "DAU. Degeneration",
@@ -184,6 +176,14 @@
     "imdb_id": "tt0312863"
   },
   {
+    "title": "Thundercrack!",
+    "release_year": "1975",
+    "clean_title": "/film/thundercrack/",
+    "adult": false,
+    "id": 47681,
+    "imdb_id": "tt0073806"
+  },
+  {
     "title": "Memoirs of a Strangler of Blondes",
     "release_year": "1971",
     "clean_title": "/film/memoirs-of-a-strangler-of-blondes/",
@@ -198,14 +198,6 @@
     "adult": false,
     "id": 90063,
     "imdb_id": "tt0090249"
-  },
-  {
-    "title": "Thundercrack!",
-    "release_year": "1975",
-    "clean_title": "/film/thundercrack/",
-    "adult": false,
-    "id": 47681,
-    "imdb_id": "tt0073806"
   },
   {
     "title": "Rapine",
@@ -240,14 +232,6 @@
     "imdb_id": "tt0236215"
   },
   {
-    "title": "The Bride from Hades",
-    "release_year": "1968",
-    "clean_title": "/film/the-bride-from-hades/",
-    "adult": false,
-    "id": 108648,
-    "imdb_id": "tt0163985"
-  },
-  {
     "title": "The Long Walk",
     "release_year": "2019",
     "clean_title": "/film/the-long-walk-2019/",
@@ -256,52 +240,20 @@
     "imdb_id": "tt6800268"
   },
   {
-    "title": "Pisaasu",
-    "release_year": "2014",
-    "clean_title": "/film/pisaasu/",
+    "title": "The Bride from Hades",
+    "release_year": "1968",
+    "clean_title": "/film/the-bride-from-hades/",
     "adult": false,
-    "id": 311155,
-    "imdb_id": "tt4290746"
+    "id": 108648,
+    "imdb_id": "tt0163985"
   },
   {
-    "title": "Love Massacre",
-    "release_year": "1981",
-    "clean_title": "/film/love-massacre/",
+    "title": "Screaming in the Hallway",
+    "release_year": "2006",
+    "clean_title": "/film/screaming-in-the-hallway/",
     "adult": false,
-    "id": 182227,
-    "imdb_id": "tt0081992"
-  },
-  {
-    "title": "Arundhati",
-    "release_year": "2009",
-    "clean_title": "/film/arundhati/",
-    "adult": false,
-    "id": 31629,
-    "imdb_id": "tt1361809"
-  },
-  {
-    "title": "The Embryo Hunts in Secret",
-    "release_year": "1966",
-    "clean_title": "/film/the-embryo-hunts-in-secret/",
-    "adult": false,
-    "id": 31319,
-    "imdb_id": "tt0061059"
-  },
-  {
-    "title": "Savage Hunt of King Stakh",
-    "release_year": "1979",
-    "clean_title": "/film/savage-hunt-of-king-stakh/",
-    "adult": false,
-    "id": 149843,
-    "imdb_id": "tt0128164"
-  },
-  {
-    "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
-    "release_year": "2014",
-    "clean_title": "/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
-    "adult": false,
-    "id": 854932,
-    "imdb_id": "tt14752818"
+    "id": 75724,
+    "imdb_id": "tt0882987"
   },
   {
     "title": "Pure Blood",
@@ -312,12 +264,28 @@
     "imdb_id": "tt0193438"
   },
   {
-    "title": "The Story of Southern Islet",
-    "release_year": "2020",
-    "clean_title": "/film/the-story-of-southern-islet/",
+    "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+    "release_year": "2014",
+    "clean_title": "/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
     "adult": false,
-    "id": 759524,
-    "imdb_id": "tt13212046"
+    "id": 854932,
+    "imdb_id": "tt14752818"
+  },
+  {
+    "title": "The Embryo Hunts in Secret",
+    "release_year": "1966",
+    "clean_title": "/film/the-embryo-hunts-in-secret/",
+    "adult": false,
+    "id": 31319,
+    "imdb_id": "tt0061059"
+  },
+  {
+    "title": "Love Massacre",
+    "release_year": "1981",
+    "clean_title": "/film/love-massacre/",
+    "adult": false,
+    "id": 182227,
+    "imdb_id": "tt0081992"
   },
   {
     "title": "301/302",
@@ -328,36 +296,35 @@
     "imdb_id": "tt0112257"
   },
   {
+    "title": "The Story of Southern Islet",
+    "release_year": "2020",
+    "clean_title": "/film/the-story-of-southern-islet/",
+    "adult": false,
+    "id": 759524,
+    "imdb_id": "tt13212046"
+  },
+  {
+    "title": "Savage Hunt of King Stakh",
+    "release_year": "1979",
+    "clean_title": "/film/savage-hunt-of-king-stakh/",
+    "adult": false,
+    "id": 149843,
+    "imdb_id": "tt0128164"
+  },
+  {
+    "title": "The Mothering",
+    "release_year": "2026",
+    "clean_title": "/film/the-mothering/",
+    "adult": false,
+    "id": 1561345
+  },
+  {
     "title": "Muscle",
     "release_year": "1989",
     "clean_title": "/film/muscle/",
     "adult": false,
     "id": 49593,
     "imdb_id": "tt0095472"
-  },
-  {
-    "title": "The Blood of Wolves",
-    "release_year": "2018",
-    "clean_title": "/film/the-blood-of-wolves/",
-    "adult": false,
-    "id": 474538,
-    "imdb_id": "tt6622902"
-  },
-  {
-    "title": "Mister Designer",
-    "release_year": "1987",
-    "clean_title": "/film/mister-designer/",
-    "adult": false,
-    "id": 274991,
-    "imdb_id": "tt0157713"
-  },
-  {
-    "title": "The Queen of Spades",
-    "release_year": "1949",
-    "clean_title": "/film/the-queen-of-spades/",
-    "adult": false,
-    "id": 77546,
-    "imdb_id": "tt0041776"
   },
   {
     "title": "Turtle Vision",
@@ -368,12 +335,28 @@
     "imdb_id": "tt0103142"
   },
   {
+    "title": "The Queen of Spades",
+    "release_year": "1949",
+    "clean_title": "/film/the-queen-of-spades/",
+    "adult": false,
+    "id": 77546,
+    "imdb_id": "tt0041776"
+  },
+  {
     "title": "Sextool",
     "release_year": "1975",
     "clean_title": "/film/sextool/",
     "adult": false,
     "id": 486966,
     "imdb_id": "tt0257158"
+  },
+  {
+    "title": "Mister Designer",
+    "release_year": "1987",
+    "clean_title": "/film/mister-designer/",
+    "adult": false,
+    "id": 274991,
+    "imdb_id": "tt0157713"
   },
   {
     "title": "The Bloody Exorcism of Coffin Joe",
@@ -392,11 +375,27 @@
     "imdb_id": "tt6463320"
   },
   {
-    "title": "Violated Angels",
-    "release_year": "1967",
-    "clean_title": "/film/violated-angels/",
+    "title": "Portrait in Crystal",
+    "release_year": "1983",
+    "clean_title": "/film/portrait-in-crystal/",
     "adult": false,
-    "id": 55711,
-    "imdb_id": "tt0062069"
+    "id": 104595,
+    "imdb_id": "tt0084678"
+  },
+  {
+    "title": "A Matter of Life and Death",
+    "release_year": "2025",
+    "clean_title": "/film/a-matter-of-life-and-death-2025/",
+    "adult": false,
+    "id": 1418982,
+    "imdb_id": "tt35315343"
+  },
+  {
+    "title": "Padak",
+    "release_year": "2012",
+    "clean_title": "/film/padak/",
+    "adult": false,
+    "id": 133248,
+    "imdb_id": "tt2164058"
   }
 ]

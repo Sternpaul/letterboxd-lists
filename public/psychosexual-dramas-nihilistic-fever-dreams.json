@@ -11078,9 +11078,9 @@
     "imdb_id": "tt1024215"
   },
   {
-    "title": "Ghost in the Shell: S.A.C. 2nd GIG - Individual Eleven",
+    "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven",
     "release_year": "2006",
-    "clean_title": "/film/ghost-in-the-shell-sac-2nd-gig-individual-eleven/",
+    "clean_title": "/film/ghost-in-the-shell-stand-alone-complex-2nd/",
     "adult": false,
     "id": 111224,
     "imdb_id": "tt1024214"
@@ -16477,9 +16477,9 @@
     "imdb_id": "tt0058642"
   },
   {
-    "title": "The Legend of Suram Fortress",
+    "title": "The Legend of the Suram Fortress",
     "release_year": "1985",
-    "clean_title": "/film/the-legend-of-suram-fortress/",
+    "clean_title": "/film/the-legend-of-the-suram-fortress/",
     "adult": false,
     "id": 103590,
     "imdb_id": "tt0087606"
@@ -19080,5 +19080,29 @@
     "adult": false,
     "id": 157276,
     "imdb_id": "tt0082025"
+  },
+  {
+    "title": "The Stewardesses",
+    "release_year": "1969",
+    "clean_title": "/film/the-stewardesses/",
+    "adult": false,
+    "id": 70478,
+    "imdb_id": "tt0168192"
+  },
+  {
+    "title": "Castration Movie Anthology i. Traps",
+    "release_year": "2024",
+    "clean_title": "/film/castration-movie-anthology-i-traps/",
+    "adult": false,
+    "id": 1243479,
+    "imdb_id": "tt35022825"
+  },
+  {
+    "title": "Castration Movie Anthology II. The Best of Both Worlds",
+    "release_year": "2025",
+    "clean_title": "/film/castration-movie-anthology-ii-the-best-of/",
+    "adult": false,
+    "id": 1491336,
+    "imdb_id": "tt36158276"
   }
 ]

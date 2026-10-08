@@ -10199,8 +10199,8 @@
   },
   {
     "title": "War and Peace",
-    "release_year": "1967",
-    "clean_title": "/film/war-and-peace-1967/",
+    "release_year": "1968",
+    "clean_title": "/film/war-and-peace-1968/",
     "adult": false,
     "id": 29266,
     "imdb_id": "tt0063794"
@@ -14125,6 +14125,78 @@
     "imdb_id": "tt1312221"
   },
   {
+    "title": "KPop Demon Hunters",
+    "release_year": "2025",
+    "clean_title": "/film/kpop-demon-hunters/",
+    "adult": false,
+    "id": 803796,
+    "imdb_id": "tt14205554"
+  },
+  {
+    "title": "Wild at Heart",
+    "release_year": "1990",
+    "clean_title": "/film/wild-at-heart/",
+    "adult": false,
+    "id": 483,
+    "imdb_id": "tt0100935"
+  },
+  {
+    "title": "Marie Antoinette",
+    "release_year": "2006",
+    "clean_title": "/film/marie-antoinette-2006/",
+    "adult": false,
+    "id": 1887,
+    "imdb_id": "tt0422720"
+  },
+  {
+    "title": "Shadows of Forgotten Ancestors",
+    "release_year": "1965",
+    "clean_title": "/film/shadows-of-forgotten-ancestors/",
+    "adult": false,
+    "id": 26782,
+    "imdb_id": "tt0058642"
+  },
+  {
+    "title": "The Lilac Wind of Paradjanov",
+    "release_year": "2025",
+    "clean_title": "/film/the-lilac-wind-of-paradjanov/",
+    "adult": false,
+    "id": 1420951,
+    "imdb_id": "tt38067691"
+  },
+  {
+    "title": "The Right Stuff",
+    "release_year": "1983",
+    "clean_title": "/film/the-right-stuff/",
+    "adult": false,
+    "id": 9549,
+    "imdb_id": "tt0086197"
+  },
+  {
+    "title": "The English Patient",
+    "release_year": "1996",
+    "clean_title": "/film/the-english-patient/",
+    "adult": false,
+    "id": 409,
+    "imdb_id": "tt0116209"
+  },
+  {
+    "title": "Grizzly Man",
+    "release_year": "2005",
+    "clean_title": "/film/grizzly-man/",
+    "adult": false,
+    "id": 501,
+    "imdb_id": "tt0427312"
+  },
+  {
+    "title": "The Shop Around the Corner",
+    "release_year": "1940",
+    "clean_title": "/film/the-shop-around-the-corner/",
+    "adult": false,
+    "id": 20334,
+    "imdb_id": "tt0033045"
+  },
+  {
     "title": "Crisis",
     "release_year": "1946",
     "clean_title": "/film/crisis/",
@@ -16459,6 +16531,126 @@
     "imdb_id": "tt5498350"
   },
   {
+    "title": "One Way or Another",
+    "release_year": "1975",
+    "clean_title": "/film/one-way-or-another-1975/",
+    "adult": false,
+    "id": 162505,
+    "imdb_id": "tt0075915"
+  },
+  {
+    "title": "I'm Going to Santiago",
+    "release_year": "1964",
+    "clean_title": "/film/im-going-to-santiago/",
+    "adult": false,
+    "id": 262028,
+    "imdb_id": "tt13433120"
+  },
+  {
+    "title": "Excursion to Vueltabajo",
+    "release_year": "1965",
+    "clean_title": "/film/excursion-to-vueltabajo/",
+    "adult": false,
+    "id": 1405154,
+    "imdb_id": "tt35664769"
+  },
+  {
+    "title": "Guanabacoa: Chronicle of My Family",
+    "release_year": "1966",
+    "clean_title": "/film/guanabacoa-chronicle-of-my-family/",
+    "adult": false,
+    "id": 593186,
+    "imdb_id": "tt0759569"
+  },
+  {
+    "title": "And... We've Got Sabor",
+    "release_year": "1967",
+    "clean_title": "/film/and-weve-got-sabor/",
+    "adult": false,
+    "id": 262027,
+    "imdb_id": "tt0423782"
+  },
+  {
+    "title": "On the Other Island",
+    "release_year": "1968",
+    "clean_title": "/film/on-the-other-island/",
+    "adult": false,
+    "id": 422031,
+    "imdb_id": "tt13434782"
+  },
+  {
+    "title": "An Island for Miguel",
+    "release_year": "1968",
+    "clean_title": "/film/an-island-for-miguel/",
+    "adult": false,
+    "id": 264637,
+    "imdb_id": "tt0498510"
+  },
+  {
+    "title": "Treasure Island",
+    "release_year": "1969",
+    "clean_title": "/film/treasure-island-1969/",
+    "adult": false,
+    "id": 470474,
+    "imdb_id": "tt13434358"
+  },
+  {
+    "title": "Local Power, Popular Power",
+    "release_year": "1970",
+    "clean_title": "/film/local-power-popular-power/",
+    "adult": false,
+    "id": 593521,
+    "imdb_id": "tt13437536"
+  },
+  {
+    "title": "A Documentary About Transit",
+    "release_year": "1971",
+    "clean_title": "/film/a-documentary-about-transit/",
+    "adult": false,
+    "id": 1418733,
+    "imdb_id": "tt35665094"
+  },
+  {
+    "title": "On Sugar Workers' Quarters",
+    "release_year": "1971",
+    "clean_title": "/film/on-sugar-workers-quarters/",
+    "adult": false,
+    "id": 639678,
+    "imdb_id": "tt35665199"
+  },
+  {
+    "title": "My Contribution",
+    "release_year": "1972",
+    "clean_title": "/film/my-contribution/",
+    "adult": false,
+    "id": 593516,
+    "imdb_id": "tt29060382"
+  },
+  {
+    "title": "Year One",
+    "release_year": "1972",
+    "clean_title": "/film/year-one-1972/",
+    "adult": false,
+    "id": 1418734,
+    "imdb_id": "tt13442762"
+  },
+  {
+    "title": "Prenatal Care",
+    "release_year": "1972",
+    "clean_title": "/film/prenatal-care/",
+    "adult": false,
+    "id": 1418737,
+    "imdb_id": "tt13435400"
+  },
+  {
+    "title": "About Extra Hours and Volunteer Work",
+    "release_year": "1973",
+    "clean_title": "/film/about-extra-hours-and-volunteer-work/",
+    "adult": false,
+    "id": 593523,
+    "imdb_id": "tt13434176"
+  },
+  {
     "title": "EO",
     "release_year": "2022",
     "clean_title": "/film/eo/",
@@ -16705,6 +16897,14 @@
     "adult": false,
     "id": 1257406,
     "imdb_id": "tt35521200"
+  },
+  {
+    "title": "Blue Heron",
+    "release_year": "2025",
+    "clean_title": "/film/blue-heron/",
+    "adult": false,
+    "id": 1184941,
+    "imdb_id": "tt32252801"
   },
   {
     "title": "The Bostonians",
@@ -17441,14 +17641,6 @@
     "adult": false,
     "id": 7863,
     "imdb_id": "tt0117631"
-  },
-  {
-    "title": "The English Patient",
-    "release_year": "1996",
-    "clean_title": "/film/the-english-patient/",
-    "adult": false,
-    "id": 409,
-    "imdb_id": "tt0116209"
   },
   {
     "title": "Evita",

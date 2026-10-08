@@ -192,14 +192,6 @@
     "imdb_id": "tt0204526"
   },
   {
-    "title": "Werewolf",
-    "release_year": "1969",
-    "clean_title": "/film/werewolf-1969/",
-    "adult": false,
-    "id": 389684,
-    "imdb_id": "tt0445527"
-  },
-  {
     "title": "Summer",
     "release_year": "1976",
     "clean_title": "/film/summer-1976/",
@@ -214,6 +206,14 @@
     "adult": false,
     "id": 46847,
     "imdb_id": "tt0834170"
+  },
+  {
+    "title": "Werewolf",
+    "release_year": "1969",
+    "clean_title": "/film/werewolf-1969/",
+    "adult": false,
+    "id": 389684,
+    "imdb_id": "tt0445527"
   },
   {
     "title": "Madness",
@@ -336,14 +336,6 @@
     "imdb_id": "tt13982708"
   },
   {
-    "title": "Nipernaadi",
-    "release_year": "1983",
-    "clean_title": "/film/nipernaadi/",
-    "adult": false,
-    "id": 76962,
-    "imdb_id": "tt0239722"
-  },
-  {
     "title": "The Days That Confused",
     "release_year": "2016",
     "clean_title": "/film/the-days-that-confused/",
@@ -358,6 +350,14 @@
     "adult": false,
     "id": 1536679,
     "imdb_id": "tt38351768"
+  },
+  {
+    "title": "Nipernaadi",
+    "release_year": "1983",
+    "clean_title": "/film/nipernaadi/",
+    "adult": false,
+    "id": 76962,
+    "imdb_id": "tt0239722"
   },
   {
     "title": "Secret Society of Souptown",

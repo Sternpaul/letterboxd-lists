@@ -1,27 +1,19 @@
 [
   {
-    "title": "The Final Exit of the Disciples of Ascensia",
-    "release_year": "2019",
-    "clean_title": "/film/the-final-exit-of-the-disciples-of-ascensia/",
-    "adult": false,
-    "id": 607033,
-    "imdb_id": "tt10432662"
-  },
-  {
-    "title": "La Gradiva",
-    "release_year": "2026",
-    "clean_title": "/film/la-gradiva/",
-    "adult": false,
-    "id": 1154730,
-    "imdb_id": "tt36107185"
-  },
-  {
     "title": "Tangles",
     "release_year": "2026",
     "clean_title": "/film/tangles/",
     "adult": false,
     "id": 1316999,
     "imdb_id": "tt22183852"
+  },
+  {
+    "title": "The Final Exit of the Disciples of Ascensia",
+    "release_year": "2019",
+    "clean_title": "/film/the-final-exit-of-the-disciples-of-ascensia/",
+    "adult": false,
+    "id": 607033,
+    "imdb_id": "tt10432662"
   },
   {
     "title": "Wasteland",
@@ -32,6 +24,14 @@
     "imdb_id": "tt13736774"
   },
   {
+    "title": "Cucaracha",
+    "release_year": "1983",
+    "clean_title": "/film/cucaracha-1983/",
+    "adult": false,
+    "id": 146969,
+    "imdb_id": "tt0253191"
+  },
+  {
     "title": "Travolta and Me",
     "release_year": "1993",
     "clean_title": "/film/travolta-and-me/",
@@ -40,12 +40,12 @@
     "imdb_id": "tt0108383"
   },
   {
-    "title": "Cucaracha",
-    "release_year": "1983",
-    "clean_title": "/film/cucaracha-1983/",
+    "title": "Tras-os-Montes",
+    "release_year": "1976",
+    "clean_title": "/film/tras-os-montes/",
     "adult": false,
-    "id": 146969,
-    "imdb_id": "tt0253191"
+    "id": 186967,
+    "imdb_id": "tt0075354"
   },
   {
     "title": "Compensation",
@@ -64,28 +64,12 @@
     "imdb_id": "tt3825360"
   },
   {
-    "title": "Tras-os-Montes",
-    "release_year": "1976",
-    "clean_title": "/film/tras-os-montes/",
-    "adult": false,
-    "id": 186967,
-    "imdb_id": "tt0075354"
-  },
-  {
     "title": "Imeretian Sketches",
     "release_year": "1979",
     "clean_title": "/film/imeretian-sketches/",
     "adult": false,
     "id": 94056,
     "imdb_id": "tt0079331"
-  },
-  {
-    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
-    "release_year": "2025",
-    "clean_title": "/film/castration-movie-anthology-ii-the-best-of/",
-    "adult": false,
-    "id": 1491336,
-    "imdb_id": "tt36158276"
   },
   {
     "title": "Barber Westchester",
@@ -102,6 +86,14 @@
     "adult": false,
     "id": 51123,
     "imdb_id": "tt1351669"
+  },
+  {
+    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
+    "release_year": "2025",
+    "clean_title": "/film/castration-movie-anthology-ii-the-best-of/",
+    "adult": false,
+    "id": 1491336,
+    "imdb_id": "tt36158276"
   },
   {
     "title": "Intermission",
@@ -152,6 +144,14 @@
     "imdb_id": "tt0203040"
   },
   {
+    "title": "Desert Rose",
+    "release_year": "1989",
+    "clean_title": "/film/desert-rose-1989/",
+    "adult": false,
+    "id": 242375,
+    "imdb_id": "tt0098223"
+  },
+  {
     "title": "Fragile as the World",
     "release_year": "2001",
     "clean_title": "/film/fragile-as-the-world/",
@@ -168,14 +168,6 @@
     "imdb_id": "tt6695212"
   },
   {
-    "title": "Agatha and the Limitless Readings",
-    "release_year": "1981",
-    "clean_title": "/film/agatha-and-the-limitless-readings/",
-    "adult": false,
-    "id": 63659,
-    "imdb_id": "tt0205726"
-  },
-  {
     "title": "The Day I Became a Woman",
     "release_year": "2000",
     "clean_title": "/film/the-day-i-became-a-woman/",
@@ -184,12 +176,20 @@
     "imdb_id": "tt0260332"
   },
   {
-    "title": "Desert Rose",
-    "release_year": "1989",
-    "clean_title": "/film/desert-rose-1989/",
+    "title": "Agatha and the Limitless Readings",
+    "release_year": "1981",
+    "clean_title": "/film/agatha-and-the-limitless-readings/",
     "adult": false,
-    "id": 242375,
-    "imdb_id": "tt0098223"
+    "id": 63659,
+    "imdb_id": "tt0205726"
+  },
+  {
+    "title": "Three Poplars on Plyuschikha Street",
+    "release_year": "1968",
+    "clean_title": "/film/three-poplars-on-plyuschikha-street/",
+    "adult": false,
+    "id": 63293,
+    "imdb_id": "tt0062393"
   },
   {
     "title": "78 Days",
@@ -200,12 +200,12 @@
     "imdb_id": "tt13168204"
   },
   {
-    "title": "Sad Girlz",
+    "title": "Mouse",
     "release_year": "2026",
-    "clean_title": "/film/sad-girlz/",
+    "clean_title": "/film/mouse-2026/",
     "adult": false,
-    "id": 1536433,
-    "imdb_id": "tt39311354"
+    "id": 1241052,
+    "imdb_id": "tt13652154"
   },
   {
     "title": "Othon",
@@ -224,12 +224,12 @@
     "imdb_id": "tt0119687"
   },
   {
-    "title": "Three Poplars on Plyuschikha Street",
-    "release_year": "1968",
-    "clean_title": "/film/three-poplars-on-plyuschikha-street/",
+    "title": "Ana",
+    "release_year": "1982",
+    "clean_title": "/film/ana-1982/",
     "adult": false,
-    "id": 63293,
-    "imdb_id": "tt0062393"
+    "id": 260922,
+    "imdb_id": "tt0083555"
   },
   {
     "title": "Moses and Aaron",
@@ -240,12 +240,12 @@
     "imdb_id": "tt0071857"
   },
   {
-    "title": "Ana",
-    "release_year": "1982",
-    "clean_title": "/film/ana-1982/",
+    "title": "Sad Girlz",
+    "release_year": "2026",
+    "clean_title": "/film/sad-girlz/",
     "adult": false,
-    "id": 260922,
-    "imdb_id": "tt0083555"
+    "id": 1536433,
+    "imdb_id": "tt39311354"
   },
   {
     "title": "A Question of Silence",
@@ -256,20 +256,20 @@
     "imdb_id": "tt0086369"
   },
   {
-    "title": "The Cave of the Yellow Dog",
-    "release_year": "2005",
-    "clean_title": "/film/the-cave-of-the-yellow-dog/",
-    "adult": false,
-    "id": 1393,
-    "imdb_id": "tt0432325"
-  },
-  {
     "title": "Lullaby",
     "release_year": "1994",
     "clean_title": "/film/lullaby-1994/",
     "adult": false,
     "id": 240068,
     "imdb_id": "tt0325602"
+  },
+  {
+    "title": "Mama",
+    "release_year": "1977",
+    "clean_title": "/film/mama-1977/",
+    "adult": false,
+    "id": 38323,
+    "imdb_id": "tt0076340"
   },
   {
     "title": "Buddha Collapsed Out of Shame",
@@ -280,12 +280,12 @@
     "imdb_id": "tt1094627"
   },
   {
-    "title": "Mouse",
-    "release_year": "2026",
-    "clean_title": "/film/mouse-2026/",
+    "title": "The Cave of the Yellow Dog",
+    "release_year": "2005",
+    "clean_title": "/film/the-cave-of-the-yellow-dog/",
     "adult": false,
-    "id": 1241052,
-    "imdb_id": "tt13652154"
+    "id": 1393,
+    "imdb_id": "tt0432325"
   },
   {
     "title": "The Death of Empedocles",
@@ -312,28 +312,20 @@
     "imdb_id": "tt0363060"
   },
   {
+    "title": "Johanna d’Arc of Mongolia",
+    "release_year": "1989",
+    "clean_title": "/film/johanna-darc-of-mongolia/",
+    "adult": false,
+    "id": 120268,
+    "imdb_id": "tt0095406"
+  },
+  {
     "title": "Song of the Exile",
     "release_year": "1990",
     "clean_title": "/film/song-of-the-exile/",
     "adult": false,
     "id": 41822,
     "imdb_id": "tt0099927"
-  },
-  {
-    "title": "Mama",
-    "release_year": "1976",
-    "clean_title": "/film/mama-1976/",
-    "adult": false,
-    "id": 38323,
-    "imdb_id": "tt0076340"
-  },
-  {
-    "title": "Summer Snow",
-    "release_year": "1995",
-    "clean_title": "/film/summer-snow/",
-    "adult": false,
-    "id": 72507,
-    "imdb_id": "tt0111767"
   },
   {
     "title": "Memories of a Burning Body",
@@ -344,12 +336,12 @@
     "imdb_id": "tt15716284"
   },
   {
-    "title": "A Woman's Revenge",
-    "release_year": "2012",
-    "clean_title": "/film/a-womans-revenge-2012/",
+    "title": "Summer Snow",
+    "release_year": "1995",
+    "clean_title": "/film/summer-snow/",
     "adult": false,
-    "id": 89451,
-    "imdb_id": "tt2050453"
+    "id": 72507,
+    "imdb_id": "tt0111767"
   },
   {
     "title": "Blame It on Fidel!",
@@ -360,20 +352,20 @@
     "imdb_id": "tt0792966"
   },
   {
-    "title": "Johanna d’Arc of Mongolia",
-    "release_year": "1989",
-    "clean_title": "/film/johanna-darc-of-mongolia/",
+    "title": "A Woman's Revenge",
+    "release_year": "2012",
+    "clean_title": "/film/a-womans-revenge-2012/",
     "adult": false,
-    "id": 120268,
-    "imdb_id": "tt0095406"
+    "id": 89451,
+    "imdb_id": "tt2050453"
   },
   {
-    "title": "Chronicle of Anna Magdalena Bach",
-    "release_year": "1968",
-    "clean_title": "/film/chronicle-of-anna-magdalena-bach/",
+    "title": "With You The World Is Fun",
+    "release_year": "1983",
+    "clean_title": "/film/with-you-the-world-is-fun/",
     "adult": false,
-    "id": 95600,
-    "imdb_id": "tt0062804"
+    "id": 50873,
+    "imdb_id": "tt0084620"
   },
   {
     "title": "The Long Farewell",
@@ -384,6 +376,14 @@
     "imdb_id": "tt0092905"
   },
   {
+    "title": "Chronicle of Anna Magdalena Bach",
+    "release_year": "1968",
+    "clean_title": "/film/chronicle-of-anna-magdalena-bach/",
+    "adult": false,
+    "id": 95600,
+    "imdb_id": "tt0062804"
+  },
+  {
     "title": "Close-Knit",
     "release_year": "2017",
     "clean_title": "/film/close-knit/",
@@ -392,11 +392,11 @@
     "imdb_id": "tt5633706"
   },
   {
-    "title": "With You The World Is Fun",
-    "release_year": "1983",
-    "clean_title": "/film/with-you-the-world-is-fun/",
+    "title": "The Way We Are",
+    "release_year": "2008",
+    "clean_title": "/film/the-way-we-are/",
     "adult": false,
-    "id": 50873,
-    "imdb_id": "tt0084620"
+    "id": 56575,
+    "imdb_id": "tt1233499"
   }
 ]

@@ -16,20 +16,20 @@
     "imdb_id": "tt2147319"
   },
   {
-    "title": "28 Years Later: The Bone Temple",
-    "release_year": "2026",
-    "clean_title": "/film/28-years-later-the-bone-temple/",
-    "adult": false,
-    "id": 1272837,
-    "imdb_id": "tt32141377"
-  },
-  {
     "title": "Ghostwatch",
     "release_year": "1992",
     "clean_title": "/film/ghostwatch/",
     "adult": false,
     "id": 46633,
     "imdb_id": "tt0200659"
+  },
+  {
+    "title": "28 Years Later: The Bone Temple",
+    "release_year": "2026",
+    "clean_title": "/film/28-years-later-the-bone-temple/",
+    "adult": false,
+    "id": 1272837,
+    "imdb_id": "tt32141377"
   },
   {
     "title": "A Girl Walks Home Alone at Night",
@@ -56,12 +56,12 @@
     "imdb_id": "tt17526714"
   },
   {
-    "title": "The Other Side of the Underneath",
-    "release_year": "1972",
-    "clean_title": "/film/the-other-side-of-the-underneath/",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "release_year": "2026",
+    "clean_title": "/film/teenage-sex-and-death-at-camp-miasma/",
     "adult": false,
-    "id": 53806,
-    "imdb_id": "tt0201820"
+    "id": 1240889,
+    "imdb_id": "tt35298123"
   },
   {
     "title": "Raw",
@@ -72,14 +72,6 @@
     "imdb_id": "tt4954522"
   },
   {
-    "title": "Of the Flesh",
-    "release_year": "1983",
-    "clean_title": "/film/of-the-flesh/",
-    "adult": false,
-    "id": 253081,
-    "imdb_id": "tt0312863"
-  },
-  {
     "title": "Ravenous",
     "release_year": "1999",
     "clean_title": "/film/ravenous/",
@@ -88,12 +80,20 @@
     "imdb_id": "tt0129332"
   },
   {
-    "title": "Celia",
-    "release_year": "1989",
-    "clean_title": "/film/celia/",
+    "title": "The Other Side of the Underneath",
+    "release_year": "1972",
+    "clean_title": "/film/the-other-side-of-the-underneath/",
     "adult": false,
-    "id": 69141,
-    "imdb_id": "tt0094849"
+    "id": 53806,
+    "imdb_id": "tt0201820"
+  },
+  {
+    "title": "Of the Flesh",
+    "release_year": "1983",
+    "clean_title": "/film/of-the-flesh/",
+    "adult": false,
+    "id": 253081,
+    "imdb_id": "tt0312863"
   },
   {
     "title": "The Ugly Stepsister",
@@ -104,20 +104,20 @@
     "imdb_id": "tt29344903"
   },
   {
+    "title": "Celia",
+    "release_year": "1989",
+    "clean_title": "/film/celia/",
+    "adult": false,
+    "id": 69141,
+    "imdb_id": "tt0094849"
+  },
+  {
     "title": "The Long Walk",
     "release_year": "2019",
     "clean_title": "/film/the-long-walk-2019/",
     "adult": false,
     "id": 575224,
     "imdb_id": "tt6800268"
-  },
-  {
-    "title": "Zana",
-    "release_year": "2019",
-    "clean_title": "/film/zana/",
-    "adult": false,
-    "id": 621746,
-    "imdb_id": "tt6463320"
   },
   {
     "title": "Tigers Are Not Afraid",
@@ -128,12 +128,36 @@
     "imdb_id": "tt4823434"
   },
   {
+    "title": "Zana",
+    "release_year": "2019",
+    "clean_title": "/film/zana/",
+    "adult": false,
+    "id": 621746,
+    "imdb_id": "tt6463320"
+  },
+  {
+    "title": "Hard Labor",
+    "release_year": "2011",
+    "clean_title": "/film/hard-labor/",
+    "adult": false,
+    "id": 96001,
+    "imdb_id": "tt1686328"
+  },
+  {
     "title": "The House",
     "release_year": "2022",
     "clean_title": "/film/the-house-2022-1/",
     "adult": false,
     "id": 926899,
     "imdb_id": "tt11703050"
+  },
+  {
+    "title": "Titane",
+    "release_year": "2021",
+    "clean_title": "/film/titane/",
+    "adult": false,
+    "id": 630240,
+    "imdb_id": "tt10944760"
   },
   {
     "title": "Salomé",
@@ -152,12 +176,20 @@
     "imdb_id": "tt27378311"
   },
   {
-    "title": "Titane",
+    "title": "Fear Street: 1978",
     "release_year": "2021",
-    "clean_title": "/film/titane/",
+    "clean_title": "/film/fear-street-1978/",
     "adult": false,
-    "id": 630240,
-    "imdb_id": "tt10944760"
+    "id": 591274,
+    "imdb_id": "tt9701940"
+  },
+  {
+    "title": "I Saw the TV Glow",
+    "release_year": "2024",
+    "clean_title": "/film/i-saw-the-tv-glow/",
+    "adult": false,
+    "id": 858017,
+    "imdb_id": "tt15574270"
   },
   {
     "title": "Messiah of Evil",
@@ -176,28 +208,12 @@
     "imdb_id": "tt0093605"
   },
   {
-    "title": "I Saw the TV Glow",
+    "title": "Lisa Frankenstein",
     "release_year": "2024",
-    "clean_title": "/film/i-saw-the-tv-glow/",
+    "clean_title": "/film/lisa-frankenstein/",
     "adult": false,
-    "id": 858017,
-    "imdb_id": "tt15574270"
-  },
-  {
-    "title": "In My Skin",
-    "release_year": "2002",
-    "clean_title": "/film/in-my-skin/",
-    "adult": false,
-    "id": 1836,
-    "imdb_id": "tt0337961"
-  },
-  {
-    "title": "Let the Corpses Tan",
-    "release_year": "2017",
-    "clean_title": "/film/let-the-corpses-tan/",
-    "adult": false,
-    "id": 422708,
-    "imdb_id": "tt5827212"
+    "id": 993784,
+    "imdb_id": "tt21188080"
   },
   {
     "title": "Revenge",
@@ -208,20 +224,12 @@
     "imdb_id": "tt6738136"
   },
   {
-    "title": "Fear Street: 1978",
-    "release_year": "2021",
-    "clean_title": "/film/fear-street-1978/",
+    "title": "In My Skin",
+    "release_year": "2002",
+    "clean_title": "/film/in-my-skin/",
     "adult": false,
-    "id": 591274,
-    "imdb_id": "tt9701940"
-  },
-  {
-    "title": "Lisa Frankenstein",
-    "release_year": "2024",
-    "clean_title": "/film/lisa-frankenstein/",
-    "adult": false,
-    "id": 993784,
-    "imdb_id": "tt21188080"
+    "id": 1836,
+    "imdb_id": "tt0337961"
   },
   {
     "title": "Your Monster",
@@ -232,12 +240,12 @@
     "imdb_id": "tt22741760"
   },
   {
-    "title": "Good Manners",
+    "title": "Let the Corpses Tan",
     "release_year": "2017",
-    "clean_title": "/film/good-manners/",
+    "clean_title": "/film/let-the-corpses-tan/",
     "adult": false,
-    "id": 315205,
-    "imdb_id": "tt5480782"
+    "id": 422708,
+    "imdb_id": "tt5827212"
   },
   {
     "title": "The Love Witch",
@@ -248,6 +256,14 @@
     "imdb_id": "tt3908142"
   },
   {
+    "title": "Good Manners",
+    "release_year": "2017",
+    "clean_title": "/film/good-manners/",
+    "adult": false,
+    "id": 315205,
+    "imdb_id": "tt5480782"
+  },
+  {
     "title": "The Devil's Bath",
     "release_year": "2024",
     "clean_title": "/film/the-devils-bath/",
@@ -256,20 +272,28 @@
     "imdb_id": "tt29141112"
   },
   {
-    "title": "Saint Maud",
-    "release_year": "2019",
-    "clean_title": "/film/saint-maud/",
-    "adult": false,
-    "id": 575776,
-    "imdb_id": "tt7557108"
-  },
-  {
     "title": "Nothing Bad Can Happen",
     "release_year": "2013",
     "clean_title": "/film/nothing-bad-can-happen/",
     "adult": false,
     "id": 188758,
     "imdb_id": "tt2822400"
+  },
+  {
+    "title": "K-12",
+    "release_year": "2019",
+    "clean_title": "/film/k-12/",
+    "adult": false,
+    "id": 616584,
+    "imdb_id": "tt10521814"
+  },
+  {
+    "title": "Saint Maud",
+    "release_year": "2019",
+    "clean_title": "/film/saint-maud/",
+    "adult": false,
+    "id": 575776,
+    "imdb_id": "tt7557108"
   },
   {
     "title": "Edge of the Knife",
@@ -296,28 +320,12 @@
     "imdb_id": "tt0077888"
   },
   {
-    "title": "Amer",
-    "release_year": "2009",
-    "clean_title": "/film/amer/",
-    "adult": false,
-    "id": 43950,
-    "imdb_id": "tt1426352"
-  },
-  {
     "title": "Fatal Frame",
     "release_year": "2014",
     "clean_title": "/film/fatal-frame/",
     "adult": false,
     "id": 297186,
     "imdb_id": "tt3684484"
-  },
-  {
-    "title": "Wolf's Hole",
-    "release_year": "1987",
-    "clean_title": "/film/wolfs-hole/",
-    "adult": false,
-    "id": 123839,
-    "imdb_id": "tt0090271"
   },
   {
     "title": "Fresh",
@@ -328,12 +336,12 @@
     "imdb_id": "tt13403046"
   },
   {
-    "title": "Bilocation",
-    "release_year": "2013",
-    "clean_title": "/film/bilocation/",
+    "title": "Amer",
+    "release_year": "2009",
+    "clean_title": "/film/amer/",
     "adult": false,
-    "id": 264216,
-    "imdb_id": "tt3029570"
+    "id": 43950,
+    "imdb_id": "tt1426352"
   },
   {
     "title": "Bulbbul",
@@ -344,28 +352,20 @@
     "imdb_id": "tt12393526"
   },
   {
-    "title": "Bedevil",
-    "release_year": "1993",
-    "clean_title": "/film/bedevil/",
+    "title": "Bilocation",
+    "release_year": "2013",
+    "clean_title": "/film/bilocation/",
     "adult": false,
-    "id": 187782,
-    "imdb_id": "tt0106373"
+    "id": 264216,
+    "imdb_id": "tt3029570"
   },
   {
-    "title": "Trouble Every Day",
-    "release_year": "2001",
-    "clean_title": "/film/trouble-every-day/",
+    "title": "Wolf's Hole",
+    "release_year": "1987",
+    "clean_title": "/film/wolfs-hole/",
     "adult": false,
-    "id": 40723,
-    "imdb_id": "tt0204700"
-  },
-  {
-    "title": "The First Omen",
-    "release_year": "2024",
-    "clean_title": "/film/the-first-omen/",
-    "adult": false,
-    "id": 437342,
-    "imdb_id": "tt5672290"
+    "id": 123839,
+    "imdb_id": "tt0090271"
   },
   {
     "title": "Shackled",
@@ -376,12 +376,20 @@
     "imdb_id": "tt2424752"
   },
   {
-    "title": "Hollywood 90028",
-    "release_year": "1973",
-    "clean_title": "/film/hollywood-90028/",
+    "title": "Bedevil",
+    "release_year": "1993",
+    "clean_title": "/film/bedevil/",
     "adult": false,
-    "id": 273544,
-    "imdb_id": "tt0078728"
+    "id": 187782,
+    "imdb_id": "tt0106373"
+  },
+  {
+    "title": "The First Omen",
+    "release_year": "2024",
+    "clean_title": "/film/the-first-omen/",
+    "adult": false,
+    "id": 437342,
+    "imdb_id": "tt5672290"
   },
   {
     "title": "The Father's Shadow",
@@ -390,13 +398,5 @@
     "adult": false,
     "id": 540020,
     "imdb_id": "tt6388464"
-  },
-  {
-    "title": "Goodnight Mommy",
-    "release_year": "2014",
-    "clean_title": "/film/goodnight-mommy/",
-    "adult": false,
-    "id": 284303,
-    "imdb_id": "tt3086442"
   }
 ]

@@ -12739,7 +12739,7 @@
   },
   {
     "title": "Anything but Ghosts",
-    "release_year": "",
+    "release_year": "2027",
     "clean_title": "/film/anything-but-ghosts/",
     "adult": false,
     "id": 1540936,
@@ -12820,7 +12820,7 @@
   {
     "title": "Scapegoat",
     "release_year": "",
-    "clean_title": "/film/scapegoat-3/",
+    "clean_title": "/film/scapegoat-2/",
     "adult": false,
     "id": 1689505,
     "imdb_id": "tt42427292"
@@ -12847,5 +12847,148 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt44113382"
+  },
+  {
+    "title": "Dave Made a Maze",
+    "release_year": "2017",
+    "clean_title": "/film/dave-made-a-maze/",
+    "adult": false,
+    "id": 433941,
+    "imdb_id": "tt4457344"
+  },
+  {
+    "title": "Forgotten Island",
+    "release_year": "2026",
+    "clean_title": "/film/forgotten-island-2026/",
+    "adult": false,
+    "id": 1465063,
+    "imdb_id": "tt36583977"
+  },
+  {
+    "title": "The Last Kiss",
+    "release_year": "2026",
+    "clean_title": "/film/the-last-kiss-2026/",
+    "adult": false,
+    "id": 1318467,
+    "imdb_id": "tt33253206"
+  },
+  {
+    "title": "BUNNY",
+    "release_year": "2024",
+    "clean_title": "/film/bunny-2024/",
+    "adult": false,
+    "id": 1579241
+  },
+  {
+    "title": "Fantasy Beyond",
+    "release_year": "2006",
+    "clean_title": "/film/fantasy-beyond/",
+    "adult": false,
+    "id": 197201,
+    "imdb_id": "tt1541741"
+  },
+  {
+    "title": "It Ends",
+    "release_year": "2025",
+    "clean_title": "/film/it-ends/",
+    "adult": false,
+    "id": 1422011,
+    "imdb_id": "tt35519455"
+  },
+  {
+    "title": "Sankofa",
+    "release_year": "1993",
+    "clean_title": "/film/sankofa/",
+    "adult": false,
+    "id": 68351,
+    "imdb_id": "tt0108041"
+  },
+  {
+    "title": "Fourth Wall",
+    "release_year": "",
+    "clean_title": "/film/fourth-wall-1/",
+    "adult": false,
+    "id": 1304149,
+    "imdb_id": "tt30264036"
+  },
+  {
+    "title": "Aurora",
+    "release_year": "",
+    "clean_title": "/film/aurora-4/",
+    "adult": false,
+    "id": 718445,
+    "imdb_id": "tt11827166"
+  },
+  {
+    "title": "Bitter Christmas",
+    "release_year": "2026",
+    "clean_title": "/film/bitter-christmas/",
+    "adult": false,
+    "id": 1088548,
+    "imdb_id": "tt28088049"
+  },
+  {
+    "title": "DreamQuil",
+    "release_year": "2026",
+    "clean_title": "/film/dreamquil/",
+    "adult": false,
+    "id": 1125627,
+    "imdb_id": "tt27733119"
+  },
+  {
+    "title": "Cam",
+    "release_year": "2018",
+    "clean_title": "/film/cam/",
+    "adult": false,
+    "id": 521935,
+    "imdb_id": "tt8361028"
+  },
+  {
+    "title": "I Want Your Sex",
+    "release_year": "2026",
+    "clean_title": "/film/i-want-your-sex/",
+    "adult": false,
+    "id": 1288059,
+    "imdb_id": "tt32332915"
+  },
+  {
+    "title": "Red Rooms",
+    "release_year": "2023",
+    "clean_title": "/film/red-rooms/",
+    "adult": false,
+    "id": 912480,
+    "imdb_id": "tt22207786"
+  },
+  {
+    "title": "The Gift",
+    "release_year": "2000",
+    "clean_title": "/film/the-gift/",
+    "adult": false,
+    "id": 2046,
+    "imdb_id": "tt0219699"
+  },
+  {
+    "title": "Soulm8te",
+    "release_year": "2026",
+    "clean_title": "/film/soulm8te/",
+    "adult": false,
+    "id": 1307118,
+    "imdb_id": "tt32654916"
+  },
+  {
+    "title": "Marijuana Minutes",
+    "release_year": "2022",
+    "clean_title": "/film/marijuana-minutes/",
+    "adult": false,
+    "id": 926691,
+    "imdb_id": "tt14492378"
+  },
+  {
+    "title": "Antibirth",
+    "release_year": "2016",
+    "clean_title": "/film/antibirth/",
+    "adult": false,
+    "id": 332285,
+    "imdb_id": "tt3333870"
   }
 ]

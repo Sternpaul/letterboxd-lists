@@ -48,9 +48,9 @@
     "imdb_id": "tt3254578"
   },
   {
-    "title": "Miracle",
+    "title": "Himala",
     "release_year": "1982",
-    "clean_title": "/film/miracle-1982/",
+    "clean_title": "/film/himala/",
     "adult": false,
     "id": 197976,
     "imdb_id": "tt0125144"
@@ -112,14 +112,6 @@
     "imdb_id": "tt3008034"
   },
   {
-    "title": "Perfumed Nightmare",
-    "release_year": "1977",
-    "clean_title": "/film/perfumed-nightmare/",
-    "adult": false,
-    "id": 84765,
-    "imdb_id": "tt0076341"
-  },
-  {
     "title": "A Lullaby to the Sorrowful Mystery",
     "release_year": "2016",
     "clean_title": "/film/a-lullaby-to-the-sorrowful-mystery/",
@@ -134,6 +126,14 @@
     "adult": false,
     "id": 133470,
     "imdb_id": "tt2194569"
+  },
+  {
+    "title": "Perfumed Nightmare",
+    "release_year": "1977",
+    "clean_title": "/film/perfumed-nightmare/",
+    "adult": false,
+    "id": 84765,
+    "imdb_id": "tt0076341"
   },
   {
     "title": "The Woman Who Left",
@@ -160,14 +160,6 @@
     "imdb_id": "tt2028550"
   },
   {
-    "title": "This Is My Country",
-    "release_year": "1984",
-    "clean_title": "/film/this-is-my-country/",
-    "adult": false,
-    "id": 198475,
-    "imdb_id": "tt0086943"
-  },
-  {
     "title": "Weighed But Found Wanting",
     "release_year": "1974",
     "clean_title": "/film/weighed-but-found-wanting/",
@@ -184,12 +176,12 @@
     "imdb_id": "tt10795144"
   },
   {
-    "title": "Isa Pa, With Feelings",
-    "release_year": "2019",
-    "clean_title": "/film/isa-pa-with-feelings/",
+    "title": "This Is My Country",
+    "release_year": "1984",
+    "clean_title": "/film/this-is-my-country/",
     "adult": false,
-    "id": 631828,
-    "imdb_id": "tt10555482"
+    "id": 198475,
+    "imdb_id": "tt0086943"
   },
   {
     "title": "Ode to Nothing",
@@ -200,12 +192,12 @@
     "imdb_id": "tt9204072"
   },
   {
-    "title": "Bona",
-    "release_year": "1980",
-    "clean_title": "/film/bona/",
+    "title": "Isa Pa, With Feelings",
+    "release_year": "2019",
+    "clean_title": "/film/isa-pa-with-feelings/",
     "adult": false,
-    "id": 75628,
-    "imdb_id": "tt0082093"
+    "id": 631828,
+    "imdb_id": "tt10555482"
   },
   {
     "title": "Turumba",
@@ -214,6 +206,14 @@
     "adult": false,
     "id": 149938,
     "imdb_id": "tt0278782"
+  },
+  {
+    "title": "Bona",
+    "release_year": "1980",
+    "clean_title": "/film/bona/",
+    "adult": false,
+    "id": 75628,
+    "imdb_id": "tt0082093"
   },
   {
     "title": "Magnifico",
@@ -240,14 +240,6 @@
     "imdb_id": "tt0325233"
   },
   {
-    "title": "When the Waves Are Gone",
-    "release_year": "2022",
-    "clean_title": "/film/when-the-waves-are-gone/",
-    "adult": false,
-    "id": 643736,
-    "imdb_id": "tt12824896"
-  },
-  {
     "title": "Gold, Silver, Death",
     "release_year": "1982",
     "clean_title": "/film/gold-silver-death/",
@@ -256,20 +248,20 @@
     "imdb_id": "tt0086056"
   },
   {
-    "title": "The Child",
+    "title": "When the Waves Are Gone",
+    "release_year": "2022",
+    "clean_title": "/film/when-the-waves-are-gone/",
+    "adult": false,
+    "id": 643736,
+    "imdb_id": "tt12824896"
+  },
+  {
+    "title": "Anak",
     "release_year": "2000",
-    "clean_title": "/film/the-child-2000/",
+    "clean_title": "/film/anak-2000/",
     "adult": false,
     "id": 85265,
     "imdb_id": "tt0246425"
-  },
-  {
-    "title": "Batch '81",
-    "release_year": "1982",
-    "clean_title": "/film/batch-81/",
-    "adult": false,
-    "id": 56126,
-    "imdb_id": "tt0138317"
   },
   {
     "title": "Liway",
@@ -278,6 +270,14 @@
     "adult": false,
     "id": 539854,
     "imdb_id": "tt8661074"
+  },
+  {
+    "title": "Batch '81",
+    "release_year": "1982",
+    "clean_title": "/film/batch-81/",
+    "adult": false,
+    "id": 56126,
+    "imdb_id": "tt0138317"
   },
   {
     "title": "Manila by Night",
@@ -296,14 +296,6 @@
     "imdb_id": "tt0843515"
   },
   {
-    "title": "Fight for Us",
-    "release_year": "1989",
-    "clean_title": "/film/fight-for-us/",
-    "adult": false,
-    "id": 178978,
-    "imdb_id": "tt0097583"
-  },
-  {
     "title": "The Halt",
     "release_year": "2019",
     "clean_title": "/film/the-halt/",
@@ -312,20 +304,12 @@
     "imdb_id": "tt10244756"
   },
   {
-    "title": "Shadow Behind the Moon",
-    "release_year": "2015",
-    "clean_title": "/film/shadow-behind-the-moon/",
+    "title": "Fight for Us",
+    "release_year": "1989",
+    "clean_title": "/film/fight-for-us/",
     "adult": false,
-    "id": 362967,
-    "imdb_id": "tt4957650"
-  },
-  {
-    "title": "Cain and Abel",
-    "release_year": "1982",
-    "clean_title": "/film/cain-and-abel-1982/",
-    "adult": false,
-    "id": 157703,
-    "imdb_id": "tt0317210"
+    "id": 178978,
+    "imdb_id": "tt0097583"
   },
   {
     "title": "Hyphen",
@@ -336,12 +320,12 @@
     "imdb_id": "tt28590697"
   },
   {
-    "title": "Lingua Franca",
-    "release_year": "2019",
-    "clean_title": "/film/lingua-franca/",
+    "title": "Cain and Abel",
+    "release_year": "1982",
+    "clean_title": "/film/cain-and-abel-1982/",
     "adult": false,
-    "id": 583143,
-    "imdb_id": "tt8943224"
+    "id": 157703,
+    "imdb_id": "tt0317210"
   },
   {
     "title": "Heneral Luna",
@@ -352,12 +336,20 @@
     "imdb_id": "tt4944352"
   },
   {
-    "title": "History of Ha",
-    "release_year": "2021",
-    "clean_title": "/film/history-of-ha/",
+    "title": "Shadow Behind the Moon",
+    "release_year": "2015",
+    "clean_title": "/film/shadow-behind-the-moon/",
     "adult": false,
-    "id": 872417,
-    "imdb_id": "tt14682578"
+    "id": 362967,
+    "imdb_id": "tt4957650"
+  },
+  {
+    "title": "Lingua Franca",
+    "release_year": "2019",
+    "clean_title": "/film/lingua-franca/",
+    "adult": false,
+    "id": 583143,
+    "imdb_id": "tt8943224"
   },
   {
     "title": "Harvest Home",
@@ -368,14 +360,6 @@
     "imdb_id": "tt0113415"
   },
   {
-    "title": "Balangiga: Howling Wilderness",
-    "release_year": "2017",
-    "clean_title": "/film/balangiga-howling-wilderness/",
-    "adult": false,
-    "id": 482061,
-    "imdb_id": "tt7670864"
-  },
-  {
     "title": "GomBurZa",
     "release_year": "2023",
     "clean_title": "/film/gomburza/",
@@ -384,12 +368,20 @@
     "imdb_id": "tt27203116"
   },
   {
-    "title": "Tumandok",
-    "release_year": "2024",
-    "clean_title": "/film/tumandok/",
+    "title": "History of Ha",
+    "release_year": "2021",
+    "clean_title": "/film/history-of-ha/",
     "adult": false,
-    "id": 1167809,
-    "imdb_id": "tt33060015"
+    "id": 872417,
+    "imdb_id": "tt14682578"
+  },
+  {
+    "title": "Balangiga: Howling Wilderness",
+    "release_year": "2017",
+    "clean_title": "/film/balangiga-howling-wilderness/",
+    "adult": false,
+    "id": 482061,
+    "imdb_id": "tt7670864"
   },
   {
     "title": "Season of the Devil",
@@ -398,6 +390,14 @@
     "adult": false,
     "id": 497626,
     "imdb_id": "tt7200370"
+  },
+  {
+    "title": "Tumandok",
+    "release_year": "2024",
+    "clean_title": "/film/tumandok/",
+    "adult": false,
+    "id": 1167809,
+    "imdb_id": "tt33060015"
   },
   {
     "title": "Six Degrees of Separation from Lilia Cuntapay",
@@ -416,44 +416,12 @@
     "imdb_id": "tt32982068"
   },
   {
-    "title": "Once a Moth",
-    "release_year": "1976",
-    "clean_title": "/film/once-a-moth/",
-    "adult": false,
-    "id": 372057,
-    "imdb_id": "tt0125408"
-  },
-  {
     "title": "Macho Dancer",
     "release_year": "1988",
     "clean_title": "/film/macho-dancer/",
     "adult": false,
     "id": 170924,
     "imdb_id": "tt0095562"
-  },
-  {
-    "title": "Magellan",
-    "release_year": "2025",
-    "clean_title": "/film/magellan-2025/",
-    "adult": false,
-    "id": 975335,
-    "imdb_id": "tt36456563"
-  },
-  {
-    "title": "Leonor Will Never Die",
-    "release_year": "2022",
-    "clean_title": "/film/leonor-will-never-die/",
-    "adult": false,
-    "id": 913689,
-    "imdb_id": "tt16377714"
-  },
-  {
-    "title": "Three Years Without God",
-    "release_year": "1976",
-    "clean_title": "/film/three-years-without-god/",
-    "adult": false,
-    "id": 253038,
-    "imdb_id": "tt0125537"
   },
   {
     "title": "The Bit Player",
@@ -464,28 +432,36 @@
     "imdb_id": "tt3031022"
   },
   {
-    "title": "Honor Thy Father",
-    "release_year": "2015",
-    "clean_title": "/film/honor-thy-father-2015/",
+    "title": "Once a Moth",
+    "release_year": "1976",
+    "clean_title": "/film/once-a-moth/",
     "adult": false,
-    "id": 358906,
-    "imdb_id": "tt4498800"
+    "id": 372057,
+    "imdb_id": "tt0125408"
   },
   {
-    "title": "Blessings of the Land",
-    "release_year": "1959",
-    "clean_title": "/film/blessings-of-the-land/",
+    "title": "Leonor Will Never Die",
+    "release_year": "2022",
+    "clean_title": "/film/leonor-will-never-die/",
     "adult": false,
-    "id": 253021,
-    "imdb_id": "tt0159283"
+    "id": 913689,
+    "imdb_id": "tt16377714"
   },
   {
-    "title": "Brutal",
-    "release_year": "1980",
-    "clean_title": "/film/brutal-1980/",
+    "title": "Magellan",
+    "release_year": "2025",
+    "clean_title": "/film/magellan-2025/",
     "adult": false,
-    "id": 336172,
-    "imdb_id": "tt0278989"
+    "id": 975335,
+    "imdb_id": "tt36456563"
+  },
+  {
+    "title": "Three Years Without God",
+    "release_year": "1976",
+    "clean_title": "/film/three-years-without-god/",
+    "adult": false,
+    "id": 253038,
+    "imdb_id": "tt0125537"
   },
   {
     "title": "Die Beautiful",
@@ -496,20 +472,36 @@
     "imdb_id": "tt6186430"
   },
   {
+    "title": "Brutal",
+    "release_year": "1980",
+    "clean_title": "/film/brutal-1980/",
+    "adult": false,
+    "id": 336172,
+    "imdb_id": "tt0278989"
+  },
+  {
+    "title": "Blessings of the Land",
+    "release_year": "1959",
+    "clean_title": "/film/blessings-of-the-land/",
+    "adult": false,
+    "id": 253021,
+    "imdb_id": "tt0159283"
+  },
+  {
+    "title": "Honor Thy Father",
+    "release_year": "2015",
+    "clean_title": "/film/honor-thy-father-2015/",
+    "adult": false,
+    "id": 358906,
+    "imdb_id": "tt4498800"
+  },
+  {
     "title": "2 Valid IDs",
     "release_year": "2026",
     "clean_title": "/film/2-valid-ids/",
     "adult": false,
     "id": 1561336,
     "imdb_id": "tt43807653"
-  },
-  {
-    "title": "Waiting for Sunset",
-    "release_year": "2018",
-    "clean_title": "/film/waiting-for-sunset/",
-    "adult": false,
-    "id": 539847,
-    "imdb_id": "tt8661062"
   },
   {
     "title": "The Dream of Eleuteria",
@@ -520,12 +512,28 @@
     "imdb_id": "tt1772239"
   },
   {
+    "title": "Waiting for Sunset",
+    "release_year": "2018",
+    "clean_title": "/film/waiting-for-sunset/",
+    "adult": false,
+    "id": 539847,
+    "imdb_id": "tt8661062"
+  },
+  {
     "title": "Of the Flesh",
     "release_year": "1983",
     "clean_title": "/film/of-the-flesh/",
     "adult": false,
     "id": 253081,
     "imdb_id": "tt0312863"
+  },
+  {
+    "title": "Seven Sundays",
+    "release_year": "2017",
+    "clean_title": "/film/seven-sundays/",
+    "adult": false,
+    "id": 480651,
+    "imdb_id": "tt7502214"
   },
   {
     "title": "Kalel, 15",
@@ -544,6 +552,14 @@
     "imdb_id": "tt0072257"
   },
   {
+    "title": "Jesus Is Dead",
+    "release_year": "2016",
+    "clean_title": "/film/jesus-is-dead/",
+    "adult": false,
+    "id": 420942,
+    "imdb_id": "tt6166990"
+  },
+  {
     "title": "Got 2 Believe",
     "release_year": "2002",
     "clean_title": "/film/got-2-believe/",
@@ -552,20 +568,11 @@
     "imdb_id": "tt0330342"
   },
   {
-    "title": "Seven Sundays",
-    "release_year": "2017",
-    "clean_title": "/film/seven-sundays/",
+    "title": "Status: Rejected",
+    "release_year": "2026",
+    "clean_title": "/film/status-rejected/",
     "adult": false,
-    "id": 480651,
-    "imdb_id": "tt7502214"
-  },
-  {
-    "title": "Jesus Is Dead",
-    "release_year": "2016",
-    "clean_title": "/film/jesus-is-dead/",
-    "adult": false,
-    "id": 420942,
-    "imdb_id": "tt6166990"
+    "id": 1561347
   },
   {
     "title": "You're the Only One I Loved",
@@ -576,11 +583,12 @@
     "imdb_id": "tt0151033"
   },
   {
-    "title": "Status: Rejected",
-    "release_year": "2026",
-    "clean_title": "/film/status-rejected/",
+    "title": "Will Your Heart Beat Faster?",
+    "release_year": "1980",
+    "clean_title": "/film/will-your-heart-beat-faster/",
     "adult": false,
-    "id": 1561347
+    "id": 253060,
+    "imdb_id": "tt0138939"
   },
   {
     "title": "Mother Nanny",
@@ -591,67 +599,12 @@
     "imdb_id": "tt0877645"
   },
   {
-    "title": "Will Your Heart Beat Faster?",
-    "release_year": "1980",
-    "clean_title": "/film/will-your-heart-beat-faster/",
-    "adult": false,
-    "id": 253060,
-    "imdb_id": "tt0138939"
-  },
-  {
-    "title": "Pisay",
-    "release_year": "2007",
-    "clean_title": "/film/pisay/",
-    "adult": false,
-    "id": 137373,
-    "imdb_id": "tt1076843"
-  },
-  {
     "title": "On the Job",
     "release_year": "2013",
     "clean_title": "/film/on-the-job/",
     "adult": false,
     "id": 190754,
     "imdb_id": "tt2717558"
-  },
-  {
-    "title": "Edward",
-    "release_year": "2019",
-    "clean_title": "/film/edward-2019/",
-    "adult": false,
-    "id": 610697,
-    "imdb_id": "tt10822428"
-  },
-  {
-    "title": "Want You with All My Hypothalamus",
-    "release_year": "2018",
-    "clean_title": "/film/want-you-with-all-my-hypothalamus/",
-    "adult": false,
-    "id": 523460,
-    "imdb_id": "tt8710234"
-  },
-  {
-    "title": "Brothers by the River",
-    "release_year": "2026",
-    "clean_title": "/film/brothers-by-the-river/",
-    "adult": false,
-    "id": 1561317
-  },
-  {
-    "title": "Jologs",
-    "release_year": "2002",
-    "clean_title": "/film/jologs/",
-    "adult": false,
-    "id": 292210,
-    "imdb_id": "tt0336669"
-  },
-  {
-    "title": "Anita's Last Cha-Cha",
-    "release_year": "2013",
-    "clean_title": "/film/anitas-last-cha-cha/",
-    "adult": false,
-    "id": 223645,
-    "imdb_id": "tt3204904"
   },
   {
     "title": "Markova: Comfort Gay",
@@ -662,12 +615,66 @@
     "imdb_id": "tt0292097"
   },
   {
-    "title": "The Sweet Taste of Salted Bread and Undies",
-    "release_year": "2018",
-    "clean_title": "/film/the-sweet-taste-of-salted-bread-and-undies/",
+    "title": "Edward",
+    "release_year": "2019",
+    "clean_title": "/film/edward-2019/",
     "adult": false,
-    "id": 539869,
-    "imdb_id": "tt8497278"
+    "id": 610697,
+    "imdb_id": "tt10822428"
+  },
+  {
+    "title": "Pisay",
+    "release_year": "2007",
+    "clean_title": "/film/pisay/",
+    "adult": false,
+    "id": 137373,
+    "imdb_id": "tt1076843"
+  },
+  {
+    "title": "Paglisan",
+    "release_year": "2018",
+    "clean_title": "/film/paglisan/",
+    "adult": false,
+    "id": 552624,
+    "imdb_id": "tt9344042"
+  },
+  {
+    "title": "Brothers by the River",
+    "release_year": "2026",
+    "clean_title": "/film/brothers-by-the-river/",
+    "adult": false,
+    "id": 1561317
+  },
+  {
+    "title": "The Mothering",
+    "release_year": "2026",
+    "clean_title": "/film/the-mothering/",
+    "adult": false,
+    "id": 1561345
+  },
+  {
+    "title": "Want You with All My Hypothalamus",
+    "release_year": "2018",
+    "clean_title": "/film/want-you-with-all-my-hypothalamus/",
+    "adult": false,
+    "id": 523460,
+    "imdb_id": "tt8710234"
+  },
+  {
+    "title": "Jologs",
+    "release_year": "2002",
+    "clean_title": "/film/jologs/",
+    "adult": false,
+    "id": 292210,
+    "imdb_id": "tt0336669"
+  },
+  {
+    "title": "Green Bones",
+    "release_year": "2024",
+    "clean_title": "/film/green-bones/",
+    "adult": false,
+    "id": 1377080,
+    "imdb_id": "tt34140719"
   },
   {
     "title": "Grandmother",
@@ -676,6 +683,30 @@
     "adult": false,
     "id": 72985,
     "imdb_id": "tt1496792"
+  },
+  {
+    "title": "The Sweet Taste of Salted Bread and Undies",
+    "release_year": "2018",
+    "clean_title": "/film/the-sweet-taste-of-salted-bread-and-undies/",
+    "adult": false,
+    "id": 539869,
+    "imdb_id": "tt8497278"
+  },
+  {
+    "title": "The Blossoming of Maximo Oliveros",
+    "release_year": "2005",
+    "clean_title": "/film/the-blossoming-of-maximo-oliveros/",
+    "adult": false,
+    "id": 46773,
+    "imdb_id": "tt0479506"
+  },
+  {
+    "title": "Anita's Last Cha-Cha",
+    "release_year": "2013",
+    "clean_title": "/film/anitas-last-cha-cha/",
+    "adult": false,
+    "id": 223645,
+    "imdb_id": "tt3204904"
   },
   {
     "title": "Sisa",
@@ -694,28 +725,12 @@
     "imdb_id": "tt0292108"
   },
   {
-    "title": "The Blossoming of Maximo Oliveros",
-    "release_year": "2005",
-    "clean_title": "/film/the-blossoming-of-maximo-oliveros/",
+    "title": "Senior Year",
+    "release_year": "2010",
+    "clean_title": "/film/senior-year/",
     "adult": false,
-    "id": 46773,
-    "imdb_id": "tt0479506"
-  },
-  {
-    "title": "Third World Hero",
-    "release_year": "2000",
-    "clean_title": "/film/third-world-hero/",
-    "adult": false,
-    "id": 253808,
-    "imdb_id": "tt0260731"
-  },
-  {
-    "title": "The Bachelor",
-    "release_year": "1984",
-    "clean_title": "/film/the-bachelor-1984/",
-    "adult": false,
-    "id": 508956,
-    "imdb_id": "tt0468121"
+    "id": 286754,
+    "imdb_id": "tt1770732"
   },
   {
     "title": "Big Night!",
@@ -726,44 +741,28 @@
     "imdb_id": "tt16024312"
   },
   {
+    "title": "The Bachelor",
+    "release_year": "1984",
+    "clean_title": "/film/the-bachelor-1984/",
+    "adult": false,
+    "id": 508956,
+    "imdb_id": "tt0468121"
+  },
+  {
+    "title": "Third World Hero",
+    "release_year": "2000",
+    "clean_title": "/film/third-world-hero/",
+    "adult": false,
+    "id": 253808,
+    "imdb_id": "tt0260731"
+  },
+  {
     "title": "Jaguar",
     "release_year": "1979",
     "clean_title": "/film/jaguar/",
     "adult": false,
     "id": 110738,
     "imdb_id": "tt0079361"
-  },
-  {
-    "title": "On the Job: The Missing 8",
-    "release_year": "2021",
-    "clean_title": "/film/on-the-job-the-missing-8/",
-    "adult": false,
-    "id": 800368,
-    "imdb_id": "tt3785036"
-  },
-  {
-    "title": "Green Bones",
-    "release_year": "2024",
-    "clean_title": "/film/green-bones/",
-    "adult": false,
-    "id": 1377080,
-    "imdb_id": "tt34140719"
-  },
-  {
-    "title": "Labs Kita...Okey Ka Lang?",
-    "release_year": "1998",
-    "clean_title": "/film/labs-kitaokey-ka-lang/",
-    "adult": false,
-    "id": 363154,
-    "imdb_id": "tt0408982"
-  },
-  {
-    "title": "Senior Year",
-    "release_year": "2010",
-    "clean_title": "/film/senior-year/",
-    "adult": false,
-    "id": 286754,
-    "imdb_id": "tt1770732"
   },
   {
     "title": "My Father, My Mother",
@@ -774,26 +773,27 @@
     "imdb_id": "tt0077164"
   },
   {
-    "title": "The Mothering",
+    "title": "Midnight Girls",
     "release_year": "2026",
-    "clean_title": "/film/the-mothering/",
+    "clean_title": "/film/midnight-girls-2026/",
     "adult": false,
-    "id": 1561345
+    "id": 1473592,
+    "imdb_id": "tt40553620"
   },
   {
-    "title": "Billie & Emma",
-    "release_year": "2018",
-    "clean_title": "/film/billie-emma/",
+    "title": "Labs Kita...Okey Ka Lang?",
+    "release_year": "1998",
+    "clean_title": "/film/labs-kitaokey-ka-lang/",
     "adult": false,
-    "id": 553917,
-    "imdb_id": "tt9112578"
+    "id": 363154,
+    "imdb_id": "tt0408982"
   },
   {
-    "title": "Endo",
-    "release_year": "2007",
-    "clean_title": "/film/endo/",
+    "title": "On the Job: The Missing 8",
+    "release_year": "2021",
+    "clean_title": "/film/on-the-job-the-missing-8/",
     "adult": false,
-    "id": 336355,
-    "imdb_id": "tt1056056"
+    "id": 800368,
+    "imdb_id": "tt3785036"
   }
 ]

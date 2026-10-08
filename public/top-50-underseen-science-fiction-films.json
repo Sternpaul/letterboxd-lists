@@ -112,20 +112,20 @@
     "imdb_id": "tt1762248"
   },
   {
-    "title": "Chronovisor",
-    "release_year": "2026",
-    "clean_title": "/film/chronovisor/",
-    "adult": false,
-    "id": 1599181,
-    "imdb_id": "tt39196981"
-  },
-  {
     "title": "Dead Dead Demon's Dededede Destruction Part 2",
     "release_year": "2024",
     "clean_title": "/film/dead-dead-demons-dededede-destruction-part-2/",
     "adult": false,
     "id": 1172229,
     "imdb_id": "tt28813303"
+  },
+  {
+    "title": "Chronovisor",
+    "release_year": "2026",
+    "clean_title": "/film/chronovisor/",
+    "adult": false,
+    "id": 1599181,
+    "imdb_id": "tt39196981"
   },
   {
     "title": "Journey to the West",
@@ -144,68 +144,12 @@
     "imdb_id": "tt0498567"
   },
   {
-    "title": "Morning Patrol",
-    "release_year": "1987",
-    "clean_title": "/film/morning-patrol/",
+    "title": "Doraemon: Nobita's Three Visionary Swordsmen",
+    "release_year": "1994",
+    "clean_title": "/film/doraemon-nobitas-three-visionary-swordsmen/",
     "adult": false,
-    "id": 76825,
-    "imdb_id": "tt0093791"
-  },
-  {
-    "title": "My God, My God, Why Hast Thou Forsaken Me?",
-    "release_year": "2005",
-    "clean_title": "/film/my-god-my-god-why-hast-thou-forsaken-me/",
-    "adult": false,
-    "id": 95240,
-    "imdb_id": "tt0461769"
-  },
-  {
-    "title": "Ejen Ali: The Movie",
-    "release_year": "2019",
-    "clean_title": "/film/ejen-ali-the-movie/",
-    "adult": false,
-    "id": 639999,
-    "imdb_id": "tt9020536"
-  },
-  {
-    "title": "The Inhuman Woman",
-    "release_year": "1924",
-    "clean_title": "/film/the-inhuman-woman/",
-    "adult": false,
-    "id": 54539,
-    "imdb_id": "tt0015014"
-  },
-  {
-    "title": "Gokaiger Goseiger Super Sentai 199 Hero Great Battle",
-    "release_year": "2011",
-    "clean_title": "/film/gokaiger-goseiger-super-sentai-199-hero-great-battle/",
-    "adult": false,
-    "id": 160939,
-    "imdb_id": "tt1869453"
-  },
-  {
-    "title": "Invasion",
-    "release_year": "1969",
-    "clean_title": "/film/invasion-1969/",
-    "adult": false,
-    "id": 163924,
-    "imdb_id": "tt0064490"
-  },
-  {
-    "title": "In the Shadow of the Blue Rascal",
-    "release_year": "1986",
-    "clean_title": "/film/in-the-shadow-of-the-blue-rascal/",
-    "adult": false,
-    "id": 206625,
-    "imdb_id": "tt0229088"
-  },
-  {
-    "title": "The Halt",
-    "release_year": "2019",
-    "clean_title": "/film/the-halt/",
-    "adult": false,
-    "id": 597080,
-    "imdb_id": "tt10244756"
+    "id": 161715,
+    "imdb_id": "tt1147524"
   },
   {
     "title": "We Are Aliens",
@@ -216,12 +160,76 @@
     "imdb_id": "tt41830798"
   },
   {
-    "title": "Kamen Rider ZO",
-    "release_year": "1993",
-    "clean_title": "/film/kamen-rider-zo/",
+    "title": "Ejen Ali: The Movie",
+    "release_year": "2019",
+    "clean_title": "/film/ejen-ali-the-movie/",
     "adult": false,
-    "id": 187922,
-    "imdb_id": "tt0099917"
+    "id": 639999,
+    "imdb_id": "tt9020536"
+  },
+  {
+    "title": "My God, My God, Why Hast Thou Forsaken Me?",
+    "release_year": "2005",
+    "clean_title": "/film/my-god-my-god-why-hast-thou-forsaken-me/",
+    "adult": false,
+    "id": 95240,
+    "imdb_id": "tt0461769"
+  },
+  {
+    "title": "Morning Patrol",
+    "release_year": "1987",
+    "clean_title": "/film/morning-patrol/",
+    "adult": false,
+    "id": 76825,
+    "imdb_id": "tt0093791"
+  },
+  {
+    "title": "In the Shadow of the Blue Rascal",
+    "release_year": "1986",
+    "clean_title": "/film/in-the-shadow-of-the-blue-rascal/",
+    "adult": false,
+    "id": 206625,
+    "imdb_id": "tt0229088"
+  },
+  {
+    "title": "Gokaiger Goseiger Super Sentai 199 Hero Great Battle",
+    "release_year": "2011",
+    "clean_title": "/film/gokaiger-goseiger-super-sentai-199-hero-great-battle/",
+    "adult": false,
+    "id": 160939,
+    "imdb_id": "tt1869453"
+  },
+  {
+    "title": "The Inhuman Woman",
+    "release_year": "1924",
+    "clean_title": "/film/the-inhuman-woman/",
+    "adult": false,
+    "id": 54539,
+    "imdb_id": "tt0015014"
+  },
+  {
+    "title": "Invasion",
+    "release_year": "1969",
+    "clean_title": "/film/invasion-1969/",
+    "adult": false,
+    "id": 163924,
+    "imdb_id": "tt0064490"
+  },
+  {
+    "title": "The Halt",
+    "release_year": "2019",
+    "clean_title": "/film/the-halt/",
+    "adult": false,
+    "id": 597080,
+    "imdb_id": "tt10244756"
+  },
+  {
+    "title": "Wishful Thinking",
+    "release_year": "2026",
+    "clean_title": "/film/wishful-thinking-2026/",
+    "adult": false,
+    "id": 1514328,
+    "imdb_id": "tt37599264"
   },
   {
     "title": "Doraemon: Nobita and the Steel Troops",
@@ -230,6 +238,14 @@
     "adult": false,
     "id": 88625,
     "imdb_id": "tt1147528"
+  },
+  {
+    "title": "Aavasavyuham: The Arbit Documentation of an Amphibian Hunt",
+    "release_year": "2022",
+    "clean_title": "/film/aavasavyuham-the-arbit-documentation-of-an-amphibian-hunt/",
+    "adult": false,
+    "id": 922598,
+    "imdb_id": "tt15939240"
   },
   {
     "title": "Woman in the Moon",
@@ -248,20 +264,28 @@
     "imdb_id": "tt0115909"
   },
   {
-    "title": "Aavasavyuham: The Arbit Documentation of an Amphibian Hunt",
-    "release_year": "2022",
-    "clean_title": "/film/aavasavyuham-the-arbit-documentation-of-an-amphibian-hunt/",
-    "adult": false,
-    "id": 922598,
-    "imdb_id": "tt15939240"
-  },
-  {
     "title": "Imaginur",
     "release_year": "2022",
     "clean_title": "/film/imaginur/",
     "adult": false,
     "id": 996117,
     "imdb_id": "tt21205440"
+  },
+  {
+    "title": "Aditya 369",
+    "release_year": "1991",
+    "clean_title": "/film/aditya-369/",
+    "adult": false,
+    "id": 280363,
+    "imdb_id": "tt0252196"
+  },
+  {
+    "title": "Dust",
+    "release_year": "2005",
+    "clean_title": "/film/dust-2005/",
+    "adult": false,
+    "id": 65104,
+    "imdb_id": "tt0466103"
   },
   {
     "title": "I Married a Strange Person!",
@@ -288,28 +312,20 @@
     "imdb_id": "tt33381728"
   },
   {
-    "title": "Aditya 369",
-    "release_year": "1991",
-    "clean_title": "/film/aditya-369/",
-    "adult": false,
-    "id": 280363,
-    "imdb_id": "tt0252196"
-  },
-  {
-    "title": "Dust",
-    "release_year": "2005",
-    "clean_title": "/film/dust-2005/",
-    "adult": false,
-    "id": 65104,
-    "imdb_id": "tt0466103"
-  },
-  {
     "title": "The Mysterious Castle in the Carpathians",
     "release_year": "1981",
     "clean_title": "/film/the-mysterious-castle-in-the-carpathians/",
     "adult": false,
     "id": 54755,
     "imdb_id": "tt0083162"
+  },
+  {
+    "title": "My Twentieth Century",
+    "release_year": "1989",
+    "clean_title": "/film/my-twentieth-century/",
+    "adult": false,
+    "id": 49978,
+    "imdb_id": "tt0096863"
   },
   {
     "title": "Anti-Clock",
@@ -326,14 +342,6 @@
     "adult": false,
     "id": 21538,
     "imdb_id": "tt0243759"
-  },
-  {
-    "title": "My Twentieth Century",
-    "release_year": "1989",
-    "clean_title": "/film/my-twentieth-century/",
-    "adult": false,
-    "id": 49978,
-    "imdb_id": "tt0096863"
   },
   {
     "title": "Days of Eclipse",
@@ -382,14 +390,6 @@
     "adult": false,
     "id": 108048,
     "imdb_id": "tt0087376"
-  },
-  {
-    "title": "Arcadia of My Youth",
-    "release_year": "1982",
-    "clean_title": "/film/space-pirate-captain-harlock-arcadia-of-my-youth/",
-    "adult": false,
-    "id": 1531453,
-    "imdb_id": "tt0084881"
   },
   {
     "title": "Doraemon: Nobita's Dorabian Nights",

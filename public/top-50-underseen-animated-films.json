@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tangles",
+    "release_year": "2026",
+    "clean_title": "/film/tangles/",
+    "adult": false,
+    "id": 1316999,
+    "imdb_id": "tt22183852"
+  },
+  {
     "title": "The Garden of Sinners: Paradox Spiral",
     "release_year": "2008",
     "clean_title": "/film/the-garden-of-sinners-paradox-spiral/",
@@ -32,12 +40,28 @@
     "imdb_id": "tt5463052"
   },
   {
+    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "release_year": "2026",
+    "clean_title": "/film/mononoke-the-movie-chapter-iii-the-curse/",
+    "adult": false,
+    "id": 1322562,
+    "imdb_id": "tt36282134"
+  },
+  {
     "title": "The Final Exit of the Disciples of Ascensia",
     "release_year": "2019",
     "clean_title": "/film/the-final-exit-of-the-disciples-of-ascensia/",
     "adult": false,
     "id": 607033,
     "imdb_id": "tt10432662"
+  },
+  {
+    "title": "Iron Boy",
+    "release_year": "2026",
+    "clean_title": "/film/iron-boy/",
+    "adult": false,
+    "id": 947493,
+    "imdb_id": "tt36639956"
   },
   {
     "title": "Flavors of Iraq",
@@ -48,20 +72,20 @@
     "imdb_id": "tt15029528"
   },
   {
-    "title": "Marona's Fantastic Tale",
-    "release_year": "2019",
-    "clean_title": "/film/maronas-fantastic-tale/",
-    "adult": false,
-    "id": 568381,
-    "imdb_id": "tt6785292"
-  },
-  {
     "title": "Nobody",
     "release_year": "2025",
     "clean_title": "/film/nobody-2025/",
     "adult": false,
     "id": 1304434,
     "imdb_id": "tt36733027"
+  },
+  {
+    "title": "Marona's Fantastic Tale",
+    "release_year": "2019",
+    "clean_title": "/film/maronas-fantastic-tale/",
+    "adult": false,
+    "id": 568381,
+    "imdb_id": "tt6785292"
   },
   {
     "title": "Treasure Island",
@@ -78,22 +102,6 @@
     "adult": false,
     "id": 1154478,
     "imdb_id": "tt32439604"
-  },
-  {
-    "title": "Iron Boy",
-    "release_year": "2026",
-    "clean_title": "/film/iron-boy/",
-    "adult": false,
-    "id": 947493,
-    "imdb_id": "tt36639956"
-  },
-  {
-    "title": "Tangles",
-    "release_year": "2026",
-    "clean_title": "/film/tangles/",
-    "adult": false,
-    "id": 1316999,
-    "imdb_id": "tt22183852"
   },
   {
     "title": "Tux and Fanny",
@@ -160,6 +168,22 @@
     "imdb_id": "tt10133702"
   },
   {
+    "title": "All Wishes Come True!",
+    "release_year": "2026",
+    "clean_title": "/film/all-wishes-come-true/",
+    "adult": false,
+    "id": 1633056,
+    "imdb_id": "tt43515101"
+  },
+  {
+    "title": "Jan Werich's Fimfarum",
+    "release_year": "2002",
+    "clean_title": "/film/jan-werichs-fimfarum/",
+    "adult": false,
+    "id": 61320,
+    "imdb_id": "tt0299878"
+  },
+  {
     "title": "The Garden of Sinners: A Study in Murder (Part 2)",
     "release_year": "2009",
     "clean_title": "/film/the-garden-of-sinners-a-study-in-murder-part-2/",
@@ -174,14 +198,6 @@
     "adult": false,
     "id": 90034,
     "imdb_id": "tt0021309"
-  },
-  {
-    "title": "Jan Werich's Fimfarum",
-    "release_year": "2002",
-    "clean_title": "/film/jan-werichs-fimfarum/",
-    "adult": false,
-    "id": 61320,
-    "imdb_id": "tt0299878"
   },
   {
     "title": "Rebel Dykes",
@@ -200,12 +216,28 @@
     "imdb_id": "tt28347814"
   },
   {
+    "title": "Ra: The Path of the Sun God",
+    "release_year": "1990",
+    "clean_title": "/film/ra-the-path-of-the-sun-god/",
+    "adult": false,
+    "id": 490626,
+    "imdb_id": "tt0334205"
+  },
+  {
     "title": "Nezha Conquers the Dragon King",
     "release_year": "1979",
     "clean_title": "/film/nezha-conquers-the-dragon-king/",
     "adult": false,
     "id": 74037,
     "imdb_id": "tt0354770"
+  },
+  {
+    "title": "Sirocco and the Kingdom of Winds",
+    "release_year": "2023",
+    "clean_title": "/film/sirocco-and-the-kingdom-of-winds/",
+    "adult": false,
+    "id": 676696,
+    "imdb_id": "tt12015692"
   },
   {
     "title": "The Secret of the Third Planet",
@@ -224,36 +256,12 @@
     "imdb_id": "tt0259534"
   },
   {
-    "title": "Bubble Bath",
-    "release_year": "1980",
-    "clean_title": "/film/bubble-bath/",
-    "adult": false,
-    "id": 250906,
-    "imdb_id": "tt0079258"
-  },
-  {
-    "title": "Sirocco and the Kingdom of Winds",
-    "release_year": "2023",
-    "clean_title": "/film/sirocco-and-the-kingdom-of-winds/",
-    "adult": false,
-    "id": 676696,
-    "imdb_id": "tt12015692"
-  },
-  {
-    "title": "Ra: The Path of the Sun God",
-    "release_year": "1990",
-    "clean_title": "/film/ra-the-path-of-the-sun-god/",
-    "adult": false,
-    "id": 490626,
-    "imdb_id": "tt0334205"
-  },
-  {
-    "title": "The Girl from the Other Side",
+    "title": "Aurora's Sunrise",
     "release_year": "2022",
-    "clean_title": "/film/the-girl-from-the-other-side-2022/",
+    "clean_title": "/film/auroras-sunrise/",
     "adult": false,
-    "id": 802699,
-    "imdb_id": "tt14228078"
+    "id": 970578,
+    "imdb_id": "tt20873160"
   },
   {
     "title": "Macross: Do You Remember Love?",
@@ -264,14 +272,6 @@
     "imdb_id": "tt0087660"
   },
   {
-    "title": "The Pinchcliffe Grand Prix",
-    "release_year": "1975",
-    "clean_title": "/film/the-pinchcliffe-grand-prix/",
-    "adult": false,
-    "id": 492015,
-    "imdb_id": "tt0073000"
-  },
-  {
     "title": "Consuming Spirits",
     "release_year": "2012",
     "clean_title": "/film/consuming-spirits/",
@@ -280,28 +280,20 @@
     "imdb_id": "tt2253947"
   },
   {
+    "title": "The Pinchcliffe Grand Prix",
+    "release_year": "1975",
+    "clean_title": "/film/the-pinchcliffe-grand-prix/",
+    "adult": false,
+    "id": 492015,
+    "imdb_id": "tt0073000"
+  },
+  {
     "title": "Wrinkles",
     "release_year": "2011",
     "clean_title": "/film/wrinkles/",
     "adult": false,
     "id": 85444,
     "imdb_id": "tt1407052"
-  },
-  {
-    "title": "Aurora's Sunrise",
-    "release_year": "2022",
-    "clean_title": "/film/auroras-sunrise/",
-    "adult": false,
-    "id": 970578,
-    "imdb_id": "tt20873160"
-  },
-  {
-    "title": "Johnny Corncob",
-    "release_year": "1973",
-    "clean_title": "/film/johnny-corncob/",
-    "adult": false,
-    "id": 41078,
-    "imdb_id": "tt0121431"
   },
   {
     "title": "A Midsummer's Night Dream",
@@ -320,28 +312,12 @@
     "imdb_id": "tt1734113"
   },
   {
-    "title": "I Am What I Am",
-    "release_year": "2021",
-    "clean_title": "/film/i-am-what-i-am/",
+    "title": "Johnny Corncob",
+    "release_year": "1973",
+    "clean_title": "/film/johnny-corncob/",
     "adult": false,
-    "id": 839803,
-    "imdb_id": "tt16345484"
-  },
-  {
-    "title": "Kayoko's Diary",
-    "release_year": "1991",
-    "clean_title": "/film/kayokos-diary/",
-    "adult": false,
-    "id": 80398,
-    "imdb_id": "tt1740055"
-  },
-  {
-    "title": "The Tower",
-    "release_year": "2018",
-    "clean_title": "/film/the-tower-2018-1/",
-    "adult": false,
-    "id": 514570,
-    "imdb_id": "tt5847768"
+    "id": 41078,
+    "imdb_id": "tt0121431"
   },
   {
     "title": "The Boy Who Wanted to Be a Bear",
@@ -352,6 +328,14 @@
     "imdb_id": "tt0322177"
   },
   {
+    "title": "Kayoko's Diary",
+    "release_year": "1991",
+    "clean_title": "/film/kayokos-diary/",
+    "adult": false,
+    "id": 80398,
+    "imdb_id": "tt1740055"
+  },
+  {
     "title": "My Life as McDull",
     "release_year": "2001",
     "clean_title": "/film/my-life-as-mcdull/",
@@ -360,20 +344,20 @@
     "imdb_id": "tt0312941"
   },
   {
-    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
-    "release_year": "2026",
-    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
+    "title": "The Tower",
+    "release_year": "2018",
+    "clean_title": "/film/the-tower-2018-1/",
     "adult": false,
-    "id": 1586876,
-    "imdb_id": "tt39026173"
+    "id": 514570,
+    "imdb_id": "tt5847768"
   },
   {
-    "title": "Heroic Times",
-    "release_year": "1983",
-    "clean_title": "/film/heroic-times/",
+    "title": "I Am What I Am",
+    "release_year": "2021",
+    "clean_title": "/film/i-am-what-i-am/",
     "adult": false,
-    "id": 244265,
-    "imdb_id": "tt0847478"
+    "id": 839803,
+    "imdb_id": "tt16345484"
   },
   {
     "title": "Dofus - Book I: Julith",
@@ -384,6 +368,14 @@
     "imdb_id": "tt4731504"
   },
   {
+    "title": "Lupin the 3rd: Goemon's Blood Spray",
+    "release_year": "2017",
+    "clean_title": "/film/lupin-the-3rd-goemons-blood-spray/",
+    "adult": false,
+    "id": 456611,
+    "imdb_id": "tt6047974"
+  },
+  {
     "title": "The Little Fox",
     "release_year": "1981",
     "clean_title": "/film/the-little-fox/",
@@ -392,11 +384,19 @@
     "imdb_id": "tt0131636"
   },
   {
-    "title": "Little Nicholas: Happy as Can Be",
-    "release_year": "2022",
-    "clean_title": "/film/little-nicholas-happy-as-can-be/",
+    "title": "Heroic Times",
+    "release_year": "1983",
+    "clean_title": "/film/heroic-times/",
     "adult": false,
-    "id": 893366,
-    "imdb_id": "tt10290244"
+    "id": 244265,
+    "imdb_id": "tt0847478"
+  },
+  {
+    "title": "Manuelita",
+    "release_year": "1999",
+    "clean_title": "/film/manuelita/",
+    "adult": false,
+    "id": 65931,
+    "imdb_id": "tt0229557"
   }
 ]
