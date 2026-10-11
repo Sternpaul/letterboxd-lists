@@ -72,20 +72,20 @@
     "imdb_id": "tt0432283"
   },
   {
-    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-    "release_year": "2021",
-    "clean_title": "/film/evangelion-3010-thrice-upon-a-time/",
-    "adult": false,
-    "id": 283566,
-    "imdb_id": "tt2458948"
-  },
-  {
     "title": "Song of the Sea",
     "release_year": "2014",
     "clean_title": "/film/song-of-the-sea/",
     "adult": false,
     "id": 110416,
     "imdb_id": "tt1865505"
+  },
+  {
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "release_year": "2021",
+    "clean_title": "/film/evangelion-3010-thrice-upon-a-time/",
+    "adult": false,
+    "id": 283566,
+    "imdb_id": "tt2458948"
   },
   {
     "title": "The Iron Giant",
@@ -104,20 +104,20 @@
     "imdb_id": "tt31711040"
   },
   {
-    "title": "Akira",
-    "release_year": "1988",
-    "clean_title": "/film/akira/",
-    "adult": false,
-    "id": 149,
-    "imdb_id": "tt0094625"
-  },
-  {
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
     "release_year": "2003",
     "clean_title": "/film/interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem/",
     "adult": false,
     "id": 11049,
     "imdb_id": "tt0368667"
+  },
+  {
+    "title": "Akira",
+    "release_year": "1988",
+    "clean_title": "/film/akira/",
+    "adult": false,
+    "id": 149,
+    "imdb_id": "tt0094625"
   },
   {
     "title": "Mary and Max",
@@ -176,14 +176,6 @@
     "imdb_id": "tt15339456"
   },
   {
-    "title": "Millennium Actress",
-    "release_year": "2001",
-    "clean_title": "/film/millennium-actress/",
-    "adult": false,
-    "id": 33320,
-    "imdb_id": "tt0291350"
-  },
-  {
     "title": "Your Name.",
     "release_year": "2016",
     "clean_title": "/film/your-name/",
@@ -192,12 +184,12 @@
     "imdb_id": "tt5311514"
   },
   {
-    "title": "Son of the White Mare",
-    "release_year": "1981",
-    "clean_title": "/film/son-of-the-white-mare/",
+    "title": "Millennium Actress",
+    "release_year": "2001",
+    "clean_title": "/film/millennium-actress/",
     "adult": false,
-    "id": 41077,
-    "imdb_id": "tt0083931"
+    "id": 33320,
+    "imdb_id": "tt0291350"
   },
   {
     "title": "A Silent Voice: The Movie",
@@ -206,6 +198,14 @@
     "adult": false,
     "id": 378064,
     "imdb_id": "tt5323662"
+  },
+  {
+    "title": "Son of the White Mare",
+    "release_year": "1981",
+    "clean_title": "/film/son-of-the-white-mare/",
+    "adult": false,
+    "id": 41077,
+    "imdb_id": "tt0083931"
   },
   {
     "title": "Persepolis",
@@ -240,6 +240,14 @@
     "imdb_id": "tt8430054"
   },
   {
+    "title": "Azur & Asmar: The Princes' Quest",
+    "release_year": "2006",
+    "clean_title": "/film/azur-asmar-the-princes-quest/",
+    "adult": false,
+    "id": 19026,
+    "imdb_id": "tt0439123"
+  },
+  {
     "title": "The Wild Robot",
     "release_year": "2024",
     "clean_title": "/film/the-wild-robot/",
@@ -254,14 +262,6 @@
     "adult": false,
     "id": 430214,
     "imdb_id": "tt6335734"
-  },
-  {
-    "title": "Azur & Asmar: The Princes' Quest",
-    "release_year": "2006",
-    "clean_title": "/film/azur-asmar-the-princes-quest/",
-    "adult": false,
-    "id": 19026,
-    "imdb_id": "tt0439123"
   },
   {
     "title": "Revolutionary Girl Utena: The Movie",
@@ -288,12 +288,12 @@
     "imdb_id": "tt0327597"
   },
   {
-    "title": "My Neighbor Totoro",
-    "release_year": "1988",
-    "clean_title": "/film/my-neighbor-totoro/",
+    "title": "Vampire Hunter D: Bloodlust",
+    "release_year": "2000",
+    "clean_title": "/film/vampire-hunter-d-bloodlust/",
     "adult": false,
-    "id": 8392,
-    "imdb_id": "tt0096283"
+    "id": 15999,
+    "imdb_id": "tt0216651"
   },
   {
     "title": "Klaus",
@@ -304,20 +304,20 @@
     "imdb_id": "tt4729430"
   },
   {
+    "title": "My Neighbor Totoro",
+    "release_year": "1988",
+    "clean_title": "/film/my-neighbor-totoro/",
+    "adult": false,
+    "id": 8392,
+    "imdb_id": "tt0096283"
+  },
+  {
     "title": "Whisper of the Heart",
     "release_year": "1995",
     "clean_title": "/film/whisper-of-the-heart/",
     "adult": false,
     "id": 37797,
     "imdb_id": "tt0113824"
-  },
-  {
-    "title": "Vampire Hunter D: Bloodlust",
-    "release_year": "2000",
-    "clean_title": "/film/vampire-hunter-d-bloodlust/",
-    "adult": false,
-    "id": 15999,
-    "imdb_id": "tt0216651"
   },
   {
     "title": "My Life as a Zucchini",
@@ -328,20 +328,20 @@
     "imdb_id": "tt2321405"
   },
   {
-    "title": "Mind Game",
-    "release_year": "2004",
-    "clean_title": "/film/mind-game/",
-    "adult": false,
-    "id": 21712,
-    "imdb_id": "tt0452039"
-  },
-  {
     "title": "Ernest & Celestine",
     "release_year": "2012",
     "clean_title": "/film/ernest-celestine/",
     "adult": false,
     "id": 126319,
     "imdb_id": "tt1816518"
+  },
+  {
+    "title": "Mind Game",
+    "release_year": "2004",
+    "clean_title": "/film/mind-game/",
+    "adult": false,
+    "id": 21712,
+    "imdb_id": "tt0452039"
   },
   {
     "title": "Blue Giant",
@@ -384,20 +384,20 @@
     "imdb_id": "tt0892769"
   },
   {
-    "title": "Kiki's Delivery Service",
-    "release_year": "1989",
-    "clean_title": "/film/kikis-delivery-service/",
-    "adult": false,
-    "id": 16859,
-    "imdb_id": "tt0097814"
-  },
-  {
     "title": "Redline",
     "release_year": "2009",
     "clean_title": "/film/redline/",
     "adult": false,
     "id": 71883,
     "imdb_id": "tt1483797"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "release_year": "1989",
+    "clean_title": "/film/kikis-delivery-service/",
+    "adult": false,
+    "id": 16859,
+    "imdb_id": "tt0097814"
   },
   {
     "title": "The Wolf House",
@@ -424,14 +424,6 @@
     "imdb_id": "tt0275277"
   },
   {
-    "title": "Puss in Boots: The Last Wish",
-    "release_year": "2022",
-    "clean_title": "/film/puss-in-boots-the-last-wish/",
-    "adult": false,
-    "id": 315162,
-    "imdb_id": "tt3915174"
-  },
-  {
     "title": "Ponyo",
     "release_year": "2008",
     "clean_title": "/film/ponyo/",
@@ -440,20 +432,20 @@
     "imdb_id": "tt0876563"
   },
   {
+    "title": "Puss in Boots: The Last Wish",
+    "release_year": "2022",
+    "clean_title": "/film/puss-in-boots-the-last-wish/",
+    "adult": false,
+    "id": 315162,
+    "imdb_id": "tt3915174"
+  },
+  {
     "title": "Wolf Children",
     "release_year": "2012",
     "clean_title": "/film/wolf-children/",
     "adult": false,
     "id": 110420,
     "imdb_id": "tt2140203"
-  },
-  {
-    "title": "Ne Zha 2",
-    "release_year": "2025",
-    "clean_title": "/film/ne-zha-2/",
-    "adult": false,
-    "id": 980477,
-    "imdb_id": "tt34956443"
   },
   {
     "title": "In This Corner of the World",
@@ -472,20 +464,20 @@
     "imdb_id": "tt2013293"
   },
   {
+    "title": "Ne Zha 2",
+    "release_year": "2025",
+    "clean_title": "/film/ne-zha-2/",
+    "adult": false,
+    "id": 980477,
+    "imdb_id": "tt34956443"
+  },
+  {
     "title": "Coco",
     "release_year": "2017",
     "clean_title": "/film/coco-2017/",
     "adult": false,
     "id": 354912,
     "imdb_id": "tt2380307"
-  },
-  {
-    "title": "Shrek",
-    "release_year": "2001",
-    "clean_title": "/film/shrek/",
-    "adult": false,
-    "id": 808,
-    "imdb_id": "tt0126029"
   },
   {
     "title": "Little Amélie or the Character of Rain",
@@ -496,12 +488,12 @@
     "imdb_id": "tt29313285"
   },
   {
-    "title": "Shrek 2",
-    "release_year": "2004",
-    "clean_title": "/film/shrek-2/",
+    "title": "Shrek",
+    "release_year": "2001",
+    "clean_title": "/film/shrek/",
     "adult": false,
-    "id": 809,
-    "imdb_id": "tt0298148"
+    "id": 808,
+    "imdb_id": "tt0126029"
   },
   {
     "title": "Tekkonkinkreet",
@@ -510,6 +502,22 @@
     "adult": false,
     "id": 13754,
     "imdb_id": "tt0831888"
+  },
+  {
+    "title": "Shrek 2",
+    "release_year": "2004",
+    "clean_title": "/film/shrek-2/",
+    "adult": false,
+    "id": 809,
+    "imdb_id": "tt0298148"
+  },
+  {
+    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
+    "release_year": "2026",
+    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
+    "adult": false,
+    "id": 1586876,
+    "imdb_id": "tt39026173"
   },
   {
     "title": "The Breadwinner",
@@ -528,14 +536,6 @@
     "imdb_id": "tt0114709"
   },
   {
-    "title": "Paprika",
-    "release_year": "2006",
-    "clean_title": "/film/paprika-2006/",
-    "adult": false,
-    "id": 4977,
-    "imdb_id": "tt0851578"
-  },
-  {
     "title": "Dou kyu sei – Classmates",
     "release_year": "2016",
     "clean_title": "/film/dou-kyu-sei-classmates/",
@@ -544,12 +544,12 @@
     "imdb_id": "tt5526028"
   },
   {
-    "title": "Flow",
-    "release_year": "2024",
-    "clean_title": "/film/flow-2024/",
+    "title": "Paprika",
+    "release_year": "2006",
+    "clean_title": "/film/paprika-2006/",
     "adult": false,
-    "id": 823219,
-    "imdb_id": "tt4772188"
+    "id": 4977,
+    "imdb_id": "tt0851578"
   },
   {
     "title": "Up",
@@ -560,12 +560,12 @@
     "imdb_id": "tt1049413"
   },
   {
-    "title": "Ghost in the Shell",
-    "release_year": "1995",
-    "clean_title": "/film/ghost-in-the-shell/",
+    "title": "Flow",
+    "release_year": "2024",
+    "clean_title": "/film/flow-2024/",
     "adult": false,
-    "id": 9323,
-    "imdb_id": "tt0113568"
+    "id": 823219,
+    "imdb_id": "tt4772188"
   },
   {
     "title": "The Prince of Egypt",
@@ -576,12 +576,12 @@
     "imdb_id": "tt0120794"
   },
   {
-    "title": "Robot Dreams",
-    "release_year": "2023",
-    "clean_title": "/film/robot-dreams/",
+    "title": "Ghost in the Shell",
+    "release_year": "1995",
+    "clean_title": "/film/ghost-in-the-shell/",
     "adult": false,
-    "id": 838240,
-    "imdb_id": "tt13429870"
+    "id": 9323,
+    "imdb_id": "tt0113568"
   },
   {
     "title": "The Summit of the Gods",
@@ -600,6 +600,22 @@
     "imdb_id": "tt5104604"
   },
   {
+    "title": "Monica's Gang in an Adventure in Time",
+    "release_year": "2007",
+    "clean_title": "/film/monicas-gang-in-an-adventure-in-time/",
+    "adult": false,
+    "id": 51137,
+    "imdb_id": "tt0871896"
+  },
+  {
+    "title": "Robot Dreams",
+    "release_year": "2023",
+    "clean_title": "/film/robot-dreams/",
+    "adult": false,
+    "id": 838240,
+    "imdb_id": "tt13429870"
+  },
+  {
     "title": "Castle in the Sky",
     "release_year": "1986",
     "clean_title": "/film/castle-in-the-sky/",
@@ -616,28 +632,12 @@
     "imdb_id": "tt0198781"
   },
   {
-    "title": "Angel's Egg",
-    "release_year": "1985",
-    "clean_title": "/film/angels-egg/",
-    "adult": false,
-    "id": 15916,
-    "imdb_id": "tt0208502"
-  },
-  {
     "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
     "release_year": "2025",
     "clean_title": "/film/mononoke-the-movie-chapter-ii-the-ashes-of/",
     "adult": false,
     "id": 1322218,
     "imdb_id": "tt35301440"
-  },
-  {
-    "title": "Monica's Gang in an Adventure in Time",
-    "release_year": "2007",
-    "clean_title": "/film/monicas-gang-in-an-adventure-in-time/",
-    "adult": false,
-    "id": 51137,
-    "imdb_id": "tt0871896"
   },
   {
     "title": "Tangled",
@@ -648,6 +648,14 @@
     "imdb_id": "tt0398286"
   },
   {
+    "title": "Angel's Egg",
+    "release_year": "1985",
+    "clean_title": "/film/angels-egg/",
+    "adult": false,
+    "id": 15916,
+    "imdb_id": "tt0208502"
+  },
+  {
     "title": "Batman: Mask of the Phantasm",
     "release_year": "1993",
     "clean_title": "/film/batman-mask-of-the-phantasm/",
@@ -656,20 +664,20 @@
     "imdb_id": "tt0106364"
   },
   {
-    "title": "Lilo & Stitch",
-    "release_year": "2002",
-    "clean_title": "/film/lilo-stitch/",
-    "adult": false,
-    "id": 11544,
-    "imdb_id": "tt0275847"
-  },
-  {
     "title": "Toy Story 3",
     "release_year": "2010",
     "clean_title": "/film/toy-story-3/",
     "adult": false,
     "id": 10193,
     "imdb_id": "tt0435761"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "release_year": "2002",
+    "clean_title": "/film/lilo-stitch/",
+    "adult": false,
+    "id": 11544,
+    "imdb_id": "tt0275847"
   },
   {
     "title": "The Incredibles",
@@ -688,20 +696,20 @@
     "imdb_id": "tt2358913"
   },
   {
-    "title": "Porco Rosso",
-    "release_year": "1992",
-    "clean_title": "/film/porco-rosso/",
-    "adult": false,
-    "id": 11621,
-    "imdb_id": "tt0104652"
-  },
-  {
     "title": "The Plague Dogs",
     "release_year": "1982",
     "clean_title": "/film/the-plague-dogs/",
     "adult": false,
     "id": 30060,
     "imdb_id": "tt0084509"
+  },
+  {
+    "title": "Porco Rosso",
+    "release_year": "1992",
+    "clean_title": "/film/porco-rosso/",
+    "adult": false,
+    "id": 11621,
+    "imdb_id": "tt0104652"
   },
   {
     "title": "Memories",
@@ -712,14 +720,6 @@
     "imdb_id": "tt0113799"
   },
   {
-    "title": "The Castle of Cagliostro",
-    "release_year": "1979",
-    "clean_title": "/film/the-castle-of-cagliostro/",
-    "adult": false,
-    "id": 15371,
-    "imdb_id": "tt0079833"
-  },
-  {
     "title": "Loving Vincent",
     "release_year": "2017",
     "clean_title": "/film/loving-vincent/",
@@ -728,12 +728,12 @@
     "imdb_id": "tt3262342"
   },
   {
-    "title": "The Triplets of Belleville",
-    "release_year": "2003",
-    "clean_title": "/film/the-triplets-of-belleville/",
+    "title": "The Castle of Cagliostro",
+    "release_year": "1979",
+    "clean_title": "/film/the-castle-of-cagliostro/",
     "adult": false,
-    "id": 9662,
-    "imdb_id": "tt0286244"
+    "id": 15371,
+    "imdb_id": "tt0079833"
   },
   {
     "title": "A Town Called Panic",
@@ -742,6 +742,14 @@
     "adult": false,
     "id": 40623,
     "imdb_id": "tt1433540"
+  },
+  {
+    "title": "The Triplets of Belleville",
+    "release_year": "2003",
+    "clean_title": "/film/the-triplets-of-belleville/",
+    "adult": false,
+    "id": 9662,
+    "imdb_id": "tt0286244"
   },
   {
     "title": "Barefoot Gen",
@@ -760,28 +768,28 @@
     "imdb_id": "tt0090315"
   },
   {
-    "title": "Tower",
-    "release_year": "2016",
-    "clean_title": "/film/tower-2016/",
-    "adult": false,
-    "id": 381028,
-    "imdb_id": "tt5116410"
-  },
-  {
-    "title": "Finding Nemo",
-    "release_year": "2003",
-    "clean_title": "/film/finding-nemo/",
-    "adult": false,
-    "id": 12,
-    "imdb_id": "tt0266543"
-  },
-  {
     "title": "The King and the Mockingbird",
     "release_year": "1980",
     "clean_title": "/film/the-king-and-the-mockingbird/",
     "adult": false,
     "id": 22504,
     "imdb_id": "tt0079820"
+  },
+  {
+    "title": "Kirikou and the Sorceress",
+    "release_year": "1998",
+    "clean_title": "/film/kirikou-and-the-sorceress/",
+    "adult": false,
+    "id": 21348,
+    "imdb_id": "tt0181627"
+  },
+  {
+    "title": "Tower",
+    "release_year": "2016",
+    "clean_title": "/film/tower-2016/",
+    "adult": false,
+    "id": 381028,
+    "imdb_id": "tt5116410"
   },
   {
     "title": "Mars Express",
@@ -792,12 +800,12 @@
     "imdb_id": "tt26915336"
   },
   {
-    "title": "Kirikou and the Sorceress",
-    "release_year": "1998",
-    "clean_title": "/film/kirikou-and-the-sorceress/",
+    "title": "Finding Nemo",
+    "release_year": "2003",
+    "clean_title": "/film/finding-nemo/",
     "adult": false,
-    "id": 21348,
-    "imdb_id": "tt0181627"
+    "id": 12,
+    "imdb_id": "tt0266543"
   },
   {
     "title": "The Pied Piper",
@@ -816,20 +824,20 @@
     "imdb_id": "tt10487722"
   },
   {
-    "title": "Fantastic Planet",
-    "release_year": "1973",
-    "clean_title": "/film/fantastic-planet/",
-    "adult": false,
-    "id": 16306,
-    "imdb_id": "tt0070544"
-  },
-  {
     "title": "Liz and the Blue Bird",
     "release_year": "2018",
     "clean_title": "/film/liz-and-the-blue-bird/",
     "adult": false,
     "id": 482150,
     "imdb_id": "tt7089878"
+  },
+  {
+    "title": "Fantastic Planet",
+    "release_year": "1973",
+    "clean_title": "/film/fantastic-planet/",
+    "adult": false,
+    "id": 16306,
+    "imdb_id": "tt0070544"
   },
   {
     "title": "The Lego Batman Movie",
@@ -840,20 +848,20 @@
     "imdb_id": "tt4116284"
   },
   {
-    "title": "Evangelion: 2.0 You Can (Not) Advance",
-    "release_year": "2009",
-    "clean_title": "/film/evangelion-20-you-can-not-advance/",
-    "adult": false,
-    "id": 22843,
-    "imdb_id": "tt0860906"
-  },
-  {
     "title": "The Princess and the Frog",
     "release_year": "2009",
     "clean_title": "/film/the-princess-and-the-frog/",
     "adult": false,
     "id": 10198,
     "imdb_id": "tt0780521"
+  },
+  {
+    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "release_year": "2009",
+    "clean_title": "/film/evangelion-20-you-can-not-advance/",
+    "adult": false,
+    "id": 22843,
+    "imdb_id": "tt0860906"
   },
   {
     "title": "100 METERS",
@@ -872,14 +880,6 @@
     "imdb_id": "tt0095715"
   },
   {
-    "title": "Guillermo del Toro's Pinocchio",
-    "release_year": "2022",
-    "clean_title": "/film/guillermo-del-toros-pinocchio/",
-    "adult": false,
-    "id": 555604,
-    "imdb_id": "tt1488589"
-  },
-  {
     "title": "Junk Head",
     "release_year": "2017",
     "clean_title": "/film/junk-head/",
@@ -888,12 +888,28 @@
     "imdb_id": "tt6848928"
   },
   {
+    "title": "Guillermo del Toro's Pinocchio",
+    "release_year": "2022",
+    "clean_title": "/film/guillermo-del-toros-pinocchio/",
+    "adult": false,
+    "id": 555604,
+    "imdb_id": "tt1488589"
+  },
+  {
     "title": "The Adventures of Prince Achmed",
     "release_year": "1926",
     "clean_title": "/film/the-adventures-of-prince-achmed/",
     "adult": false,
     "id": 19354,
     "imdb_id": "tt0015532"
+  },
+  {
+    "title": "Boy & the World",
+    "release_year": "2013",
+    "clean_title": "/film/boy-the-world/",
+    "adult": false,
+    "id": 223706,
+    "imdb_id": "tt3183630"
   },
   {
     "title": "Jim Queen",
@@ -912,12 +928,12 @@
     "imdb_id": "tt1185616"
   },
   {
-    "title": "Boy & the World",
-    "release_year": "2013",
-    "clean_title": "/film/boy-the-world/",
+    "title": "The Little Prince",
+    "release_year": "2015",
+    "clean_title": "/film/the-little-prince-2015/",
     "adult": false,
-    "id": 223706,
-    "imdb_id": "tt3183630"
+    "id": 309809,
+    "imdb_id": "tt1754656"
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -928,28 +944,12 @@
     "imdb_id": "tt0107688"
   },
   {
-    "title": "The Little Prince",
-    "release_year": "2015",
-    "clean_title": "/film/the-little-prince-2015/",
-    "adult": false,
-    "id": 309809,
-    "imdb_id": "tt1754656"
-  },
-  {
     "title": "Nimona",
     "release_year": "2023",
     "clean_title": "/film/nimona-2023/",
     "adult": false,
     "id": 961323,
     "imdb_id": "tt19500164"
-  },
-  {
-    "title": "Kubo and the Two Strings",
-    "release_year": "2016",
-    "clean_title": "/film/kubo-and-the-two-strings/",
-    "adult": false,
-    "id": 313297,
-    "imdb_id": "tt4302938"
   },
   {
     "title": "Yellow Submarine",
@@ -960,12 +960,28 @@
     "imdb_id": "tt0063823"
   },
   {
+    "title": "Kubo and the Two Strings",
+    "release_year": "2016",
+    "clean_title": "/film/kubo-and-the-two-strings/",
+    "adult": false,
+    "id": 313297,
+    "imdb_id": "tt4302938"
+  },
+  {
     "title": "I Want to Eat Your Pancreas",
     "release_year": "2018",
     "clean_title": "/film/i-want-to-eat-your-pancreas/",
     "adult": false,
     "id": 504253,
     "imdb_id": "tt7236034"
+  },
+  {
+    "title": "Cars",
+    "release_year": "2006",
+    "clean_title": "/film/cars/",
+    "adult": false,
+    "id": 920,
+    "imdb_id": "tt0317219"
   },
   {
     "title": "Detective Conan: The Phantom of Baker Street",
@@ -992,14 +1008,6 @@
     "imdb_id": "tt0133240"
   },
   {
-    "title": "Toy Story 2",
-    "release_year": "1999",
-    "clean_title": "/film/toy-story-2/",
-    "adult": false,
-    "id": 863,
-    "imdb_id": "tt0120363"
-  },
-  {
     "title": "Soul",
     "release_year": "2020",
     "clean_title": "/film/soul-2020/",
@@ -1008,20 +1016,20 @@
     "imdb_id": "tt2948372"
   },
   {
-    "title": "Cars",
-    "release_year": "2006",
-    "clean_title": "/film/cars/",
-    "adult": false,
-    "id": 920,
-    "imdb_id": "tt0317219"
-  },
-  {
     "title": "Spirit: Stallion of the Cimarron",
     "release_year": "2002",
     "clean_title": "/film/spirit-stallion-of-the-cimarron/",
     "adult": false,
     "id": 9023,
     "imdb_id": "tt0166813"
+  },
+  {
+    "title": "Toy Story 2",
+    "release_year": "1999",
+    "clean_title": "/film/toy-story-2/",
+    "adult": false,
+    "id": 863,
+    "imdb_id": "tt0120363"
   },
   {
     "title": "Ethel & Ernest",
@@ -1056,6 +1064,14 @@
     "imdb_id": "tt0193253"
   },
   {
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "release_year": "2026",
+    "clean_title": "/film/batman-knightfall-part-1-knightfall/",
+    "adult": false,
+    "id": 1560520,
+    "imdb_id": "tt32333324"
+  },
+  {
     "title": "Beauty and the Beast",
     "release_year": "1991",
     "clean_title": "/film/beauty-and-the-beast-1991/",
@@ -1080,22 +1096,6 @@
     "imdb_id": "tt0121164"
   },
   {
-    "title": "The Illusionist",
-    "release_year": "2010",
-    "clean_title": "/film/the-illusionist-2010/",
-    "adult": false,
-    "id": 41201,
-    "imdb_id": "tt0775489"
-  },
-  {
-    "title": "Sword of the Stranger",
-    "release_year": "2007",
-    "clean_title": "/film/sword-of-the-stranger/",
-    "adult": false,
-    "id": 13980,
-    "imdb_id": "tt1121794"
-  },
-  {
     "title": "Maquia: When the Promised Flower Blooms",
     "release_year": "2018",
     "clean_title": "/film/maquia-when-the-promised-flower-blooms/",
@@ -1112,6 +1112,22 @@
     "imdb_id": "tt0072901"
   },
   {
+    "title": "Sword of the Stranger",
+    "release_year": "2007",
+    "clean_title": "/film/sword-of-the-stranger/",
+    "adult": false,
+    "id": 13980,
+    "imdb_id": "tt1121794"
+  },
+  {
+    "title": "The Illusionist",
+    "release_year": "2010",
+    "clean_title": "/film/the-illusionist-2010/",
+    "adult": false,
+    "id": 41201,
+    "imdb_id": "tt0775489"
+  },
+  {
     "title": "A Boy Named Charlie Brown",
     "release_year": "1969",
     "clean_title": "/film/a-boy-named-charlie-brown/",
@@ -1120,20 +1136,36 @@
     "imdb_id": "tt0064107"
   },
   {
-    "title": "Only Yesterday",
-    "release_year": "1991",
-    "clean_title": "/film/only-yesterday/",
-    "adult": false,
-    "id": 15080,
-    "imdb_id": "tt0102587"
-  },
-  {
     "title": "When Marnie Was There",
     "release_year": "2014",
     "clean_title": "/film/when-marnie-was-there/",
     "adult": false,
     "id": 242828,
     "imdb_id": "tt3398268"
+  },
+  {
+    "title": "Forgotten Island",
+    "release_year": "2026",
+    "clean_title": "/film/forgotten-island-2026/",
+    "adult": false,
+    "id": 1465063,
+    "imdb_id": "tt36583977"
+  },
+  {
+    "title": "Anastasia",
+    "release_year": "1997",
+    "clean_title": "/film/anastasia-1997/",
+    "adult": false,
+    "id": 9444,
+    "imdb_id": "tt0118617"
+  },
+  {
+    "title": "Only Yesterday",
+    "release_year": "1991",
+    "clean_title": "/film/only-yesterday/",
+    "adult": false,
+    "id": 15080,
+    "imdb_id": "tt0102587"
   },
   {
     "title": "Aladdin",
@@ -1160,14 +1192,6 @@
     "imdb_id": "tt0243017"
   },
   {
-    "title": "Anastasia",
-    "release_year": "1997",
-    "clean_title": "/film/anastasia-1997/",
-    "adult": false,
-    "id": 9444,
-    "imdb_id": "tt0118617"
-  },
-  {
     "title": "The Boy and the Heron",
     "release_year": "2023",
     "clean_title": "/film/the-boy-and-the-heron/",
@@ -1182,14 +1206,6 @@
     "adult": false,
     "id": 715385,
     "imdb_id": "tt12826598"
-  },
-  {
-    "title": "Fantasia",
-    "release_year": "1940",
-    "clean_title": "/film/fantasia/",
-    "adult": false,
-    "id": 756,
-    "imdb_id": "tt0032455"
   },
   {
     "title": "Mononoke the Movie: The Phantom in the Rain",
@@ -1208,6 +1224,30 @@
     "imdb_id": "tt10651230"
   },
   {
+    "title": "Fantasia",
+    "release_year": "1940",
+    "clean_title": "/film/fantasia/",
+    "adult": false,
+    "id": 756,
+    "imdb_id": "tt0032455"
+  },
+  {
+    "title": "Bubble Bath",
+    "release_year": "1980",
+    "clean_title": "/film/bubble-bath/",
+    "adult": false,
+    "id": 250906,
+    "imdb_id": "tt0079258"
+  },
+  {
+    "title": "The Girl from the Other Side",
+    "release_year": "2022",
+    "clean_title": "/film/the-girl-from-the-other-side-2022/",
+    "adult": false,
+    "id": 802699,
+    "imdb_id": "tt14228078"
+  },
+  {
     "title": "Watership Down",
     "release_year": "1978",
     "clean_title": "/film/watership-down/",
@@ -1224,12 +1264,12 @@
     "imdb_id": "tt2061702"
   },
   {
-    "title": "The Girl from the Other Side",
-    "release_year": "2022",
-    "clean_title": "/film/the-girl-from-the-other-side-2022/",
+    "title": "Ghost in the Shell 2: Innocence",
+    "release_year": "2004",
+    "clean_title": "/film/ghost-in-the-shell-2-innocence/",
     "adult": false,
-    "id": 802699,
-    "imdb_id": "tt14228078"
+    "id": 12140,
+    "imdb_id": "tt0347246"
   },
   {
     "title": "Blood Tea and Red String",
@@ -1240,14 +1280,6 @@
     "imdb_id": "tt0827498"
   },
   {
-    "title": "Ghost in the Shell 2: Innocence",
-    "release_year": "2004",
-    "clean_title": "/film/ghost-in-the-shell-2-innocence/",
-    "adult": false,
-    "id": 12140,
-    "imdb_id": "tt0347246"
-  },
-  {
     "title": "The Boy and the Beast",
     "release_year": "2015",
     "clean_title": "/film/the-boy-and-the-beast/",
@@ -1256,20 +1288,20 @@
     "imdb_id": "tt4272866"
   },
   {
-    "title": "The Girl Who Leapt Through Time",
-    "release_year": "2006",
-    "clean_title": "/film/the-girl-who-leapt-through-time/",
-    "adult": false,
-    "id": 14069,
-    "imdb_id": "tt0808506"
-  },
-  {
     "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
     "release_year": "2005",
     "clean_title": "/film/wallace-gromit-the-curse-of-the-were-rabbit/",
     "adult": false,
     "id": 533,
     "imdb_id": "tt0312004"
+  },
+  {
+    "title": "The Girl Who Leapt Through Time",
+    "release_year": "2006",
+    "clean_title": "/film/the-girl-who-leapt-through-time/",
+    "adult": false,
+    "id": 14069,
+    "imdb_id": "tt0808506"
   },
   {
     "title": "How to Train Your Dragon 2",
@@ -1336,14 +1368,6 @@
     "imdb_id": "tt0069289"
   },
   {
-    "title": "Josep",
-    "release_year": "2020",
-    "clean_title": "/film/josep/",
-    "adult": false,
-    "id": 680952,
-    "imdb_id": "tt10534996"
-  },
-  {
     "title": "Big Hero 6",
     "release_year": "2014",
     "clean_title": "/film/big-hero-6/",
@@ -1366,6 +1390,14 @@
     "adult": false,
     "id": 26963,
     "imdb_id": "tt0485601"
+  },
+  {
+    "title": "Josep",
+    "release_year": "2020",
+    "clean_title": "/film/josep/",
+    "adult": false,
+    "id": 680952,
+    "imdb_id": "tt10534996"
   },
   {
     "title": "The Swallows of Kabul",
@@ -1392,14 +1424,6 @@
     "imdb_id": "tt0119282"
   },
   {
-    "title": "The Red Turtle",
-    "release_year": "2016",
-    "clean_title": "/film/the-red-turtle/",
-    "adult": false,
-    "id": 337703,
-    "imdb_id": "tt3666024"
-  },
-  {
     "title": "The Last Unicorn",
     "release_year": "1982",
     "clean_title": "/film/the-last-unicorn/",
@@ -1408,20 +1432,12 @@
     "imdb_id": "tt0084237"
   },
   {
-    "title": "The Thief and the Cobbler",
-    "release_year": "1993",
-    "clean_title": "/film/the-thief-and-the-cobbler/",
+    "title": "The Red Turtle",
+    "release_year": "2016",
+    "clean_title": "/film/the-red-turtle/",
     "adult": false,
-    "id": 26672,
-    "imdb_id": "tt0112389"
-  },
-  {
-    "title": "Summer Wars",
-    "release_year": "2009",
-    "clean_title": "/film/summer-wars/",
-    "adult": false,
-    "id": 28874,
-    "imdb_id": "tt1474276"
+    "id": 337703,
+    "imdb_id": "tt3666024"
   },
   {
     "title": "Brother Bear",
@@ -1432,12 +1448,28 @@
     "imdb_id": "tt0328880"
   },
   {
+    "title": "The Thief and the Cobbler",
+    "release_year": "1993",
+    "clean_title": "/film/the-thief-and-the-cobbler/",
+    "adult": false,
+    "id": 26672,
+    "imdb_id": "tt0112389"
+  },
+  {
     "title": "Chicken for Linda!",
     "release_year": "2023",
     "clean_title": "/film/chicken-for-linda/",
     "adult": false,
     "id": 589026,
     "imdb_id": "tt21042126"
+  },
+  {
+    "title": "Summer Wars",
+    "release_year": "2009",
+    "clean_title": "/film/summer-wars/",
+    "adult": false,
+    "id": 28874,
+    "imdb_id": "tt1474276"
   },
   {
     "title": "Ninja Scroll",
@@ -1456,6 +1488,22 @@
     "imdb_id": "tt2401878"
   },
   {
+    "title": "The Book of Life",
+    "release_year": "2014",
+    "clean_title": "/film/the-book-of-life-2014/",
+    "adult": false,
+    "id": 228326,
+    "imdb_id": "tt2262227"
+  },
+  {
+    "title": "Entergalactic",
+    "release_year": "2022",
+    "clean_title": "/film/entergalactic/",
+    "adult": false,
+    "id": 1027014,
+    "imdb_id": "tt10687116"
+  },
+  {
     "title": "Wallace & Gromit: Vengeance Most Fowl",
     "release_year": "2024",
     "clean_title": "/film/wallace-gromit-vengeance-most-fowl/",
@@ -1472,38 +1520,6 @@
     "imdb_id": "tt16428256"
   },
   {
-    "title": "Inside Out",
-    "release_year": "2015",
-    "clean_title": "/film/inside-out-2015/",
-    "adult": false,
-    "id": 150540,
-    "imdb_id": "tt2096673"
-  },
-  {
-    "title": "Entergalactic",
-    "release_year": "2022",
-    "clean_title": "/film/entergalactic/",
-    "adult": false,
-    "id": 1027014,
-    "imdb_id": "tt10687116"
-  },
-  {
-    "title": "The Book of Life",
-    "release_year": "2014",
-    "clean_title": "/film/the-book-of-life-2014/",
-    "adult": false,
-    "id": 228326,
-    "imdb_id": "tt2262227"
-  },
-  {
-    "title": "Cosmic Princess Kaguya!",
-    "release_year": "2026",
-    "clean_title": "/film/cosmic-princess-kaguya/",
-    "adult": false,
-    "id": 1575337,
-    "imdb_id": "tt38872297"
-  },
-  {
     "title": "Jack and the Cuckoo-Clock Heart",
     "release_year": "2013",
     "clean_title": "/film/jack-and-the-cuckoo-clock-heart/",
@@ -1512,12 +1528,20 @@
     "imdb_id": "tt1181840"
   },
   {
-    "title": "The Mitchells vs. the Machines",
-    "release_year": "2021",
-    "clean_title": "/film/the-mitchells-vs-the-machines/",
+    "title": "Inside Out",
+    "release_year": "2015",
+    "clean_title": "/film/inside-out-2015/",
     "adult": false,
-    "id": 501929,
-    "imdb_id": "tt7979580"
+    "id": 150540,
+    "imdb_id": "tt2096673"
+  },
+  {
+    "title": "Cosmic Princess Kaguya!",
+    "release_year": "2026",
+    "clean_title": "/film/cosmic-princess-kaguya/",
+    "adult": false,
+    "id": 1575337,
+    "imdb_id": "tt38872297"
   },
   {
     "title": "I Lost My Body",
@@ -1536,12 +1560,20 @@
     "imdb_id": "tt0293416"
   },
   {
-    "title": "Night on the Galactic Railroad",
-    "release_year": "1985",
-    "clean_title": "/film/night-on-the-galactic-railroad/",
+    "title": "Ruben Brandt, Collector",
+    "release_year": "2018",
+    "clean_title": "/film/ruben-brandt-collector/",
     "adult": false,
-    "id": 37585,
-    "imdb_id": "tt0089206"
+    "id": 543033,
+    "imdb_id": "tt6241872"
+  },
+  {
+    "title": "The Mitchells vs. the Machines",
+    "release_year": "2021",
+    "clean_title": "/film/the-mitchells-vs-the-machines/",
+    "adult": false,
+    "id": 501929,
+    "imdb_id": "tt7979580"
   },
   {
     "title": "Alice in Wonderland",
@@ -1552,12 +1584,12 @@
     "imdb_id": "tt0043274"
   },
   {
-    "title": "Ruben Brandt, Collector",
-    "release_year": "2018",
-    "clean_title": "/film/ruben-brandt-collector/",
+    "title": "Night on the Galactic Railroad",
+    "release_year": "1985",
+    "clean_title": "/film/night-on-the-galactic-railroad/",
     "adult": false,
-    "id": 543033,
-    "imdb_id": "tt6241872"
+    "id": 37585,
+    "imdb_id": "tt0089206"
   },
   {
     "title": "Promare",
@@ -1568,14 +1600,6 @@
     "imdb_id": "tt9116358"
   },
   {
-    "title": "Birdboy: The Forgotten Children",
-    "release_year": "2015",
-    "clean_title": "/film/birdboy-the-forgotten-children/",
-    "adult": false,
-    "id": 361705,
-    "imdb_id": "tt5004766"
-  },
-  {
     "title": "The Land Before Time",
     "release_year": "1988",
     "clean_title": "/film/the-land-before-time/",
@@ -1584,12 +1608,20 @@
     "imdb_id": "tt0095489"
   },
   {
-    "title": "Mad God",
-    "release_year": "2021",
-    "clean_title": "/film/mad-god/",
+    "title": "Birdboy: The Forgotten Children",
+    "release_year": "2015",
+    "clean_title": "/film/birdboy-the-forgotten-children/",
     "adult": false,
-    "id": 846867,
-    "imdb_id": "tt15090124"
+    "id": 361705,
+    "imdb_id": "tt5004766"
+  },
+  {
+    "title": "The Most Precious of Cargoes",
+    "release_year": "2024",
+    "clean_title": "/film/the-most-precious-of-cargoes/",
+    "adult": false,
+    "id": 842859,
+    "imdb_id": "tt10462154"
   },
   {
     "title": "Josee, the Tiger and the Fish",
@@ -1600,12 +1632,20 @@
     "imdb_id": "tt12879624"
   },
   {
-    "title": "The Most Precious of Cargoes",
-    "release_year": "2024",
-    "clean_title": "/film/the-most-precious-of-cargoes/",
+    "title": "In Waves",
+    "release_year": "2026",
+    "clean_title": "/film/in-waves/",
     "adult": false,
-    "id": 842859,
-    "imdb_id": "tt10462154"
+    "id": 947502,
+    "imdb_id": "tt27672817"
+  },
+  {
+    "title": "Mad God",
+    "release_year": "2021",
+    "clean_title": "/film/mad-god/",
+    "adult": false,
+    "id": 846867,
+    "imdb_id": "tt15090124"
   },
   {
     "title": "Kung Fu Panda 2",
@@ -1638,14 +1678,6 @@
     "adult": false,
     "id": 269149,
     "imdb_id": "tt2948356"
-  },
-  {
-    "title": "In Waves",
-    "release_year": "2026",
-    "clean_title": "/film/in-waves/",
-    "adult": false,
-    "id": 947502,
-    "imdb_id": "tt27672817"
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -1704,14 +1736,6 @@
     "imdb_id": "tt0084315"
   },
   {
-    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "release_year": "2023",
-    "clean_title": "/film/teenage-mutant-ninja-turtles-mutant-mayhem/",
-    "adult": false,
-    "id": 614930,
-    "imdb_id": "tt8589698"
-  },
-  {
     "title": "Rango",
     "release_year": "2011",
     "clean_title": "/film/rango/",
@@ -1726,6 +1750,22 @@
     "adult": false,
     "id": 10545,
     "imdb_id": "tt0116583"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "release_year": "2023",
+    "clean_title": "/film/teenage-mutant-ninja-turtles-mutant-mayhem/",
+    "adult": false,
+    "id": 614930,
+    "imdb_id": "tt8589698"
+  },
+  {
+    "title": "A Monster in Paris",
+    "release_year": "2011",
+    "clean_title": "/film/a-monster-in-paris/",
+    "adult": false,
+    "id": 77459,
+    "imdb_id": "tt0961097"
   },
   {
     "title": "From Up on Poppy Hill",
@@ -1752,20 +1792,20 @@
     "imdb_id": "tt36463894"
   },
   {
-    "title": "A Monster in Paris",
-    "release_year": "2011",
-    "clean_title": "/film/a-monster-in-paris/",
-    "adult": false,
-    "id": 77459,
-    "imdb_id": "tt0961097"
-  },
-  {
     "title": "One Hundred and One Dalmatians",
     "release_year": "1961",
     "clean_title": "/film/one-hundred-and-one-dalmatians/",
     "adult": false,
     "id": 12230,
     "imdb_id": "tt0055254"
+  },
+  {
+    "title": "ParaNorman",
+    "release_year": "2012",
+    "clean_title": "/film/paranorman/",
+    "adult": false,
+    "id": 77174,
+    "imdb_id": "tt1623288"
   },
   {
     "title": "Tarzan",
@@ -1784,44 +1824,12 @@
     "imdb_id": "tt0860907"
   },
   {
-    "title": "ParaNorman",
-    "release_year": "2012",
-    "clean_title": "/film/paranorman/",
-    "adult": false,
-    "id": 77174,
-    "imdb_id": "tt1623288"
-  },
-  {
     "title": "The Animatrix",
     "release_year": "2003",
     "clean_title": "/film/the-animatrix/",
     "adult": false,
     "id": 55931,
     "imdb_id": "tt0328832"
-  },
-  {
-    "title": "Kirikou and the Men and Women",
-    "release_year": "2012",
-    "clean_title": "/film/kirikou-and-the-men-and-women/",
-    "adult": false,
-    "id": 139649,
-    "imdb_id": "tt2425618"
-  },
-  {
-    "title": "Ultraman: Rising",
-    "release_year": "2024",
-    "clean_title": "/film/ultraman-rising/",
-    "adult": false,
-    "id": 829402,
-    "imdb_id": "tt9471678"
-  },
-  {
-    "title": "Avatar Aang: The Last Airbender",
-    "release_year": "2026",
-    "clean_title": "/film/avatar-aang-the-last-airbender/",
-    "adult": false,
-    "id": 980431,
-    "imdb_id": "tt18259538"
   },
   {
     "title": "Berserk: The Golden Age Arc II – The Battle for Doldrey",
@@ -1832,52 +1840,20 @@
     "imdb_id": "tt2358911"
   },
   {
-    "title": "Patlabor: The Movie",
-    "release_year": "1989",
-    "clean_title": "/film/patlabor-the-movie/",
+    "title": "Ultraman: Rising",
+    "release_year": "2024",
+    "clean_title": "/film/ultraman-rising/",
     "adult": false,
-    "id": 14571,
-    "imdb_id": "tt0100339"
+    "id": 829402,
+    "imdb_id": "tt9471678"
   },
   {
-    "title": "Evangelion: 1.0 You Are (Not) Alone",
-    "release_year": "2007",
-    "clean_title": "/film/evangelion-10-you-are-not-alone/",
+    "title": "Kirikou and the Men and Women",
+    "release_year": "2012",
+    "clean_title": "/film/kirikou-and-the-men-and-women/",
     "adult": false,
-    "id": 15137,
-    "imdb_id": "tt0923811"
-  },
-  {
-    "title": "Neo Tokyo",
-    "release_year": "1987",
-    "clean_title": "/film/neo-tokyo/",
-    "adult": false,
-    "id": 37433,
-    "imdb_id": "tt0185481"
-  },
-  {
-    "title": "Children of the Sea",
-    "release_year": "2019",
-    "clean_title": "/film/children-of-the-sea/",
-    "adult": false,
-    "id": 585077,
-    "imdb_id": "tt9850064"
-  },
-  {
-    "title": "A Goofy Movie",
-    "release_year": "1995",
-    "clean_title": "/film/a-goofy-movie/",
-    "adult": false,
-    "id": 15789,
-    "imdb_id": "tt0113198"
-  },
-  {
-    "title": "The Case of Hana & Alice",
-    "release_year": "2015",
-    "clean_title": "/film/the-case-of-hana-alice/",
-    "adult": false,
-    "id": 311054,
-    "imdb_id": "tt4125300"
+    "id": 139649,
+    "imdb_id": "tt2425618"
   },
   {
     "title": "Rio 2096: A Story of Love and Fury",
@@ -1888,12 +1864,60 @@
     "imdb_id": "tt2231208"
   },
   {
-    "title": "Moana",
-    "release_year": "2016",
-    "clean_title": "/film/moana-2016/",
+    "title": "Evangelion: 1.0 You Are (Not) Alone",
+    "release_year": "2007",
+    "clean_title": "/film/evangelion-10-you-are-not-alone/",
     "adult": false,
-    "id": 277834,
-    "imdb_id": "tt3521164"
+    "id": 15137,
+    "imdb_id": "tt0923811"
+  },
+  {
+    "title": "Children of the Sea",
+    "release_year": "2019",
+    "clean_title": "/film/children-of-the-sea/",
+    "adult": false,
+    "id": 585077,
+    "imdb_id": "tt9850064"
+  },
+  {
+    "title": "Patlabor: The Movie",
+    "release_year": "1989",
+    "clean_title": "/film/patlabor-the-movie/",
+    "adult": false,
+    "id": 14571,
+    "imdb_id": "tt0100339"
+  },
+  {
+    "title": "A Goofy Movie",
+    "release_year": "1995",
+    "clean_title": "/film/a-goofy-movie/",
+    "adult": false,
+    "id": 15789,
+    "imdb_id": "tt0113198"
+  },
+  {
+    "title": "Neo Tokyo",
+    "release_year": "1987",
+    "clean_title": "/film/neo-tokyo/",
+    "adult": false,
+    "id": 37433,
+    "imdb_id": "tt0185481"
+  },
+  {
+    "title": "The Case of Hana & Alice",
+    "release_year": "2015",
+    "clean_title": "/film/the-case-of-hana-alice/",
+    "adult": false,
+    "id": 311054,
+    "imdb_id": "tt4125300"
+  },
+  {
+    "title": "Avatar Aang: The Last Airbender",
+    "release_year": "2026",
+    "clean_title": "/film/avatar-aang-the-last-airbender/",
+    "adult": false,
+    "id": 980431,
+    "imdb_id": "tt18259538"
   },
   {
     "title": "Weathering with You",
@@ -1920,6 +1944,14 @@
     "imdb_id": "tt9193612"
   },
   {
+    "title": "Moana",
+    "release_year": "2016",
+    "clean_title": "/film/moana-2016/",
+    "adult": false,
+    "id": 277834,
+    "imdb_id": "tt3521164"
+  },
+  {
     "title": "How to Train Your Dragon: The Hidden World",
     "release_year": "2019",
     "clean_title": "/film/how-to-train-your-dragon-the-hidden-world/",
@@ -1944,14 +1976,6 @@
     "imdb_id": "tt0061852"
   },
   {
-    "title": "Pom Poko",
-    "release_year": "1994",
-    "clean_title": "/film/pom-poko/",
-    "adult": false,
-    "id": 15283,
-    "imdb_id": "tt0110008"
-  },
-  {
     "title": "A Cat in Paris",
     "release_year": "2010",
     "clean_title": "/film/a-cat-in-paris/",
@@ -1960,43 +1984,19 @@
     "imdb_id": "tt1673702"
   },
   {
+    "title": "Pom Poko",
+    "release_year": "1994",
+    "clean_title": "/film/pom-poko/",
+    "adult": false,
+    "id": 15283,
+    "imdb_id": "tt0110008"
+  },
+  {
     "title": "April and the Extraordinary World",
     "release_year": "2015",
     "clean_title": "/film/april-and-the-extraordinary-world/",
     "adult": false,
     "id": 340357,
     "imdb_id": "tt3422078"
-  },
-  {
-    "title": "The Peanuts Movie",
-    "release_year": "2015",
-    "clean_title": "/film/the-peanuts-movie/",
-    "adult": false,
-    "id": 227973,
-    "imdb_id": "tt2452042"
-  },
-  {
-    "title": "Detective Conan: The Time Bombed Skyscraper",
-    "release_year": "1997",
-    "clean_title": "/film/detective-conan-the-time-bombed-skyscraper/",
-    "adult": false,
-    "id": 21422,
-    "imdb_id": "tt0131479"
-  },
-  {
-    "title": "A Letter to Momo",
-    "release_year": "2011",
-    "clean_title": "/film/a-letter-to-momo/",
-    "adult": false,
-    "id": 100271,
-    "imdb_id": "tt1853614"
-  },
-  {
-    "title": "Belladonna of Sadness",
-    "release_year": "1973",
-    "clean_title": "/film/belladonna-of-sadness/",
-    "adult": false,
-    "id": 64847,
-    "imdb_id": "tt0071203"
   }
 ]
