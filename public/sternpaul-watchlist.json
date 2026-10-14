@@ -1,5 +1,109 @@
 [
   {
+    "title": "Whalefall",
+    "release_year": "2026",
+    "clean_title": "/film/whalefall/",
+    "adult": false,
+    "id": 1255833,
+    "imdb_id": "tt28535715"
+  },
+  {
+    "title": "Timeline",
+    "release_year": "2003",
+    "clean_title": "/film/timeline/",
+    "adult": false,
+    "id": 9562,
+    "imdb_id": "tt0300556"
+  },
+  {
+    "title": "The Bounty Hunter",
+    "release_year": "2010",
+    "clean_title": "/film/the-bounty-hunter/",
+    "adult": false,
+    "id": 27573,
+    "imdb_id": "tt1038919"
+  },
+  {
+    "title": "Reign of Fire",
+    "release_year": "2002",
+    "clean_title": "/film/reign-of-fire/",
+    "adult": false,
+    "id": 6278,
+    "imdb_id": "tt0253556"
+  },
+  {
+    "title": "London Has Fallen",
+    "release_year": "2016",
+    "clean_title": "/film/london-has-fallen/",
+    "adult": false,
+    "id": 267860,
+    "imdb_id": "tt3300542"
+  },
+  {
+    "title": "Geostorm",
+    "release_year": "2017",
+    "clean_title": "/film/geostorm/",
+    "adult": false,
+    "id": 274855,
+    "imdb_id": "tt1981128"
+  },
+  {
+    "title": "Olympus Has Fallen",
+    "release_year": "2013",
+    "clean_title": "/film/olympus-has-fallen/",
+    "adult": false,
+    "id": 117263,
+    "imdb_id": "tt2302755"
+  },
+  {
+    "title": "Movie 43",
+    "release_year": "2013",
+    "clean_title": "/film/movie-43/",
+    "adult": false,
+    "id": 87818,
+    "imdb_id": "tt1333125"
+  },
+  {
+    "title": "P.S. I Love You",
+    "release_year": "2007",
+    "clean_title": "/film/ps-i-love-you/",
+    "adult": false,
+    "id": 6023,
+    "imdb_id": "tt0431308"
+  },
+  {
+    "title": "Den of Thieves",
+    "release_year": "2018",
+    "clean_title": "/film/den-of-thieves/",
+    "adult": false,
+    "id": 449443,
+    "imdb_id": "tt1259528"
+  },
+  {
+    "title": "Law Abiding Citizen",
+    "release_year": "2009",
+    "clean_title": "/film/law-abiding-citizen/",
+    "adult": false,
+    "id": 22803,
+    "imdb_id": "tt1197624"
+  },
+  {
+    "title": "Greenland",
+    "release_year": "2020",
+    "clean_title": "/film/greenland/",
+    "adult": false,
+    "id": 524047,
+    "imdb_id": "tt7737786"
+  },
+  {
+    "title": "One Night Only",
+    "release_year": "2026",
+    "clean_title": "/film/one-night-only-2026/",
+    "adult": false,
+    "id": 1433367,
+    "imdb_id": "tt37853455"
+  },
+  {
     "title": "Hairspray",
     "release_year": "2007",
     "clean_title": "/film/hairspray-2007/",
