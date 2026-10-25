@@ -2084,5 +2084,26 @@
     "rating": 4,
     "id": 1579,
     "imdb_id": "tt0472043"
+  },
+  {
+    "title": "Elite Squad",
+    "clean_title": "/film/elite-squad/",
+    "rating": 4.5,
+    "id": 7347,
+    "imdb_id": "tt0861739"
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "clean_title": "/film/hacksaw-ridge/",
+    "rating": 4.5,
+    "id": 324786,
+    "imdb_id": "tt2119532"
+  },
+  {
+    "title": "Fantozzi",
+    "clean_title": "/film/fantozzi/",
+    "rating": 3.5,
+    "id": 25606,
+    "imdb_id": "tt0071486"
   }
 ]
