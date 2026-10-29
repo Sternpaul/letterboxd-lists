@@ -1,5 +1,165 @@
 [
   {
+    "title": "The Lion in Winter",
+    "release_year": "1968",
+    "clean_title": "/film/the-lion-in-winter/",
+    "adult": false,
+    "id": 18988,
+    "imdb_id": "tt0063227"
+  },
+  {
+    "title": "Becket",
+    "release_year": "1964",
+    "clean_title": "/film/becket/",
+    "adult": false,
+    "id": 15421,
+    "imdb_id": "tt0057877"
+  },
+  {
+    "title": "El Cid",
+    "release_year": "1961",
+    "clean_title": "/film/el-cid/",
+    "adult": false,
+    "id": 16638,
+    "imdb_id": "tt0054847"
+  },
+  {
+    "title": "The Return of Martin Guerre",
+    "release_year": "1982",
+    "clean_title": "/film/the-return-of-martin-guerre/",
+    "adult": false,
+    "id": 4483,
+    "imdb_id": "tt0084589"
+  },
+  {
+    "title": "Andrei Rublev",
+    "release_year": "1966",
+    "clean_title": "/film/andrei-rublev/",
+    "adult": false,
+    "id": 895,
+    "imdb_id": "tt0060107"
+  },
+  {
+    "title": "The Name of the Rose",
+    "release_year": "1986",
+    "clean_title": "/film/the-name-of-the-rose/",
+    "adult": false,
+    "id": 192,
+    "imdb_id": "tt0091605"
+  },
+  {
+    "title": "The Green Knight",
+    "release_year": "2021",
+    "clean_title": "/film/the-green-knight/",
+    "adult": false,
+    "id": 559907,
+    "imdb_id": "tt9243804"
+  },
+  {
+    "title": "Excalibur",
+    "release_year": "1981",
+    "clean_title": "/film/excalibur/",
+    "adult": false,
+    "id": 11527,
+    "imdb_id": "tt0082348"
+  },
+  {
+    "title": "Hard to Be a God",
+    "release_year": "2013",
+    "clean_title": "/film/hard-to-be-a-god/",
+    "adult": false,
+    "id": 110402,
+    "imdb_id": "tt2328813"
+  },
+  {
+    "title": "Black Death",
+    "release_year": "2010",
+    "clean_title": "/film/black-death/",
+    "adult": false,
+    "id": 41215,
+    "imdb_id": "tt1181791"
+  },
+  {
+    "title": "Henry V",
+    "release_year": "1989",
+    "clean_title": "/film/henry-v/",
+    "adult": false,
+    "id": 10705,
+    "imdb_id": "tt0097499"
+  },
+  {
+    "title": "Ironclad",
+    "release_year": "2011",
+    "clean_title": "/film/ironclad/",
+    "adult": false,
+    "id": 38543,
+    "imdb_id": "tt1233301"
+  },
+  {
+    "title": "Outlaw King",
+    "release_year": "2018",
+    "clean_title": "/film/outlaw-king/",
+    "adult": false,
+    "id": 454227,
+    "imdb_id": "tt6679794"
+  },
+  {
+    "title": "The King",
+    "release_year": "2019",
+    "clean_title": "/film/the-king-2019/",
+    "adult": false,
+    "id": 504949,
+    "imdb_id": "tt7984766"
+  },
+  {
+    "title": "The Last Duel",
+    "release_year": "2021",
+    "clean_title": "/film/the-last-duel-2021/",
+    "adult": false,
+    "id": 617653,
+    "imdb_id": "tt4244994"
+  },
+  {
+    "title": "Medieval",
+    "release_year": "2022",
+    "clean_title": "/film/medieval/",
+    "adult": false,
+    "id": 551271,
+    "imdb_id": "tt8883486"
+  },
+  {
+    "title": "A Man for All Seasons",
+    "release_year": "1966",
+    "clean_title": "/film/a-man-for-all-seasons/",
+    "adult": false,
+    "id": 874,
+    "imdb_id": "tt0060665"
+  },
+  {
+    "title": "Luther",
+    "release_year": "2003",
+    "clean_title": "/film/luther/",
+    "adult": false,
+    "id": 5653,
+    "imdb_id": "tt0309820"
+  },
+  {
+    "title": "Speed",
+    "release_year": "1994",
+    "clean_title": "/film/speed/",
+    "adult": false,
+    "id": 1637,
+    "imdb_id": "tt0111257"
+  },
+  {
+    "title": "Wicker",
+    "release_year": "2026",
+    "clean_title": "/film/wicker/",
+    "adult": false,
+    "id": 1195803,
+    "imdb_id": "tt29611136"
+  },
+  {
     "title": "The Man Without a Face",
     "release_year": "1993",
     "clean_title": "/film/the-man-without-a-face/",
@@ -150,14 +310,6 @@
     "adult": false,
     "id": 381283,
     "imdb_id": "tt5109784"
-  },
-  {
-    "title": "The Uprising",
-    "release_year": "2026",
-    "clean_title": "/film/the-uprising-2026/",
-    "adult": false,
-    "id": 977942,
-    "imdb_id": "tt36983905"
   },
   {
     "title": "What Happens at Night",
@@ -592,14 +744,6 @@
     "imdb_id": "tt0107943"
   },
   {
-    "title": "The Lion in Winter",
-    "release_year": "1968",
-    "clean_title": "/film/the-lion-in-winter/",
-    "adult": false,
-    "id": 18988,
-    "imdb_id": "tt0063227"
-  },
-  {
     "title": "Red Dragon",
     "release_year": "2002",
     "clean_title": "/film/red-dragon/",
@@ -999,14 +1143,6 @@
     "imdb_id": "tt0089469"
   },
   {
-    "title": "The Last Duel",
-    "release_year": "2021",
-    "clean_title": "/film/the-last-duel-2021/",
-    "adult": false,
-    "id": 617653,
-    "imdb_id": "tt4244994"
-  },
-  {
     "title": "American Gangster",
     "release_year": "2007",
     "clean_title": "/film/american-gangster/",
@@ -1021,14 +1157,6 @@
     "adult": false,
     "id": 126889,
     "imdb_id": "tt2316204"
-  },
-  {
-    "title": "The King",
-    "release_year": "2019",
-    "clean_title": "/film/the-king-2019/",
-    "adult": false,
-    "id": 504949,
-    "imdb_id": "tt7984766"
   },
   {
     "title": "Warfare",
@@ -1615,14 +1743,6 @@
     "imdb_id": "tt0031381"
   },
   {
-    "title": "El Cid",
-    "release_year": "1961",
-    "clean_title": "/film/el-cid/",
-    "adult": false,
-    "id": 16638,
-    "imdb_id": "tt0054847"
-  },
-  {
     "title": "The Thin Red Line",
     "release_year": "1998",
     "clean_title": "/film/the-thin-red-line/",
@@ -1647,14 +1767,6 @@
     "imdb_id": "tt0050212"
   },
   {
-    "title": "Andrei Rublev",
-    "release_year": "1966",
-    "clean_title": "/film/andrei-rublev/",
-    "adult": false,
-    "id": 895,
-    "imdb_id": "tt0060107"
-  },
-  {
     "title": "Zulu",
     "release_year": "1964",
     "clean_title": "/film/zulu/",
@@ -1669,14 +1781,6 @@
     "adult": false,
     "id": 5902,
     "imdb_id": "tt0075784"
-  },
-  {
-    "title": "Excalibur",
-    "release_year": "1981",
-    "clean_title": "/film/excalibur/",
-    "adult": false,
-    "id": 11527,
-    "imdb_id": "tt0082348"
   },
   {
     "title": "Judgment at Nuremberg",
