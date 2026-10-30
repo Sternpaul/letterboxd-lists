@@ -152,20 +152,20 @@
     "imdb_id": "tt0057163"
   },
   {
-    "title": "The Hateful Eight",
-    "release_year": "2015",
-    "clean_title": "/film/the-hateful-eight/",
-    "adult": false,
-    "id": 273248,
-    "imdb_id": "tt3460252"
-  },
-  {
     "title": "The Big Country",
     "release_year": "1958",
     "clean_title": "/film/the-big-country/",
     "adult": false,
     "id": 12501,
     "imdb_id": "tt0051411"
+  },
+  {
+    "title": "The Hateful Eight",
+    "release_year": "2015",
+    "clean_title": "/film/the-hateful-eight/",
+    "adult": false,
+    "id": 273248,
+    "imdb_id": "tt3460252"
   },
   {
     "title": "The Assassination of Jesse James by the Coward Robert Ford",
@@ -184,20 +184,20 @@
     "imdb_id": "tt0019585"
   },
   {
-    "title": "Red River",
-    "release_year": "1948",
-    "clean_title": "/film/red-river/",
-    "adult": false,
-    "id": 3089,
-    "imdb_id": "tt0040724"
-  },
-  {
     "title": "El Infierno",
     "release_year": "2010",
     "clean_title": "/film/el-infierno/",
     "adult": false,
     "id": 52629,
     "imdb_id": "tt1692190"
+  },
+  {
+    "title": "Red River",
+    "release_year": "1948",
+    "clean_title": "/film/red-river/",
+    "adult": false,
+    "id": 3089,
+    "imdb_id": "tt0040724"
   },
   {
     "title": "The Gunfighter",
@@ -224,20 +224,20 @@
     "imdb_id": "tt0058461"
   },
   {
-    "title": "Stagecoach",
-    "release_year": "1939",
-    "clean_title": "/film/stagecoach/",
-    "adult": false,
-    "id": 995,
-    "imdb_id": "tt0031971"
-  },
-  {
     "title": "The Rider",
     "release_year": "2017",
     "clean_title": "/film/the-rider/",
     "adult": false,
     "id": 453278,
     "imdb_id": "tt6217608"
+  },
+  {
+    "title": "Stagecoach",
+    "release_year": "1939",
+    "clean_title": "/film/stagecoach/",
+    "adult": false,
+    "id": 995,
+    "imdb_id": "tt0031971"
   },
   {
     "title": "Duck, You Sucker",
@@ -264,28 +264,20 @@
     "imdb_id": "tt0044860"
   },
   {
-    "title": "The Searchers",
-    "release_year": "1956",
-    "clean_title": "/film/the-searchers/",
-    "adult": false,
-    "id": 3114,
-    "imdb_id": "tt0049730"
-  },
-  {
-    "title": "By the Law",
-    "release_year": "1926",
-    "clean_title": "/film/by-the-law/",
-    "adult": false,
-    "id": 126644,
-    "imdb_id": "tt0017271"
-  },
-  {
     "title": "Dances with Wolves",
     "release_year": "1990",
     "clean_title": "/film/dances-with-wolves/",
     "adult": false,
     "id": 581,
     "imdb_id": "tt0099348"
+  },
+  {
+    "title": "The Searchers",
+    "release_year": "1956",
+    "clean_title": "/film/the-searchers/",
+    "adult": false,
+    "id": 3114,
+    "imdb_id": "tt0049730"
   },
   {
     "title": "Tombstone",
@@ -304,6 +296,22 @@
     "imdb_id": "tt2582782"
   },
   {
+    "title": "By the Law",
+    "release_year": "1926",
+    "clean_title": "/film/by-the-law/",
+    "adult": false,
+    "id": 126644,
+    "imdb_id": "tt0017271"
+  },
+  {
+    "title": "The Revenant",
+    "release_year": "2015",
+    "clean_title": "/film/the-revenant-2015/",
+    "adult": false,
+    "id": 281957,
+    "imdb_id": "tt1663202"
+  },
+  {
     "title": "Stars in My Crown",
     "release_year": "1950",
     "clean_title": "/film/stars-in-my-crown/",
@@ -318,14 +326,6 @@
     "adult": false,
     "id": 14168,
     "imdb_id": "tt0050086"
-  },
-  {
-    "title": "The Revenant",
-    "release_year": "2015",
-    "clean_title": "/film/the-revenant-2015/",
-    "adult": false,
-    "id": 281957,
-    "imdb_id": "tt1663202"
   },
   {
     "title": "Bacurau",
@@ -344,20 +344,20 @@
     "imdb_id": "tt0063501"
   },
   {
-    "title": "Wagon Master",
-    "release_year": "1950",
-    "clean_title": "/film/wagon-master/",
-    "adult": false,
-    "id": 37327,
-    "imdb_id": "tt0043117"
-  },
-  {
     "title": "Giant",
     "release_year": "1956",
     "clean_title": "/film/giant/",
     "adult": false,
     "id": 1712,
     "imdb_id": "tt0049261"
+  },
+  {
+    "title": "Wagon Master",
+    "release_year": "1950",
+    "clean_title": "/film/wagon-master/",
+    "adult": false,
+    "id": 37327,
+    "imdb_id": "tt0043117"
   },
   {
     "title": "First Cow",
@@ -400,20 +400,20 @@
     "imdb_id": "tt0070518"
   },
   {
-    "title": "Winchester '73",
-    "release_year": "1950",
-    "clean_title": "/film/winchester-73/",
-    "adult": false,
-    "id": 14551,
-    "imdb_id": "tt0043137"
-  },
-  {
     "title": "Lonely Are the Brave",
     "release_year": "1962",
     "clean_title": "/film/lonely-are-the-brave/",
     "adult": false,
     "id": 43002,
     "imdb_id": "tt0056195"
+  },
+  {
+    "title": "Winchester '73",
+    "release_year": "1950",
+    "clean_title": "/film/winchester-73/",
+    "adult": false,
+    "id": 14551,
+    "imdb_id": "tt0043137"
   },
   {
     "title": "3 Bad Men",
@@ -520,20 +520,20 @@
     "imdb_id": "tt0051047"
   },
   {
-    "title": "Destry Rides Again",
-    "release_year": "1939",
-    "clean_title": "/film/destry-rides-again/",
-    "adult": false,
-    "id": 43828,
-    "imdb_id": "tt0031225"
-  },
-  {
     "title": "7 Men from Now",
     "release_year": "1956",
     "clean_title": "/film/7-men-from-now/",
     "adult": false,
     "id": 26502,
     "imdb_id": "tt0049743"
+  },
+  {
+    "title": "Destry Rides Again",
+    "release_year": "1939",
+    "clean_title": "/film/destry-rides-again/",
+    "adult": false,
+    "id": 43828,
+    "imdb_id": "tt0031225"
   },
   {
     "title": "Blazing Saddles",
@@ -576,6 +576,14 @@
     "imdb_id": "tt0080855"
   },
   {
+    "title": "Antonio das Mortes",
+    "release_year": "1969",
+    "clean_title": "/film/antonio-das-mortes/",
+    "adult": false,
+    "id": 74349,
+    "imdb_id": "tt0064256"
+  },
+  {
     "title": "The Naked Spur",
     "release_year": "1953",
     "clean_title": "/film/the-naked-spur/",
@@ -590,14 +598,6 @@
     "adult": false,
     "id": 28484,
     "imdb_id": "tt0041253"
-  },
-  {
-    "title": "Antonio das Mortes",
-    "release_year": "1969",
-    "clean_title": "/film/antonio-das-mortes/",
-    "adult": false,
-    "id": 74349,
-    "imdb_id": "tt0064256"
   },
   {
     "title": "The Proposition",
@@ -648,12 +648,12 @@
     "imdb_id": "tt0083613"
   },
   {
-    "title": "Man of the West",
-    "release_year": "1958",
-    "clean_title": "/film/man-of-the-west/",
+    "title": "Black God, White Devil",
+    "release_year": "1964",
+    "clean_title": "/film/black-god-white-devil/",
     "adult": false,
-    "id": 14674,
-    "imdb_id": "tt0051899"
+    "id": 67612,
+    "imdb_id": "tt0058006"
   },
   {
     "title": "The Good, the Bad, the Weird",
@@ -664,20 +664,20 @@
     "imdb_id": "tt0901487"
   },
   {
+    "title": "Man of the West",
+    "release_year": "1958",
+    "clean_title": "/film/man-of-the-west/",
+    "adult": false,
+    "id": 14674,
+    "imdb_id": "tt0051899"
+  },
+  {
     "title": "A Bullet for the General",
     "release_year": "1967",
     "clean_title": "/film/a-bullet-for-the-general/",
     "adult": false,
     "id": 37316,
     "imdb_id": "tt0061429"
-  },
-  {
-    "title": "Black God, White Devil",
-    "release_year": "1964",
-    "clean_title": "/film/black-god-white-devil/",
-    "adult": false,
-    "id": 67612,
-    "imdb_id": "tt0058006"
   },
   {
     "title": "No Name on the Bullet",
@@ -696,20 +696,20 @@
     "imdb_id": "tt0056412"
   },
   {
-    "title": "Open Range",
-    "release_year": "2003",
-    "clean_title": "/film/open-range/",
-    "adult": false,
-    "id": 2055,
-    "imdb_id": "tt0316356"
-  },
-  {
     "title": "The Three Burials of Melquiades Estrada",
     "release_year": "2005",
     "clean_title": "/film/the-three-burials-of-melquiades-estrada/",
     "adult": false,
     "id": 8053,
     "imdb_id": "tt0419294"
+  },
+  {
+    "title": "Open Range",
+    "release_year": "2003",
+    "clean_title": "/film/open-range/",
+    "adult": false,
+    "id": 2055,
+    "imdb_id": "tt0316356"
   },
   {
     "title": "Shane",
@@ -728,12 +728,12 @@
     "imdb_id": "tt0051087"
   },
   {
-    "title": "Ride Lonesome",
-    "release_year": "1959",
-    "clean_title": "/film/ride-lonesome/",
+    "title": "Marlina the Murderer in Four Acts",
+    "release_year": "2017",
+    "clean_title": "/film/marlina-the-murderer-in-four-acts/",
     "adult": false,
-    "id": 27644,
-    "imdb_id": "tt0053220"
+    "id": 453276,
+    "imdb_id": "tt5923026"
   },
   {
     "title": "Last Train from Gun Hill",
@@ -752,20 +752,20 @@
     "imdb_id": "tt0040978"
   },
   {
+    "title": "Ride Lonesome",
+    "release_year": "1959",
+    "clean_title": "/film/ride-lonesome/",
+    "adult": false,
+    "id": 27644,
+    "imdb_id": "tt0053220"
+  },
+  {
     "title": "Meek's Cutoff",
     "release_year": "2010",
     "clean_title": "/film/meeks-cutoff/",
     "adult": false,
     "id": 57120,
     "imdb_id": "tt1518812"
-  },
-  {
-    "title": "Marlina the Murderer in Four Acts",
-    "release_year": "2017",
-    "clean_title": "/film/marlina-the-murderer-in-four-acts/",
-    "adult": false,
-    "id": 453276,
-    "imdb_id": "tt5923026"
   },
   {
     "title": "Pursued",
@@ -792,11 +792,11 @@
     "imdb_id": "tt0065446"
   },
   {
-    "title": "The Furies",
-    "release_year": "1950",
-    "clean_title": "/film/the-furies/",
+    "title": "Compañeros",
+    "release_year": "1970",
+    "clean_title": "/film/companeros/",
     "adult": false,
-    "id": 28304,
-    "imdb_id": "tt0042490"
+    "id": 61044,
+    "imdb_id": "tt0066612"
   }
 ]

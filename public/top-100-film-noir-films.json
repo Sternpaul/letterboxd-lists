@@ -32,20 +32,20 @@
     "imdb_id": "tt0048424"
   },
   {
-    "title": "The Third Man",
-    "release_year": "1949",
-    "clean_title": "/film/the-third-man/",
-    "adult": false,
-    "id": 1092,
-    "imdb_id": "tt0041959"
-  },
-  {
     "title": "Sweet Smell of Success",
     "release_year": "1957",
     "clean_title": "/film/sweet-smell-of-success/",
     "adult": false,
     "id": 976,
     "imdb_id": "tt0051036"
+  },
+  {
+    "title": "The Third Man",
+    "release_year": "1949",
+    "clean_title": "/film/the-third-man/",
+    "adult": false,
+    "id": 1092,
+    "imdb_id": "tt0041959"
   },
   {
     "title": "In a Lonely Place",
@@ -600,6 +600,14 @@
     "imdb_id": "tt0039220"
   },
   {
+    "title": "Mr. Arkadin",
+    "release_year": "1955",
+    "clean_title": "/film/mr-arkadin/",
+    "adult": false,
+    "id": 44026,
+    "imdb_id": "tt0048393"
+  },
+  {
     "title": "The Prowler",
     "release_year": "1951",
     "clean_title": "/film/the-prowler/",
@@ -616,14 +624,6 @@
     "imdb_id": "tt0046878"
   },
   {
-    "title": "Mr. Arkadin",
-    "release_year": "1955",
-    "clean_title": "/film/mr-arkadin/",
-    "adult": false,
-    "id": 44026,
-    "imdb_id": "tt0048393"
-  },
-  {
     "title": "The Desperate Hours",
     "release_year": "1955",
     "clean_title": "/film/the-desperate-hours/",
@@ -638,6 +638,14 @@
     "adult": false,
     "id": 36949,
     "imdb_id": "tt0045465"
+  },
+  {
+    "title": "Moonrise",
+    "release_year": "1948",
+    "clean_title": "/film/moonrise/",
+    "adult": false,
+    "id": 28392,
+    "imdb_id": "tt0040607"
   },
   {
     "title": "Scandal Sheet",
@@ -688,6 +696,14 @@
     "imdb_id": "tt0034399"
   },
   {
+    "title": "Humoresque",
+    "release_year": "1946",
+    "clean_title": "/film/humoresque/",
+    "adult": false,
+    "id": 26701,
+    "imdb_id": "tt0038622"
+  },
+  {
     "title": "Island of Lost Souls",
     "release_year": "1932",
     "clean_title": "/film/island-of-lost-souls/",
@@ -702,14 +718,6 @@
     "adult": false,
     "id": 26167,
     "imdb_id": "tt0040723"
-  },
-  {
-    "title": "Humoresque",
-    "release_year": "1946",
-    "clean_title": "/film/humoresque/",
-    "adult": false,
-    "id": 26701,
-    "imdb_id": "tt0038622"
   },
   {
     "title": "The Lineup",
@@ -744,6 +752,14 @@
     "imdb_id": "tt0036260"
   },
   {
+    "title": "Caught",
+    "release_year": "1949",
+    "clean_title": "/film/caught/",
+    "adult": false,
+    "id": 43397,
+    "imdb_id": "tt0040221"
+  },
+  {
     "title": "Kiss of Death",
     "release_year": "1947",
     "clean_title": "/film/kiss-of-death/",
@@ -768,35 +784,19 @@
     "imdb_id": "tt0041239"
   },
   {
+    "title": "The Sound of Fury",
+    "release_year": "1950",
+    "clean_title": "/film/the-sound-of-fury/",
+    "adult": false,
+    "id": 27543,
+    "imdb_id": "tt0043075"
+  },
+  {
     "title": "The Window",
     "release_year": "1949",
     "clean_title": "/film/the-window/",
     "adult": false,
     "id": 32684,
     "imdb_id": "tt0042046"
-  },
-  {
-    "title": "Road House",
-    "release_year": "1948",
-    "clean_title": "/film/road-house-1948/",
-    "adult": false,
-    "id": 30624,
-    "imdb_id": "tt0040740"
-  },
-  {
-    "title": "The Reckless Moment",
-    "release_year": "1949",
-    "clean_title": "/film/the-reckless-moment/",
-    "adult": false,
-    "id": 28007,
-    "imdb_id": "tt0041786"
-  },
-  {
-    "title": "Cry of the City",
-    "release_year": "1948",
-    "clean_title": "/film/cry-of-the-city/",
-    "adult": false,
-    "id": 20362,
-    "imdb_id": "tt0040257"
   }
 ]
