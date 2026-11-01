@@ -2105,5 +2105,26 @@
     "rating": 3.5,
     "id": 25606,
     "imdb_id": "tt0071486"
+  },
+  {
+    "title": "Cocorico 2",
+    "clean_title": "/film/cocorico-2/",
+    "rating": 3,
+    "id": 1437939,
+    "imdb_id": "tt36933402"
+  },
+  {
+    "title": "The Uprising",
+    "clean_title": "/film/the-uprising-2026/",
+    "rating": 3,
+    "id": 977942,
+    "imdb_id": "tt36983905"
+  },
+  {
+    "title": "Hereditary",
+    "clean_title": "/film/hereditary/",
+    "rating": 2,
+    "id": 493922,
+    "imdb_id": "tt7784604"
   }
 ]
