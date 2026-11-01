@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Call Me by Your Name",
+    "release_year": "2017",
+    "clean_title": "/film/call-me-by-your-name/",
+    "adult": false,
+    "id": 398818,
+    "imdb_id": "tt5726616"
+  },
+  {
+    "title": "Lady Bird",
+    "release_year": "2017",
+    "clean_title": "/film/lady-bird/",
+    "adult": false,
+    "id": 391713,
+    "imdb_id": "tt4925292"
+  },
+  {
+    "title": "La La Land",
+    "release_year": "2016",
+    "clean_title": "/film/la-la-land/",
+    "adult": false,
+    "id": 313369,
+    "imdb_id": "tt3783958"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "release_year": "2004",
+    "clean_title": "/film/eternal-sunshine-of-the-spotless-mind/",
+    "adult": false,
+    "id": 38,
+    "imdb_id": "tt0338013"
+  },
+  {
+    "title": "Spirited Away",
+    "release_year": "2001",
+    "clean_title": "/film/spirited-away/",
+    "adult": false,
+    "id": 129,
+    "imdb_id": "tt0245429"
+  },
+  {
+    "title": "Interstellar",
+    "release_year": "2014",
+    "clean_title": "/film/interstellar/",
+    "adult": false,
+    "id": 157336,
+    "imdb_id": "tt0816692"
+  },
+  {
+    "title": "Amélie",
+    "release_year": "2001",
+    "clean_title": "/film/amelie/",
+    "adult": false,
+    "id": 194,
+    "imdb_id": "tt0211915"
+  },
+  {
+    "title": "Moonlight",
+    "release_year": "2016",
+    "clean_title": "/film/moonlight-2016/",
+    "adult": false,
+    "id": 376867,
+    "imdb_id": "tt4975722"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "release_year": "2005",
+    "clean_title": "/film/pride-prejudice/",
+    "adult": false,
+    "id": 4348,
+    "imdb_id": "tt0414387"
+  },
+  {
+    "title": "Carol",
+    "release_year": "2015",
+    "clean_title": "/film/carol-2015/",
+    "adult": false,
+    "id": 258480,
+    "imdb_id": "tt2402927"
+  },
+  {
+    "title": "Gone Girl",
+    "release_year": "2014",
+    "clean_title": "/film/gone-girl/",
+    "adult": false,
+    "id": 210577,
+    "imdb_id": "tt2267998"
+  },
+  {
+    "title": "Her",
+    "release_year": "2013",
+    "clean_title": "/film/her/",
+    "adult": false,
+    "id": 152601,
+    "imdb_id": "tt1798709"
+  },
+  {
+    "title": "The Handmaiden",
+    "release_year": "2016",
+    "clean_title": "/film/the-handmaiden/",
+    "adult": false,
+    "id": 290098,
+    "imdb_id": "tt4016934"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "release_year": "2014",
+    "clean_title": "/film/the-grand-budapest-hotel/",
+    "adult": false,
+    "id": 120467,
+    "imdb_id": "tt2278388"
+  },
+  {
+    "title": "Arrival",
+    "release_year": "2016",
+    "clean_title": "/film/arrival-2016/",
+    "adult": false,
+    "id": 329865,
+    "imdb_id": "tt2543164"
+  },
+  {
+    "title": "Inception",
+    "release_year": "2010",
+    "clean_title": "/film/inception/",
+    "adult": false,
+    "id": 27205,
+    "imdb_id": "tt1375666"
+  },
+  {
+    "title": "Whiplash",
+    "release_year": "2014",
+    "clean_title": "/film/whiplash-2014/",
+    "adult": false,
+    "id": 244786,
+    "imdb_id": "tt2582802"
+  },
+  {
+    "title": "Dead Poets Society",
+    "release_year": "1989",
+    "clean_title": "/film/dead-poets-society/",
+    "adult": false,
+    "id": 207,
+    "imdb_id": "tt0097165"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_year": "2018",
+    "clean_title": "/film/spider-man-into-the-spider-verse/",
+    "adult": false,
+    "id": 324857,
+    "imdb_id": "tt4633694"
+  },
+  {
+    "title": "Donnie Darko",
+    "release_year": "2001",
+    "clean_title": "/film/donnie-darko/",
+    "adult": false,
+    "id": 141,
+    "imdb_id": "tt0246578"
+  },
+  {
+    "title": "Fight Club",
+    "release_year": "1999",
+    "clean_title": "/film/fight-club/",
+    "adult": false,
+    "id": 550,
+    "imdb_id": "tt0137523"
+  },
+  {
+    "title": "Before Sunrise",
+    "release_year": "1995",
+    "clean_title": "/film/before-sunrise/",
+    "adult": false,
+    "id": 76,
+    "imdb_id": "tt0112471"
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_year": "1994",
+    "clean_title": "/film/pulp-fiction/",
+    "adult": false,
+    "id": 680,
+    "imdb_id": "tt0110912"
+  },
+  {
+    "title": "The Shining",
+    "release_year": "1980",
+    "clean_title": "/film/the-shining/",
+    "adult": false,
+    "id": 694,
+    "imdb_id": "tt0081505"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "release_year": "2010",
+    "clean_title": "/film/scott-pilgrim-vs-the-world/",
+    "adult": false,
+    "id": 22538,
+    "imdb_id": "tt0446029"
+  },
+  {
+    "title": "Black Swan",
+    "release_year": "2010",
+    "clean_title": "/film/black-swan/",
+    "adult": false,
+    "id": 44214,
+    "imdb_id": "tt0947798"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "release_year": "2015",
+    "clean_title": "/film/mad-max-fury-road/",
+    "adult": false,
+    "id": 76341,
+    "imdb_id": "tt1392190"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "release_year": "2003",
+    "clean_title": "/film/kill-bill-vol-1/",
+    "adult": false,
+    "id": 24,
+    "imdb_id": "tt0266697"
+  },
+  {
+    "title": "The Social Network",
+    "release_year": "2010",
+    "clean_title": "/film/the-social-network/",
+    "adult": false,
+    "id": 37799,
+    "imdb_id": "tt1285016"
+  },
+  {
+    "title": "Frances Ha",
+    "release_year": "2012",
+    "clean_title": "/film/frances-ha/",
+    "adult": false,
+    "id": 121986,
+    "imdb_id": "tt2347569"
+  },
+  {
+    "title": "Back to the Future",
+    "release_year": "1985",
+    "clean_title": "/film/back-to-the-future/",
+    "adult": false,
+    "id": 105,
+    "imdb_id": "tt0088763"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "release_year": "2009",
+    "clean_title": "/film/inglourious-basterds/",
+    "adult": false,
+    "id": 16869,
+    "imdb_id": "tt0361748"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "release_year": "2012",
+    "clean_title": "/film/the-perks-of-being-a-wallflower/",
+    "adult": false,
+    "id": 84892,
+    "imdb_id": "tt1659337"
+  },
+  {
+    "title": "Baby Driver",
+    "release_year": "2017",
+    "clean_title": "/film/baby-driver/",
+    "adult": false,
+    "id": 339403,
+    "imdb_id": "tt3890160"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "release_year": "1991",
+    "clean_title": "/film/the-silence-of-the-lambs/",
+    "adult": false,
+    "id": 274,
+    "imdb_id": "tt0102926"
+  },
+  {
+    "title": "In the Mood for Love",
+    "release_year": "2000",
+    "clean_title": "/film/in-the-mood-for-love/",
+    "adult": false,
+    "id": 843,
+    "imdb_id": "tt0118694"
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "release_year": "2006",
+    "clean_title": "/film/little-miss-sunshine/",
+    "adult": false,
+    "id": 773,
+    "imdb_id": "tt0449059"
+  },
+  {
+    "title": "Heathers",
+    "release_year": "1989",
+    "clean_title": "/film/heathers/",
+    "adult": false,
+    "id": 2640,
+    "imdb_id": "tt0097493"
+  },
+  {
+    "title": "Moulin Rouge!",
+    "release_year": "2001",
+    "clean_title": "/film/moulin-rouge-2001/",
+    "adult": false,
+    "id": 824,
+    "imdb_id": "tt0203009"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "release_year": "1980",
+    "clean_title": "/film/the-empire-strikes-back/",
+    "adult": false,
+    "id": 1891,
+    "imdb_id": "tt0080684"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "release_year": "2004",
+    "clean_title": "/film/howls-moving-castle/",
+    "adult": false,
+    "id": 4935,
+    "imdb_id": "tt0347149"
+  },
+  {
+    "title": "The Breakfast Club",
+    "release_year": "1985",
+    "clean_title": "/film/the-breakfast-club/",
+    "adult": false,
+    "id": 2108,
+    "imdb_id": "tt0088847"
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "release_year": "1999",
+    "clean_title": "/film/10-things-i-hate-about-you/",
+    "adult": false,
+    "id": 4951,
+    "imdb_id": "tt0147800"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "release_year": "2014",
+    "clean_title": "/film/captain-america-the-winter-soldier/",
+    "adult": false,
+    "id": 100402,
+    "imdb_id": "tt1843866"
+  },
+  {
+    "title": "Jurassic Park",
+    "release_year": "1993",
+    "clean_title": "/film/jurassic-park/",
+    "adult": false,
+    "id": 329,
+    "imdb_id": "tt0107290"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "release_year": "2006",
+    "clean_title": "/film/pans-labyrinth/",
+    "adult": false,
+    "id": 1417,
+    "imdb_id": "tt0457430"
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "release_year": "2014",
+    "clean_title": "/film/what-we-do-in-the-shadows/",
+    "adult": false,
+    "id": 246741,
+    "imdb_id": "tt3416742"
+  },
+  {
+    "title": "Titanic",
+    "release_year": "1997",
+    "clean_title": "/film/titanic-1997/",
+    "adult": false,
+    "id": 597,
+    "imdb_id": "tt0120338"
+  },
+  {
+    "title": "Mulholland Drive",
+    "release_year": "2001",
+    "clean_title": "/film/mulholland-drive/",
+    "adult": false,
+    "id": 1018,
+    "imdb_id": "tt0166924"
+  },
+  {
+    "title": "The Favourite",
+    "release_year": "2018",
+    "clean_title": "/film/the-favourite/",
+    "adult": false,
+    "id": 375262,
+    "imdb_id": "tt5083738"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "release_year": "1971",
+    "clean_title": "/film/a-clockwork-orange/",
+    "adult": false,
+    "id": 185,
+    "imdb_id": "tt0066921"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "Léon: The Professional",
+    "release_year": "1994",
+    "clean_title": "/film/leon-the-professional/",
+    "adult": false,
+    "id": 101,
+    "imdb_id": "tt0110413"
+  },
+  {
+    "title": "Booksmart",
+    "release_year": "2019",
+    "clean_title": "/film/booksmart/",
+    "adult": false,
+    "id": 505600,
+    "imdb_id": "tt1489887"
+  },
+  {
+    "title": "Lost in Translation",
+    "release_year": "2003",
+    "clean_title": "/film/lost-in-translation/",
+    "adult": false,
+    "id": 153,
+    "imdb_id": "tt0335266"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": "2008",
+    "clean_title": "/film/the-dark-knight/",
+    "adult": false,
+    "id": 155,
+    "imdb_id": "tt0468569"
+  },
+  {
+    "title": "Clueless",
+    "release_year": "1995",
+    "clean_title": "/film/clueless/",
+    "adult": false,
+    "id": 9603,
+    "imdb_id": "tt0112697"
+  },
+  {
+    "title": "The Florida Project",
+    "release_year": "2017",
+    "clean_title": "/film/the-florida-project/",
+    "adult": false,
+    "id": 394117,
+    "imdb_id": "tt5649144"
+  },
+  {
+    "title": "Almost Famous",
+    "release_year": "2000",
+    "clean_title": "/film/almost-famous/",
+    "adult": false,
+    "id": 786,
+    "imdb_id": "tt0181875"
+  },
+  {
+    "title": "The Princess Bride",
+    "release_year": "1987",
+    "clean_title": "/film/the-princess-bride/",
+    "adult": false,
+    "id": 2493,
+    "imdb_id": "tt0093779"
+  },
+  {
+    "title": "American Beauty",
+    "release_year": "1999",
+    "clean_title": "/film/american-beauty/",
+    "adult": false,
+    "id": 14,
+    "imdb_id": "tt0169547"
+  },
+  {
+    "title": "Stand by Me",
+    "release_year": "1986",
+    "clean_title": "/film/stand-by-me/",
+    "adult": false,
+    "id": 235,
+    "imdb_id": "tt0092005"
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "release_year": "2012",
+    "clean_title": "/film/moonrise-kingdom/",
+    "adult": false,
+    "id": 83666,
+    "imdb_id": "tt1748122"
+  },
+  {
+    "title": "Mommy",
+    "release_year": "2014",
+    "clean_title": "/film/mommy-2014/",
+    "adult": false,
+    "id": 265177,
+    "imdb_id": "tt3612616"
+  },
+  {
+    "title": "Trainspotting",
+    "release_year": "1996",
+    "clean_title": "/film/trainspotting/",
+    "adult": false,
+    "id": 627,
+    "imdb_id": "tt0117951"
+  },
+  {
+    "title": "Coraline",
+    "release_year": "2009",
+    "clean_title": "/film/coraline/",
+    "adult": false,
+    "id": 14836,
+    "imdb_id": "tt0327597"
+  },
+  {
+    "title": "Hereditary",
+    "release_year": "2018",
+    "clean_title": "/film/hereditary/",
+    "adult": false,
+    "id": 493922,
+    "imdb_id": "tt7784604"
+  },
+  {
+    "title": "Ferris Bueller's Day Off",
+    "release_year": "1986",
+    "clean_title": "/film/ferris-buellers-day-off/",
+    "adult": false,
+    "id": 9377,
+    "imdb_id": "tt0091042"
+  },
+  {
+    "title": "Your Name.",
+    "release_year": "2016",
+    "clean_title": "/film/your-name/",
+    "adult": false,
+    "id": 372058,
+    "imdb_id": "tt5311514"
+  },
+  {
+    "title": "Mamma Mia!",
+    "release_year": "2008",
+    "clean_title": "/film/mamma-mia/",
+    "adult": false,
+    "id": 11631,
+    "imdb_id": "tt0795421"
+  },
+  {
+    "title": "Chungking Express",
+    "release_year": "1994",
+    "clean_title": "/film/chungking-express/",
+    "adult": false,
+    "id": 11104,
+    "imdb_id": "tt0109424"
+  },
+  {
+    "title": "The Royal Tenenbaums",
+    "release_year": "2001",
+    "clean_title": "/film/the-royal-tenenbaums/",
+    "adult": false,
+    "id": 9428,
+    "imdb_id": "tt0265666"
+  },
+  {
+    "title": "Forrest Gump",
+    "release_year": "1994",
+    "clean_title": "/film/forrest-gump/",
+    "adult": false,
+    "id": 13,
+    "imdb_id": "tt0109830"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "release_year": "1994",
+    "clean_title": "/film/the-shawshank-redemption/",
+    "adult": false,
+    "id": 278,
+    "imdb_id": "tt0111161"
+  },
+  {
+    "title": "The Godfather",
+    "release_year": "1972",
+    "clean_title": "/film/the-godfather/",
+    "adult": false,
+    "id": 238,
+    "imdb_id": "tt0068646"
+  },
+  {
+    "title": "Get Out",
+    "release_year": "2017",
+    "clean_title": "/film/get-out-2017/",
+    "adult": false,
+    "id": 419430,
+    "imdb_id": "tt5052448"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "release_year": "1968",
+    "clean_title": "/film/2001-a-space-odyssey/",
+    "adult": false,
+    "id": 62,
+    "imdb_id": "tt0062622"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_year": "2004",
+    "clean_title": "/film/harry-potter-and-the-prisoner-of-azkaban/",
+    "adult": false,
+    "id": 673,
+    "imdb_id": "tt0304141"
+  },
+  {
+    "title": "Star Wars",
+    "release_year": "1977",
+    "clean_title": "/film/star-wars/",
+    "adult": false,
+    "id": 11,
+    "imdb_id": "tt0076759"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": "2003",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "adult": false,
+    "id": 122,
+    "imdb_id": "tt0167260"
+  },
+  {
+    "title": "The Lion King",
+    "release_year": "1994",
+    "clean_title": "/film/the-lion-king/",
+    "adult": false,
+    "id": 8587,
+    "imdb_id": "tt0110357"
+  },
+  {
+    "title": "Drive",
+    "release_year": "2011",
+    "clean_title": "/film/drive-2011/",
+    "adult": false,
+    "id": 64690,
+    "imdb_id": "tt0780504"
+  },
+  {
+    "title": "Scream",
+    "release_year": "1996",
+    "clean_title": "/film/scream/",
+    "adult": false,
+    "id": 4232,
+    "imdb_id": "tt0117571"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "release_year": "1952",
+    "clean_title": "/film/singin-in-the-rain/",
+    "adult": false,
+    "id": 872,
+    "imdb_id": "tt0045152"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "release_year": "2017",
+    "clean_title": "/film/thor-ragnarok/",
+    "adult": false,
+    "id": 284053,
+    "imdb_id": "tt3501632"
+  },
+  {
+    "title": "The Rocky Horror Picture Show",
+    "release_year": "1975",
+    "clean_title": "/film/the-rocky-horror-picture-show/",
+    "adult": false,
+    "id": 36685,
+    "imdb_id": "tt0073629"
+  },
+  {
+    "title": "The Truman Show",
+    "release_year": "1998",
+    "clean_title": "/film/the-truman-show/",
+    "adult": false,
+    "id": 37165,
+    "imdb_id": "tt0120382"
+  },
+  {
+    "title": "Alien",
+    "release_year": "1979",
+    "clean_title": "/film/alien/",
+    "adult": false,
+    "id": 348,
+    "imdb_id": "tt0078748"
+  },
+  {
+    "title": "(500) Days of Summer",
+    "release_year": "2009",
+    "clean_title": "/film/500-days-of-summer/",
+    "adult": false,
+    "id": 19913,
+    "imdb_id": "tt1022603"
+  },
+  {
+    "title": "Fantastic Mr. Fox",
+    "release_year": "2009",
+    "clean_title": "/film/fantastic-mr-fox/",
+    "adult": false,
+    "id": 10315,
+    "imdb_id": "tt0432283"
+  },
+  {
+    "title": "The Shape of Water",
+    "release_year": "2017",
+    "clean_title": "/film/the-shape-of-water/",
+    "adult": false,
+    "id": 399055,
+    "imdb_id": "tt5580390"
+  },
+  {
+    "title": "Wonder Woman",
+    "release_year": "2017",
+    "clean_title": "/film/wonder-woman-2017/",
+    "adult": false,
+    "id": 297762,
+    "imdb_id": "tt0451279"
+  },
+  {
+    "title": "Princess Mononoke",
+    "release_year": "1997",
+    "clean_title": "/film/princess-mononoke/",
+    "adult": false,
+    "id": 128,
+    "imdb_id": "tt0119698"
+  },
+  {
+    "title": "About Time",
+    "release_year": "2013",
+    "clean_title": "/film/about-time/",
+    "adult": false,
+    "id": 122906,
+    "imdb_id": "tt2194499"
+  },
+  {
+    "title": "Phantom Thread",
+    "release_year": "2017",
+    "clean_title": "/film/phantom-thread/",
+    "adult": false,
+    "id": 400617,
+    "imdb_id": "tt5776858"
+  },
+  {
+    "title": "Short Term 12",
+    "release_year": "2013",
+    "clean_title": "/film/short-term-12-2013/",
+    "adult": false,
+    "id": 169813,
+    "imdb_id": "tt2370248"
+  },
+  {
+    "title": "20th Century Women",
+    "release_year": "2016",
+    "clean_title": "/film/20th-century-women/",
+    "adult": false,
+    "id": 342737,
+    "imdb_id": "tt4385888"
+  },
+  {
+    "title": "The Lobster",
+    "release_year": "2015",
+    "clean_title": "/film/the-lobster/",
+    "adult": false,
+    "id": 254320,
+    "imdb_id": "tt3464902"
+  },
+  {
+    "title": "Good Will Hunting",
+    "release_year": "1997",
+    "clean_title": "/film/good-will-hunting/",
+    "adult": false,
+    "id": 489,
+    "imdb_id": "tt0119217"
+  }
+]

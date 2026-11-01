@@ -1,0 +1,402 @@
+[
+  {
+    "title": "2001: A Space Odyssey",
+    "release_year": "1968",
+    "clean_title": "/film/2001-a-space-odyssey/",
+    "adult": false,
+    "id": 62,
+    "imdb_id": "tt0062622"
+  },
+  {
+    "title": "Drive",
+    "release_year": "2011",
+    "clean_title": "/film/drive-2011/",
+    "adult": false,
+    "id": 64690,
+    "imdb_id": "tt0780504"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "Taxi Driver",
+    "release_year": "1976",
+    "clean_title": "/film/taxi-driver/",
+    "adult": false,
+    "id": 103,
+    "imdb_id": "tt0075314"
+  },
+  {
+    "title": "There Will Be Blood",
+    "release_year": "2007",
+    "clean_title": "/film/there-will-be-blood/",
+    "adult": false,
+    "id": 7345,
+    "imdb_id": "tt0469494"
+  },
+  {
+    "title": "Fight Club",
+    "release_year": "1999",
+    "clean_title": "/film/fight-club/",
+    "adult": false,
+    "id": 550,
+    "imdb_id": "tt0137523"
+  },
+  {
+    "title": "Apocalypse Now",
+    "release_year": "1979",
+    "clean_title": "/film/apocalypse-now/",
+    "adult": false,
+    "id": 28,
+    "imdb_id": "tt0078788"
+  },
+  {
+    "title": "Alien",
+    "release_year": "1979",
+    "clean_title": "/film/alien/",
+    "adult": false,
+    "id": 348,
+    "imdb_id": "tt0078748"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "release_year": "2004",
+    "clean_title": "/film/eternal-sunshine-of-the-spotless-mind/",
+    "adult": false,
+    "id": 38,
+    "imdb_id": "tt0338013"
+  },
+  {
+    "title": "The Big Lebowski",
+    "release_year": "1998",
+    "clean_title": "/film/the-big-lebowski/",
+    "adult": false,
+    "id": 115,
+    "imdb_id": "tt0118715"
+  },
+  {
+    "title": "The Thing",
+    "release_year": "1982",
+    "clean_title": "/film/the-thing/",
+    "adult": false,
+    "id": 1091,
+    "imdb_id": "tt0084787"
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_year": "1994",
+    "clean_title": "/film/pulp-fiction/",
+    "adult": false,
+    "id": 680,
+    "imdb_id": "tt0110912"
+  },
+  {
+    "title": "Her",
+    "release_year": "2013",
+    "clean_title": "/film/her/",
+    "adult": false,
+    "id": 152601,
+    "imdb_id": "tt1798709"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "release_year": "2017",
+    "clean_title": "/film/blade-runner-2049/",
+    "adult": false,
+    "id": 335984,
+    "imdb_id": "tt1856101"
+  },
+  {
+    "title": "Whiplash",
+    "release_year": "2014",
+    "clean_title": "/film/whiplash-2014/",
+    "adult": false,
+    "id": 244786,
+    "imdb_id": "tt2582802"
+  },
+  {
+    "title": "Mulholland Drive",
+    "release_year": "2001",
+    "clean_title": "/film/mulholland-drive/",
+    "adult": false,
+    "id": 1018,
+    "imdb_id": "tt0166924"
+  },
+  {
+    "title": "Oldboy",
+    "release_year": "2003",
+    "clean_title": "/film/oldboy/",
+    "adult": false,
+    "id": 670,
+    "imdb_id": "tt0364569"
+  },
+  {
+    "title": "Synecdoche, New York",
+    "release_year": "2008",
+    "clean_title": "/film/synecdoche-new-york/",
+    "adult": false,
+    "id": 4960,
+    "imdb_id": "tt0383028"
+  },
+  {
+    "title": "The Godfather",
+    "release_year": "1972",
+    "clean_title": "/film/the-godfather/",
+    "adult": false,
+    "id": 238,
+    "imdb_id": "tt0068646"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "release_year": "1971",
+    "clean_title": "/film/a-clockwork-orange/",
+    "adult": false,
+    "id": 185,
+    "imdb_id": "tt0066921"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "release_year": "2015",
+    "clean_title": "/film/mad-max-fury-road/",
+    "adult": false,
+    "id": 76341,
+    "imdb_id": "tt1392190"
+  },
+  {
+    "title": "The Shining",
+    "release_year": "1980",
+    "clean_title": "/film/the-shining/",
+    "adult": false,
+    "id": 694,
+    "imdb_id": "tt0081505"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "release_year": "1980",
+    "clean_title": "/film/the-empire-strikes-back/",
+    "adult": false,
+    "id": 1891,
+    "imdb_id": "tt0080684"
+  },
+  {
+    "title": "Donnie Darko",
+    "release_year": "2001",
+    "clean_title": "/film/donnie-darko/",
+    "adult": false,
+    "id": 141,
+    "imdb_id": "tt0246578"
+  },
+  {
+    "title": "Princess Mononoke",
+    "release_year": "1997",
+    "clean_title": "/film/princess-mononoke/",
+    "adult": false,
+    "id": 128,
+    "imdb_id": "tt0119698"
+  },
+  {
+    "title": "The Matrix",
+    "release_year": "1999",
+    "clean_title": "/film/the-matrix/",
+    "adult": false,
+    "id": 603,
+    "imdb_id": "tt0133093"
+  },
+  {
+    "title": "Spirited Away",
+    "release_year": "2001",
+    "clean_title": "/film/spirited-away/",
+    "adult": false,
+    "id": 129,
+    "imdb_id": "tt0245429"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": "2003",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "adult": false,
+    "id": 122,
+    "imdb_id": "tt0167260"
+  },
+  {
+    "title": "Lost in Translation",
+    "release_year": "2003",
+    "clean_title": "/film/lost-in-translation/",
+    "adult": false,
+    "id": 153,
+    "imdb_id": "tt0335266"
+  },
+  {
+    "title": "American Psycho",
+    "release_year": "2000",
+    "clean_title": "/film/american-psycho/",
+    "adult": false,
+    "id": 1359,
+    "imdb_id": "tt0144084"
+  },
+  {
+    "title": "Stalker",
+    "release_year": "1979",
+    "clean_title": "/film/stalker/",
+    "adult": false,
+    "id": 1398,
+    "imdb_id": "tt0079944"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": "2008",
+    "clean_title": "/film/the-dark-knight/",
+    "adult": false,
+    "id": 155,
+    "imdb_id": "tt0468569"
+  },
+  {
+    "title": "Inception",
+    "release_year": "2010",
+    "clean_title": "/film/inception/",
+    "adult": false,
+    "id": 27205,
+    "imdb_id": "tt1375666"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "It's Such a Beautiful Day",
+    "release_year": "2012",
+    "clean_title": "/film/its-such-a-beautiful-day/",
+    "adult": false,
+    "id": 489412,
+    "imdb_id": "tt2396224"
+  },
+  {
+    "title": "Interstellar",
+    "release_year": "2014",
+    "clean_title": "/film/interstellar/",
+    "adult": false,
+    "id": 157336,
+    "imdb_id": "tt0816692"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "release_year": "2009",
+    "clean_title": "/film/inglourious-basterds/",
+    "adult": false,
+    "id": 16869,
+    "imdb_id": "tt0361748"
+  },
+  {
+    "title": "No Country for Old Men",
+    "release_year": "2007",
+    "clean_title": "/film/no-country-for-old-men/",
+    "adult": false,
+    "id": 6977,
+    "imdb_id": "tt0477348"
+  },
+  {
+    "title": "The Tree of Life",
+    "release_year": "2011",
+    "clean_title": "/film/the-tree-of-life-2011/",
+    "adult": false,
+    "id": 8967,
+    "imdb_id": "tt0478304"
+  },
+  {
+    "title": "Persona",
+    "release_year": "1966",
+    "clean_title": "/film/persona/",
+    "adult": false,
+    "id": 797,
+    "imdb_id": "tt0060827"
+  },
+  {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "release_year": "1997",
+    "clean_title": "/film/neon-genesis-evangelion-the-end-of-evangelion/",
+    "adult": false,
+    "id": 18491,
+    "imdb_id": "tt0169858"
+  },
+  {
+    "title": "La La Land",
+    "release_year": "2016",
+    "clean_title": "/film/la-la-land/",
+    "adult": false,
+    "id": 313369,
+    "imdb_id": "tt3783958"
+  },
+  {
+    "title": "GoodFellas",
+    "release_year": "1990",
+    "clean_title": "/film/goodfellas/",
+    "adult": false,
+    "id": 769,
+    "imdb_id": "tt0099685"
+  },
+  {
+    "title": "American Beauty",
+    "release_year": "1999",
+    "clean_title": "/film/american-beauty/",
+    "adult": false,
+    "id": 14,
+    "imdb_id": "tt0169547"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "release_year": "1966",
+    "clean_title": "/film/the-good-the-bad-and-the-ugly/",
+    "adult": false,
+    "id": 429,
+    "imdb_id": "tt0060196"
+  },
+  {
+    "title": "Akira",
+    "release_year": "1988",
+    "clean_title": "/film/akira/",
+    "adult": false,
+    "id": 149,
+    "imdb_id": "tt0094625"
+  },
+  {
+    "title": "Baby Driver",
+    "release_year": "2017",
+    "clean_title": "/film/baby-driver/",
+    "adult": false,
+    "id": 339403,
+    "imdb_id": "tt3890160"
+  },
+  {
+    "title": "Ex Machina",
+    "release_year": "2015",
+    "clean_title": "/film/ex-machina-2015/",
+    "adult": false,
+    "id": 264660,
+    "imdb_id": "tt0470752"
+  },
+  {
+    "title": "Star Wars",
+    "release_year": "1977",
+    "clean_title": "/film/star-wars/",
+    "adult": false,
+    "id": 11,
+    "imdb_id": "tt0076759"
+  },
+  {
+    "title": "Back to the Future",
+    "release_year": "1985",
+    "clean_title": "/film/back-to-the-future/",
+    "adult": false,
+    "id": 105,
+    "imdb_id": "tt0088763"
+  }
+]

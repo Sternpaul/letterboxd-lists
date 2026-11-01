@@ -1,0 +1,802 @@
+[
+  {
+    "title": "The Cremator",
+    "release_year": "1969",
+    "clean_title": "/film/the-cremator/",
+    "adult": false,
+    "id": 18352,
+    "imdb_id": "tt0063633"
+  },
+  {
+    "title": "Marketa Lazarová",
+    "release_year": "1967",
+    "clean_title": "/film/marketa-lazarova/",
+    "adult": false,
+    "id": 25904,
+    "imdb_id": "tt0063278"
+  },
+  {
+    "title": "Cosy Dens",
+    "release_year": "1999",
+    "clean_title": "/film/cosy-dens/",
+    "adult": false,
+    "id": 15387,
+    "imdb_id": "tt0167331"
+  },
+  {
+    "title": "Happy End",
+    "release_year": "1967",
+    "clean_title": "/film/happy-end-1967/",
+    "adult": false,
+    "id": 51578,
+    "imdb_id": "tt0061029"
+  },
+  {
+    "title": "The Fabulous Baron Munchausen",
+    "release_year": "1962",
+    "clean_title": "/film/the-fabulous-baron-munchausen/",
+    "adult": false,
+    "id": 41213,
+    "imdb_id": "tt0054665"
+  },
+  {
+    "title": "The Valley of the Bees",
+    "release_year": "1968",
+    "clean_title": "/film/the-valley-of-the-bees/",
+    "adult": false,
+    "id": 25908,
+    "imdb_id": "tt0122770"
+  },
+  {
+    "title": "The Pied Piper",
+    "release_year": "1986",
+    "clean_title": "/film/the-pied-piper-1986/",
+    "adult": false,
+    "id": 82094,
+    "imdb_id": "tt0174834"
+  },
+  {
+    "title": "The Terribly Sad Princess",
+    "release_year": "1968",
+    "clean_title": "/film/the-terribly-sad-princess/",
+    "adult": false,
+    "id": 5589,
+    "imdb_id": "tt0232750"
+  },
+  {
+    "title": "Daisies",
+    "release_year": "1966",
+    "clean_title": "/film/daisies/",
+    "adult": false,
+    "id": 46919,
+    "imdb_id": "tt0060959"
+  },
+  {
+    "title": "Alice",
+    "release_year": "1988",
+    "clean_title": "/film/alice-1988/",
+    "adult": false,
+    "id": 18917,
+    "imdb_id": "tt0095715"
+  },
+  {
+    "title": "Carriage to Vienna",
+    "release_year": "1966",
+    "clean_title": "/film/carriage-to-vienna/",
+    "adult": false,
+    "id": 118497,
+    "imdb_id": "tt0060597"
+  },
+  {
+    "title": "Three Wishes for Cinderella",
+    "release_year": "1973",
+    "clean_title": "/film/three-wishes-for-cinderella/",
+    "adult": false,
+    "id": 8703,
+    "imdb_id": "tt0070832"
+  },
+  {
+    "title": "Identity Card",
+    "release_year": "2010",
+    "clean_title": "/film/identity-card/",
+    "adult": false,
+    "id": 55637,
+    "imdb_id": "tt1773000"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "release_year": "1978",
+    "clean_title": "/film/beauty-and-the-beast-1978/",
+    "adult": false,
+    "id": 70349,
+    "imdb_id": "tt0078054"
+  },
+  {
+    "title": "Closely Watched Trains",
+    "release_year": "1966",
+    "clean_title": "/film/closely-watched-trains/",
+    "adult": false,
+    "id": 789,
+    "imdb_id": "tt0060802"
+  },
+  {
+    "title": "The Ear",
+    "release_year": "1970",
+    "clean_title": "/film/the-ear/",
+    "adult": false,
+    "id": 88953,
+    "imdb_id": "tt0066498"
+  },
+  {
+    "title": "Diamonds of the Night",
+    "release_year": "1964",
+    "clean_title": "/film/diamonds-of-the-night/",
+    "adult": false,
+    "id": 100589,
+    "imdb_id": "tt0058001"
+  },
+  {
+    "title": "The Devil's Trap",
+    "release_year": "1962",
+    "clean_title": "/film/the-devils-trap/",
+    "adult": false,
+    "id": 117042,
+    "imdb_id": "tt0054780"
+  },
+  {
+    "title": "The White Dove",
+    "release_year": "1960",
+    "clean_title": "/film/the-white-dove/",
+    "adult": false,
+    "id": 117046,
+    "imdb_id": "tt0175743"
+  },
+  {
+    "title": "Waves",
+    "release_year": "2024",
+    "clean_title": "/film/waves-2024-1/",
+    "adult": false,
+    "id": 1251621,
+    "imdb_id": "tt27587485"
+  },
+  {
+    "title": "With You The World Is Fun",
+    "release_year": "1983",
+    "clean_title": "/film/with-you-the-world-is-fun/",
+    "adult": false,
+    "id": 50873,
+    "imdb_id": "tt0084620"
+  },
+  {
+    "title": "Witchhammer",
+    "release_year": "1970",
+    "clean_title": "/film/witchhammer/",
+    "adult": false,
+    "id": 62843,
+    "imdb_id": "tt0064546"
+  },
+  {
+    "title": "A Midsummer's Night Dream",
+    "release_year": "1959",
+    "clean_title": "/film/a-midsummers-night-dream/",
+    "adult": false,
+    "id": 32618,
+    "imdb_id": "tt0053261"
+  },
+  {
+    "title": "The Fabulous World of Jules Verne",
+    "release_year": "1958",
+    "clean_title": "/film/the-fabulous-world-of-jules-verne/",
+    "adult": false,
+    "id": 19759,
+    "imdb_id": "tt0052374"
+  },
+  {
+    "title": "When the Cat Comes",
+    "release_year": "1963",
+    "clean_title": "/film/when-the-cat-comes/",
+    "adult": false,
+    "id": 47852,
+    "imdb_id": "tt0056844"
+  },
+  {
+    "title": "Jan Werich's Fimfarum",
+    "release_year": "2002",
+    "clean_title": "/film/jan-werichs-fimfarum/",
+    "adult": false,
+    "id": 61320,
+    "imdb_id": "tt0299878"
+  },
+  {
+    "title": "Surviving Life (Theory and Practice)",
+    "release_year": "2010",
+    "clean_title": "/film/surviving-life-theory-and-practice/",
+    "adult": false,
+    "id": 76638,
+    "imdb_id": "tt1352765"
+  },
+  {
+    "title": "Adelheid",
+    "release_year": "1970",
+    "clean_title": "/film/adelheid/",
+    "adult": false,
+    "id": 113456,
+    "imdb_id": "tt0122371"
+  },
+  {
+    "title": "Give the Devil His Due",
+    "release_year": "1985",
+    "clean_title": "/film/give-the-devil-his-due/",
+    "adult": false,
+    "id": 54333,
+    "imdb_id": "tt0087731"
+  },
+  {
+    "title": "Faust",
+    "release_year": "1994",
+    "clean_title": "/film/faust/",
+    "adult": false,
+    "id": 18919,
+    "imdb_id": "tt0109781"
+  },
+  {
+    "title": "Long Live Ghosts!",
+    "release_year": "1977",
+    "clean_title": "/film/long-live-ghosts/",
+    "adult": false,
+    "id": 46632,
+    "imdb_id": "tt0075703"
+  },
+  {
+    "title": "Loners",
+    "release_year": "2000",
+    "clean_title": "/film/loners/",
+    "adult": false,
+    "id": 31321,
+    "imdb_id": "tt0219288"
+  },
+  {
+    "title": "The Smoke",
+    "release_year": "1991",
+    "clean_title": "/film/the-smoke/",
+    "adult": false,
+    "id": 55636,
+    "imdb_id": "tt0102234"
+  },
+  {
+    "title": "Morgiana",
+    "release_year": "1972",
+    "clean_title": "/film/morgiana/",
+    "adult": false,
+    "id": 53186,
+    "imdb_id": "tt0124012"
+  },
+  {
+    "title": "Adela Has Not Had Supper Yet",
+    "release_year": "1978",
+    "clean_title": "/film/adela-has-not-had-supper-yet/",
+    "adult": false,
+    "id": 20087,
+    "imdb_id": "tt0075633"
+  },
+  {
+    "title": "Marecek, Pass Me the Pen!",
+    "release_year": "1976",
+    "clean_title": "/film/marecek-pass-me-the-pen/",
+    "adult": false,
+    "id": 75023,
+    "imdb_id": "tt0074865"
+  },
+  {
+    "title": "How to Pull Out a Whale's Tooth",
+    "release_year": "1977",
+    "clean_title": "/film/how-to-pull-out-a-whales-tooth/",
+    "adult": false,
+    "id": 36892,
+    "imdb_id": "tt0322811"
+  },
+  {
+    "title": "Loves of a Blonde",
+    "release_year": "1965",
+    "clean_title": "/film/loves-of-a-blonde/",
+    "adult": false,
+    "id": 39387,
+    "imdb_id": "tt0059415"
+  },
+  {
+    "title": "Kolya",
+    "release_year": "1996",
+    "clean_title": "/film/kolya/",
+    "adult": false,
+    "id": 784,
+    "imdb_id": "tt0116790"
+  },
+  {
+    "title": "The Sorcerer's Apprentice",
+    "release_year": "1978",
+    "clean_title": "/film/the-sorcerers-apprentice-1978/",
+    "adult": false,
+    "id": 8128,
+    "imdb_id": "tt0075811"
+  },
+  {
+    "title": "Lemonade Joe",
+    "release_year": "1964",
+    "clean_title": "/film/lemonade-joe/",
+    "adult": false,
+    "id": 20629,
+    "imdb_id": "tt0058275"
+  },
+  {
+    "title": "How to Get Daddy to Change",
+    "release_year": "1978",
+    "clean_title": "/film/how-to-get-daddy-to-change/",
+    "adult": false,
+    "id": 36891,
+    "imdb_id": "tt0322810"
+  },
+  {
+    "title": "The Little Mermaid",
+    "release_year": "1976",
+    "clean_title": "/film/the-little-mermaid-1976-1/",
+    "adult": false,
+    "id": 74873,
+    "imdb_id": "tt0074846"
+  },
+  {
+    "title": "Panelstory or Birth of a Community",
+    "release_year": "1981",
+    "clean_title": "/film/panelstory-or-birth-of-a-community/",
+    "adult": false,
+    "id": 182651,
+    "imdb_id": "tt0079694"
+  },
+  {
+    "title": "Long Live the Republic",
+    "release_year": "1965",
+    "clean_title": "/film/long-live-the-republic/",
+    "adult": false,
+    "id": 247446,
+    "imdb_id": "tt0058924"
+  },
+  {
+    "title": "The Fifth Horseman Is Fear",
+    "release_year": "1965",
+    "clean_title": "/film/the-fifth-horseman-is-fear/",
+    "adult": false,
+    "id": 109380,
+    "imdb_id": "tt0123368"
+  },
+  {
+    "title": "Secluded, Near Woods",
+    "release_year": "1976",
+    "clean_title": "/film/secluded-near-woods/",
+    "adult": false,
+    "id": 75026,
+    "imdb_id": "tt0074947"
+  },
+  {
+    "title": "All My Good Countrymen",
+    "release_year": "1969",
+    "clean_title": "/film/all-my-good-countrymen/",
+    "adult": false,
+    "id": 46659,
+    "imdb_id": "tt0063791"
+  },
+  {
+    "title": "A Case for a Rookie Hangman",
+    "release_year": "1970",
+    "clean_title": "/film/a-case-for-a-rookie-hangman/",
+    "adult": false,
+    "id": 212761,
+    "imdb_id": "tt0064843"
+  },
+  {
+    "title": "Little Otik",
+    "release_year": "2000",
+    "clean_title": "/film/little-otik/",
+    "adult": false,
+    "id": 18939,
+    "imdb_id": "tt0228687"
+  },
+  {
+    "title": "Something Different",
+    "release_year": "1963",
+    "clean_title": "/film/something-different/",
+    "adult": false,
+    "id": 171295,
+    "imdb_id": "tt0057374"
+  },
+  {
+    "title": "Run, Waiter, Run!",
+    "release_year": "1981",
+    "clean_title": "/film/run-waiter-run/",
+    "adult": false,
+    "id": 36919,
+    "imdb_id": "tt0081730"
+  },
+  {
+    "title": "Higher Principle",
+    "release_year": "1960",
+    "clean_title": "/film/higher-principle/",
+    "adult": false,
+    "id": 201267,
+    "imdb_id": "tt0054451"
+  },
+  {
+    "title": "Lunacy",
+    "release_year": "2005",
+    "clean_title": "/film/lunacy/",
+    "adult": false,
+    "id": 21156,
+    "imdb_id": "tt0407236"
+  },
+  {
+    "title": "Larks on a String",
+    "release_year": "1969",
+    "clean_title": "/film/larks-on-a-string/",
+    "adult": false,
+    "id": 12078,
+    "imdb_id": "tt0064994"
+  },
+  {
+    "title": "The Firemen's Ball",
+    "release_year": "1967",
+    "clean_title": "/film/the-firemens-ball/",
+    "adult": false,
+    "id": 38442,
+    "imdb_id": "tt0061781"
+  },
+  {
+    "title": "My Sweet Little Village",
+    "release_year": "1985",
+    "clean_title": "/film/my-sweet-little-village/",
+    "adult": false,
+    "id": 31410,
+    "imdb_id": "tt0090257"
+  },
+  {
+    "title": "Killing the Devil",
+    "release_year": "1970",
+    "clean_title": "/film/killing-the-devil/",
+    "adult": false,
+    "id": 266429,
+    "imdb_id": "tt0066537"
+  },
+  {
+    "title": "Summer School, 2001",
+    "release_year": "2025",
+    "clean_title": "/film/summer-school-2001/",
+    "adult": false,
+    "id": 1481097,
+    "imdb_id": "tt37534718"
+  },
+  {
+    "title": "Ikarie XB 1",
+    "release_year": "1963",
+    "clean_title": "/film/ikarie-xb-1/",
+    "adult": false,
+    "id": 19757,
+    "imdb_id": "tt0122111"
+  },
+  {
+    "title": "Jára Cimrman Lying, Sleeping",
+    "release_year": "1983",
+    "clean_title": "/film/jara-cimrman-lying-sleeping/",
+    "adult": false,
+    "id": 167752,
+    "imdb_id": "tt0085748"
+  },
+  {
+    "title": "Kooky",
+    "release_year": "2010",
+    "clean_title": "/film/kooky/",
+    "adult": false,
+    "id": 50294,
+    "imdb_id": "tt1630603"
+  },
+  {
+    "title": "Divided We Fall",
+    "release_year": "2000",
+    "clean_title": "/film/divided-we-fall/",
+    "adult": false,
+    "id": 29937,
+    "imdb_id": "tt0234288"
+  },
+  {
+    "title": "How to Drown Dr. Mracek, the Lawyer",
+    "release_year": "1975",
+    "clean_title": "/film/how-to-drown-dr-mracek-the-lawyer/",
+    "adult": false,
+    "id": 8704,
+    "imdb_id": "tt0071687"
+  },
+  {
+    "title": "Zelary",
+    "release_year": "2003",
+    "clean_title": "/film/zelary/",
+    "adult": false,
+    "id": 19765,
+    "imdb_id": "tt0288330"
+  },
+  {
+    "title": "The Princess with the Golden Star",
+    "release_year": "1959",
+    "clean_title": "/film/the-princess-with-the-golden-star/",
+    "adult": false,
+    "id": 51959,
+    "imdb_id": "tt0152073"
+  },
+  {
+    "title": "The Elementary School",
+    "release_year": "1991",
+    "clean_title": "/film/the-elementary-school/",
+    "adult": false,
+    "id": 18141,
+    "imdb_id": "tt0102571"
+  },
+  {
+    "title": "The Karamazov Brothers",
+    "release_year": "2008",
+    "clean_title": "/film/the-karamazov-brothers/",
+    "adult": false,
+    "id": 122794,
+    "imdb_id": "tt1080716"
+  },
+  {
+    "title": "Men About Town",
+    "release_year": "1969",
+    "clean_title": "/film/men-about-town/",
+    "adult": false,
+    "id": 50788,
+    "imdb_id": "tt0065052"
+  },
+  {
+    "title": "The Mysterious Castle in the Carpathians",
+    "release_year": "1981",
+    "clean_title": "/film/the-mysterious-castle-in-the-carpathians/",
+    "adult": false,
+    "id": 54755,
+    "imdb_id": "tt0083162"
+  },
+  {
+    "title": "Distant Journey",
+    "release_year": "1949",
+    "clean_title": "/film/distant-journey/",
+    "adult": false,
+    "id": 193492,
+    "imdb_id": "tt0168626"
+  },
+  {
+    "title": "Fimfarum 2",
+    "release_year": "2006",
+    "clean_title": "/film/fimfarum-2/",
+    "adult": false,
+    "id": 61313,
+    "imdb_id": "tt0496296"
+  },
+  {
+    "title": "A Night at Karlstein",
+    "release_year": "1974",
+    "clean_title": "/film/a-night-at-karlstein/",
+    "adult": false,
+    "id": 52217,
+    "imdb_id": "tt0070452"
+  },
+  {
+    "title": "Ball Lightning",
+    "release_year": "1979",
+    "clean_title": "/film/ball-lightning/",
+    "adult": false,
+    "id": 36414,
+    "imdb_id": "tt0077821"
+  },
+  {
+    "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
+    "release_year": "1977",
+    "clean_title": "/film/tomorrow-ill-wake-up-and-scald-myself-with-tea/",
+    "adult": false,
+    "id": 51424,
+    "imdb_id": "tt0213322"
+  },
+  {
+    "title": "Rebels",
+    "release_year": "2001",
+    "clean_title": "/film/rebels/",
+    "adult": false,
+    "id": 73213,
+    "imdb_id": "tt0247657"
+  },
+  {
+    "title": "The Stolen Airship",
+    "release_year": "1967",
+    "clean_title": "/film/the-stolen-airship/",
+    "adult": false,
+    "id": 71504,
+    "imdb_id": "tt0062412"
+  },
+  {
+    "title": "Fruit of Paradise",
+    "release_year": "1970",
+    "clean_title": "/film/fruit-of-paradise/",
+    "adult": false,
+    "id": 80080,
+    "imdb_id": "tt0064781"
+  },
+  {
+    "title": "Once Upon a Time, There Was a King...",
+    "release_year": "1955",
+    "clean_title": "/film/once-upon-a-time-there-was-a-king/",
+    "adult": false,
+    "id": 49587,
+    "imdb_id": "tt0184316"
+  },
+  {
+    "title": "We Have Never Been Modern",
+    "release_year": "2023",
+    "clean_title": "/film/we-have-never-been-modern/",
+    "adult": false,
+    "id": 1135286,
+    "imdb_id": "tt21054472"
+  },
+  {
+    "title": "The Girl on the Broomstick",
+    "release_year": "1972",
+    "clean_title": "/film/the-girl-on-the-broomstick/",
+    "adult": false,
+    "id": 47712,
+    "imdb_id": "tt0067464"
+  },
+  {
+    "title": "Forbidden Dreams",
+    "release_year": "1987",
+    "clean_title": "/film/forbidden-dreams/",
+    "adult": false,
+    "id": 80163,
+    "imdb_id": "tt0091976"
+  },
+  {
+    "title": "The Jester's Tale",
+    "release_year": "1964",
+    "clean_title": "/film/the-jesters-tale/",
+    "adult": false,
+    "id": 57983,
+    "imdb_id": "tt0057894"
+  },
+  {
+    "title": "The Painted Bird",
+    "release_year": "2019",
+    "clean_title": "/film/the-painted-bird/",
+    "adult": false,
+    "id": 477428,
+    "imdb_id": "tt1667354"
+  },
+  {
+    "title": "Shadows of a Hot Summer",
+    "release_year": "1978",
+    "clean_title": "/film/shadows-of-a-hot-summer/",
+    "adult": false,
+    "id": 46793,
+    "imdb_id": "tt0076765"
+  },
+  {
+    "title": "Joachim, Put It in the Machine",
+    "release_year": "1974",
+    "clean_title": "/film/joachim-put-it-in-the-machine/",
+    "adult": false,
+    "id": 234426,
+    "imdb_id": "tt0071682"
+  },
+  {
+    "title": "Journey Into the Depth of the Student's Soul",
+    "release_year": "1939",
+    "clean_title": "/film/journey-into-the-depth-of-the-students-soul/",
+    "adult": false,
+    "id": 47710,
+    "imdb_id": "tt0168574"
+  },
+  {
+    "title": "Intimate Lighting",
+    "release_year": "1965",
+    "clean_title": "/film/intimate-lighting/",
+    "adult": false,
+    "id": 77381,
+    "imdb_id": "tt0060543"
+  },
+  {
+    "title": "The Three Veterans",
+    "release_year": "1984",
+    "clean_title": "/film/the-three-veterans/",
+    "adult": false,
+    "id": 46091,
+    "imdb_id": "tt0086477"
+  },
+  {
+    "title": "The Snowdrop Festival",
+    "release_year": "1984",
+    "clean_title": "/film/the-snowdrop-festival/",
+    "adult": false,
+    "id": 45039,
+    "imdb_id": "tt0086319"
+  },
+  {
+    "title": "Who Wants to Kill Jessie?",
+    "release_year": "1966",
+    "clean_title": "/film/who-wants-to-kill-jessie/",
+    "adult": false,
+    "id": 65904,
+    "imdb_id": "tt0125301"
+  },
+  {
+    "title": "Cutting It Short",
+    "release_year": "1981",
+    "clean_title": "/film/cutting-it-short/",
+    "adult": false,
+    "id": 51178,
+    "imdb_id": "tt0081363"
+  },
+  {
+    "title": "Romeo, Juliet and Darkness",
+    "release_year": "1960",
+    "clean_title": "/film/romeo-juliet-and-darkness/",
+    "adult": false,
+    "id": 80084,
+    "imdb_id": "tt0054250"
+  },
+  {
+    "title": "The Cry",
+    "release_year": "1964",
+    "clean_title": "/film/the-cry-1964/",
+    "adult": false,
+    "id": 115243,
+    "imdb_id": "tt0122574"
+  },
+  {
+    "title": "The Emperor and the Golem",
+    "release_year": "1951",
+    "clean_title": "/film/the-emperor-and-the-golem/",
+    "adult": false,
+    "id": 36918,
+    "imdb_id": "tt0043411"
+  },
+  {
+    "title": "One Hand Can't Clap",
+    "release_year": "2003",
+    "clean_title": "/film/one-hand-cant-clap/",
+    "adult": false,
+    "id": 41218,
+    "imdb_id": "tt0366635"
+  },
+  {
+    "title": "Buttoners",
+    "release_year": "1997",
+    "clean_title": "/film/buttoners/",
+    "adult": false,
+    "id": 65896,
+    "imdb_id": "tt0128292"
+  },
+  {
+    "title": "Daria",
+    "release_year": "2020",
+    "clean_title": "/film/daria/",
+    "adult": false,
+    "id": 656808,
+    "imdb_id": "tt11523872"
+  },
+  {
+    "title": "Krakatit",
+    "release_year": "1948",
+    "clean_title": "/film/krakatit/",
+    "adult": false,
+    "id": 47393,
+    "imdb_id": "tt0039539"
+  },
+  {
+    "title": "The Inheritance or Fuckoffguysgoodday",
+    "release_year": "1992",
+    "clean_title": "/film/the-inheritance-or-fuckoffguysgoodday/",
+    "adult": false,
+    "id": 40573,
+    "imdb_id": "tt0106693"
+  }
+]

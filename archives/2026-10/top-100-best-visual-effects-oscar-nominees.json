@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Interstellar",
+    "release_year": "2014",
+    "clean_title": "/film/interstellar/",
+    "adult": false,
+    "id": 157336,
+    "imdb_id": "tt0816692"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": "2008",
+    "clean_title": "/film/the-dark-knight/",
+    "adult": false,
+    "id": 155,
+    "imdb_id": "tt0468569"
+  },
+  {
+    "title": "Forrest Gump",
+    "release_year": "1994",
+    "clean_title": "/film/forrest-gump/",
+    "adult": false,
+    "id": 13,
+    "imdb_id": "tt0109830"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": "2003",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "adult": false,
+    "id": 122,
+    "imdb_id": "tt0167260"
+  },
+  {
+    "title": "Dune: Part Two",
+    "release_year": "2024",
+    "clean_title": "/film/dune-part-two/",
+    "adult": false,
+    "id": 693134,
+    "imdb_id": "tt15239678"
+  },
+  {
+    "title": "Inception",
+    "release_year": "2010",
+    "clean_title": "/film/inception/",
+    "adult": false,
+    "id": 27205,
+    "imdb_id": "tt1375666"
+  },
+  {
+    "title": "The Batman",
+    "release_year": "2022",
+    "clean_title": "/film/the-batman/",
+    "adult": false,
+    "id": 414906,
+    "imdb_id": "tt1877830"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_year": "2004",
+    "clean_title": "/film/harry-potter-and-the-prisoner-of-azkaban/",
+    "adult": false,
+    "id": 673,
+    "imdb_id": "tt0304141"
+  },
+  {
+    "title": "Sinners",
+    "release_year": "2025",
+    "clean_title": "/film/sinners-2025/",
+    "adult": false,
+    "id": 1233413,
+    "imdb_id": "tt31193180"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "release_year": "1980",
+    "clean_title": "/film/the-empire-strikes-back/",
+    "adult": false,
+    "id": 1891,
+    "imdb_id": "tt0080684"
+  },
+  {
+    "title": "Jurassic Park",
+    "release_year": "1993",
+    "clean_title": "/film/jurassic-park/",
+    "adult": false,
+    "id": 329,
+    "imdb_id": "tt0107290"
+  },
+  {
+    "title": "Alien",
+    "release_year": "1979",
+    "clean_title": "/film/alien/",
+    "adult": false,
+    "id": 348,
+    "imdb_id": "tt0078748"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "release_year": "1968",
+    "clean_title": "/film/2001-a-space-odyssey/",
+    "adult": false,
+    "id": 62,
+    "imdb_id": "tt0062622"
+  },
+  {
+    "title": "Titanic",
+    "release_year": "1997",
+    "clean_title": "/film/titanic-1997/",
+    "adult": false,
+    "id": 597,
+    "imdb_id": "tt0120338"
+  },
+  {
+    "title": "Avatar",
+    "release_year": "2009",
+    "clean_title": "/film/avatar/",
+    "adult": false,
+    "id": 19995,
+    "imdb_id": "tt0499549"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "release_year": "2017",
+    "clean_title": "/film/blade-runner-2049/",
+    "adult": false,
+    "id": 335984,
+    "imdb_id": "tt1856101"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "The Matrix",
+    "release_year": "1999",
+    "clean_title": "/film/the-matrix/",
+    "adult": false,
+    "id": 603,
+    "imdb_id": "tt0133093"
+  },
+  {
+    "title": "Gladiator",
+    "release_year": "2000",
+    "clean_title": "/film/gladiator-2000/",
+    "adult": false,
+    "id": 98,
+    "imdb_id": "tt0172495"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "release_year": "2002",
+    "clean_title": "/film/the-lord-of-the-rings-the-two-towers/",
+    "adult": false,
+    "id": 121,
+    "imdb_id": "tt0167261"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "release_year": "2019",
+    "clean_title": "/film/avengers-endgame/",
+    "adult": false,
+    "id": 299534,
+    "imdb_id": "tt4154796"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "release_year": "2015",
+    "clean_title": "/film/mad-max-fury-road/",
+    "adult": false,
+    "id": 76341,
+    "imdb_id": "tt1392190"
+  },
+  {
+    "title": "Star Wars",
+    "release_year": "1977",
+    "clean_title": "/film/star-wars/",
+    "adult": false,
+    "id": 11,
+    "imdb_id": "tt0076759"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "release_year": "2018",
+    "clean_title": "/film/avengers-infinity-war/",
+    "adult": false,
+    "id": 299536,
+    "imdb_id": "tt4154756"
+  },
+  {
+    "title": "Dune",
+    "release_year": "2021",
+    "clean_title": "/film/dune-2021/",
+    "adult": false,
+    "id": 438631,
+    "imdb_id": "tt1160419"
+  },
+  {
+    "title": "Wicked",
+    "release_year": "2024",
+    "clean_title": "/film/wicked-2024/",
+    "adult": false,
+    "id": 402431,
+    "imdb_id": "tt1262426"
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "release_year": "1993",
+    "clean_title": "/film/the-nightmare-before-christmas/",
+    "adult": false,
+    "id": 9479,
+    "imdb_id": "tt0107688"
+  },
+  {
+    "title": "Spider-Man 2",
+    "release_year": "2004",
+    "clean_title": "/film/spider-man-2/",
+    "adult": false,
+    "id": 558,
+    "imdb_id": "tt0316654"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "release_year": "2021",
+    "clean_title": "/film/spider-man-no-way-home/",
+    "adult": false,
+    "id": 634649,
+    "imdb_id": "tt10872600"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "release_year": "2010",
+    "clean_title": "/film/alice-in-wonderland-2010/",
+    "adult": false,
+    "id": 12155,
+    "imdb_id": "tt1014759"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "release_year": "2022",
+    "clean_title": "/film/top-gun-maverick/",
+    "adult": false,
+    "id": 361743,
+    "imdb_id": "tt1745960"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "release_year": "2022",
+    "clean_title": "/film/avatar-the-way-of-water/",
+    "adult": false,
+    "id": 76600,
+    "imdb_id": "tt1630029"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "release_year": "2003",
+    "clean_title": "/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/",
+    "adult": false,
+    "id": 22,
+    "imdb_id": "tt0325980"
+  },
+  {
+    "title": "Return of the Jedi",
+    "release_year": "1983",
+    "clean_title": "/film/return-of-the-jedi/",
+    "adult": false,
+    "id": 1892,
+    "imdb_id": "tt0086190"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "release_year": "1981",
+    "clean_title": "/film/raiders-of-the-lost-ark/",
+    "adult": false,
+    "id": 85,
+    "imdb_id": "tt0082971"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "release_year": "2014",
+    "clean_title": "/film/captain-america-the-winter-soldier/",
+    "adult": false,
+    "id": 100402,
+    "imdb_id": "tt1843866"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "release_year": "1991",
+    "clean_title": "/film/terminator-2-judgment-day/",
+    "adult": false,
+    "id": 280,
+    "imdb_id": "tt0103064"
+  },
+  {
+    "title": "Spider-Man",
+    "release_year": "2002",
+    "clean_title": "/film/spider-man/",
+    "adult": false,
+    "id": 557,
+    "imdb_id": "tt0145487"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "release_year": "2014",
+    "clean_title": "/film/guardians-of-the-galaxy/",
+    "adult": false,
+    "id": 118340,
+    "imdb_id": "tt2015381"
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "release_year": "2022",
+    "clean_title": "/film/all-quiet-on-the-western-front-2022/",
+    "adult": false,
+    "id": 49046,
+    "imdb_id": "tt1016150"
+  },
+  {
+    "title": "1917",
+    "release_year": "2019",
+    "clean_title": "/film/1917/",
+    "adult": false,
+    "id": 530915,
+    "imdb_id": "tt8579674"
+  },
+  {
+    "title": "Iron Man",
+    "release_year": "2008",
+    "clean_title": "/film/iron-man-2008/",
+    "adult": false,
+    "id": 1726,
+    "imdb_id": "tt0371746"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "release_year": "2023",
+    "clean_title": "/film/guardians-of-the-galaxy-vol-3/",
+    "adult": false,
+    "id": 447365,
+    "imdb_id": "tt6791350"
+  },
+  {
+    "title": "Aliens",
+    "release_year": "1986",
+    "clean_title": "/film/aliens/",
+    "adult": false,
+    "id": 679,
+    "imdb_id": "tt0090605"
+  },
+  {
+    "title": "Godzilla Minus One",
+    "release_year": "2023",
+    "clean_title": "/film/godzilla-minus-one/",
+    "adult": false,
+    "id": 940721,
+    "imdb_id": "tt23289160"
+  },
+  {
+    "title": "Tenet",
+    "release_year": "2020",
+    "clean_title": "/film/tenet/",
+    "adult": false,
+    "id": 577922,
+    "imdb_id": "tt6723592"
+  },
+  {
+    "title": "The Martian",
+    "release_year": "2015",
+    "clean_title": "/film/the-martian/",
+    "adult": false,
+    "id": 286217,
+    "imdb_id": "tt3659388"
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "release_year": "2016",
+    "clean_title": "/film/rogue-one-a-star-wars-story/",
+    "adult": false,
+    "id": 330459,
+    "imdb_id": "tt3748528"
+  },
+  {
+    "title": "Ready Player One",
+    "release_year": "2018",
+    "clean_title": "/film/ready-player-one/",
+    "adult": false,
+    "id": 333339,
+    "imdb_id": "tt1677720"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "release_year": "2005",
+    "clean_title": "/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/",
+    "adult": false,
+    "id": 411,
+    "imdb_id": "tt0363771"
+  },
+  {
+    "title": "Back to the Future Part II",
+    "release_year": "1989",
+    "clean_title": "/film/back-to-the-future-part-ii/",
+    "adult": false,
+    "id": 165,
+    "imdb_id": "tt0096874"
+  },
+  {
+    "title": "Die Hard",
+    "release_year": "1988",
+    "clean_title": "/film/die-hard/",
+    "adult": false,
+    "id": 562,
+    "imdb_id": "tt0095016"
+  },
+  {
+    "title": "F1",
+    "release_year": "2025",
+    "clean_title": "/film/f1/",
+    "adult": false,
+    "id": 911430,
+    "imdb_id": "tt16311594"
+  },
+  {
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "release_year": "2002",
+    "clean_title": "/film/star-wars-episode-ii-attack-of-the-clones/",
+    "adult": false,
+    "id": 1894,
+    "imdb_id": "tt0121765"
+  },
+  {
+    "title": "The Avengers",
+    "release_year": "2012",
+    "clean_title": "/film/the-avengers-2012/",
+    "adult": false,
+    "id": 24428,
+    "imdb_id": "tt0848228"
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "release_year": "2008",
+    "clean_title": "/film/the-curious-case-of-benjamin-button/",
+    "adult": false,
+    "id": 4922,
+    "imdb_id": "tt0421715"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "release_year": "2011",
+    "clean_title": "/film/harry-potter-and-the-deathly-hallows-part-2/",
+    "adult": false,
+    "id": 12445,
+    "imdb_id": "tt1201607"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "release_year": "1982",
+    "clean_title": "/film/et-the-extra-terrestrial/",
+    "adult": false,
+    "id": 601,
+    "imdb_id": "tt0083866"
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "release_year": "2007",
+    "clean_title": "/film/pirates-of-the-caribbean-at-worlds-end/",
+    "adult": false,
+    "id": 285,
+    "imdb_id": "tt0449088"
+  },
+  {
+    "title": "Ex Machina",
+    "release_year": "2015",
+    "clean_title": "/film/ex-machina-2015/",
+    "adult": false,
+    "id": 264660,
+    "imdb_id": "tt0470752"
+  },
+  {
+    "title": "Real Steel",
+    "release_year": "2011",
+    "clean_title": "/film/real-steel/",
+    "adult": false,
+    "id": 39254,
+    "imdb_id": "tt0433035"
+  },
+  {
+    "title": "Ghostbusters",
+    "release_year": "1984",
+    "clean_title": "/film/ghostbusters/",
+    "adult": false,
+    "id": 620,
+    "imdb_id": "tt0087332"
+  },
+  {
+    "title": "The Revenant",
+    "release_year": "2015",
+    "clean_title": "/film/the-revenant-2015/",
+    "adult": false,
+    "id": 281957,
+    "imdb_id": "tt1663202"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "release_year": "2017",
+    "clean_title": "/film/guardians-of-the-galaxy-vol-2/",
+    "adult": false,
+    "id": 283995,
+    "imdb_id": "tt3896198"
+  },
+  {
+    "title": "Transformers",
+    "release_year": "2007",
+    "clean_title": "/film/transformers/",
+    "adult": false,
+    "id": 1858,
+    "imdb_id": "tt0418279"
+  },
+  {
+    "title": "Death Becomes Her",
+    "release_year": "1992",
+    "clean_title": "/film/death-becomes-her/",
+    "adult": false,
+    "id": 9374,
+    "imdb_id": "tt0104070"
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "release_year": "2006",
+    "clean_title": "/film/pirates-of-the-caribbean-dead-mans-chest/",
+    "adult": false,
+    "id": 58,
+    "imdb_id": "tt0383574"
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "release_year": "2025",
+    "clean_title": "/film/avatar-fire-and-ash/",
+    "adult": false,
+    "id": 83533,
+    "imdb_id": "tt1757678"
+  },
+  {
+    "title": "Life of Pi",
+    "release_year": "2012",
+    "clean_title": "/film/life-of-pi/",
+    "adult": false,
+    "id": 87827,
+    "imdb_id": "tt0454876"
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "release_year": "2012",
+    "clean_title": "/film/the-hobbit-an-unexpected-journey/",
+    "adult": false,
+    "id": 49051,
+    "imdb_id": "tt0903624"
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "release_year": "1988",
+    "clean_title": "/film/who-framed-roger-rabbit/",
+    "adult": false,
+    "id": 856,
+    "imdb_id": "tt0096438"
+  },
+  {
+    "title": "Little Shop of Horrors",
+    "release_year": "1986",
+    "clean_title": "/film/little-shop-of-horrors/",
+    "adult": false,
+    "id": 10776,
+    "imdb_id": "tt0091419"
+  },
+  {
+    "title": "The Irishman",
+    "release_year": "2019",
+    "clean_title": "/film/the-irishman-2019/",
+    "adult": false,
+    "id": 398978,
+    "imdb_id": "tt1302006"
+  },
+  {
+    "title": "Mary Poppins",
+    "release_year": "1964",
+    "clean_title": "/film/mary-poppins/",
+    "adult": false,
+    "id": 433,
+    "imdb_id": "tt0058331"
+  },
+  {
+    "title": "Dawn of the Planet of the Apes",
+    "release_year": "2014",
+    "clean_title": "/film/dawn-of-the-planet-of-the-apes/",
+    "adult": false,
+    "id": 119450,
+    "imdb_id": "tt2103281"
+  },
+  {
+    "title": "Predator",
+    "release_year": "1987",
+    "clean_title": "/film/predator/",
+    "adult": false,
+    "id": 106,
+    "imdb_id": "tt0093773"
+  },
+  {
+    "title": "The Mask",
+    "release_year": "1994",
+    "clean_title": "/film/the-mask-1994/",
+    "adult": false,
+    "id": 854,
+    "imdb_id": "tt0110475"
+  },
+  {
+    "title": "Master and Commander: The Far Side of the World",
+    "release_year": "2003",
+    "clean_title": "/film/master-and-commander-the-far-side-of-the-world/",
+    "adult": false,
+    "id": 8619,
+    "imdb_id": "tt0311113"
+  },
+  {
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "release_year": "1999",
+    "clean_title": "/film/star-wars-episode-i-the-phantom-menace/",
+    "adult": false,
+    "id": 1893,
+    "imdb_id": "tt0120915"
+  },
+  {
+    "title": "Starship Troopers",
+    "release_year": "1997",
+    "clean_title": "/film/starship-troopers/",
+    "adult": false,
+    "id": 563,
+    "imdb_id": "tt0120201"
+  },
+  {
+    "title": "Better Man",
+    "release_year": "2024",
+    "clean_title": "/film/better-man-2024/",
+    "adult": false,
+    "id": 799766,
+    "imdb_id": "tt14260836"
+  },
+  {
+    "title": "Pearl Harbor",
+    "release_year": "2001",
+    "clean_title": "/film/pearl-harbor/",
+    "adult": false,
+    "id": 676,
+    "imdb_id": "tt0213149"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "release_year": "2010",
+    "clean_title": "/film/harry-potter-and-the-deathly-hallows-part-1/",
+    "adult": false,
+    "id": 12444,
+    "imdb_id": "tt0926084"
+  },
+  {
+    "title": "Alien: Romulus",
+    "release_year": "2024",
+    "clean_title": "/film/alien-romulus/",
+    "adult": false,
+    "id": 945961,
+    "imdb_id": "tt18412256"
+  },
+  {
+    "title": "Twister",
+    "release_year": "1996",
+    "clean_title": "/film/twister/",
+    "adult": false,
+    "id": 664,
+    "imdb_id": "tt0117998"
+  },
+  {
+    "title": "District 9",
+    "release_year": "2009",
+    "clean_title": "/film/district-9/",
+    "adult": false,
+    "id": 17654,
+    "imdb_id": "tt1136608"
+  },
+  {
+    "title": "Hook",
+    "release_year": "1991",
+    "clean_title": "/film/hook/",
+    "adult": false,
+    "id": 879,
+    "imdb_id": "tt0102057"
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "release_year": "2011",
+    "clean_title": "/film/transformers-dark-of-the-moon/",
+    "adult": false,
+    "id": 38356,
+    "imdb_id": "tt1399103"
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "release_year": "2016",
+    "clean_title": "/film/kubo-and-the-two-strings/",
+    "adult": false,
+    "id": 313297,
+    "imdb_id": "tt4302938"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "release_year": "2014",
+    "clean_title": "/film/x-men-days-of-future-past/",
+    "adult": false,
+    "id": 127585,
+    "imdb_id": "tt1877832"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "release_year": "1984",
+    "clean_title": "/film/indiana-jones-and-the-temple-of-doom/",
+    "adult": false,
+    "id": 87,
+    "imdb_id": "tt0087469"
+  },
+  {
+    "title": "A.I. Artificial Intelligence",
+    "release_year": "2001",
+    "clean_title": "/film/ai-artificial-intelligence/",
+    "adult": false,
+    "id": 644,
+    "imdb_id": "tt0212720"
+  },
+  {
+    "title": "Doctor Strange",
+    "release_year": "2016",
+    "clean_title": "/film/doctor-strange-2016/",
+    "adult": false,
+    "id": 284052,
+    "imdb_id": "tt1211837"
+  },
+  {
+    "title": "War for the Planet of the Apes",
+    "release_year": "2017",
+    "clean_title": "/film/war-for-the-planet-of-the-apes/",
+    "adult": false,
+    "id": 281338,
+    "imdb_id": "tt3450958"
+  },
+  {
+    "title": "Rise of the Planet of the Apes",
+    "release_year": "2011",
+    "clean_title": "/film/rise-of-the-planet-of-the-apes/",
+    "adult": false,
+    "id": 61791,
+    "imdb_id": "tt1318514"
+  },
+  {
+    "title": "Star Wars: The Last Jedi",
+    "release_year": "2017",
+    "clean_title": "/film/star-wars-the-last-jedi/",
+    "adult": false,
+    "id": 181808,
+    "imdb_id": "tt2527336"
+  },
+  {
+    "title": "Batman Returns",
+    "release_year": "1992",
+    "clean_title": "/film/batman-returns/",
+    "adult": false,
+    "id": 364,
+    "imdb_id": "tt0103776"
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "release_year": "1977",
+    "clean_title": "/film/close-encounters-of-the-third-kind/",
+    "adult": false,
+    "id": 840,
+    "imdb_id": "tt0075860"
+  },
+  {
+    "title": "Iron Man 3",
+    "release_year": "2013",
+    "clean_title": "/film/iron-man-3/",
+    "adult": false,
+    "id": 68721,
+    "imdb_id": "tt1300854"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Citizen Kane",
+    "release_year": "1941",
+    "clean_title": "/film/citizen-kane/",
+    "adult": false,
+    "id": 15,
+    "imdb_id": "tt0033467"
+  },
+  {
+    "title": "The Godfather",
+    "release_year": "1972",
+    "clean_title": "/film/the-godfather/",
+    "adult": false,
+    "id": 238,
+    "imdb_id": "tt0068646"
+  },
+  {
+    "title": "Casablanca",
+    "release_year": "1942",
+    "clean_title": "/film/casablanca/",
+    "adult": false,
+    "id": 289,
+    "imdb_id": "tt0034583"
+  },
+  {
+    "title": "Raging Bull",
+    "release_year": "1980",
+    "clean_title": "/film/raging-bull/",
+    "adult": false,
+    "id": 1578,
+    "imdb_id": "tt0081398"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "release_year": "1952",
+    "clean_title": "/film/singin-in-the-rain/",
+    "adult": false,
+    "id": 872,
+    "imdb_id": "tt0045152"
+  },
+  {
+    "title": "Gone with the Wind",
+    "release_year": "1939",
+    "clean_title": "/film/gone-with-the-wind/",
+    "adult": false,
+    "id": 770,
+    "imdb_id": "tt0031381"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "release_year": "1962",
+    "clean_title": "/film/lawrence-of-arabia/",
+    "adult": false,
+    "id": 947,
+    "imdb_id": "tt0056172"
+  },
+  {
+    "title": "Schindler's List",
+    "release_year": "1993",
+    "clean_title": "/film/schindlers-list/",
+    "adult": false,
+    "id": 424,
+    "imdb_id": "tt0108052"
+  },
+  {
+    "title": "Vertigo",
+    "release_year": "1958",
+    "clean_title": "/film/vertigo/",
+    "adult": false,
+    "id": 426,
+    "imdb_id": "tt0052357"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "release_year": "1939",
+    "clean_title": "/film/the-wizard-of-oz-1939/",
+    "adult": false,
+    "id": 630,
+    "imdb_id": "tt0032138"
+  },
+  {
+    "title": "City Lights",
+    "release_year": "1931",
+    "clean_title": "/film/city-lights/",
+    "adult": false,
+    "id": 901,
+    "imdb_id": "tt0021749"
+  },
+  {
+    "title": "The Searchers",
+    "release_year": "1956",
+    "clean_title": "/film/the-searchers/",
+    "adult": false,
+    "id": 3114,
+    "imdb_id": "tt0049730"
+  },
+  {
+    "title": "Star Wars",
+    "release_year": "1977",
+    "clean_title": "/film/star-wars/",
+    "adult": false,
+    "id": 11,
+    "imdb_id": "tt0076759"
+  },
+  {
+    "title": "Psycho",
+    "release_year": "1960",
+    "clean_title": "/film/psycho/",
+    "adult": false,
+    "id": 539,
+    "imdb_id": "tt0054215"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "release_year": "1968",
+    "clean_title": "/film/2001-a-space-odyssey/",
+    "adult": false,
+    "id": 62,
+    "imdb_id": "tt0062622"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "release_year": "1950",
+    "clean_title": "/film/sunset-boulevard/",
+    "adult": false,
+    "id": 599,
+    "imdb_id": "tt0043014"
+  },
+  {
+    "title": "The Graduate",
+    "release_year": "1967",
+    "clean_title": "/film/the-graduate/",
+    "adult": false,
+    "id": 37247,
+    "imdb_id": "tt0061722"
+  },
+  {
+    "title": "The General",
+    "release_year": "1926",
+    "clean_title": "/film/the-general/",
+    "adult": false,
+    "id": 961,
+    "imdb_id": "tt0017925"
+  },
+  {
+    "title": "On the Waterfront",
+    "release_year": "1954",
+    "clean_title": "/film/on-the-waterfront/",
+    "adult": false,
+    "id": 654,
+    "imdb_id": "tt0047296"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "release_year": "1946",
+    "clean_title": "/film/its-a-wonderful-life/",
+    "adult": false,
+    "id": 1585,
+    "imdb_id": "tt0038650"
+  },
+  {
+    "title": "Chinatown",
+    "release_year": "1974",
+    "clean_title": "/film/chinatown/",
+    "adult": false,
+    "id": 829,
+    "imdb_id": "tt0071315"
+  },
+  {
+    "title": "Some Like It Hot",
+    "release_year": "1959",
+    "clean_title": "/film/some-like-it-hot/",
+    "adult": false,
+    "id": 239,
+    "imdb_id": "tt0053291"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "release_year": "1940",
+    "clean_title": "/film/the-grapes-of-wrath/",
+    "adult": false,
+    "id": 596,
+    "imdb_id": "tt0032551"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "release_year": "1982",
+    "clean_title": "/film/et-the-extra-terrestrial/",
+    "adult": false,
+    "id": 601,
+    "imdb_id": "tt0083866"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "release_year": "1962",
+    "clean_title": "/film/to-kill-a-mockingbird/",
+    "adult": false,
+    "id": 595,
+    "imdb_id": "tt0056592"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "release_year": "1939",
+    "clean_title": "/film/mr-smith-goes-to-washington/",
+    "adult": false,
+    "id": 3083,
+    "imdb_id": "tt0031679"
+  },
+  {
+    "title": "High Noon",
+    "release_year": "1952",
+    "clean_title": "/film/high-noon/",
+    "adult": false,
+    "id": 288,
+    "imdb_id": "tt0044706"
+  },
+  {
+    "title": "All About Eve",
+    "release_year": "1950",
+    "clean_title": "/film/all-about-eve/",
+    "adult": false,
+    "id": 705,
+    "imdb_id": "tt0042192"
+  },
+  {
+    "title": "Double Indemnity",
+    "release_year": "1944",
+    "clean_title": "/film/double-indemnity/",
+    "adult": false,
+    "id": 996,
+    "imdb_id": "tt0036775"
+  },
+  {
+    "title": "Apocalypse Now",
+    "release_year": "1979",
+    "clean_title": "/film/apocalypse-now/",
+    "adult": false,
+    "id": 28,
+    "imdb_id": "tt0078788"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "release_year": "1941",
+    "clean_title": "/film/the-maltese-falcon-1941/",
+    "adult": false,
+    "id": 963,
+    "imdb_id": "tt0033870"
+  },
+  {
+    "title": "The Godfather Part II",
+    "release_year": "1974",
+    "clean_title": "/film/the-godfather-part-ii/",
+    "adult": false,
+    "id": 240,
+    "imdb_id": "tt0071562"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "release_year": "1975",
+    "clean_title": "/film/one-flew-over-the-cuckoos-nest/",
+    "adult": false,
+    "id": 510,
+    "imdb_id": "tt0073486"
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "release_year": "1937",
+    "clean_title": "/film/snow-white-and-the-seven-dwarfs/",
+    "adult": false,
+    "id": 408,
+    "imdb_id": "tt0029583"
+  },
+  {
+    "title": "Annie Hall",
+    "release_year": "1977",
+    "clean_title": "/film/annie-hall/",
+    "adult": false,
+    "id": 703,
+    "imdb_id": "tt0075686"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "release_year": "1957",
+    "clean_title": "/film/the-bridge-on-the-river-kwai/",
+    "adult": false,
+    "id": 826,
+    "imdb_id": "tt0050212"
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "release_year": "1946",
+    "clean_title": "/film/the-best-years-of-our-lives/",
+    "adult": false,
+    "id": 887,
+    "imdb_id": "tt0036868"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "release_year": "1948",
+    "clean_title": "/film/the-treasure-of-the-sierra-madre/",
+    "adult": false,
+    "id": 3090,
+    "imdb_id": "tt0040897"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "release_year": "1964",
+    "clean_title": "/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+    "adult": false,
+    "id": 935,
+    "imdb_id": "tt0057012"
+  },
+  {
+    "title": "The Sound of Music",
+    "release_year": "1965",
+    "clean_title": "/film/the-sound-of-music/",
+    "adult": false,
+    "id": 15121,
+    "imdb_id": "tt0059742"
+  },
+  {
+    "title": "King Kong",
+    "release_year": "1933",
+    "clean_title": "/film/king-kong/",
+    "adult": false,
+    "id": 244,
+    "imdb_id": "tt0024216"
+  },
+  {
+    "title": "Bonnie and Clyde",
+    "release_year": "1967",
+    "clean_title": "/film/bonnie-and-clyde/",
+    "adult": false,
+    "id": 475,
+    "imdb_id": "tt0061418"
+  },
+  {
+    "title": "Midnight Cowboy",
+    "release_year": "1969",
+    "clean_title": "/film/midnight-cowboy/",
+    "adult": false,
+    "id": 3116,
+    "imdb_id": "tt0064665"
+  },
+  {
+    "title": "The Philadelphia Story",
+    "release_year": "1940",
+    "clean_title": "/film/the-philadelphia-story/",
+    "adult": false,
+    "id": 981,
+    "imdb_id": "tt0032904"
+  },
+  {
+    "title": "Shane",
+    "release_year": "1953",
+    "clean_title": "/film/shane/",
+    "adult": false,
+    "id": 3110,
+    "imdb_id": "tt0046303"
+  },
+  {
+    "title": "It Happened One Night",
+    "release_year": "1934",
+    "clean_title": "/film/it-happened-one-night/",
+    "adult": false,
+    "id": 3078,
+    "imdb_id": "tt0025316"
+  },
+  {
+    "title": "A Streetcar Named Desire",
+    "release_year": "1951",
+    "clean_title": "/film/a-streetcar-named-desire/",
+    "adult": false,
+    "id": 702,
+    "imdb_id": "tt0044081"
+  },
+  {
+    "title": "Rear Window",
+    "release_year": "1954",
+    "clean_title": "/film/rear-window/",
+    "adult": false,
+    "id": 567,
+    "imdb_id": "tt0047396"
+  },
+  {
+    "title": "Intolerance: Love's Struggle Throughout the Ages",
+    "release_year": "1916",
+    "clean_title": "/film/intolerance-loves-struggle-throughout-the-ages/",
+    "adult": false,
+    "id": 3059,
+    "imdb_id": "tt0006864"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "West Side Story",
+    "release_year": "1961",
+    "clean_title": "/film/west-side-story/",
+    "adult": false,
+    "id": 1725,
+    "imdb_id": "tt0055614"
+  },
+  {
+    "title": "Taxi Driver",
+    "release_year": "1976",
+    "clean_title": "/film/taxi-driver/",
+    "adult": false,
+    "id": 103,
+    "imdb_id": "tt0075314"
+  },
+  {
+    "title": "The Deer Hunter",
+    "release_year": "1978",
+    "clean_title": "/film/the-deer-hunter/",
+    "adult": false,
+    "id": 11778,
+    "imdb_id": "tt0077416"
+  },
+  {
+    "title": "M*A*S*H",
+    "release_year": "1970",
+    "clean_title": "/film/mash/",
+    "adult": false,
+    "id": 651,
+    "imdb_id": "tt0066026"
+  },
+  {
+    "title": "North by Northwest",
+    "release_year": "1959",
+    "clean_title": "/film/north-by-northwest/",
+    "adult": false,
+    "id": 213,
+    "imdb_id": "tt0053125"
+  },
+  {
+    "title": "Jaws",
+    "release_year": "1975",
+    "clean_title": "/film/jaws/",
+    "adult": false,
+    "id": 578,
+    "imdb_id": "tt0073195"
+  },
+  {
+    "title": "Rocky",
+    "release_year": "1976",
+    "clean_title": "/film/rocky/",
+    "adult": false,
+    "id": 1366,
+    "imdb_id": "tt0075148"
+  },
+  {
+    "title": "The Gold Rush",
+    "release_year": "1925",
+    "clean_title": "/film/the-gold-rush/",
+    "adult": false,
+    "id": 962,
+    "imdb_id": "tt0015864"
+  },
+  {
+    "title": "Nashville",
+    "release_year": "1975",
+    "clean_title": "/film/nashville/",
+    "adult": false,
+    "id": 3121,
+    "imdb_id": "tt0073440"
+  },
+  {
+    "title": "Duck Soup",
+    "release_year": "1933",
+    "clean_title": "/film/duck-soup-1933/",
+    "adult": false,
+    "id": 3063,
+    "imdb_id": "tt0023969"
+  },
+  {
+    "title": "Sullivan's Travels",
+    "release_year": "1941",
+    "clean_title": "/film/sullivans-travels/",
+    "adult": false,
+    "id": 16305,
+    "imdb_id": "tt0034240"
+  },
+  {
+    "title": "American Graffiti",
+    "release_year": "1973",
+    "clean_title": "/film/american-graffiti/",
+    "adult": false,
+    "id": 838,
+    "imdb_id": "tt0069704"
+  },
+  {
+    "title": "Cabaret",
+    "release_year": "1972",
+    "clean_title": "/film/cabaret/",
+    "adult": false,
+    "id": 10784,
+    "imdb_id": "tt0068327"
+  },
+  {
+    "title": "Network",
+    "release_year": "1976",
+    "clean_title": "/film/network/",
+    "adult": false,
+    "id": 10774,
+    "imdb_id": "tt0074958"
+  },
+  {
+    "title": "The African Queen",
+    "release_year": "1951",
+    "clean_title": "/film/the-african-queen/",
+    "adult": false,
+    "id": 488,
+    "imdb_id": "tt0043265"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "release_year": "1981",
+    "clean_title": "/film/raiders-of-the-lost-ark/",
+    "adult": false,
+    "id": 85,
+    "imdb_id": "tt0082971"
+  },
+  {
+    "title": "Who's Afraid of Virginia Woolf?",
+    "release_year": "1966",
+    "clean_title": "/film/whos-afraid-of-virginia-woolf/",
+    "adult": false,
+    "id": 396,
+    "imdb_id": "tt0061184"
+  },
+  {
+    "title": "Unforgiven",
+    "release_year": "1992",
+    "clean_title": "/film/unforgiven/",
+    "adult": false,
+    "id": 33,
+    "imdb_id": "tt0105695"
+  },
+  {
+    "title": "Tootsie",
+    "release_year": "1982",
+    "clean_title": "/film/tootsie/",
+    "adult": false,
+    "id": 9576,
+    "imdb_id": "tt0084805"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "release_year": "1971",
+    "clean_title": "/film/a-clockwork-orange/",
+    "adult": false,
+    "id": 185,
+    "imdb_id": "tt0066921"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "release_year": "1998",
+    "clean_title": "/film/saving-private-ryan/",
+    "adult": false,
+    "id": 857,
+    "imdb_id": "tt0120815"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "release_year": "1994",
+    "clean_title": "/film/the-shawshank-redemption/",
+    "adult": false,
+    "id": 278,
+    "imdb_id": "tt0111161"
+  },
+  {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "release_year": "1969",
+    "clean_title": "/film/butch-cassidy-and-the-sundance-kid/",
+    "adult": false,
+    "id": 642,
+    "imdb_id": "tt0064115"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "release_year": "1991",
+    "clean_title": "/film/the-silence-of-the-lambs/",
+    "adult": false,
+    "id": 274,
+    "imdb_id": "tt0102926"
+  },
+  {
+    "title": "In the Heat of the Night",
+    "release_year": "1967",
+    "clean_title": "/film/in-the-heat-of-the-night/",
+    "adult": false,
+    "id": 10633,
+    "imdb_id": "tt0061811"
+  },
+  {
+    "title": "Forrest Gump",
+    "release_year": "1994",
+    "clean_title": "/film/forrest-gump/",
+    "adult": false,
+    "id": 13,
+    "imdb_id": "tt0109830"
+  },
+  {
+    "title": "All the President's Men",
+    "release_year": "1976",
+    "clean_title": "/film/all-the-presidents-men/",
+    "adult": false,
+    "id": 891,
+    "imdb_id": "tt0074119"
+  },
+  {
+    "title": "Modern Times",
+    "release_year": "1936",
+    "clean_title": "/film/modern-times/",
+    "adult": false,
+    "id": 3082,
+    "imdb_id": "tt0027977"
+  },
+  {
+    "title": "The Wild Bunch",
+    "release_year": "1969",
+    "clean_title": "/film/the-wild-bunch/",
+    "adult": false,
+    "id": 576,
+    "imdb_id": "tt0065214"
+  },
+  {
+    "title": "The Apartment",
+    "release_year": "1960",
+    "clean_title": "/film/the-apartment/",
+    "adult": false,
+    "id": 284,
+    "imdb_id": "tt0053604"
+  },
+  {
+    "title": "Spartacus",
+    "release_year": "1960",
+    "clean_title": "/film/spartacus/",
+    "adult": false,
+    "id": 967,
+    "imdb_id": "tt0054331"
+  },
+  {
+    "title": "Sunrise: A Song of Two Humans",
+    "release_year": "1927",
+    "clean_title": "/film/sunrise-a-song-of-two-humans/",
+    "adult": false,
+    "id": 631,
+    "imdb_id": "tt0018455"
+  },
+  {
+    "title": "Titanic",
+    "release_year": "1997",
+    "clean_title": "/film/titanic-1997/",
+    "adult": false,
+    "id": 597,
+    "imdb_id": "tt0120338"
+  },
+  {
+    "title": "Easy Rider",
+    "release_year": "1969",
+    "clean_title": "/film/easy-rider/",
+    "adult": false,
+    "id": 624,
+    "imdb_id": "tt0064276"
+  },
+  {
+    "title": "A Night at the Opera",
+    "release_year": "1935",
+    "clean_title": "/film/a-night-at-the-opera/",
+    "adult": false,
+    "id": 37719,
+    "imdb_id": "tt0026778"
+  },
+  {
+    "title": "Platoon",
+    "release_year": "1986",
+    "clean_title": "/film/platoon/",
+    "adult": false,
+    "id": 792,
+    "imdb_id": "tt0091763"
+  },
+  {
+    "title": "12 Angry Men",
+    "release_year": "1957",
+    "clean_title": "/film/12-angry-men/",
+    "adult": false,
+    "id": 389,
+    "imdb_id": "tt0050083"
+  },
+  {
+    "title": "Bringing Up Baby",
+    "release_year": "1938",
+    "clean_title": "/film/bringing-up-baby/",
+    "adult": false,
+    "id": 900,
+    "imdb_id": "tt0029947"
+  },
+  {
+    "title": "The Sixth Sense",
+    "release_year": "1999",
+    "clean_title": "/film/the-sixth-sense/",
+    "adult": false,
+    "id": 745,
+    "imdb_id": "tt0167404"
+  },
+  {
+    "title": "Swing Time",
+    "release_year": "1936",
+    "clean_title": "/film/swing-time/",
+    "adult": false,
+    "id": 20325,
+    "imdb_id": "tt0028333"
+  },
+  {
+    "title": "Sophie's Choice",
+    "release_year": "1982",
+    "clean_title": "/film/sophies-choice/",
+    "adult": false,
+    "id": 15764,
+    "imdb_id": "tt0084707"
+  },
+  {
+    "title": "GoodFellas",
+    "release_year": "1990",
+    "clean_title": "/film/goodfellas/",
+    "adult": false,
+    "id": 769,
+    "imdb_id": "tt0099685"
+  },
+  {
+    "title": "The French Connection",
+    "release_year": "1971",
+    "clean_title": "/film/the-french-connection/",
+    "adult": false,
+    "id": 1051,
+    "imdb_id": "tt0067116"
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_year": "1994",
+    "clean_title": "/film/pulp-fiction/",
+    "adult": false,
+    "id": 680,
+    "imdb_id": "tt0110912"
+  },
+  {
+    "title": "The Last Picture Show",
+    "release_year": "1971",
+    "clean_title": "/film/the-last-picture-show/",
+    "adult": false,
+    "id": 25188,
+    "imdb_id": "tt0067328"
+  },
+  {
+    "title": "Do the Right Thing",
+    "release_year": "1989",
+    "clean_title": "/film/do-the-right-thing/",
+    "adult": false,
+    "id": 925,
+    "imdb_id": "tt0097216"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "Yankee Doodle Dandy",
+    "release_year": "1942",
+    "clean_title": "/film/yankee-doodle-dandy/",
+    "adult": false,
+    "id": 3087,
+    "imdb_id": "tt0035575"
+  },
+  {
+    "title": "Toy Story",
+    "release_year": "1995",
+    "clean_title": "/film/toy-story/",
+    "adult": false,
+    "id": 862,
+    "imdb_id": "tt0114709"
+  },
+  {
+    "title": "Ben-Hur",
+    "release_year": "1959",
+    "clean_title": "/film/ben-hur-1959/",
+    "adult": false,
+    "id": 665,
+    "imdb_id": "tt0052618"
+  }
+]

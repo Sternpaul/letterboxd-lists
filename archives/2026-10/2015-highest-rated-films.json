@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Mad Max: Fury Road",
+    "release_year": "2015",
+    "clean_title": "/film/mad-max-fury-road/",
+    "adult": false,
+    "id": 76341,
+    "imdb_id": "tt1392190"
+  },
+  {
+    "title": "Inside Out",
+    "release_year": "2015",
+    "clean_title": "/film/inside-out-2015/",
+    "adult": false,
+    "id": 150540,
+    "imdb_id": "tt2096673"
+  },
+  {
+    "title": "Carol",
+    "release_year": "2015",
+    "clean_title": "/film/carol-2015/",
+    "adult": false,
+    "id": 258480,
+    "imdb_id": "tt2402927"
+  },
+  {
+    "title": "Spotlight",
+    "release_year": "2015",
+    "clean_title": "/film/spotlight/",
+    "adult": false,
+    "id": 314365,
+    "imdb_id": "tt1895587"
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "release_year": "2015",
+    "clean_title": "/film/star-wars-the-force-awakens/",
+    "adult": false,
+    "id": 140607,
+    "imdb_id": "tt2488496"
+  },
+  {
+    "title": "The Second Mother",
+    "release_year": "2015",
+    "clean_title": "/film/the-second-mother/",
+    "adult": false,
+    "id": 310569,
+    "imdb_id": "tt3742378"
+  },
+  {
+    "title": "Anomalisa",
+    "release_year": "2015",
+    "clean_title": "/film/anomalisa/",
+    "adult": false,
+    "id": 291270,
+    "imdb_id": "tt2401878"
+  },
+  {
+    "title": "Room",
+    "release_year": "2015",
+    "clean_title": "/film/room-2015/",
+    "adult": false,
+    "id": 264644,
+    "imdb_id": "tt3170832"
+  },
+  {
+    "title": "Creed",
+    "release_year": "2015",
+    "clean_title": "/film/creed/",
+    "adult": false,
+    "id": 312221,
+    "imdb_id": "tt3076658"
+  },
+  {
+    "title": "Son of Saul",
+    "release_year": "2015",
+    "clean_title": "/film/son-of-saul/",
+    "adult": false,
+    "id": 336050,
+    "imdb_id": "tt3808342"
+  },
+  {
+    "title": "Sicario",
+    "release_year": "2015",
+    "clean_title": "/film/sicario-2015/",
+    "adult": false,
+    "id": 273481,
+    "imdb_id": "tt3397884"
+  },
+  {
+    "title": "The Hateful Eight",
+    "release_year": "2015",
+    "clean_title": "/film/the-hateful-eight/",
+    "adult": false,
+    "id": 273248,
+    "imdb_id": "tt3460252"
+  },
+  {
+    "title": "Ex Machina",
+    "release_year": "2015",
+    "clean_title": "/film/ex-machina-2015/",
+    "adult": false,
+    "id": 264660,
+    "imdb_id": "tt0470752"
+  },
+  {
+    "title": "The Revenant",
+    "release_year": "2015",
+    "clean_title": "/film/the-revenant-2015/",
+    "adult": false,
+    "id": 281957,
+    "imdb_id": "tt1663202"
+  },
+  {
+    "title": "45 Years",
+    "release_year": "2015",
+    "clean_title": "/film/45-years/",
+    "adult": false,
+    "id": 311291,
+    "imdb_id": "tt3544082"
+  },
+  {
+    "title": "The Martian",
+    "release_year": "2015",
+    "clean_title": "/film/the-martian/",
+    "adult": false,
+    "id": 286217,
+    "imdb_id": "tt3659388"
+  },
+  {
+    "title": "The Lobster",
+    "release_year": "2015",
+    "clean_title": "/film/the-lobster/",
+    "adult": false,
+    "id": 254320,
+    "imdb_id": "tt3464902"
+  },
+  {
+    "title": "Beasts of No Nation",
+    "release_year": "2015",
+    "clean_title": "/film/beasts-of-no-nation/",
+    "adult": false,
+    "id": 283587,
+    "imdb_id": "tt1365050"
+  },
+  {
+    "title": "Brooklyn",
+    "release_year": "2015",
+    "clean_title": "/film/brooklyn/",
+    "adult": false,
+    "id": 167073,
+    "imdb_id": "tt2381111"
+  },
+  {
+    "title": "Steve Jobs",
+    "release_year": "2015",
+    "clean_title": "/film/steve-jobs/",
+    "adult": false,
+    "id": 321697,
+    "imdb_id": "tt2080374"
+  },
+  {
+    "title": "Victoria",
+    "release_year": "2015",
+    "clean_title": "/film/victoria-2015/",
+    "adult": false,
+    "id": 320007,
+    "imdb_id": "tt4226388"
+  },
+  {
+    "title": "Taxi",
+    "release_year": "2015",
+    "clean_title": "/film/taxi-2015/",
+    "adult": false,
+    "id": 320006,
+    "imdb_id": "tt4359416"
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "release_year": "2014",
+    "clean_title": "/film/what-we-do-in-the-shadows/",
+    "adult": false,
+    "id": 246741,
+    "imdb_id": "tt3416742"
+  },
+  {
+    "title": "The End of the Tour",
+    "release_year": "2015",
+    "clean_title": "/film/the-end-of-the-tour/",
+    "adult": false,
+    "id": 249688,
+    "imdb_id": "tt3416744"
+  },
+  {
+    "title": "The Big Short",
+    "release_year": "2015",
+    "clean_title": "/film/the-big-short/",
+    "adult": false,
+    "id": 318846,
+    "imdb_id": "tt1596363"
+  },
+  {
+    "title": "Hard to Be a God",
+    "release_year": "2013",
+    "clean_title": "/film/hard-to-be-a-god/",
+    "adult": false,
+    "id": 110402,
+    "imdb_id": "tt2328813"
+  },
+  {
+    "title": "Mustang",
+    "release_year": "2015",
+    "clean_title": "/film/mustang-2015/",
+    "adult": false,
+    "id": 336804,
+    "imdb_id": "tt3966404"
+  },
+  {
+    "title": "The Duke of Burgundy",
+    "release_year": "2014",
+    "clean_title": "/film/the-duke-of-burgundy/",
+    "adult": false,
+    "id": 250225,
+    "imdb_id": "tt2570858"
+  },
+  {
+    "title": "The Forbidden Room",
+    "release_year": "2015",
+    "clean_title": "/film/the-forbidden-room-2015/",
+    "adult": false,
+    "id": 315855,
+    "imdb_id": "tt3066630"
+  },
+  {
+    "title": "Straight Outta Compton",
+    "release_year": "2015",
+    "clean_title": "/film/straight-outta-compton/",
+    "adult": false,
+    "id": 277216,
+    "imdb_id": "tt1398426"
+  },
+  {
+    "title": "Tangerine",
+    "release_year": "2015",
+    "clean_title": "/film/tangerine/",
+    "adult": false,
+    "id": 308084,
+    "imdb_id": "tt3824458"
+  },
+  {
+    "title": "Bridge of Spies",
+    "release_year": "2015",
+    "clean_title": "/film/bridge-of-spies/",
+    "adult": false,
+    "id": 296098,
+    "imdb_id": "tt3682448"
+  },
+  {
+    "title": "Me and Earl and the Dying Girl",
+    "release_year": "2015",
+    "clean_title": "/film/me-and-earl-and-the-dying-girl/",
+    "adult": false,
+    "id": 308369,
+    "imdb_id": "tt2582496"
+  },
+  {
+    "title": "Love & Mercy",
+    "release_year": "2014",
+    "clean_title": "/film/love-mercy/",
+    "adult": false,
+    "id": 271714,
+    "imdb_id": "tt0903657"
+  },
+  {
+    "title": "Mistress America",
+    "release_year": "2015",
+    "clean_title": "/film/mistress-america/",
+    "adult": false,
+    "id": 309245,
+    "imdb_id": "tt2872462"
+  },
+  {
+    "title": "It Follows",
+    "release_year": "2014",
+    "clean_title": "/film/it-follows/",
+    "adult": false,
+    "id": 270303,
+    "imdb_id": "tt3235888"
+  },
+  {
+    "title": "Shaun the Sheep Movie",
+    "release_year": "2015",
+    "clean_title": "/film/shaun-the-sheep-movie/",
+    "adult": false,
+    "id": 263109,
+    "imdb_id": "tt2872750"
+  },
+  {
+    "title": "James White",
+    "release_year": "2015",
+    "clean_title": "/film/james-white/",
+    "adult": false,
+    "id": 312804,
+    "imdb_id": "tt4288636"
+  },
+  {
+    "title": "Bone Tomahawk",
+    "release_year": "2015",
+    "clean_title": "/film/bone-tomahawk/",
+    "adult": false,
+    "id": 294963,
+    "imdb_id": "tt2494362"
+  },
+  {
+    "title": "When Marnie Was There",
+    "release_year": "2014",
+    "clean_title": "/film/when-marnie-was-there/",
+    "adult": false,
+    "id": 242828,
+    "imdb_id": "tt3398268"
+  },
+  {
+    "title": "Arabian Nights: Volume 1, The Restless One",
+    "release_year": "2015",
+    "clean_title": "/film/arabian-nights-volume-1-the-restless-one/",
+    "adult": false,
+    "id": 254736,
+    "imdb_id": "tt3284178"
+  },
+  {
+    "title": "The Pearl Button",
+    "release_year": "2015",
+    "clean_title": "/film/the-pearl-button/",
+    "adult": false,
+    "id": 319994,
+    "imdb_id": "tt4377864"
+  },
+  {
+    "title": "Arabian Nights: Volume 2, The Desolate One",
+    "release_year": "2015",
+    "clean_title": "/film/arabian-nights-volume-2-the-desolate-one/",
+    "adult": false,
+    "id": 342179,
+    "imdb_id": "tt4692234"
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "release_year": "2014",
+    "clean_title": "/film/kingsman-the-secret-service/",
+    "adult": false,
+    "id": 207703,
+    "imdb_id": "tt2802144"
+  },
+  {
+    "title": "The Diary of a Teenage Girl",
+    "release_year": "2015",
+    "clean_title": "/film/the-diary-of-a-teenage-girl/",
+    "adult": false,
+    "id": 250124,
+    "imdb_id": "tt3172532"
+  },
+  {
+    "title": "Mission: Impossible – Rogue Nation",
+    "release_year": "2015",
+    "clean_title": "/film/mission-impossible-rogue-nation/",
+    "adult": false,
+    "id": 177677,
+    "imdb_id": "tt2381249"
+  },
+  {
+    "title": "Piku",
+    "release_year": "2015",
+    "clean_title": "/film/piku/",
+    "adult": false,
+    "id": 332835,
+    "imdb_id": "tt3767372"
+  },
+  {
+    "title": "Court",
+    "release_year": "2014",
+    "clean_title": "/film/court/",
+    "adult": false,
+    "id": 290815,
+    "imdb_id": "tt3717068"
+  },
+  {
+    "title": "Macbeth",
+    "release_year": "2015",
+    "clean_title": "/film/macbeth-2015/",
+    "adult": false,
+    "id": 225728,
+    "imdb_id": "tt2884018"
+  },
+  {
+    "title": "Slow West",
+    "release_year": "2015",
+    "clean_title": "/film/slow-west/",
+    "adult": false,
+    "id": 223485,
+    "imdb_id": "tt3205376"
+  }
+]

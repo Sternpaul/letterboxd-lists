@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Her",
+    "release_year": "2013",
+    "clean_title": "/film/her/",
+    "adult": false,
+    "id": 152601,
+    "imdb_id": "tt1798709"
+  },
+  {
+    "title": "La La Land",
+    "release_year": "2016",
+    "clean_title": "/film/la-la-land/",
+    "adult": false,
+    "id": 313369,
+    "imdb_id": "tt3783958"
+  },
+  {
+    "title": "Back to the Future",
+    "release_year": "1985",
+    "clean_title": "/film/back-to-the-future/",
+    "adult": false,
+    "id": 105,
+    "imdb_id": "tt0088763"
+  },
+  {
+    "title": "The Thing",
+    "release_year": "1982",
+    "clean_title": "/film/the-thing/",
+    "adult": false,
+    "id": 1091,
+    "imdb_id": "tt0084787"
+  },
+  {
+    "title": "Carol",
+    "release_year": "2015",
+    "clean_title": "/film/carol-2015/",
+    "adult": false,
+    "id": 258480,
+    "imdb_id": "tt2402927"
+  },
+  {
+    "title": "Inception",
+    "release_year": "2010",
+    "clean_title": "/film/inception/",
+    "adult": false,
+    "id": 27205,
+    "imdb_id": "tt1375666"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "release_year": "1980",
+    "clean_title": "/film/the-empire-strikes-back/",
+    "adult": false,
+    "id": 1891,
+    "imdb_id": "tt0080684"
+  },
+  {
+    "title": "Jaws",
+    "release_year": "1975",
+    "clean_title": "/film/jaws/",
+    "adult": false,
+    "id": 578,
+    "imdb_id": "tt0073195"
+  },
+  {
+    "title": "Alien",
+    "release_year": "1979",
+    "clean_title": "/film/alien/",
+    "adult": false,
+    "id": 348,
+    "imdb_id": "tt0078748"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "release_year": "1946",
+    "clean_title": "/film/its-a-wonderful-life/",
+    "adult": false,
+    "id": 1585,
+    "imdb_id": "tt0038650"
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_year": "1994",
+    "clean_title": "/film/pulp-fiction/",
+    "adult": false,
+    "id": 680,
+    "imdb_id": "tt0110912"
+  },
+  {
+    "title": "Star Wars",
+    "release_year": "1977",
+    "clean_title": "/film/star-wars/",
+    "adult": false,
+    "id": 11,
+    "imdb_id": "tt0076759"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "release_year": "1968",
+    "clean_title": "/film/2001-a-space-odyssey/",
+    "adult": false,
+    "id": 62,
+    "imdb_id": "tt0062622"
+  },
+  {
+    "title": "Whiplash",
+    "release_year": "2014",
+    "clean_title": "/film/whiplash-2014/",
+    "adult": false,
+    "id": 244786,
+    "imdb_id": "tt2582802"
+  },
+  {
+    "title": "Boyhood",
+    "release_year": "2014",
+    "clean_title": "/film/boyhood/",
+    "adult": false,
+    "id": 85350,
+    "imdb_id": "tt1065073"
+  },
+  {
+    "title": "Jurassic Park",
+    "release_year": "1993",
+    "clean_title": "/film/jurassic-park/",
+    "adult": false,
+    "id": 329,
+    "imdb_id": "tt0107290"
+  },
+  {
+    "title": "The Social Network",
+    "release_year": "2010",
+    "clean_title": "/film/the-social-network/",
+    "adult": false,
+    "id": 37799,
+    "imdb_id": "tt1285016"
+  },
+  {
+    "title": "Drive",
+    "release_year": "2011",
+    "clean_title": "/film/drive-2011/",
+    "adult": false,
+    "id": 64690,
+    "imdb_id": "tt0780504"
+  },
+  {
+    "title": "Inside Out",
+    "release_year": "2015",
+    "clean_title": "/film/inside-out-2015/",
+    "adult": false,
+    "id": 150540,
+    "imdb_id": "tt2096673"
+  },
+  {
+    "title": "Die Hard",
+    "release_year": "1988",
+    "clean_title": "/film/die-hard/",
+    "adult": false,
+    "id": 562,
+    "imdb_id": "tt0095016"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": "2003",
+    "clean_title": "/film/the-lord-of-the-rings-the-return-of-the-king/",
+    "adult": false,
+    "id": 122,
+    "imdb_id": "tt0167260"
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "release_year": "2012",
+    "clean_title": "/film/moonrise-kingdom/",
+    "adult": false,
+    "id": 83666,
+    "imdb_id": "tt1748122"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "release_year": "2015",
+    "clean_title": "/film/mad-max-fury-road/",
+    "adult": false,
+    "id": 76341,
+    "imdb_id": "tt1392190"
+  },
+  {
+    "title": "Gravity",
+    "release_year": "2013",
+    "clean_title": "/film/gravity-2013/",
+    "adult": false,
+    "id": 49047,
+    "imdb_id": "tt1454468"
+  },
+  {
+    "title": "Groundhog Day",
+    "release_year": "1993",
+    "clean_title": "/film/groundhog-day/",
+    "adult": false,
+    "id": 137,
+    "imdb_id": "tt0107048"
+  },
+  {
+    "title": "Dazed and Confused",
+    "release_year": "1993",
+    "clean_title": "/film/dazed-and-confused/",
+    "adult": false,
+    "id": 9571,
+    "imdb_id": "tt0106677"
+  },
+  {
+    "title": "World of Tomorrow",
+    "release_year": "2015",
+    "clean_title": "/film/world-of-tomorrow/",
+    "adult": false,
+    "id": 303867,
+    "imdb_id": "tt4171032"
+  },
+  {
+    "title": "The Big Lebowski",
+    "release_year": "1998",
+    "clean_title": "/film/the-big-lebowski/",
+    "adult": false,
+    "id": 115,
+    "imdb_id": "tt0118715"
+  },
+  {
+    "title": "Ghostbusters",
+    "release_year": "1984",
+    "clean_title": "/film/ghostbusters/",
+    "adult": false,
+    "id": 620,
+    "imdb_id": "tt0087332"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "release_year": "2010",
+    "clean_title": "/film/scott-pilgrim-vs-the-world/",
+    "adult": false,
+    "id": 22538,
+    "imdb_id": "tt0446029"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "release_year": "2009",
+    "clean_title": "/film/inglourious-basterds/",
+    "adult": false,
+    "id": 16869,
+    "imdb_id": "tt0361748"
+  },
+  {
+    "title": "The Master",
+    "release_year": "2012",
+    "clean_title": "/film/the-master-2012/",
+    "adult": false,
+    "id": 68722,
+    "imdb_id": "tt1560747"
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "release_year": "2014",
+    "clean_title": "/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+    "adult": false,
+    "id": 194662,
+    "imdb_id": "tt2562232"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "clean_title": "/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+    "adult": false,
+    "id": 120,
+    "imdb_id": "tt0120737"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": "2008",
+    "clean_title": "/film/the-dark-knight/",
+    "adult": false,
+    "id": 155,
+    "imdb_id": "tt0468569"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "release_year": "2002",
+    "clean_title": "/film/the-lord-of-the-rings-the-two-towers/",
+    "adult": false,
+    "id": 121,
+    "imdb_id": "tt0167261"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "release_year": "2013",
+    "clean_title": "/film/the-wolf-of-wall-street/",
+    "adult": false,
+    "id": 106646,
+    "imdb_id": "tt0993846"
+  },
+  {
+    "title": "Fight Club",
+    "release_year": "1999",
+    "clean_title": "/film/fight-club/",
+    "adult": false,
+    "id": 550,
+    "imdb_id": "tt0137523"
+  },
+  {
+    "title": "Halloween",
+    "release_year": "1978",
+    "clean_title": "/film/halloween-1978/",
+    "adult": false,
+    "id": 948,
+    "imdb_id": "tt0077651"
+  },
+  {
+    "title": "Steve Jobs",
+    "release_year": "2015",
+    "clean_title": "/film/steve-jobs/",
+    "adult": false,
+    "id": 321697,
+    "imdb_id": "tt2080374"
+  },
+  {
+    "title": "Django Unchained",
+    "release_year": "2012",
+    "clean_title": "/film/django-unchained/",
+    "adult": false,
+    "id": 68718,
+    "imdb_id": "tt1853728"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "release_year": "2014",
+    "clean_title": "/film/the-grand-budapest-hotel/",
+    "adult": false,
+    "id": 120467,
+    "imdb_id": "tt2278388"
+  },
+  {
+    "title": "Inside Llewyn Davis",
+    "release_year": "2013",
+    "clean_title": "/film/inside-llewyn-davis/",
+    "adult": false,
+    "id": 86829,
+    "imdb_id": "tt2042568"
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "release_year": "2002",
+    "clean_title": "/film/punch-drunk-love/",
+    "adult": false,
+    "id": 8051,
+    "imdb_id": "tt0272338"
+  },
+  {
+    "title": "Blade Runner",
+    "release_year": "1982",
+    "clean_title": "/film/blade-runner/",
+    "adult": false,
+    "id": 78,
+    "imdb_id": "tt0083658"
+  },
+  {
+    "title": "The Guest",
+    "release_year": "2014",
+    "clean_title": "/film/the-guest-2014/",
+    "adult": false,
+    "id": 241848,
+    "imdb_id": "tt2980592"
+  },
+  {
+    "title": "Inherent Vice",
+    "release_year": "2014",
+    "clean_title": "/film/inherent-vice/",
+    "adult": false,
+    "id": 171274,
+    "imdb_id": "tt1791528"
+  },
+  {
+    "title": "Hot Fuzz",
+    "release_year": "2007",
+    "clean_title": "/film/hot-fuzz/",
+    "adult": false,
+    "id": 4638,
+    "imdb_id": "tt0425112"
+  },
+  {
+    "title": "Gone Girl",
+    "release_year": "2014",
+    "clean_title": "/film/gone-girl/",
+    "adult": false,
+    "id": 210577,
+    "imdb_id": "tt2267998"
+  },
+  {
+    "title": "Shaun of the Dead",
+    "release_year": "2004",
+    "clean_title": "/film/shaun-of-the-dead/",
+    "adult": false,
+    "id": 747,
+    "imdb_id": "tt0365748"
+  },
+  {
+    "title": "The Cabin in the Woods",
+    "release_year": "2011",
+    "clean_title": "/film/the-cabin-in-the-woods/",
+    "adult": false,
+    "id": 22970,
+    "imdb_id": "tt1259521"
+  },
+  {
+    "title": "Spring Breakers",
+    "release_year": "2012",
+    "clean_title": "/film/spring-breakers/",
+    "adult": false,
+    "id": 122081,
+    "imdb_id": "tt2101441"
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "release_year": "2012",
+    "clean_title": "/film/silver-linings-playbook/",
+    "adult": false,
+    "id": 82693,
+    "imdb_id": "tt1045658"
+  },
+  {
+    "title": "Interstellar",
+    "release_year": "2014",
+    "clean_title": "/film/interstellar/",
+    "adult": false,
+    "id": 157336,
+    "imdb_id": "tt0816692"
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "release_year": "2014",
+    "clean_title": "/film/what-we-do-in-the-shadows/",
+    "adult": false,
+    "id": 246741,
+    "imdb_id": "tt3416742"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "release_year": "2016",
+    "clean_title": "/film/captain-america-civil-war/",
+    "adult": false,
+    "id": 271110,
+    "imdb_id": "tt3498820"
+  },
+  {
+    "title": "Frances Ha",
+    "release_year": "2012",
+    "clean_title": "/film/frances-ha/",
+    "adult": false,
+    "id": 121986,
+    "imdb_id": "tt2347569"
+  },
+  {
+    "title": "The Avengers",
+    "release_year": "2012",
+    "clean_title": "/film/the-avengers-2012/",
+    "adult": false,
+    "id": 24428,
+    "imdb_id": "tt0848228"
+  },
+  {
+    "title": "A Christmas Story",
+    "release_year": "1983",
+    "clean_title": "/film/a-christmas-story-1983/",
+    "adult": false,
+    "id": 850,
+    "imdb_id": "tt0085334"
+  },
+  {
+    "title": "The Lego Movie",
+    "release_year": "2014",
+    "clean_title": "/film/the-lego-movie/",
+    "adult": false,
+    "id": 137106,
+    "imdb_id": "tt1490017"
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "release_year": "1993",
+    "clean_title": "/film/the-nightmare-before-christmas/",
+    "adult": false,
+    "id": 9479,
+    "imdb_id": "tt0107688"
+  },
+  {
+    "title": "The Hateful Eight",
+    "release_year": "2015",
+    "clean_title": "/film/the-hateful-eight/",
+    "adult": false,
+    "id": 273248,
+    "imdb_id": "tt3460252"
+  },
+  {
+    "title": "Batman Begins",
+    "release_year": "2005",
+    "clean_title": "/film/batman-begins/",
+    "adult": false,
+    "id": 272,
+    "imdb_id": "tt0372784"
+  },
+  {
+    "title": "The Muppet Christmas Carol",
+    "release_year": "1992",
+    "clean_title": "/film/the-muppet-christmas-carol/",
+    "adult": false,
+    "id": 10437,
+    "imdb_id": "tt0104940"
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "release_year": "2015",
+    "clean_title": "/film/star-wars-the-force-awakens/",
+    "adult": false,
+    "id": 140607,
+    "imdb_id": "tt2488496"
+  },
+  {
+    "title": "Skyfall",
+    "release_year": "2012",
+    "clean_title": "/film/skyfall/",
+    "adult": false,
+    "id": 37724,
+    "imdb_id": "tt1074638"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "release_year": "2014",
+    "clean_title": "/film/guardians-of-the-galaxy/",
+    "adult": false,
+    "id": 118340,
+    "imdb_id": "tt2015381"
+  },
+  {
+    "title": "Ghostbusters",
+    "release_year": "2016",
+    "clean_title": "/film/ghostbusters-2016/",
+    "adult": false,
+    "id": 43074,
+    "imdb_id": "tt1289401"
+  },
+  {
+    "title": "It Follows",
+    "release_year": "2014",
+    "clean_title": "/film/it-follows/",
+    "adult": false,
+    "id": 270303,
+    "imdb_id": "tt3235888"
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "release_year": "2016",
+    "clean_title": "/film/rogue-one-a-star-wars-story/",
+    "adult": false,
+    "id": 330459,
+    "imdb_id": "tt3748528"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "release_year": "2012",
+    "clean_title": "/film/the-dark-knight-rises/",
+    "adult": false,
+    "id": 49026,
+    "imdb_id": "tt1345836"
+  },
+  {
+    "title": "The World's End",
+    "release_year": "2013",
+    "clean_title": "/film/the-worlds-end/",
+    "adult": false,
+    "id": 107985,
+    "imdb_id": "tt1213663"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "release_year": "2014",
+    "clean_title": "/film/captain-america-the-winter-soldier/",
+    "adult": false,
+    "id": 100402,
+    "imdb_id": "tt1843866"
+  },
+  {
+    "title": "Dredd",
+    "release_year": "2012",
+    "clean_title": "/film/dredd/",
+    "adult": false,
+    "id": 49049,
+    "imdb_id": "tt1343727"
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "release_year": "2014",
+    "clean_title": "/film/kingsman-the-secret-service/",
+    "adult": false,
+    "id": 207703,
+    "imdb_id": "tt2802144"
+  },
+  {
+    "title": "Return of the Jedi",
+    "release_year": "1983",
+    "clean_title": "/film/return-of-the-jedi/",
+    "adult": false,
+    "id": 1892,
+    "imdb_id": "tt0086190"
+  },
+  {
+    "title": "Deadpool",
+    "release_year": "2016",
+    "clean_title": "/film/deadpool/",
+    "adult": false,
+    "id": 293660,
+    "imdb_id": "tt1431045"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "release_year": "2011",
+    "clean_title": "/film/harry-potter-and-the-deathly-hallows-part-2/",
+    "adult": false,
+    "id": 12445,
+    "imdb_id": "tt1201607"
+  },
+  {
+    "title": "Love Actually",
+    "release_year": "2003",
+    "clean_title": "/film/love-actually/",
+    "adult": false,
+    "id": 508,
+    "imdb_id": "tt0314331"
+  },
+  {
+    "title": "Pacific Rim",
+    "release_year": "2013",
+    "clean_title": "/film/pacific-rim/",
+    "adult": false,
+    "id": 68726,
+    "imdb_id": "tt1663662"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_year": "2004",
+    "clean_title": "/film/harry-potter-and-the-prisoner-of-azkaban/",
+    "adult": false,
+    "id": 673,
+    "imdb_id": "tt0304141"
+  },
+  {
+    "title": "21 Jump Street",
+    "release_year": "2012",
+    "clean_title": "/film/21-jump-street/",
+    "adult": false,
+    "id": 64688,
+    "imdb_id": "tt1232829"
+  },
+  {
+    "title": "Star Trek",
+    "release_year": "2009",
+    "clean_title": "/film/star-trek/",
+    "adult": false,
+    "id": 13475,
+    "imdb_id": "tt0796366"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "release_year": "2014",
+    "clean_title": "/film/x-men-days-of-future-past/",
+    "adult": false,
+    "id": 127585,
+    "imdb_id": "tt1877832"
+  },
+  {
+    "title": "Home Alone",
+    "release_year": "1990",
+    "clean_title": "/film/home-alone/",
+    "adult": false,
+    "id": 771,
+    "imdb_id": "tt0099785"
+  },
+  {
+    "title": "National Lampoon's Christmas Vacation",
+    "release_year": "1989",
+    "clean_title": "/film/national-lampoons-christmas-vacation/",
+    "adult": false,
+    "id": 5825,
+    "imdb_id": "tt0097958"
+  },
+  {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "release_year": "2013",
+    "clean_title": "/film/the-hobbit-the-desolation-of-smaug/",
+    "adult": false,
+    "id": 57158,
+    "imdb_id": "tt1170358"
+  },
+  {
+    "title": "Frozen",
+    "release_year": "2013",
+    "clean_title": "/film/frozen-2013/",
+    "adult": false,
+    "id": 109445,
+    "imdb_id": "tt2294629"
+  },
+  {
+    "title": "John Wick",
+    "release_year": "2014",
+    "clean_title": "/film/john-wick/",
+    "adult": false,
+    "id": 245891,
+    "imdb_id": "tt2911666"
+  },
+  {
+    "title": "This Is the End",
+    "release_year": "2013",
+    "clean_title": "/film/this-is-the-end/",
+    "adult": false,
+    "id": 109414,
+    "imdb_id": "tt1245492"
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "release_year": "2012",
+    "clean_title": "/film/the-hobbit-an-unexpected-journey/",
+    "adult": false,
+    "id": 49051,
+    "imdb_id": "tt0903624"
+  },
+  {
+    "title": "Godzilla",
+    "release_year": "2014",
+    "clean_title": "/film/godzilla-2014/",
+    "adult": false,
+    "id": 124905,
+    "imdb_id": "tt0831387"
+  },
+  {
+    "title": "Pitch Perfect",
+    "release_year": "2012",
+    "clean_title": "/film/pitch-perfect/",
+    "adult": false,
+    "id": 114150,
+    "imdb_id": "tt1981677"
+  },
+  {
+    "title": "Star Trek Into Darkness",
+    "release_year": "2013",
+    "clean_title": "/film/star-trek-into-darkness/",
+    "adult": false,
+    "id": 54138,
+    "imdb_id": "tt1408101"
+  },
+  {
+    "title": "Elf",
+    "release_year": "2003",
+    "clean_title": "/film/elf/",
+    "adult": false,
+    "id": 10719,
+    "imdb_id": "tt0319343"
+  },
+  {
+    "title": "Ant-Man",
+    "release_year": "2015",
+    "clean_title": "/film/ant-man/",
+    "adult": false,
+    "id": 102899,
+    "imdb_id": "tt0478970"
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "release_year": "2015",
+    "clean_title": "/film/avengers-age-of-ultron/",
+    "adult": false,
+    "id": 99861,
+    "imdb_id": "tt2395427"
+  },
+  {
+    "title": "Man of Steel",
+    "release_year": "2013",
+    "clean_title": "/film/man-of-steel/",
+    "adult": false,
+    "id": 49521,
+    "imdb_id": "tt0770828"
+  },
+  {
+    "title": "Prometheus",
+    "release_year": "2012",
+    "clean_title": "/film/prometheus/",
+    "adult": false,
+    "id": 70981,
+    "imdb_id": "tt1446714"
+  },
+  {
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "release_year": "2005",
+    "clean_title": "/film/star-wars-episode-iii-revenge-of-the-sith/",
+    "adult": false,
+    "id": 1895,
+    "imdb_id": "tt0121766"
+  }
+]

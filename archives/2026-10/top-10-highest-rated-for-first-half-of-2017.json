@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Baby Driver",
+    "release_year": "2017",
+    "clean_title": "/film/baby-driver/",
+    "adult": false,
+    "id": 339403,
+    "imdb_id": "tt3890160"
+  },
+  {
+    "title": "Get Out",
+    "release_year": "2017",
+    "clean_title": "/film/get-out-2017/",
+    "adult": false,
+    "id": 419430,
+    "imdb_id": "tt5052448"
+  },
+  {
+    "title": "Logan",
+    "release_year": "2017",
+    "clean_title": "/film/logan-2017/",
+    "adult": false,
+    "id": 263115,
+    "imdb_id": "tt3315342"
+  },
+  {
+    "title": "The Big Sick",
+    "release_year": "2017",
+    "clean_title": "/film/the-big-sick/",
+    "adult": false,
+    "id": 416477,
+    "imdb_id": "tt5462602"
+  },
+  {
+    "title": "My Life as a Zucchini",
+    "release_year": "2016",
+    "clean_title": "/film/my-life-as-a-zucchini/",
+    "adult": false,
+    "id": 393559,
+    "imdb_id": "tt2321405"
+  },
+  {
+    "title": "Okja",
+    "release_year": "2017",
+    "clean_title": "/film/okja/",
+    "adult": false,
+    "id": 387426,
+    "imdb_id": "tt3967856"
+  },
+  {
+    "title": "The Salesman",
+    "release_year": "2016",
+    "clean_title": "/film/the-salesman-2016/",
+    "adult": false,
+    "id": 375315,
+    "imdb_id": "tt5186714"
+  },
+  {
+    "title": "Wonder Woman",
+    "release_year": "2017",
+    "clean_title": "/film/wonder-woman-2017/",
+    "adult": false,
+    "id": 297762,
+    "imdb_id": "tt0451279"
+  },
+  {
+    "title": "Raw",
+    "release_year": "2016",
+    "clean_title": "/film/raw-2016/",
+    "adult": false,
+    "id": 393519,
+    "imdb_id": "tt4954522"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "release_year": "2017",
+    "clean_title": "/film/guardians-of-the-galaxy-vol-2/",
+    "adult": false,
+    "id": 283995,
+    "imdb_id": "tt3896198"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Avengers: Endgame",
+    "release_year": "2019",
+    "clean_title": "/film/avengers-endgame/",
+    "adult": false,
+    "id": 299534,
+    "imdb_id": "tt4154796"
+  },
+  {
+    "title": "The Last Black Man in San Francisco",
+    "release_year": "2019",
+    "clean_title": "/film/the-last-black-man-in-san-francisco/",
+    "adult": false,
+    "id": 522039,
+    "imdb_id": "tt4353250"
+  },
+  {
+    "title": "Booksmart",
+    "release_year": "2019",
+    "clean_title": "/film/booksmart/",
+    "adult": false,
+    "id": 505600,
+    "imdb_id": "tt1489887"
+  },
+  {
+    "title": "Toy Story 4",
+    "release_year": "2019",
+    "clean_title": "/film/toy-story-4/",
+    "adult": false,
+    "id": 301528,
+    "imdb_id": "tt1979376"
+  },
+  {
+    "title": "An Elephant Sitting Still",
+    "release_year": "2018",
+    "clean_title": "/film/an-elephant-sitting-still/",
+    "adult": false,
+    "id": 499556,
+    "imdb_id": "tt8020896"
+  },
+  {
+    "title": "Deadwood: The Movie",
+    "release_year": "2019",
+    "clean_title": "/film/deadwood-the-movie/",
+    "adult": false,
+    "id": 538225,
+    "imdb_id": "tt4943998"
+  },
+  {
+    "title": "Super Deluxe",
+    "release_year": "2019",
+    "clean_title": "/film/super-deluxe/",
+    "adult": false,
+    "id": 432011,
+    "imdb_id": "tt7019942"
+  },
+  {
+    "title": "Birds of Passage",
+    "release_year": "2018",
+    "clean_title": "/film/birds-of-passage-2018/",
+    "adult": false,
+    "id": 438146,
+    "imdb_id": "tt6386748"
+  },
+  {
+    "title": "John Wick: Chapter 3 – Parabellum",
+    "release_year": "2019",
+    "clean_title": "/film/john-wick-chapter-3-parabellum/",
+    "adult": false,
+    "id": 458156,
+    "imdb_id": "tt6146586"
+  },
+  {
+    "title": "Us",
+    "release_year": "2019",
+    "clean_title": "/film/us-2019/",
+    "adult": false,
+    "id": 458723,
+    "imdb_id": "tt6857112"
+  }
+]

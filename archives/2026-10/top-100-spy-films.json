@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Inglourious Basterds",
+    "release_year": "2009",
+    "clean_title": "/film/inglourious-basterds/",
+    "adult": false,
+    "id": 16869,
+    "imdb_id": "tt0361748"
+  },
+  {
+    "title": "The Lives of Others",
+    "release_year": "2006",
+    "clean_title": "/film/the-lives-of-others/",
+    "adult": false,
+    "id": 582,
+    "imdb_id": "tt0405094"
+  },
+  {
+    "title": "The Third Man",
+    "release_year": "1949",
+    "clean_title": "/film/the-third-man/",
+    "adult": false,
+    "id": 1092,
+    "imdb_id": "tt0041959"
+  },
+  {
+    "title": "The Conformist",
+    "release_year": "1970",
+    "clean_title": "/film/the-conformist/",
+    "adult": false,
+    "id": 8416,
+    "imdb_id": "tt0065571"
+  },
+  {
+    "title": "North by Northwest",
+    "release_year": "1959",
+    "clean_title": "/film/north-by-northwest/",
+    "adult": false,
+    "id": 213,
+    "imdb_id": "tt0053125"
+  },
+  {
+    "title": "The Conversation",
+    "release_year": "1974",
+    "clean_title": "/film/the-conversation/",
+    "adult": false,
+    "id": 592,
+    "imdb_id": "tt0071360"
+  },
+  {
+    "title": "Notorious",
+    "release_year": "1946",
+    "clean_title": "/film/notorious/",
+    "adult": false,
+    "id": 303,
+    "imdb_id": "tt0038787"
+  },
+  {
+    "title": "The Incredibles",
+    "release_year": "2004",
+    "clean_title": "/film/the-incredibles/",
+    "adult": false,
+    "id": 9806,
+    "imdb_id": "tt0317705"
+  },
+  {
+    "title": "Charade",
+    "release_year": "1963",
+    "clean_title": "/film/charade/",
+    "adult": false,
+    "id": 4808,
+    "imdb_id": "tt0056923"
+  },
+  {
+    "title": "Casino Royale",
+    "release_year": "2006",
+    "clean_title": "/film/casino-royale-2006/",
+    "adult": false,
+    "id": 36557,
+    "imdb_id": "tt0381061"
+  },
+  {
+    "title": "The Manchurian Candidate",
+    "release_year": "1962",
+    "clean_title": "/film/the-manchurian-candidate/",
+    "adult": false,
+    "id": 982,
+    "imdb_id": "tt0056218"
+  },
+  {
+    "title": "Mission: Impossible – Fallout",
+    "release_year": "2018",
+    "clean_title": "/film/mission-impossible-fallout/",
+    "adult": false,
+    "id": 353081,
+    "imdb_id": "tt4912910"
+  },
+  {
+    "title": "Lust, Caution",
+    "release_year": "2007",
+    "clean_title": "/film/lust-caution/",
+    "adult": false,
+    "id": 4588,
+    "imdb_id": "tt0808357"
+  },
+  {
+    "title": "The Spook Who Sat by the Door",
+    "release_year": "1973",
+    "clean_title": "/film/the-spook-who-sat-by-the-door/",
+    "adult": false,
+    "id": 62330,
+    "imdb_id": "tt0070726"
+  },
+  {
+    "title": "Skyfall",
+    "release_year": "2012",
+    "clean_title": "/film/skyfall/",
+    "adult": false,
+    "id": 37724,
+    "imdb_id": "tt1074638"
+  },
+  {
+    "title": "Pickup on South Street",
+    "release_year": "1953",
+    "clean_title": "/film/pickup-on-south-street/",
+    "adult": false,
+    "id": 25955,
+    "imdb_id": "tt0046187"
+  },
+  {
+    "title": "The Day of the Jackal",
+    "release_year": "1973",
+    "clean_title": "/film/the-day-of-the-jackal/",
+    "adult": false,
+    "id": 4909,
+    "imdb_id": "tt0069947"
+  },
+  {
+    "title": "The Spy Who Came In from the Cold",
+    "release_year": "1965",
+    "clean_title": "/film/the-spy-who-came-in-from-the-cold/",
+    "adult": false,
+    "id": 13580,
+    "imdb_id": "tt0059749"
+  },
+  {
+    "title": "The Lady Vanishes",
+    "release_year": "1938",
+    "clean_title": "/film/the-lady-vanishes/",
+    "adult": false,
+    "id": 940,
+    "imdb_id": "tt0030341"
+  },
+  {
+    "title": "Dishonored",
+    "release_year": "1931",
+    "clean_title": "/film/dishonored/",
+    "adult": false,
+    "id": 73420,
+    "imdb_id": "tt0021800"
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "release_year": "2016",
+    "clean_title": "/film/rogue-one-a-star-wars-story/",
+    "adult": false,
+    "id": 330459,
+    "imdb_id": "tt3748528"
+  },
+  {
+    "title": "Black Book",
+    "release_year": "2006",
+    "clean_title": "/film/black-book/",
+    "adult": false,
+    "id": 9075,
+    "imdb_id": "tt0389557"
+  },
+  {
+    "title": "Spies",
+    "release_year": "1928",
+    "clean_title": "/film/spies/",
+    "adult": false,
+    "id": 78507,
+    "imdb_id": "tt0019415"
+  },
+  {
+    "title": "Munich",
+    "release_year": "2005",
+    "clean_title": "/film/munich/",
+    "adult": false,
+    "id": 612,
+    "imdb_id": "tt0408306"
+  },
+  {
+    "title": "The Secret Agent",
+    "release_year": "2025",
+    "clean_title": "/film/the-secret-agent-2025/",
+    "adult": false,
+    "id": 1220564,
+    "imdb_id": "tt27847051"
+  },
+  {
+    "title": "Marathon Man",
+    "release_year": "1976",
+    "clean_title": "/film/marathon-man/",
+    "adult": false,
+    "id": 10518,
+    "imdb_id": "tt0074860"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "release_year": "1990",
+    "clean_title": "/film/the-hunt-for-red-october/",
+    "adult": false,
+    "id": 1669,
+    "imdb_id": "tt0099810"
+  },
+  {
+    "title": "The 39 Steps",
+    "release_year": "1935",
+    "clean_title": "/film/the-39-steps/",
+    "adult": false,
+    "id": 260,
+    "imdb_id": "tt0026029"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "release_year": "2014",
+    "clean_title": "/film/captain-america-the-winter-soldier/",
+    "adult": false,
+    "id": 100402,
+    "imdb_id": "tt1843866"
+  },
+  {
+    "title": "Mission: Impossible – Rogue Nation",
+    "release_year": "2015",
+    "clean_title": "/film/mission-impossible-rogue-nation/",
+    "adult": false,
+    "id": 177677,
+    "imdb_id": "tt2381249"
+  },
+  {
+    "title": "That Man from Rio",
+    "release_year": "1964",
+    "clean_title": "/film/that-man-from-rio/",
+    "adult": false,
+    "id": 4034,
+    "imdb_id": "tt0058203"
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "release_year": "2014",
+    "clean_title": "/film/kingsman-the-secret-service/",
+    "adult": false,
+    "id": 207703,
+    "imdb_id": "tt2802144"
+  },
+  {
+    "title": "Goldfinger",
+    "release_year": "1964",
+    "clean_title": "/film/goldfinger/",
+    "adult": false,
+    "id": 658,
+    "imdb_id": "tt0058150"
+  },
+  {
+    "title": "Where Eagles Dare",
+    "release_year": "1968",
+    "clean_title": "/film/where-eagles-dare/",
+    "adult": false,
+    "id": 11046,
+    "imdb_id": "tt0065207"
+  },
+  {
+    "title": "Mission: Impossible – Ghost Protocol",
+    "release_year": "2011",
+    "clean_title": "/film/mission-impossible-ghost-protocol/",
+    "adult": false,
+    "id": 56292,
+    "imdb_id": "tt1229238"
+  },
+  {
+    "title": "D.E.B.S.",
+    "release_year": "2004",
+    "clean_title": "/film/debs/",
+    "adult": false,
+    "id": 540,
+    "imdb_id": "tt0367631"
+  },
+  {
+    "title": "The Bourne Identity",
+    "release_year": "2002",
+    "clean_title": "/film/the-bourne-identity-2002/",
+    "adult": false,
+    "id": 2501,
+    "imdb_id": "tt0258463"
+  },
+  {
+    "title": "Argo",
+    "release_year": "2012",
+    "clean_title": "/film/argo/",
+    "adult": false,
+    "id": 68734,
+    "imdb_id": "tt1024648"
+  },
+  {
+    "title": "5 Fingers",
+    "release_year": "1952",
+    "clean_title": "/film/5-fingers/",
+    "adult": false,
+    "id": 59087,
+    "imdb_id": "tt0044314"
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "release_year": "2007",
+    "clean_title": "/film/the-bourne-ultimatum/",
+    "adult": false,
+    "id": 2503,
+    "imdb_id": "tt0440963"
+  },
+  {
+    "title": "Three Days of the Condor",
+    "release_year": "1975",
+    "clean_title": "/film/three-days-of-the-condor/",
+    "adult": false,
+    "id": 11963,
+    "imdb_id": "tt0073802"
+  },
+  {
+    "title": "The Guns of Navarone",
+    "release_year": "1961",
+    "clean_title": "/film/the-guns-of-navarone/",
+    "adult": false,
+    "id": 10911,
+    "imdb_id": "tt0054953"
+  },
+  {
+    "title": "The Man Who Knew Too Much",
+    "release_year": "1956",
+    "clean_title": "/film/the-man-who-knew-too-much-1956/",
+    "adult": false,
+    "id": 574,
+    "imdb_id": "tt0049470"
+  },
+  {
+    "title": "Top Secret!",
+    "release_year": "1984",
+    "clean_title": "/film/top-secret/",
+    "adult": false,
+    "id": 8764,
+    "imdb_id": "tt0088286"
+  },
+  {
+    "title": "Raazi",
+    "release_year": "2018",
+    "clean_title": "/film/raazi/",
+    "adult": false,
+    "id": 491629,
+    "imdb_id": "tt7098658"
+  },
+  {
+    "title": "Hangmen Also Die!",
+    "release_year": "1943",
+    "clean_title": "/film/hangmen-also-die/",
+    "adult": false,
+    "id": 22178,
+    "imdb_id": "tt0035966"
+  },
+  {
+    "title": "Foreign Correspondent",
+    "release_year": "1940",
+    "clean_title": "/film/foreign-correspondent/",
+    "adult": false,
+    "id": 25670,
+    "imdb_id": "tt0032484"
+  },
+  {
+    "title": "OSS 117: Cairo, Nest of Spies",
+    "release_year": "2006",
+    "clean_title": "/film/oss-117-cairo-nest-of-spies/",
+    "adult": false,
+    "id": 15152,
+    "imdb_id": "tt0464913"
+  },
+  {
+    "title": "The Age of Shadows",
+    "release_year": "2016",
+    "clean_title": "/film/the-age-of-shadows/",
+    "adult": false,
+    "id": 363579,
+    "imdb_id": "tt4914580"
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "release_year": "2011",
+    "clean_title": "/film/tinker-tailor-soldier-spy/",
+    "adult": false,
+    "id": 49517,
+    "imdb_id": "tt1340800"
+  },
+  {
+    "title": "Mission: Impossible – Dead Reckoning",
+    "release_year": "2023",
+    "clean_title": "/film/mission-impossible-dead-reckoning/",
+    "adult": false,
+    "id": 575264,
+    "imdb_id": "tt9603212"
+  },
+  {
+    "title": "The Ipcress File",
+    "release_year": "1965",
+    "clean_title": "/film/the-ipcress-file/",
+    "adult": false,
+    "id": 15247,
+    "imdb_id": "tt0059319"
+  },
+  {
+    "title": "OSS 117: Lost in Rio",
+    "release_year": "2009",
+    "clean_title": "/film/oss-117-lost-in-rio/",
+    "adult": false,
+    "id": 15588,
+    "imdb_id": "tt1167660"
+  },
+  {
+    "title": "Mission: Impossible",
+    "release_year": "1996",
+    "clean_title": "/film/mission-impossible/",
+    "adult": false,
+    "id": 954,
+    "imdb_id": "tt0117060"
+  },
+  {
+    "title": "The Bourne Supremacy",
+    "release_year": "2004",
+    "clean_title": "/film/the-bourne-supremacy/",
+    "adult": false,
+    "id": 2502,
+    "imdb_id": "tt0372183"
+  },
+  {
+    "title": "Nikita",
+    "release_year": "1990",
+    "clean_title": "/film/nikita/",
+    "adult": false,
+    "id": 9322,
+    "imdb_id": "tt0100263"
+  },
+  {
+    "title": "This Gun for Hire",
+    "release_year": "1942",
+    "clean_title": "/film/this-gun-for-hire/",
+    "adult": false,
+    "id": 16703,
+    "imdb_id": "tt0035432"
+  },
+  {
+    "title": "From Beijing with Love",
+    "release_year": "1994",
+    "clean_title": "/film/from-beijing-with-love/",
+    "adult": false,
+    "id": 41387,
+    "imdb_id": "tt0109962"
+  },
+  {
+    "title": "Bridge of Spies",
+    "release_year": "2015",
+    "clean_title": "/film/bridge-of-spies/",
+    "adult": false,
+    "id": 296098,
+    "imdb_id": "tt3682448"
+  },
+  {
+    "title": "Burn After Reading",
+    "release_year": "2008",
+    "clean_title": "/film/burn-after-reading/",
+    "adult": false,
+    "id": 4944,
+    "imdb_id": "tt0887883"
+  },
+  {
+    "title": "X-Men: First Class",
+    "release_year": "2011",
+    "clean_title": "/film/x-men-first-class/",
+    "adult": false,
+    "id": 49538,
+    "imdb_id": "tt1270798"
+  },
+  {
+    "title": "Our Man in Havana",
+    "release_year": "1959",
+    "clean_title": "/film/our-man-in-havana/",
+    "adult": false,
+    "id": 25495,
+    "imdb_id": "tt0054152"
+  },
+  {
+    "title": "Night Train to Munich",
+    "release_year": "1940",
+    "clean_title": "/film/night-train-to-munich/",
+    "adult": false,
+    "id": 41597,
+    "imdb_id": "tt0032842"
+  },
+  {
+    "title": "Vishwaroopam",
+    "release_year": "2013",
+    "clean_title": "/film/vishwaroopam/",
+    "adult": false,
+    "id": 117319,
+    "imdb_id": "tt2199711"
+  },
+  {
+    "title": "The Professional",
+    "release_year": "1981",
+    "clean_title": "/film/the-professional/",
+    "adult": false,
+    "id": 1672,
+    "imdb_id": "tt0082949"
+  },
+  {
+    "title": "The Tall Blond Man with One Black Shoe",
+    "release_year": "1972",
+    "clean_title": "/film/the-tall-blond-man-with-one-black-shoe/",
+    "adult": false,
+    "id": 12089,
+    "imdb_id": "tt0068655"
+  },
+  {
+    "title": "True Lies",
+    "release_year": "1994",
+    "clean_title": "/film/true-lies/",
+    "adult": false,
+    "id": 36955,
+    "imdb_id": "tt0111503"
+  },
+  {
+    "title": "Goodachari",
+    "release_year": "2018",
+    "clean_title": "/film/goodachari/",
+    "adult": false,
+    "id": 540189,
+    "imdb_id": "tt7758160"
+  },
+  {
+    "title": "Reflection in a Dead Diamond",
+    "release_year": "2025",
+    "clean_title": "/film/reflection-in-a-dead-diamond/",
+    "adult": false,
+    "id": 1013446,
+    "imdb_id": "tt32263401"
+  },
+  {
+    "title": "From Russia with Love",
+    "release_year": "1963",
+    "clean_title": "/film/from-russia-with-love/",
+    "adult": false,
+    "id": 657,
+    "imdb_id": "tt0057076"
+  },
+  {
+    "title": "Ministry of Fear",
+    "release_year": "1944",
+    "clean_title": "/film/ministry-of-fear/",
+    "adult": false,
+    "id": 21451,
+    "imdb_id": "tt0037075"
+  },
+  {
+    "title": "Ronin",
+    "release_year": "1998",
+    "clean_title": "/film/ronin/",
+    "adult": false,
+    "id": 8195,
+    "imdb_id": "tt0122690"
+  },
+  {
+    "title": "GoldenEye",
+    "release_year": "1995",
+    "clean_title": "/film/goldeneye/",
+    "adult": false,
+    "id": 710,
+    "imdb_id": "tt0113189"
+  },
+  {
+    "title": "Dhurandhar",
+    "release_year": "2025",
+    "clean_title": "/film/dhurandhar/",
+    "adult": false,
+    "id": 1291608,
+    "imdb_id": "tt33014583"
+  },
+  {
+    "title": "Official Secrets",
+    "release_year": "2019",
+    "clean_title": "/film/official-secrets/",
+    "adult": false,
+    "id": 393624,
+    "imdb_id": "tt5431890"
+  },
+  {
+    "title": "Thunderbolts*",
+    "release_year": "2025",
+    "clean_title": "/film/thunderbolts/",
+    "adult": false,
+    "id": 986056,
+    "imdb_id": "tt20969586"
+  },
+  {
+    "title": "Sneakers",
+    "release_year": "1992",
+    "clean_title": "/film/sneakers/",
+    "adult": false,
+    "id": 2322,
+    "imdb_id": "tt0105435"
+  },
+  {
+    "title": "The Man Who Never Was",
+    "release_year": "1956",
+    "clean_title": "/film/the-man-who-never-was/",
+    "adult": false,
+    "id": 43791,
+    "imdb_id": "tt0049471"
+  },
+  {
+    "title": "Hopscotch",
+    "release_year": "1980",
+    "clean_title": "/film/hopscotch/",
+    "adult": false,
+    "id": 32030,
+    "imdb_id": "tt0080889"
+  },
+  {
+    "title": "Decision Before Dawn",
+    "release_year": "1951",
+    "clean_title": "/film/decision-before-dawn/",
+    "adult": false,
+    "id": 4461,
+    "imdb_id": "tt0043459"
+  },
+  {
+    "title": "The Great Spy Chase",
+    "release_year": "1964",
+    "clean_title": "/film/the-great-spy-chase/",
+    "adult": false,
+    "id": 31270,
+    "imdb_id": "tt0057870"
+  },
+  {
+    "title": "Miss Mend",
+    "release_year": "1926",
+    "clean_title": "/film/miss-mend/",
+    "adult": false,
+    "id": 250676,
+    "imdb_id": "tt0017159"
+  },
+  {
+    "title": "The Silent One",
+    "release_year": "1973",
+    "clean_title": "/film/the-silent-one-1973/",
+    "adult": false,
+    "id": 70928,
+    "imdb_id": "tt0069270"
+  },
+  {
+    "title": "No Time to Die",
+    "release_year": "2021",
+    "clean_title": "/film/no-time-to-die-2021/",
+    "adult": false,
+    "id": 370172,
+    "imdb_id": "tt2382320"
+  },
+  {
+    "title": "36 Hours",
+    "release_year": "1964",
+    "clean_title": "/film/36-hours-1964/",
+    "adult": false,
+    "id": 37684,
+    "imdb_id": "tt0057809"
+  },
+  {
+    "title": "The Mysterious Lady",
+    "release_year": "1928",
+    "clean_title": "/film/the-mysterious-lady/",
+    "adult": false,
+    "id": 108923,
+    "imdb_id": "tt0019195"
+  },
+  {
+    "title": "The Phoenician Scheme",
+    "release_year": "2025",
+    "clean_title": "/film/the-phoenician-scheme/",
+    "adult": false,
+    "id": 1137350,
+    "imdb_id": "tt30840798"
+  },
+  {
+    "title": "Sabotage",
+    "release_year": "1936",
+    "clean_title": "/film/sabotage/",
+    "adult": false,
+    "id": 12684,
+    "imdb_id": "tt0028212"
+  },
+  {
+    "title": "Saboteur",
+    "release_year": "1942",
+    "clean_title": "/film/saboteur/",
+    "adult": false,
+    "id": 31997,
+    "imdb_id": "tt0035279"
+  },
+  {
+    "title": "Carve Her Name with Pride",
+    "release_year": "1958",
+    "clean_title": "/film/carve-her-name-with-pride/",
+    "adult": false,
+    "id": 44559,
+    "imdb_id": "tt0051454"
+  },
+  {
+    "title": "Eye of the Needle",
+    "release_year": "1981",
+    "clean_title": "/film/eye-of-the-needle/",
+    "adult": false,
+    "id": 10863,
+    "imdb_id": "tt0082351"
+  },
+  {
+    "title": "The Spy in Black",
+    "release_year": "1939",
+    "clean_title": "/film/the-spy-in-black/",
+    "adult": false,
+    "id": 75363,
+    "imdb_id": "tt0031968"
+  },
+  {
+    "title": "Enemy of the State",
+    "release_year": "1998",
+    "clean_title": "/film/enemy-of-the-state/",
+    "adult": false,
+    "id": 9798,
+    "imdb_id": "tt0120660"
+  },
+  {
+    "title": "The Mask of Dimitrios",
+    "release_year": "1944",
+    "clean_title": "/film/the-mask-of-dimitrios/",
+    "adult": false,
+    "id": 35006,
+    "imdb_id": "tt0037055"
+  },
+  {
+    "title": "The Man from U.N.C.L.E.",
+    "release_year": "2015",
+    "clean_title": "/film/the-man-from-uncle/",
+    "adult": false,
+    "id": 203801,
+    "imdb_id": "tt1638355"
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "release_year": "1977",
+    "clean_title": "/film/the-spy-who-loved-me/",
+    "adult": false,
+    "id": 691,
+    "imdb_id": "tt0076752"
+  },
+  {
+    "title": "The President's Analyst",
+    "release_year": "1967",
+    "clean_title": "/film/the-presidents-analyst/",
+    "adult": false,
+    "id": 24214,
+    "imdb_id": "tt0062153"
+  },
+  {
+    "title": "No Way Out",
+    "release_year": "1987",
+    "clean_title": "/film/no-way-out-1987/",
+    "adult": false,
+    "id": 10083,
+    "imdb_id": "tt0093640"
+  },
+  {
+    "title": "Triple Agent",
+    "release_year": "2004",
+    "clean_title": "/film/triple-agent/",
+    "adult": false,
+    "id": 65041,
+    "imdb_id": "tt0374294"
+  },
+  {
+    "title": "Walk on Water",
+    "release_year": "2004",
+    "clean_title": "/film/walk-on-water/",
+    "adult": false,
+    "id": 26,
+    "imdb_id": "tt0352994"
+  }
+]

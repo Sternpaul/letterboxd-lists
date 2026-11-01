@@ -8,6 +8,7 @@ A dedicated GitHub Actions workflow runs on the 1st of every month to capture th
 
 | Month | Total Lists | Direct Directory Link | Example JSON Endpoint |
 | :--- | :--- | :--- | :--- |
+| **2026-10** | 267 lists | [Browse 2026-10](./2026-10/) | [`letterboxds-top-500-films.json`](https://sternpaul.github.io/letterboxd-lists/archives/2026-10/letterboxds-top-500-films.json) |
 | **2026-09** | 267 lists | [Browse 2026-09](./2026-09/) | [`letterboxds-top-500-films.json`](https://sternpaul.github.io/letterboxd-lists/archives/2026-09/letterboxds-top-500-films.json) |
 | **2026-08** | 267 lists | [Browse 2026-08](./2026-08/) | [`letterboxds-top-500-films.json`](https://sternpaul.github.io/letterboxd-lists/archives/2026-08/letterboxds-top-500-films.json) |
 | **2026-07** | 15 lists | [Browse 2026-07](./2026-07/) | [`letterboxds-top-500-films.json`](https://sternpaul.github.io/letterboxd-lists/archives/2026-07/letterboxds-top-500-films.json) |
