@@ -96,20 +96,20 @@
     "imdb_id": "tt0368667"
   },
   {
-    "title": "Akira",
-    "release_year": "1988",
-    "clean_title": "/film/akira/",
-    "adult": false,
-    "id": 149,
-    "imdb_id": "tt0094625"
-  },
-  {
     "title": "Kizumonogatari Part 3: Reiketsu",
     "release_year": "2017",
     "clean_title": "/film/kizumonogatari-part-3-reiketsu/",
     "adult": false,
     "id": 362585,
     "imdb_id": "tt5084198"
+  },
+  {
+    "title": "Akira",
+    "release_year": "1988",
+    "clean_title": "/film/akira/",
+    "adult": false,
+    "id": 149,
+    "imdb_id": "tt0094625"
   },
   {
     "title": "The Disappearance of Haruhi Suzumiya",
@@ -144,20 +144,20 @@
     "imdb_id": "tt15242330"
   },
   {
-    "title": "Millennium Actress",
-    "release_year": "2001",
-    "clean_title": "/film/millennium-actress/",
-    "adult": false,
-    "id": 33320,
-    "imdb_id": "tt0291350"
-  },
-  {
     "title": "Your Name.",
     "release_year": "2016",
     "clean_title": "/film/your-name/",
     "adult": false,
     "id": 372058,
     "imdb_id": "tt5311514"
+  },
+  {
+    "title": "Millennium Actress",
+    "release_year": "2001",
+    "clean_title": "/film/millennium-actress/",
+    "adult": false,
+    "id": 33320,
+    "imdb_id": "tt0291350"
   },
   {
     "title": "A Silent Voice: The Movie",
@@ -224,14 +224,6 @@
     "imdb_id": "tt0113824"
   },
   {
-    "title": "Mind Game",
-    "release_year": "2004",
-    "clean_title": "/film/mind-game/",
-    "adult": false,
-    "id": 21712,
-    "imdb_id": "tt0452039"
-  },
-  {
     "title": "Blue Giant",
     "release_year": "2023",
     "clean_title": "/film/blue-giant/",
@@ -240,12 +232,28 @@
     "imdb_id": "tt15737898"
   },
   {
+    "title": "Mind Game",
+    "release_year": "2004",
+    "clean_title": "/film/mind-game/",
+    "adult": false,
+    "id": 21712,
+    "imdb_id": "tt0452039"
+  },
+  {
     "title": "Patlabor 2: The Movie",
     "release_year": "1993",
     "clean_title": "/film/patlabor-2-the-movie/",
     "adult": false,
     "id": 14572,
     "imdb_id": "tt0124770"
+  },
+  {
+    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "release_year": "2026",
+    "clean_title": "/film/mononoke-the-movie-chapter-iii-the-curse/",
+    "adult": false,
+    "id": 1322562,
+    "imdb_id": "tt36282134"
   },
   {
     "title": "The Garden of Sinners: Paradox Spiral",
@@ -286,6 +294,14 @@
     "adult": false,
     "id": 16859,
     "imdb_id": "tt0097814"
+  },
+  {
+    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
+    "release_year": "2026",
+    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
+    "adult": false,
+    "id": 1586876,
+    "imdb_id": "tt39026173"
   },
   {
     "title": "Cowboy Bebop: The Movie",
@@ -376,27 +392,11 @@
     "imdb_id": "tt5526028"
   },
   {
-    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
-    "release_year": "2026",
-    "clean_title": "/film/chiikawa-the-movie-the-secret-of-the-mermaid/",
-    "adult": false,
-    "id": 1586876,
-    "imdb_id": "tt39026173"
-  },
-  {
     "title": "Paprika",
     "release_year": "2006",
     "clean_title": "/film/paprika-2006/",
     "adult": false,
     "id": 4977,
     "imdb_id": "tt0851578"
-  },
-  {
-    "title": "given the Movie: To the Sea",
-    "release_year": "2024",
-    "clean_title": "/film/given-the-movie-to-the-sea/",
-    "adult": false,
-    "id": 1317276,
-    "imdb_id": "tt35631332"
   }
 ]
