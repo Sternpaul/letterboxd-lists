@@ -224,6 +224,14 @@
     "imdb_id": "tt1262426"
   },
   {
+    "title": "Primetime",
+    "release_year": "2026",
+    "clean_title": "/film/primetime-2026/",
+    "adult": false,
+    "id": 1375441,
+    "imdb_id": "tt34206385"
+  },
+  {
     "title": "Challengers",
     "release_year": "2024",
     "clean_title": "/film/challengers/",
@@ -790,13 +798,5 @@
     "adult": false,
     "id": 884605,
     "imdb_id": "tt15671028"
-  },
-  {
-    "title": "Society of the Snow",
-    "release_year": "2023",
-    "clean_title": "/film/society-of-the-snow/",
-    "adult": false,
-    "id": 906126,
-    "imdb_id": "tt16277242"
   }
 ]
