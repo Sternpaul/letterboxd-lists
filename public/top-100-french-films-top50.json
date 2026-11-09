@@ -1,13 +1,5 @@
 [
   {
-    "title": "Le Trou",
-    "release_year": "1960",
-    "clean_title": "/film/le-trou/",
-    "adult": false,
-    "id": 29259,
-    "imdb_id": "tt0054407"
-  },
-  {
     "title": "La Haine",
     "release_year": "1995",
     "clean_title": "/film/la-haine/",
@@ -16,12 +8,12 @@
     "imdb_id": "tt0113247"
   },
   {
-    "title": "The Passion of Joan of Arc",
-    "release_year": "1928",
-    "clean_title": "/film/the-passion-of-joan-of-arc/",
+    "title": "Le Trou",
+    "release_year": "1960",
+    "clean_title": "/film/le-trou/",
     "adult": false,
-    "id": 780,
-    "imdb_id": "tt0019254"
+    "id": 29259,
+    "imdb_id": "tt0054407"
   },
   {
     "title": "Portrait of a Lady on Fire",
@@ -32,12 +24,12 @@
     "imdb_id": "tt8613070"
   },
   {
-    "title": "Army of Shadows",
-    "release_year": "1969",
-    "clean_title": "/film/army-of-shadows/",
+    "title": "The Passion of Joan of Arc",
+    "release_year": "1928",
+    "clean_title": "/film/the-passion-of-joan-of-arc/",
     "adult": false,
-    "id": 15383,
-    "imdb_id": "tt0064040"
+    "id": 780,
+    "imdb_id": "tt0019254"
   },
   {
     "title": "Z",
@@ -56,12 +48,28 @@
     "imdb_id": "tt0046268"
   },
   {
+    "title": "Army of Shadows",
+    "release_year": "1969",
+    "clean_title": "/film/army-of-shadows/",
+    "adult": false,
+    "id": 15383,
+    "imdb_id": "tt0064040"
+  },
+  {
     "title": "A Man Escaped",
     "release_year": "1956",
     "clean_title": "/film/a-man-escaped/",
     "adult": false,
     "id": 15244,
     "imdb_id": "tt0049902"
+  },
+  {
+    "title": "La Commune (Paris, 1871)",
+    "release_year": "2000",
+    "clean_title": "/film/la-commune-paris-1871/",
+    "adult": false,
+    "id": 63195,
+    "imdb_id": "tt0257497"
   },
   {
     "title": "Three Colours: Red",
@@ -80,14 +88,6 @@
     "imdb_id": "tt0062873"
   },
   {
-    "title": "La Commune (Paris, 1871)",
-    "release_year": "2000",
-    "clean_title": "/film/la-commune-paris-1871/",
-    "adult": false,
-    "id": 63195,
-    "imdb_id": "tt0257497"
-  },
-  {
     "title": "The 400 Blows",
     "release_year": "1959",
     "clean_title": "/film/the-400-blows/",
@@ -104,36 +104,12 @@
     "imdb_id": "tt0037674"
   },
   {
-    "title": "Azur & Asmar: The Princes' Quest",
-    "release_year": "2006",
-    "clean_title": "/film/azur-asmar-the-princes-quest/",
-    "adult": false,
-    "id": 19026,
-    "imdb_id": "tt0439123"
-  },
-  {
     "title": "Rififi",
     "release_year": "1955",
     "clean_title": "/film/rififi/",
     "adult": false,
     "id": 934,
     "imdb_id": "tt0048021"
-  },
-  {
-    "title": "Napoleon",
-    "release_year": "1927",
-    "clean_title": "/film/napoleon/",
-    "adult": false,
-    "id": 42536,
-    "imdb_id": "tt0018192"
-  },
-  {
-    "title": "The Lovers on the Bridge",
-    "release_year": "1991",
-    "clean_title": "/film/the-lovers-on-the-bridge/",
-    "adult": false,
-    "id": 2767,
-    "imdb_id": "tt0101318"
   },
   {
     "title": "Amour",
@@ -144,36 +120,12 @@
     "imdb_id": "tt1602620"
   },
   {
-    "title": "Le Samouraï",
-    "release_year": "1967",
-    "clean_title": "/film/le-samourai/",
+    "title": "Napoleon",
+    "release_year": "1927",
+    "clean_title": "/film/napoleon/",
     "adult": false,
-    "id": 5511,
-    "imdb_id": "tt0062229"
-  },
-  {
-    "title": "The Man Who Sleeps",
-    "release_year": "1974",
-    "clean_title": "/film/the-man-who-sleeps/",
-    "adult": false,
-    "id": 104086,
-    "imdb_id": "tt0192718"
-  },
-  {
-    "title": "La Belle Noiseuse",
-    "release_year": "1991",
-    "clean_title": "/film/la-belle-noiseuse/",
-    "adult": false,
-    "id": 12627,
-    "imdb_id": "tt0101428"
-  },
-  {
-    "title": "Le Cercle Rouge",
-    "release_year": "1970",
-    "clean_title": "/film/le-cercle-rouge/",
-    "adult": false,
-    "id": 11657,
-    "imdb_id": "tt0065531"
+    "id": 42536,
+    "imdb_id": "tt0018192"
   },
   {
     "title": "Persepolis",
@@ -184,12 +136,36 @@
     "imdb_id": "tt0808417"
   },
   {
-    "title": "Grand Illusion",
-    "release_year": "1937",
-    "clean_title": "/film/grand-illusion/",
+    "title": "Azur & Asmar: The Princes' Quest",
+    "release_year": "2006",
+    "clean_title": "/film/azur-asmar-the-princes-quest/",
     "adult": false,
-    "id": 777,
-    "imdb_id": "tt0028950"
+    "id": 19026,
+    "imdb_id": "tt0439123"
+  },
+  {
+    "title": "The Lovers on the Bridge",
+    "release_year": "1991",
+    "clean_title": "/film/the-lovers-on-the-bridge/",
+    "adult": false,
+    "id": 2767,
+    "imdb_id": "tt0101318"
+  },
+  {
+    "title": "Le Samouraï",
+    "release_year": "1967",
+    "clean_title": "/film/le-samourai/",
+    "adult": false,
+    "id": 5511,
+    "imdb_id": "tt0062229"
+  },
+  {
+    "title": "Le Cercle Rouge",
+    "release_year": "1970",
+    "clean_title": "/film/le-cercle-rouge/",
+    "adult": false,
+    "id": 11657,
+    "imdb_id": "tt0065531"
   },
   {
     "title": "Au Revoir les Enfants",
@@ -200,22 +176,6 @@
     "imdb_id": "tt0092593"
   },
   {
-    "title": "PlayTime",
-    "release_year": "1967",
-    "clean_title": "/film/playtime/",
-    "adult": false,
-    "id": 10227,
-    "imdb_id": "tt0062136"
-  },
-  {
-    "title": "My Life as a Zucchini",
-    "release_year": "2016",
-    "clean_title": "/film/my-life-as-a-zucchini/",
-    "adult": false,
-    "id": 393559,
-    "imdb_id": "tt2321405"
-  },
-  {
     "title": "Amélie",
     "release_year": "2001",
     "clean_title": "/film/amelie/",
@@ -224,12 +184,20 @@
     "imdb_id": "tt0211915"
   },
   {
-    "title": "Day for Night",
-    "release_year": "1973",
-    "clean_title": "/film/day-for-night/",
+    "title": "The Man Who Sleeps",
+    "release_year": "1974",
+    "clean_title": "/film/the-man-who-sleeps/",
     "adult": false,
-    "id": 1675,
-    "imdb_id": "tt0070460"
+    "id": 104086,
+    "imdb_id": "tt0192718"
+  },
+  {
+    "title": "Grand Illusion",
+    "release_year": "1937",
+    "clean_title": "/film/grand-illusion/",
+    "adult": false,
+    "id": 777,
+    "imdb_id": "tt0028950"
   },
   {
     "title": "Diabolique",
@@ -240,52 +208,20 @@
     "imdb_id": "tt0046911"
   },
   {
-    "title": "A Prophet",
-    "release_year": "2009",
-    "clean_title": "/film/a-prophet/",
+    "title": "My Life as a Zucchini",
+    "release_year": "2016",
+    "clean_title": "/film/my-life-as-a-zucchini/",
     "adult": false,
-    "id": 21575,
-    "imdb_id": "tt1235166"
+    "id": 393559,
+    "imdb_id": "tt2321405"
   },
   {
-    "title": "The Fire Within",
-    "release_year": "1963",
-    "clean_title": "/film/the-fire-within/",
+    "title": "PlayTime",
+    "release_year": "1967",
+    "clean_title": "/film/playtime/",
     "adult": false,
-    "id": 2593,
-    "imdb_id": "tt0057058"
-  },
-  {
-    "title": "Céline and Julie Go Boating",
-    "release_year": "1974",
-    "clean_title": "/film/celine-and-julie-go-boating/",
-    "adult": false,
-    "id": 27019,
-    "imdb_id": "tt0071381"
-  },
-  {
-    "title": "Cléo from 5 to 7",
-    "release_year": "1962",
-    "clean_title": "/film/cleo-from-5-to-7/",
-    "adult": false,
-    "id": 499,
-    "imdb_id": "tt0055852"
-  },
-  {
-    "title": "The Mother and the Whore",
-    "release_year": "1973",
-    "clean_title": "/film/the-mother-and-the-whore/",
-    "adult": false,
-    "id": 48693,
-    "imdb_id": "tt0070359"
-  },
-  {
-    "title": "Princes and Princesses",
-    "release_year": "2000",
-    "clean_title": "/film/princes-and-princesses/",
-    "adult": false,
-    "id": 65592,
-    "imdb_id": "tt0229664"
+    "id": 10227,
+    "imdb_id": "tt0062136"
   },
   {
     "title": "Ernest & Celestine",
@@ -296,6 +232,46 @@
     "imdb_id": "tt1816518"
   },
   {
+    "title": "A Prophet",
+    "release_year": "2009",
+    "clean_title": "/film/a-prophet/",
+    "adult": false,
+    "id": 21575,
+    "imdb_id": "tt1235166"
+  },
+  {
+    "title": "La Belle Noiseuse",
+    "release_year": "1991",
+    "clean_title": "/film/la-belle-noiseuse/",
+    "adult": false,
+    "id": 12627,
+    "imdb_id": "tt0101428"
+  },
+  {
+    "title": "Céline and Julie Go Boating",
+    "release_year": "1974",
+    "clean_title": "/film/celine-and-julie-go-boating/",
+    "adult": false,
+    "id": 27019,
+    "imdb_id": "tt0071381"
+  },
+  {
+    "title": "Day for Night",
+    "release_year": "1973",
+    "clean_title": "/film/day-for-night/",
+    "adult": false,
+    "id": 1675,
+    "imdb_id": "tt0070460"
+  },
+  {
+    "title": "Cléo from 5 to 7",
+    "release_year": "1962",
+    "clean_title": "/film/cleo-from-5-to-7/",
+    "adult": false,
+    "id": 499,
+    "imdb_id": "tt0055852"
+  },
+  {
     "title": "The Green Ray",
     "release_year": "1986",
     "clean_title": "/film/the-green-ray/",
@@ -304,12 +280,12 @@
     "imdb_id": "tt0091830"
   },
   {
-    "title": "My Night at Maud's",
-    "release_year": "1969",
-    "clean_title": "/film/my-night-at-mauds/",
+    "title": "The Fire Within",
+    "release_year": "1963",
+    "clean_title": "/film/the-fire-within/",
     "adult": false,
-    "id": 48831,
-    "imdb_id": "tt0064612"
+    "id": 2593,
+    "imdb_id": "tt0057058"
   },
   {
     "title": "Jacquot de Nantes",
@@ -320,20 +296,12 @@
     "imdb_id": "tt0102141"
   },
   {
-    "title": "Hiroshima Mon Amour",
-    "release_year": "1959",
-    "clean_title": "/film/hiroshima-mon-amour/",
+    "title": "Iron Boy",
+    "release_year": "2026",
+    "clean_title": "/film/iron-boy/",
     "adult": false,
-    "id": 5544,
-    "imdb_id": "tt0052893"
-  },
-  {
-    "title": "Three Colours: Blue",
-    "release_year": "1993",
-    "clean_title": "/film/three-colours-blue/",
-    "adult": false,
-    "id": 108,
-    "imdb_id": "tt0108394"
+    "id": 947493,
+    "imdb_id": "tt36639956"
   },
   {
     "title": "The Intouchables",
@@ -344,20 +312,12 @@
     "imdb_id": "tt1675434"
   },
   {
-    "title": "The Umbrellas of Cherbourg",
-    "release_year": "1964",
-    "clean_title": "/film/the-umbrellas-of-cherbourg/",
+    "title": "The Mother and the Whore",
+    "release_year": "1973",
+    "clean_title": "/film/the-mother-and-the-whore/",
     "adult": false,
-    "id": 5967,
-    "imdb_id": "tt0058450"
-  },
-  {
-    "title": "Souleymane's Story",
-    "release_year": "2024",
-    "clean_title": "/film/souleymanes-story/",
-    "adult": false,
-    "id": 1158996,
-    "imdb_id": "tt32086046"
+    "id": 48693,
+    "imdb_id": "tt0070359"
   },
   {
     "title": "Le Bonheur",
@@ -368,6 +328,38 @@
     "imdb_id": "tt0058985"
   },
   {
+    "title": "My Night at Maud's",
+    "release_year": "1969",
+    "clean_title": "/film/my-night-at-mauds/",
+    "adult": false,
+    "id": 48831,
+    "imdb_id": "tt0064612"
+  },
+  {
+    "title": "The Umbrellas of Cherbourg",
+    "release_year": "1964",
+    "clean_title": "/film/the-umbrellas-of-cherbourg/",
+    "adult": false,
+    "id": 5967,
+    "imdb_id": "tt0058450"
+  },
+  {
+    "title": "Princes and Princesses",
+    "release_year": "2000",
+    "clean_title": "/film/princes-and-princesses/",
+    "adult": false,
+    "id": 65592,
+    "imdb_id": "tt0229664"
+  },
+  {
+    "title": "Hiroshima Mon Amour",
+    "release_year": "1959",
+    "clean_title": "/film/hiroshima-mon-amour/",
+    "adult": false,
+    "id": 5544,
+    "imdb_id": "tt0052893"
+  },
+  {
     "title": "One Sings, the Other Doesn't",
     "release_year": "1977",
     "clean_title": "/film/one-sings-the-other-doesnt/",
@@ -376,20 +368,28 @@
     "imdb_id": "tt0076855"
   },
   {
-    "title": "The Diving Bell and the Butterfly",
-    "release_year": "2007",
-    "clean_title": "/film/the-diving-bell-and-the-butterfly/",
+    "title": "Three Colours: Blue",
+    "release_year": "1993",
+    "clean_title": "/film/three-colours-blue/",
     "adult": false,
-    "id": 2013,
-    "imdb_id": "tt0401383"
+    "id": 108,
+    "imdb_id": "tt0108394"
   },
   {
-    "title": "Beau Travail",
-    "release_year": "1999",
-    "clean_title": "/film/beau-travail/",
+    "title": "Little Amélie or the Character of Rain",
+    "release_year": "2025",
+    "clean_title": "/film/little-amelie-or-the-character-of-rain/",
     "adult": false,
-    "id": 14626,
-    "imdb_id": "tt0209933"
+    "id": 682012,
+    "imdb_id": "tt29313285"
+  },
+  {
+    "title": "Souleymane's Story",
+    "release_year": "2024",
+    "clean_title": "/film/souleymanes-story/",
+    "adult": false,
+    "id": 1158996,
+    "imdb_id": "tt32086046"
   },
   {
     "title": "Anatomy of a Fall",
