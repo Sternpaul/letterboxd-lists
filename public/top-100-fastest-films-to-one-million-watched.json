@@ -464,6 +464,14 @@
     "imdb_id": "tt20215234"
   },
   {
+    "title": "Supergirl",
+    "release_year": "2026",
+    "clean_title": "/film/supergirl-2026/",
+    "adult": false,
+    "id": 1081003,
+    "imdb_id": "tt8814476"
+  },
+  {
     "title": "Materialists",
     "release_year": "2025",
     "clean_title": "/film/materialists/",
@@ -790,13 +798,5 @@
     "adult": false,
     "id": 315162,
     "imdb_id": "tt3915174"
-  },
-  {
-    "title": "No Hard Feelings",
-    "release_year": "2023",
-    "clean_title": "/film/no-hard-feelings-2023/",
-    "adult": false,
-    "id": 884605,
-    "imdb_id": "tt15671028"
   }
 ]
