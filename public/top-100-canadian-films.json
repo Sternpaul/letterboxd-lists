@@ -24,6 +24,14 @@
     "imdb_id": "tt0102993"
   },
   {
+    "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+    "release_year": "2026",
+    "clean_title": "/film/castration-movie-chapter-iii-junior-ghosts/",
+    "adult": false,
+    "id": 1636410,
+    "imdb_id": "tt40123429"
+  },
+  {
     "title": "Nirvanna the Band the Show the Movie",
     "release_year": "2025",
     "clean_title": "/film/nirvanna-the-band-the-show-the-movie/",
@@ -62,6 +70,22 @@
     "adult": false,
     "id": 18381,
     "imdb_id": "tt1163752"
+  },
+  {
+    "title": "Castration Movie Anthology i. Traps",
+    "release_year": "2024",
+    "clean_title": "/film/castration-movie-anthology-i-traps/",
+    "adult": false,
+    "id": 1243479,
+    "imdb_id": "tt35022825"
+  },
+  {
+    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
+    "release_year": "2025",
+    "clean_title": "/film/castration-movie-anthology-ii-the-best-of/",
+    "adult": false,
+    "id": 1491336,
+    "imdb_id": "tt36158276"
   },
   {
     "title": "Out of the Blue",
@@ -184,20 +208,20 @@
     "imdb_id": "tt0071222"
   },
   {
-    "title": "Good Riddance",
-    "release_year": "1980",
-    "clean_title": "/film/good-riddance/",
-    "adult": false,
-    "id": 100984,
-    "imdb_id": "tt0078894"
-  },
-  {
     "title": "Universal Language",
     "release_year": "2024",
     "clean_title": "/film/universal-language/",
     "adult": false,
     "id": 988397,
     "imdb_id": "tt31691389"
+  },
+  {
+    "title": "Good Riddance",
+    "release_year": "1980",
+    "clean_title": "/film/good-riddance/",
+    "adult": false,
+    "id": 100984,
+    "imdb_id": "tt0078894"
   },
   {
     "title": "Orders",
@@ -208,20 +232,20 @@
     "imdb_id": "tt0071949"
   },
   {
-    "title": "Thirty Two Short Films About Glenn Gould",
-    "release_year": "1993",
-    "clean_title": "/film/thirty-two-short-films-about-glenn-gould/",
-    "adult": false,
-    "id": 20967,
-    "imdb_id": "tt0108328"
-  },
-  {
     "title": "Sympathy for the Devil",
     "release_year": "2019",
     "clean_title": "/film/sympathy-for-the-devil-2019/",
     "adult": false,
     "id": 636835,
     "imdb_id": "tt7710486"
+  },
+  {
+    "title": "Thirty Two Short Films About Glenn Gould",
+    "release_year": "1993",
+    "clean_title": "/film/thirty-two-short-films-about-glenn-gould/",
+    "adult": false,
+    "id": 20967,
+    "imdb_id": "tt0108328"
   },
   {
     "title": "The Body Remembers When the World Broke Open",
@@ -248,20 +272,20 @@
     "imdb_id": "tt0078269"
   },
   {
-    "title": "Crime Wave",
-    "release_year": "1985",
-    "clean_title": "/film/crime-wave-1985/",
-    "adult": false,
-    "id": 27294,
-    "imdb_id": "tt0088963"
-  },
-  {
     "title": "Clearcut",
     "release_year": "1991",
     "clean_title": "/film/clearcut/",
     "adult": false,
     "id": 116494,
     "imdb_id": "tt0101592"
+  },
+  {
+    "title": "Crime Wave",
+    "release_year": "1985",
+    "clean_title": "/film/crime-wave-1985/",
+    "adult": false,
+    "id": 27294,
+    "imdb_id": "tt0088963"
   },
   {
     "title": "Monsieur Lazhar",
@@ -320,20 +344,20 @@
     "imdb_id": "tt1550312"
   },
   {
-    "title": "Maudie",
-    "release_year": "2016",
-    "clean_title": "/film/maudie/",
-    "adult": false,
-    "id": 359784,
-    "imdb_id": "tt3721954"
-  },
-  {
     "title": "The Dirties",
     "release_year": "2013",
     "clean_title": "/film/the-dirties/",
     "adult": false,
     "id": 159770,
     "imdb_id": "tt2334896"
+  },
+  {
+    "title": "Maudie",
+    "release_year": "2016",
+    "clean_title": "/film/maudie/",
+    "adult": false,
+    "id": 359784,
+    "imdb_id": "tt3721954"
   },
   {
     "title": "The Grey Fox",
@@ -360,20 +384,20 @@
     "imdb_id": "tt3066630"
   },
   {
-    "title": "Careful",
-    "release_year": "1992",
-    "clean_title": "/film/careful/",
-    "adult": false,
-    "id": 55613,
-    "imdb_id": "tt0103926"
-  },
-  {
     "title": "Atanarjuat: The Fast Runner",
     "release_year": "2001",
     "clean_title": "/film/atanarjuat-the-fast-runner/",
     "adult": false,
     "id": 13245,
     "imdb_id": "tt0285441"
+  },
+  {
+    "title": "Careful",
+    "release_year": "1992",
+    "clean_title": "/film/careful/",
+    "adult": false,
+    "id": 55613,
+    "imdb_id": "tt0103926"
   },
   {
     "title": "The Twentieth Century",
@@ -424,14 +448,6 @@
     "imdb_id": "tt0101273"
   },
   {
-    "title": "The Barbarian Invasions",
-    "release_year": "2003",
-    "clean_title": "/film/the-barbarian-invasions/",
-    "adult": false,
-    "id": 11042,
-    "imdb_id": "tt0338135"
-  },
-  {
     "title": "Hard Core Logo",
     "release_year": "1996",
     "clean_title": "/film/hard-core-logo/",
@@ -440,20 +456,28 @@
     "imdb_id": "tt0116488"
   },
   {
-    "title": "Jesus of Montreal",
-    "release_year": "1989",
-    "clean_title": "/film/jesus-of-montreal/",
-    "adult": false,
-    "id": 4486,
-    "imdb_id": "tt0097635"
-  },
-  {
     "title": "The Dog Who Stopped the War",
     "release_year": "1984",
     "clean_title": "/film/the-dog-who-stopped-the-war/",
     "adult": false,
     "id": 37168,
     "imdb_id": "tt0087373"
+  },
+  {
+    "title": "The Barbarian Invasions",
+    "release_year": "2003",
+    "clean_title": "/film/the-barbarian-invasions/",
+    "adult": false,
+    "id": 11042,
+    "imdb_id": "tt0338135"
+  },
+  {
+    "title": "Jesus of Montreal",
+    "release_year": "1989",
+    "clean_title": "/film/jesus-of-montreal/",
+    "adult": false,
+    "id": 4486,
+    "imdb_id": "tt0097635"
   },
   {
     "title": "Ginger Snaps",
@@ -488,20 +512,28 @@
     "imdb_id": "tt0217880"
   },
   {
-    "title": "You're Sleeping, Nicole",
-    "release_year": "2014",
-    "clean_title": "/film/youre-sleeping-nicole/",
-    "adult": false,
-    "id": 270886,
-    "imdb_id": "tt3483194"
-  },
-  {
     "title": "Calendar",
     "release_year": "1993",
     "clean_title": "/film/calendar/",
     "adult": false,
     "id": 83599,
     "imdb_id": "tt0106504"
+  },
+  {
+    "title": "A Scream from Silence",
+    "release_year": "1979",
+    "clean_title": "/film/a-scream-from-silence/",
+    "adult": false,
+    "id": 191299,
+    "imdb_id": "tt0079581"
+  },
+  {
+    "title": "You're Sleeping, Nicole",
+    "release_year": "2014",
+    "clean_title": "/film/youre-sleeping-nicole/",
+    "adult": false,
+    "id": 270886,
+    "imdb_id": "tt3483194"
   },
   {
     "title": "War Witch",
@@ -520,14 +552,6 @@
     "imdb_id": "tt0098368"
   },
   {
-    "title": "A Scream from Silence",
-    "release_year": "1979",
-    "clean_title": "/film/a-scream-from-silence/",
-    "adult": false,
-    "id": 191299,
-    "imdb_id": "tt0079581"
-  },
-  {
     "title": "Outrageous!",
     "release_year": "1977",
     "clean_title": "/film/outrageous/",
@@ -544,20 +568,20 @@
     "imdb_id": "tt0156729"
   },
   {
-    "title": "Crash",
-    "release_year": "1996",
-    "clean_title": "/film/crash/",
-    "adult": false,
-    "id": 884,
-    "imdb_id": "tt0115964"
-  },
-  {
     "title": "One Day in the Life of Noah Piugattuk",
     "release_year": "2019",
     "clean_title": "/film/one-day-in-the-life-of-noah-piugattuk/",
     "adult": false,
     "id": 601199,
     "imdb_id": "tt10758534"
+  },
+  {
+    "title": "Crash",
+    "release_year": "1996",
+    "clean_title": "/film/crash/",
+    "adult": false,
+    "id": 884,
+    "imdb_id": "tt0115964"
   },
   {
     "title": "Beans",
@@ -584,12 +608,12 @@
     "imdb_id": "tt0078908"
   },
   {
-    "title": "The Merry World of Leopold Z",
-    "release_year": "1965",
-    "clean_title": "/film/the-merry-world-of-leopold-z/",
+    "title": "Closet Monster",
+    "release_year": "2015",
+    "clean_title": "/film/closet-monster/",
     "adult": false,
-    "id": 264218,
-    "imdb_id": "tt0059873"
+    "id": 353728,
+    "imdb_id": "tt3638396"
   },
   {
     "title": "Gina",
@@ -600,12 +624,12 @@
     "imdb_id": "tt0071552"
   },
   {
-    "title": "Closet Monster",
-    "release_year": "2015",
-    "clean_title": "/film/closet-monster/",
+    "title": "The Merry World of Leopold Z",
+    "release_year": "1965",
+    "clean_title": "/film/the-merry-world-of-leopold-z/",
     "adult": false,
-    "id": 353728,
-    "imdb_id": "tt3638396"
+    "id": 264218,
+    "imdb_id": "tt0059873"
   },
   {
     "title": "The Changeling",
@@ -632,6 +656,14 @@
     "imdb_id": "tt0073762"
   },
   {
+    "title": "It's Only the End of the World",
+    "release_year": "2016",
+    "clean_title": "/film/its-only-the-end-of-the-world/",
+    "adult": false,
+    "id": 338189,
+    "imdb_id": "tt4645368"
+  },
+  {
     "title": "Tom at the Farm",
     "release_year": "2013",
     "clean_title": "/film/tom-at-the-farm/",
@@ -640,12 +672,12 @@
     "imdb_id": "tt2427892"
   },
   {
-    "title": "New Waterford Girl",
-    "release_year": "1999",
-    "clean_title": "/film/new-waterford-girl/",
+    "title": "Rhymes for Young Ghouls",
+    "release_year": "2013",
+    "clean_title": "/film/rhymes-for-young-ghouls/",
     "adult": false,
-    "id": 35612,
-    "imdb_id": "tt0213121"
+    "id": 212748,
+    "imdb_id": "tt2385195"
   },
   {
     "title": "Nobody Waved Goodbye",
@@ -656,20 +688,12 @@
     "imdb_id": "tt0059515"
   },
   {
-    "title": "It's Only the End of the World",
-    "release_year": "2016",
-    "clean_title": "/film/its-only-the-end-of-the-world/",
+    "title": "New Waterford Girl",
+    "release_year": "1999",
+    "clean_title": "/film/new-waterford-girl/",
     "adult": false,
-    "id": 338189,
-    "imdb_id": "tt4645368"
-  },
-  {
-    "title": "The True Nature of Bernadette",
-    "release_year": "1972",
-    "clean_title": "/film/the-true-nature-of-bernadette/",
-    "adult": false,
-    "id": 171216,
-    "imdb_id": "tt0069477"
+    "id": 35612,
+    "imdb_id": "tt0213121"
   },
   {
     "title": "Heartbeats",
@@ -678,6 +702,14 @@
     "adult": false,
     "id": 51241,
     "imdb_id": "tt1600524"
+  },
+  {
+    "title": "The True Nature of Bernadette",
+    "release_year": "1972",
+    "clean_title": "/film/the-true-nature-of-bernadette/",
+    "adult": false,
+    "id": 171216,
+    "imdb_id": "tt0069477"
   },
   {
     "title": "Next of Kin",
@@ -696,22 +728,6 @@
     "imdb_id": "tt0074702"
   },
   {
-    "title": "Winter Kept Us Warm",
-    "release_year": "1965",
-    "clean_title": "/film/winter-kept-us-warm/",
-    "adult": false,
-    "id": 169796,
-    "imdb_id": "tt0232954"
-  },
-  {
-    "title": "Enemy",
-    "release_year": "2013",
-    "clean_title": "/film/enemy/",
-    "adult": false,
-    "id": 181886,
-    "imdb_id": "tt2316411"
-  },
-  {
     "title": "Highway 61",
     "release_year": "1991",
     "clean_title": "/film/highway-61/",
@@ -720,12 +736,28 @@
     "imdb_id": "tt0102035"
   },
   {
+    "title": "Winter Kept Us Warm",
+    "release_year": "1965",
+    "clean_title": "/film/winter-kept-us-warm/",
+    "adult": false,
+    "id": 169796,
+    "imdb_id": "tt0232954"
+  },
+  {
     "title": "A Christmas Story",
     "release_year": "1983",
     "clean_title": "/film/a-christmas-story-1983/",
     "adult": false,
     "id": 850,
     "imdb_id": "tt0085334"
+  },
+  {
+    "title": "Enemy",
+    "release_year": "2013",
+    "clean_title": "/film/enemy/",
+    "adult": false,
+    "id": 181886,
+    "imdb_id": "tt2316411"
   },
   {
     "title": "Take It All",
@@ -766,37 +798,5 @@
     "adult": false,
     "id": 41277,
     "imdb_id": "tt0366532"
-  },
-  {
-    "title": "Dead of Night",
-    "release_year": "1974",
-    "clean_title": "/film/dead-of-night-1974/",
-    "adult": false,
-    "id": 38996,
-    "imdb_id": "tt0068457"
-  },
-  {
-    "title": "Family Viewing",
-    "release_year": "1987",
-    "clean_title": "/film/family-viewing/",
-    "adult": false,
-    "id": 26964,
-    "imdb_id": "tt0093006"
-  },
-  {
-    "title": "The Little Girl Who Lives Down the Lane",
-    "release_year": "1976",
-    "clean_title": "/film/the-little-girl-who-lives-down-the-lane/",
-    "adult": false,
-    "id": 19971,
-    "imdb_id": "tt0074806"
-  },
-  {
-    "title": "The Decline of the American Empire",
-    "release_year": "1986",
-    "clean_title": "/film/the-decline-of-the-american-empire/",
-    "adult": false,
-    "id": 18499,
-    "imdb_id": "tt0090985"
   }
 ]
