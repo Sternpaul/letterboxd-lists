@@ -1,5 +1,53 @@
 [
   {
+    "title": "La Bola Negra",
+    "release_year": "2026",
+    "clean_title": "/film/la-bola-negra/",
+    "adult": false,
+    "id": 1422041,
+    "imdb_id": "tt35511966"
+  },
+  {
+    "title": "Godzilla Minus One",
+    "release_year": "2023",
+    "clean_title": "/film/godzilla-minus-one/",
+    "adult": false,
+    "id": 940721,
+    "imdb_id": "tt23289160"
+  },
+  {
+    "title": "Godzilla Minus Zero",
+    "release_year": "2026",
+    "clean_title": "/film/godzilla-minus-zero/",
+    "adult": false,
+    "id": 1381071,
+    "imdb_id": "tt34384661"
+  },
+  {
+    "title": "Wild Horse Nine",
+    "release_year": "2026",
+    "clean_title": "/film/wild-horse-nine/",
+    "adult": false,
+    "id": 891621,
+    "imdb_id": "tt15799564"
+  },
+  {
+    "title": "Wildwood",
+    "release_year": "2026",
+    "clean_title": "/film/wildwood-2026/",
+    "adult": false,
+    "id": 791523,
+    "imdb_id": "tt2056785"
+  },
+  {
+    "title": "Living in Bondage",
+    "release_year": "1992",
+    "clean_title": "/film/living-in-bondage/",
+    "adult": false,
+    "id": 365021,
+    "imdb_id": "tt0489511"
+  },
+  {
     "title": "Biutiful",
     "release_year": "2010",
     "clean_title": "/film/biutiful/",
