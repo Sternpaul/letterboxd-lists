@@ -1,5 +1,45 @@
 [
   {
+    "title": "The General Case",
+    "release_year": "2016",
+    "clean_title": "/film/the-general-case/",
+    "adult": false,
+    "id": 384485,
+    "imdb_id": "tt5431754"
+  },
+  {
+    "title": "Moritz, Dear Moritz",
+    "release_year": "1978",
+    "clean_title": "/film/moritz-dear-moritz/",
+    "adult": false,
+    "id": 155136,
+    "imdb_id": "tt0077947"
+  },
+  {
+    "title": "Gold",
+    "release_year": "2013",
+    "clean_title": "/film/gold-2013/",
+    "adult": false,
+    "id": 159344,
+    "imdb_id": "tt2338846"
+  },
+  {
+    "title": "Goodbye Berlin",
+    "release_year": "2016",
+    "clean_title": "/film/goodbye-berlin/",
+    "adult": false,
+    "id": 384664,
+    "imdb_id": "tt4911940"
+  },
+  {
+    "title": "North Sea Is Death Sea",
+    "release_year": "1976",
+    "clean_title": "/film/north-sea-is-death-sea-1976/",
+    "adult": false,
+    "id": 36137,
+    "imdb_id": "tt0073465"
+  },
+  {
     "title": "La Bola Negra",
     "release_year": "2026",
     "clean_title": "/film/la-bola-negra/",
