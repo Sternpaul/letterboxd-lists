@@ -1,5 +1,189 @@
 [
   {
+    "title": "In the Company of Men",
+    "release_year": "1997",
+    "clean_title": "/film/in-the-company-of-men/",
+    "adult": false,
+    "id": 14585,
+    "imdb_id": "tt0119361"
+  },
+  {
+    "title": "The Graduate",
+    "release_year": "1967",
+    "clean_title": "/film/the-graduate/",
+    "adult": false,
+    "id": 37247,
+    "imdb_id": "tt0061722"
+  },
+  {
+    "title": "Gummo",
+    "release_year": "1997",
+    "clean_title": "/film/gummo/",
+    "adult": false,
+    "id": 18415,
+    "imdb_id": "tt0119237"
+  },
+  {
+    "title": "SubUrbia",
+    "release_year": "1996",
+    "clean_title": "/film/suburbia-1996/",
+    "adult": false,
+    "id": 28059,
+    "imdb_id": "tt0120238"
+  },
+  {
+    "title": "Spring Breakers",
+    "release_year": "2012",
+    "clean_title": "/film/spring-breakers/",
+    "adult": false,
+    "id": 122081,
+    "imdb_id": "tt2101441"
+  },
+  {
+    "title": "Boyhood",
+    "release_year": "2014",
+    "clean_title": "/film/boyhood/",
+    "adult": false,
+    "id": 85350,
+    "imdb_id": "tt1065073"
+  },
+  {
+    "title": "Rap World",
+    "release_year": "2024",
+    "clean_title": "/film/rap-world/",
+    "adult": false,
+    "id": 1255834,
+    "imdb_id": "tt33478963"
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "release_year": "1982",
+    "clean_title": "/film/koyaanisqatsi/",
+    "adult": false,
+    "id": 11314,
+    "imdb_id": "tt0085809"
+  },
+  {
+    "title": "Killing Them Softly",
+    "release_year": "2012",
+    "clean_title": "/film/killing-them-softly/",
+    "adult": false,
+    "id": 64689,
+    "imdb_id": "tt1764234"
+  },
+  {
+    "title": "Megalopolis",
+    "release_year": "2024",
+    "clean_title": "/film/megalopolis-2024/",
+    "adult": false,
+    "id": 592831,
+    "imdb_id": "tt10128846"
+  },
+  {
+    "title": "Field of Dreams",
+    "release_year": "1989",
+    "clean_title": "/film/field-of-dreams/",
+    "adult": false,
+    "id": 2323,
+    "imdb_id": "tt0097351"
+  },
+  {
+    "title": "Network",
+    "release_year": "1976",
+    "clean_title": "/film/network/",
+    "adult": false,
+    "id": 10774,
+    "imdb_id": "tt0074958"
+  },
+  {
+    "title": "True Romance",
+    "release_year": "1993",
+    "clean_title": "/film/true-romance/",
+    "adult": false,
+    "id": 319,
+    "imdb_id": "tt0108399"
+  },
+  {
+    "title": "Repo Man",
+    "release_year": "1984",
+    "clean_title": "/film/repo-man/",
+    "adult": false,
+    "id": 13820,
+    "imdb_id": "tt0087995"
+  },
+  {
+    "title": "Burn After Reading",
+    "release_year": "2008",
+    "clean_title": "/film/burn-after-reading/",
+    "adult": false,
+    "id": 4944,
+    "imdb_id": "tt0887883"
+  },
+  {
+    "title": "Dazed and Confused",
+    "release_year": "1993",
+    "clean_title": "/film/dazed-and-confused/",
+    "adult": false,
+    "id": 9571,
+    "imdb_id": "tt0106677"
+  },
+  {
+    "title": "Chinatown",
+    "release_year": "1974",
+    "clean_title": "/film/chinatown/",
+    "adult": false,
+    "id": 829,
+    "imdb_id": "tt0071315"
+  },
+  {
+    "title": "Pain & Gain",
+    "release_year": "2013",
+    "clean_title": "/film/pain-gain/",
+    "adult": false,
+    "id": 134374,
+    "imdb_id": "tt1980209"
+  },
+  {
+    "title": "A Little Princess",
+    "release_year": "1995",
+    "clean_title": "/film/a-little-princess-1995/",
+    "adult": false,
+    "id": 19101,
+    "imdb_id": "tt0113670"
+  },
+  {
+    "title": "Roma",
+    "release_year": "2018",
+    "clean_title": "/film/roma-2018/",
+    "adult": false,
+    "id": 426426,
+    "imdb_id": "tt6155172"
+  },
+  {
+    "title": "Gravity",
+    "release_year": "2013",
+    "clean_title": "/film/gravity-2013/",
+    "adult": false,
+    "id": 49047,
+    "imdb_id": "tt1454468"
+  },
+  {
+    "title": "Y Tu Mamá También",
+    "release_year": "2001",
+    "clean_title": "/film/y-tu-mama-tambien/",
+    "adult": false,
+    "id": 1391,
+    "imdb_id": "tt0245574"
+  },
+  {
+    "title": "Children of Men",
+    "release_year": "2006",
+    "clean_title": "/film/children-of-men/",
+    "adult": false,
+    "id": 9693,
+    "imdb_id": "tt0206634"
+  },
+  {
     "title": "The General Case",
     "release_year": "2016",
     "clean_title": "/film/the-general-case/",
@@ -1543,14 +1727,6 @@
     "imdb_id": "tt0082971"
   },
   {
-    "title": "Megalopolis",
-    "release_year": "2024",
-    "clean_title": "/film/megalopolis-2024/",
-    "adult": false,
-    "id": 592831,
-    "imdb_id": "tt10128846"
-  },
-  {
     "title": "Bram Stoker's Dracula",
     "release_year": "1992",
     "clean_title": "/film/bram-stokers-dracula/",
@@ -2205,14 +2381,6 @@
     "adult": false,
     "id": 712454,
     "imdb_id": "tt7014378"
-  },
-  {
-    "title": "Y Tu Mamá También",
-    "release_year": "2001",
-    "clean_title": "/film/y-tu-mama-tambien/",
-    "adult": false,
-    "id": 1391,
-    "imdb_id": "tt0245574"
   },
   {
     "title": "The Passion of Joan of Arc",
@@ -4319,14 +4487,6 @@
     "imdb_id": "tt0088846"
   },
   {
-    "title": "Children of Men",
-    "release_year": "2006",
-    "clean_title": "/film/children-of-men/",
-    "adult": false,
-    "id": 9693,
-    "imdb_id": "tt0206634"
-  },
-  {
     "title": "Ip Man",
     "release_year": "2008",
     "clean_title": "/film/ip-man/",
@@ -5197,14 +5357,6 @@
     "adult": false,
     "id": 787699,
     "imdb_id": "tt6166392"
-  },
-  {
-    "title": "Gravity",
-    "release_year": "2013",
-    "clean_title": "/film/gravity-2013/",
-    "adult": false,
-    "id": 49047,
-    "imdb_id": "tt1454468"
   },
   {
     "title": "Kung Fu Panda",
