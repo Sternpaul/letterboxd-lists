@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amadeus",
+    "release_year": "1984",
+    "clean_title": "/film/amadeus/",
+    "adult": false,
+    "id": 279,
+    "imdb_id": "tt0086879"
+  },
+  {
     "title": "It's a Wonderful Life",
     "release_year": "1946",
     "clean_title": "/film/its-a-wonderful-life/",
@@ -792,14 +800,6 @@
     "imdb_id": "tt0070379"
   },
   {
-    "title": "Silence",
-    "release_year": "2016",
-    "clean_title": "/film/silence/",
-    "adult": false,
-    "id": 68730,
-    "imdb_id": "tt0490215"
-  },
-  {
     "title": "Cape Fear",
     "release_year": "1991",
     "clean_title": "/film/cape-fear-1991/",
@@ -1246,14 +1246,6 @@
     "adult": false,
     "id": 0,
     "imdb_id": "tt13623608"
-  },
-  {
-    "title": "You Can See Everything",
-    "release_year": "2026",
-    "clean_title": "/film/you-can-see-everything/",
-    "adult": false,
-    "id": 1765072,
-    "imdb_id": "tt45368240"
   },
   {
     "title": "Insidious: Out of the Further",
@@ -3917,14 +3909,6 @@
     "adult": false,
     "id": 648878,
     "imdb_id": "tt31176520"
-  },
-  {
-    "title": "Amadeus",
-    "release_year": "1984",
-    "clean_title": "/film/amadeus/",
-    "adult": false,
-    "id": 279,
-    "imdb_id": "tt0086879"
   },
   {
     "title": "Uncle Boonmee Who Can Recall His Past Lives",

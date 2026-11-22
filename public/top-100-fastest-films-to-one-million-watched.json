@@ -208,6 +208,14 @@
     "imdb_id": "tt12299608"
   },
   {
+    "title": "You Can See Everything",
+    "release_year": "2026",
+    "clean_title": "/film/you-can-see-everything/",
+    "adult": false,
+    "id": 1765072,
+    "imdb_id": "tt45368240"
+  },
+  {
     "title": "Inside Out 2",
     "release_year": "2024",
     "clean_title": "/film/inside-out-2-2024/",
@@ -790,13 +798,5 @@
     "adult": false,
     "id": 840430,
     "imdb_id": "tt14849194"
-  },
-  {
-    "title": "Puss in Boots: The Last Wish",
-    "release_year": "2022",
-    "clean_title": "/film/puss-in-boots-the-last-wish/",
-    "adult": false,
-    "id": 315162,
-    "imdb_id": "tt3915174"
   }
 ]
