@@ -1,5 +1,13 @@
 [
   {
+    "title": "Lawrence of Arabia",
+    "release_year": "1962",
+    "clean_title": "/film/lawrence-of-arabia/",
+    "adult": false,
+    "id": 947,
+    "imdb_id": "tt0056172"
+  },
+  {
     "title": "Amadeus",
     "release_year": "1984",
     "clean_title": "/film/amadeus/",
@@ -4605,14 +4613,6 @@
     "adult": false,
     "id": 149,
     "imdb_id": "tt0094625"
-  },
-  {
-    "title": "Lawrence of Arabia",
-    "release_year": "1962",
-    "clean_title": "/film/lawrence-of-arabia/",
-    "adult": false,
-    "id": 947,
-    "imdb_id": "tt0056172"
   },
   {
     "title": "The King's Speech",
